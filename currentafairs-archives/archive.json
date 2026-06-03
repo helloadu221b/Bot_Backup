@@ -181,5 +181,271 @@
     "content": "📈 *ECONOMY | India’s GDP Growth Projected at 7%*\n\n🔹 IMF projected India’s GDP growth at 7% for FY 2026\n🔹 India remains fastest-growing major economy\n\n📌 *Static GK:* IMF HQ → Washington D.C.\n\n#GDP #Economy",
     "id": "NEWS_2",
     "revision_count": 5
+  },
+  {
+    "question": "Brajesh Kumar Singh was recently appointed as MD and CEO of Canara Bank. Which bank was he serving as Executive Director before this appointment, and what is his tenure end date?",
+    "options": [
+      "A) Bank of Baroda — 30 June 2028",
+      "B) Indian Bank — 30 April 2029",
+      "C) Punjab National Bank — 31 March 2028",
+      "D) Union Bank of India — 30 April 2028"
+    ],
+    "answer": "B) Indian Bank — 30 April 2029",
+    "explanation": "Brajesh Kumar Singh was Executive Director of Indian Bank before being appointed MD & CEO of Canara Bank (HQ: Bengaluru). Tenure: till 30 April 2029 (superannuation). He succeeds K. Satyanarayana Raju. Bank of Baroda, PNB, Union Bank are distractors from the PSB space. #02June2026",
+    "type": "mcq",
+    "id": "POST_21",
+    "revision_count": 0
+  },
+  {
+    "question": "Vice Admiral Vineet McCarty assumed charge as the 20th Commander-in-Chief of the Andaman and Nicobar Command (ANC). Which of the following statements about ANC is INCORRECT?",
+    "options": [
+      "A) ANC was established in 2001",
+      "B) Its headquarters is at Sri Vijaya Puram",
+      "C) It is India's first and only Integrated Theatre Command",
+      "D) It operates under the exclusive command of the Indian Navy"
+    ],
+    "answer": "D) It operates under the exclusive command of the Indian Navy",
+    "explanation": "ANC is NOT exclusively under the Navy — it is an Integrated Theatre Command where Army, Navy, and Air Force work under ONE commander for a geographical/operational objective. Established 2001, HQ: Sri Vijaya Puram. Vineet McCarty succeeded Vice Admiral Ajay Kochhar (became Vice Chief of Naval Staff). #02June2026",
+    "type": "mcq",
+    "id": "POST_22",
+    "revision_count": 0
+  },
+  {
+    "question": "Defence Secretary Rajesh Kumar Singh was given additional charge of DRDO Chairman. Why was this additional charge necessitated?",
+    "options": [
+      "A) The previous Chairman resigned citing personal reasons",
+      "B) The extended tenure of incumbent DRDO Chairman Samir V Kamat ended",
+      "C) The post was vacant due to the elevation of previous Chairman to Cabinet rank",
+      "D) DRDO was merged with the Ministry of Defence under a restructuring order"
+    ],
+    "answer": "B) The extended tenure of incumbent DRDO Chairman Samir V Kamat ended",
+    "explanation": "The additional charge was given because the extended tenure of incumbent DRDO Chairman Samir V Kamat ended. DRDO (est. 1958, HQ: New Delhi) functions under Ministry of Defence. Resignation, Cabinet elevation, and restructuring are fabricated distractors. #02June2026",
+    "type": "mcq",
+    "id": "POST_23",
+    "revision_count": 0
+  },
+  {
+    "question": "India's IIP grew 4.9% in April 2026. What makes this data release uniquely significant compared to previous months?",
+    "options": [
+      "A) It is the first IIP data released under base year 2004-05",
+      "B) It is the first IIP data released under base year 2011-12",
+      "C) It is the first IIP data released under new base year 2022-23",
+      "D) It is the first IIP data released under base year 2017-18"
+    ],
+    "answer": "C) It is the first IIP data released under new base year 2022-23",
+    "explanation": "April 2026 IIP (4.9% growth) is the first data released under the new base year 2022-23, replacing the old 2011-12 series. Released by MoSPI. The new series expanded the item basket to 463 items. Base years 2004-05, 2011-12, and 2017-18 are distractors referencing older or non-existent revisions. #02June2026",
+    "type": "mcq",
+    "id": "POST_24",
+    "revision_count": 0
+  },
+  {
+    "question": "GST collection for May 2026 was ₹1.94 lakh crore. Which month recorded the all-time high GST collection and what was that figure?",
+    "options": [
+      "A) March 2026 — ₹1.78 lakh crore",
+      "B) January 2026 — ₹1.93 lakh crore",
+      "C) April 2026 — ₹2.43 lakh crore",
+      "D) February 2026 — ₹1.83 lakh crore"
+    ],
+    "answer": "C) April 2026 — ₹2.43 lakh crore",
+    "explanation": "April 2026 recorded the all-time high GST collection of ₹2.43 lakh crore (8.7% YoY growth). May 2026 was ₹1.94 lakh crore (3.2% YoY). Chart data: Jan ₹1.93L, Feb ₹1.83L, Mar ₹1.78L, Apr ₹2.43L, May ₹1.94L (est). All other months are distractors using actual chart values. #02June2026",
+    "type": "mcq",
+    "id": "POST_25",
+    "revision_count": 0
+  },
+  {
+    "question": "UPI hit a record high in May 2026 with 23.2 billion transactions. NPCI, which oversees UPI, is a joint initiative of which two bodies?",
+    "options": [
+      "A) SEBI and Ministry of Finance",
+      "B) RBI and Indian Banks' Association (IBA)",
+      "C) RBI and NITI Aayog",
+      "D) Ministry of Finance and DPIIT"
+    ],
+    "answer": "B) RBI and Indian Banks' Association (IBA)",
+    "explanation": "NPCI (National Payments Corporation of India) is a joint initiative of RBI and the Indian Banks' Association (IBA). It is an umbrella body for retail payment & settlement systems. UPI processed 23.2 billion transactions worth ₹29.90 lakh crore in May 2026 — a record high. SEBI, NITI Aayog, DPIIT have no role in NPCI's establishment. #02June2026",
+    "type": "mcq",
+    "id": "POST_26",
+    "revision_count": 0
+  },
+  {
+    "question": "IRDAI imposed a ₹1 crore penalty on Nissan Renault Financial Services India. What is the classification of this entity and why was it penalised?",
+    "options": [
+      "A) Insurance Broker — for mis-selling life insurance policies",
+      "B) Corporate Agent — for violations of motor insurance regulations",
+      "C) Third-Party Administrator — for delay in claim settlement",
+      "D) Reinsurance Company — for capital adequacy violations"
+    ],
+    "answer": "B) Corporate Agent — for violations of motor insurance regulations",
+    "explanation": "Nissan Renault Financial Services India is a Corporate Agent — an entity licensed by IRDAI to sell insurance products on behalf of insurers. Penalised ₹1 crore for violating motor insurance regulations. IRDAI est. 1999, HQ: Hyderabad. Broker, TPA, and Reinsurer are separate IRDAI-regulated categories. #02June2026",
+    "type": "mcq",
+    "id": "POST_27",
+    "revision_count": 0
+  },
+  {
+    "question": "Mahindra Manulife Insurance Ltd (MMIL) was recently incorporated. Which foreign entity is the joint venture partner of Mahindra Group in MMIL?",
+    "options": [
+      "A) Prudential Financial — USA",
+      "B) Allianz SE — Germany",
+      "C) Manulife Financial Corporation — Canada",
+      "D) Sun Life Financial — Canada"
+    ],
+    "answer": "C) Manulife Financial Corporation — Canada",
+    "explanation": "MMIL is a JV between Mahindra Group (India) and Manulife Financial Corporation (Canada). Certificate of Incorporation was granted by MCA. Sun Life is also Canadian — a deliberate distractor. Prudential (USA) and Allianz (Germany) are other global insurance giants unrelated to this JV. #02June2026",
+    "type": "mcq",
+    "id": "POST_28",
+    "revision_count": 0
+  },
+  {
+    "question": "Malaysia enforced regulations barring under-16s from social media on 1 June 2026. Which country was the FIRST to enforce a nationwide social media ban for children under 16?",
+    "options": [
+      "A) United Kingdom",
+      "B) France",
+      "C) Australia",
+      "D) Norway"
+    ],
+    "answer": "C) Australia",
+    "explanation": "Australia was the first country to actually enforce a nationwide social media ban for children under 16 — not Malaysia. Malaysia followed by enforcing similar rules from 1 June 2026. UK, France, and Norway have discussed similar measures but were not the first to enforce. This is a classic 'first vs. recent' exam trap. #02June2026",
+    "type": "mcq",
+    "id": "POST_29",
+    "revision_count": 0
+  },
+  {
+    "question": "India-Oman CEPA was operationalised on 1 June 2026. What percentage of India's exports by value has Oman granted duty-free access to, and what share of Oman's tariff lines does the concession cover?",
+    "options": [
+      "A) 95.50% of India's exports — 90.00% of Oman's tariff lines",
+      "B) 99.38% of India's exports — 98.08% of Oman's tariff lines",
+      "C) 97.20% of India's exports — 95.60% of Oman's tariff lines",
+      "D) 100% of India's exports — 99.00% of Oman's tariff lines"
+    ],
+    "answer": "B) 99.38% of India's exports — 98.08% of Oman's tariff lines",
+    "explanation": "Under India-Oman CEPA (operationalised 1 June 2026), Oman granted duty-free access to 99.38% of India's exports by value, covering 98.08% of Oman's tariff lines. CEPA = Comprehensive Economic Partnership Agreement. The other percentage combinations are fabricated distractors designed to test precision recall. #02June2026",
+    "type": "mcq",
+    "id": "POST_30",
+    "revision_count": 0
+  },
+  {
+    "question": "BHASHINI signed an agreement with DPIIT. DPIIT functions under which ministry, and what is the primary objective of this collaboration?",
+    "options": [
+      "A) Ministry of Electronics and IT — to develop AI chips for India",
+      "B) Ministry of Commerce and Industry — to strengthen multilingual digital capabilities across industry and trade",
+      "C) Ministry of Science and Technology — to launch a multilingual search engine",
+      "D) Ministry of Education — to digitise school textbooks in regional languages"
+    ],
+    "answer": "B) Ministry of Commerce and Industry — to strengthen multilingual digital capabilities across industry and trade",
+    "explanation": "DPIIT (Dept. for Promotion of Industry and Internal Trade) functions under Ministry of Commerce and Industry. The BHASHINI-DPIIT agreement aims to strengthen multilingual digital capabilities across India's industry and trade ecosystem via BHASHINI Platform. MeitY, not DPIIT, is under Electronics & IT. #02June2026",
+    "type": "mcq",
+    "id": "POST_31",
+    "revision_count": 0
+  },
+  {
+    "question": "The Ministry of Jal Shakti and ISRO signed an MoU for space-based water management. In the same event, which phase of the Jal Sanchay Jan Bhagidari (JSJB) Campaign was launched and what is the target?",
+    "options": [
+      "A) Phase 1 — 50 lakh water conservation structures by March 2026",
+      "B) Phase 2 — 1 crore water conservation structures by December 2026",
+      "C) Phase 3 — 2 crore water conservation structures between June 2026 and May 2027",
+      "D) Phase 4 — 5 crore water conservation structures by 2030"
+    ],
+    "answer": "C) Phase 3 — 2 crore water conservation structures between June 2026 and May 2027",
+    "explanation": "Union Jal Shakti Minister C.R. Patil launched Phase 3 of JSJB Campaign targeting 2 crore water conservation structures between June 2026 and May 2027. The Bharat WIN Platform was also introduced. The ISRO-Jal Shakti MoU was signed at the National Workshop on R&D in the Water Sector, New Delhi. #02June2026",
+    "type": "mcq",
+    "id": "POST_32",
+    "revision_count": 0
+  },
+  {
+    "question": "The MAHA-Water Mission was jointly launched by ANRF and Jal Shakti Ministry. What does 'MAHA' stand for, and what is the total programme outlay?",
+    "options": [
+      "A) Mission for Advancement in High-Impact Areas — ₹500 crore",
+      "B) Mission for Agricultural Hydrology and Aquifer management — ₹300 crore",
+      "C) Mission for Advancement in High-Impact Areas — ₹200 crore",
+      "D) Mission for Advancement in Hydrology and Agriculture — ₹150 crore"
+    ],
+    "answer": "C) Mission for Advancement in High-Impact Areas — ₹200 crore",
+    "explanation": "MAHA = Mission for Advancement in High-Impact Areas. Total outlay: ₹200 crore. Per-project grant for consortia: up to ₹20 crore. Launched by Dr. Jitendra Singh (MoS Science & Technology). ANRF = Anusandhan National Research Foundation. Other full-form expansions are fabricated distractors. #02June2026",
+    "type": "mcq",
+    "id": "POST_33",
+    "revision_count": 0
+  },
+  {
+    "question": "India finished runner-up at the 22nd Asian Under-20 Athletics Championships 2026. Which Indian athlete set a new senior national record in their event, and what was the record-breaking mark?",
+    "options": [
+      "A) Nitin Gupta — 5000m race walk with a new timing record",
+      "B) Mogali Venkatram — 800m with a new national record timing",
+      "C) Pooja Singh — Women's high jump with 1.93m",
+      "D) Jyothi Yarraji — Women's 100m hurdles with a new national record"
+    ],
+    "answer": "C) Pooja Singh — Women's high jump with 1.93m",
+    "explanation": "Pooja Singh won gold in women's high jump with 1.93m — a new senior national record. Nitin Gupta won men's 5000m race walk (India's first gold). Mogali Venkatram won men's 800m gold. India finished 2nd overall: 10G-5S-4B (19 medals) at Hong Kong. World U-20 Athletics: Eugene, Oregon, USA (5-9 Aug). #02June2026",
+    "type": "mcq",
+    "id": "POST_34",
+    "revision_count": 0
+  },
+  {
+    "question": "India's first DORIS Ground Beacon was established at IIT Kanpur. DORIS was developed by which country and what does the acronym stand for?",
+    "options": [
+      "A) USA — Digital Orbital Radio Interference Satellite System",
+      "B) Russia — Doppler Orbital and Radio-Integrated Satellite",
+      "C) France — Doppler Orbitography and Radio-positioning Integrated by Satellite",
+      "D) Japan — Differential Orbital Radio-positioning Integrated System"
+    ],
+    "answer": "C) France — Doppler Orbitography and Radio-positioning Integrated by Satellite",
+    "explanation": "DORIS = Doppler Orbitography and Radio-positioning Integrated by Satellite. Developed by France. India's first DORIS Ground Beacon was established at IIT Kanpur, making it part of the global DORIS network. It provides centimetre-level accuracy in satellite tracking. USA, Russia, Japan are plausible but incorrect developers. #02June2026",
+    "type": "mcq",
+    "id": "POST_35",
+    "revision_count": 0
+  },
+  {
+    "question": "India issued a Letter of Request (LoR) to France for 114 Rafale fighter jets. Which of the following correctly describes the Rafale aircraft?",
+    "options": [
+      "A) 5th Generation stealth aircraft manufactured by Airbus, France",
+      "B) 4.5 Generation Multi-Role Fighter Aircraft by Dassault Aviation, France",
+      "C) 4th Generation aircraft manufactured by BAE Systems, UK",
+      "D) 5.5 Generation aircraft jointly developed by India and France under MMRCA"
+    ],
+    "answer": "B) 4.5 Generation Multi-Role Fighter Aircraft by Dassault Aviation, France",
+    "explanation": "Rafale is a 4.5 Generation Multi-Role Fighter Aircraft manufactured by Dassault Aviation, France. The LoR covers 114 jets in a G2G deal worth ~₹3.25 lakh crore. India earlier procured 36 Rafales. Airbus (civil aviation) and BAE Systems (British) are common distractors; it is NOT stealth or 5th Gen. #02June2026",
+    "type": "mcq",
+    "id": "POST_36",
+    "revision_count": 0
+  },
+  {
+    "question": "BRO celebrated the 37th Raising Day of Project UDAYAK at Doomdooma, Assam. In which year was Project UDAYAK originally raised and which region does it serve?",
+    "options": [
+      "A) 1985 — Western Ladakh and Siachen Glacier",
+      "B) 1990 — Far-eastern region, strategic roads in eastern Arunachal Pradesh",
+      "C) 1995 — Northern Uttarakhand and Himachal Pradesh",
+      "D) 2001 — Northeast India including Meghalaya and Nagaland"
+    ],
+    "answer": "B) 1990 — Far-eastern region, strategic roads in eastern Arunachal Pradesh",
+    "explanation": "Project UDAYAK was raised on 1 June 1990 as part of BRO's restructuring to focus on the far-eastern region. It handles strategic road and bridge infrastructure in eastern Arunachal Pradesh. 37th Raising Day (2026 - 1990 + 1 = 37). Ladakh, Uttarakhand, and Meghalaya options are fabricated distractors. #02June2026",
+    "type": "mcq",
+    "id": "POST_37",
+    "revision_count": 0
+  },
+  {
+    "question": "World Milk Day is observed on June 1 every year. Which United Nations body established it and in which year was it founded?",
+    "options": [
+      "A) WHO — 1998",
+      "B) UNICEF — 2005",
+      "C) FAO — 2001",
+      "D) WFP — 2000"
+    ],
+    "answer": "C) FAO — 2001",
+    "explanation": "World Milk Day was established by the Food and Agriculture Organization (FAO) of the United Nations in 2001, observed every June 1 to recognise the importance of milk globally. WHO (health), UNICEF (children), WFP (food programme) are all UN bodies — designed as plausible distractors. #02June2026",
+    "type": "mcq",
+    "id": "POST_38",
+    "revision_count": 0
+  },
+  {
+    "question": "Veteran playback singer Suman Kalyanpur recently passed away. Which of the following is one of her most well-known songs?",
+    "options": [
+      "A) Lag Ja Gale",
+      "B) Aajkal Tere Mere Pyaar Ke Charche",
+      "C) Tere Bina Zindagi Se Koi",
+      "D) Piya Tose Naina Laage Re"
+    ],
+    "answer": "B) Aajkal Tere Mere Pyaar Ke Charche",
+    "explanation": "Suman Kalyanpur, renowned veteran playback singer, passed away recently. Her iconic songs include 'Aajkal Tere Mere Pyaar Ke Charche', 'Na Na Karke Pyaar', and 'Tumne Pukara Aur Hum Chale Aaye'. The other options are famous songs by Lata Mangeshkar — a deliberate distractor given Suman Kalyanpur was often compared to Lata ji. #02June2026",
+    "type": "mcq",
+    "id": "POST_39",
+    "revision_count": 0
   }
 ]
