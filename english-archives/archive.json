@@ -33,5 +33,425 @@
     "content": "💧 **Determiners & Uncountable Nouns** 💧\n\n📖 **The Restriction**\nIndefinite determiners like ***'a'***, ***'an'***, or ***'another'*** **CANNOT** be used with uncountable nouns (e.g., water, information, advice). 🚫\n\n💡 **The Rule**\nOnly the definite article ***'the'*** (and thus ***'the other'***) can be used with uncountable nouns to specify them.\n\n🔄 **Quick Comparison** 🔄\n| Noun Type | Indefinite (Any) | Definite (Specific) |\n|---|---|---|\n| **Countable Singular** | Another | The Other |\n| **Uncountable Singular** | *Not Applicable* | The Other |\n\n#Chapter1 #Determiners #UncountableNouns",
     "type": "news",
     "revision_count": 0
+  },
+  {
+    "question": "A student preparing for a competitive exam spends all his time memorising terms like 'primary auxiliaries', 'modals', and 'helping verbs' without understanding how verbs work. According to the teaching approach in this chapter, what is the core problem with this method?",
+    "options": [
+      "A) These terms are incorrect and should not be studied at all.",
+      "B) Competitive exams require understanding of verbs, not mastery of scary terminology.",
+      "C) Modals and auxiliaries are never tested in competitive exams.",
+      "D) Books are always wrong about grammar terminology."
+    ],
+    "answer": "B) Competitive exams require understanding of verbs, not mastery of scary terminology.",
+    "explanation": "The chapter clearly states: 'Competitive exams need understanding, not scary terminology.' The instruction is to forget bookish terms like helping verbs, modals, primary auxiliaries and become a blank slate. Option A is wrong — the chapter does not say these terms are incorrect. Option C is wrong — no such claim is made. Option D is wrong — books are not called wrong, just not the focus for exams.",
+    "type": "mcq",
+    "id": "POST_6",
+    "revision_count": 0
+  },
+  {
+    "question": "Which of the following statements correctly describes the fundamental rule about verbs in an English sentence?",
+    "options": [
+      "A) A sentence can exist without a verb if the subject is clearly stated.",
+      "B) A sentence must have at least one noun and one adjective.",
+      "C) If an English sentence exists, at least one verb must exist in it.",
+      "D) A verb is optional in short sentences of fewer than five words."
+    ],
+    "answer": "C) If an English sentence exists, at least one verb must exist in it.",
+    "explanation": "The chapter states directly: 'If an English sentence exists, then at least one verb must exist in it. Without verb, sentence cannot exist.' Options A and D wrongly suggest a verb can be absent. Option B describes nouns and adjectives which is unrelated to the rule about verbs.",
+    "type": "mcq",
+    "id": "POST_7",
+    "revision_count": 0
+  },
+  {
+    "question": "In the sentence 'I bought a watch', why is 'bought' classified as an Action Verb?",
+    "options": [
+      "A) Because 'watch' is an object that cannot perform any action.",
+      "B) Because the subject performed intentional effort — going to market, paying money, ordering online.",
+      "C) Because the sentence is in the past tense.",
+      "D) Because 'bought' is an irregular verb."
+    ],
+    "answer": "B) Because the subject performed intentional effort — going to market, paying money, ordering online.",
+    "explanation": "The chapter explains: 'Can watch buy itself automatically? No. Subject had to perform effort: go to market, pay money, order online. Meaning: subject performed action.' This intentional effort by the subject is what makes it an Action Verb. Past tense and irregular verb classification are grammatical properties unrelated to the Action/Happening/State categorisation.",
+    "type": "mcq",
+    "id": "POST_8",
+    "revision_count": 0
+  },
+  {
+    "question": "Which of the following best explains why 'fell' in 'He fell from the chair' is classified as a Happening Verb and not an Action Verb?",
+    "options": [
+      "A) Because 'fell' is an intransitive verb.",
+      "B) Because the sentence is in past tense.",
+      "C) Because the subject did not intentionally perform the act of falling — something happened with the subject.",
+      "D) Because the sentence contains a prepositional phrase 'from the chair'."
+    ],
+    "answer": "C) Because the subject did not intentionally perform the act of falling — something happened with the subject.",
+    "explanation": "The chapter asks: 'Did he intentionally perform falling? No. Something happened with subject. Subject did not perform action intentionally.' This lack of intention is the defining feature of a Happening Verb. Being intransitive or having a prepositional phrase does not determine this category. Past tense is irrelevant to the classification.",
+    "type": "mcq",
+    "id": "POST_9",
+    "revision_count": 0
+  },
+  {
+    "question": "In the sentence 'He seems unhappy', what type of verb is 'seems' and why?",
+    "options": [
+      "A) Action Verb — because 'seeming' is something the subject does.",
+      "B) Happening Verb — because unhappiness happened to the subject.",
+      "C) State Verb — because the sentence only tells the condition or state of the subject.",
+      "D) Auxiliary Verb — because 'seems' supports the adjective 'unhappy'."
+    ],
+    "answer": "C) State Verb — because the sentence only tells the condition or state of the subject.",
+    "explanation": "The chapter states: 'Did subject do something? No. Did something happen to subject? No. Sentence only tells: condition, feeling, state.' This makes 'seems' a State Verb. Option A is wrong — no intentional action is performed. Option B is wrong — nothing happened to the subject. Option D introduces auxiliary verb terminology which the chapter explicitly asks to forget.",
+    "type": "mcq",
+    "id": "POST_10",
+    "revision_count": 0
+  },
+  {
+    "question": "A teacher asks students to classify verbs into three brain-friendly categories instead of bookish terminology. Which of the following correctly lists all three categories as described in the chapter?",
+    "options": [
+      "A) Transitive Verbs, Intransitive Verbs, Linking Verbs",
+      "B) Primary Auxiliaries, Modals, Main Verbs",
+      "C) Action Verbs, Happening Verbs, State Verbs",
+      "D) Regular Verbs, Irregular Verbs, Auxiliary Verbs"
+    ],
+    "answer": "C) Action Verbs, Happening Verbs, State Verbs",
+    "explanation": "The chapter explicitly says: 'Forget helping verb terminology. Your brain should mainly see: 1. Action Verbs → subject performs action. 2. Happening Verbs → something happens with subject. 3. State Verbs → sentence tells condition/state.' All other options use bookish or traditional grammar terminology that the chapter instructs to forget.",
+    "type": "mcq",
+    "id": "POST_11",
+    "revision_count": 0
+  },
+  {
+    "question": "In the sentence 'They went to school', what is 'school' and why is it NOT a direct object?",
+    "options": [
+      "A) 'School' is a direct object because it directly follows the verb 'went'.",
+      "B) 'School' is a Prepositional Object — it is the object of the preposition 'to', not of the verb.",
+      "C) 'School' is an indirect object because it names a place.",
+      "D) 'School' is a subject complement because it describes the subject."
+    ],
+    "answer": "B) 'School' is a Prepositional Object — it is the object of the preposition 'to', not of the verb.",
+    "explanation": "The chapter explains: 'If we ask What? do east/school/table become direct answer? No. So these are not direct objects. These are Prepositional Objects because they are objects of: in, to, on.' 'School' answers the preposition 'to', not the verb 'went' directly. Options A, C, D all misidentify the grammatical role of 'school'.",
+    "type": "mcq",
+    "id": "POST_12",
+    "revision_count": 0
+  },
+  {
+    "question": "According to the Golden Observation, when must a preposition appear between a verb and a noun?",
+    "options": [
+      "A) Always, because prepositions are required after every verb.",
+      "B) When the verb is in the past tense.",
+      "C) When the noun that follows the verb is not a direct object of that verb.",
+      "D) Only when the noun is a proper noun like a place or a name."
+    ],
+    "answer": "C) When the noun that follows the verb is not a direct object of that verb.",
+    "explanation": "The chapter states: 'Whenever verb comes, then another noun comes, but noun is not direct object — then preposition must appear in between. But if verb directly connects to object, then no preposition comes.' This is the core Golden Observation. Option A is wrong — prepositions are only needed when the noun is not a direct object. Options B and D are not mentioned in the chapter.",
+    "type": "mcq",
+    "id": "POST_13",
+    "revision_count": 0
+  },
+  {
+    "question": "Which of the following sentences contains an error related to the Discuss / Explain / Describe trap?",
+    "options": [
+      "A) She explained the concept clearly.",
+      "B) They described the incident in detail.",
+      "C) He discussed about the new policy in the meeting.",
+      "D) The teacher described the process step by step."
+    ],
+    "answer": "C) He discussed about the new policy in the meeting.",
+    "explanation": "'Discussed about' is incorrect. The chapter explains: ask 'What did they discuss?' — the answer 'new policy' is direct. Object already exists, so 'about' is unnecessary. Correct form: 'discussed the new policy'. Options A, B, D are all correct — 'explained the concept', 'described the incident', 'described the process' are direct transitive usages with no extra preposition.",
+    "type": "mcq",
+    "id": "POST_14",
+    "revision_count": 0
+  },
+  {
+    "question": "Identify the sentence that correctly avoids the Investigate / Face / Lack preposition trap.",
+    "options": [
+      "A) The committee investigated into the fraud case.",
+      "B) You should face with the consequences of your actions.",
+      "C) Most students lack in the required confidence.",
+      "D) The officer investigated the fraud case thoroughly."
+    ],
+    "answer": "D) The officer investigated the fraud case thoroughly.",
+    "explanation": "The chapter asks: 'What did police investigate? → the case.' Object already exists, so no preposition needed. 'Investigated the fraud case' is correct. Option A: 'investigated into' is wrong — 'into' is unnecessary. Option B: 'face with' is wrong — correct is 'face the consequences'. Option C: 'lack in' is wrong — correct is 'lack confidence'.",
+    "type": "mcq",
+    "id": "POST_15",
+    "revision_count": 0
+  },
+  {
+    "question": "Which of the following sentences correctly uses a transitive verb without an unnecessary preposition, as per the full transitive verb list in the chapter?",
+    "options": [
+      "A) She resembled with her mother in every way.",
+      "B) The new batch will comprise of twenty students.",
+      "C) He survived from the terrible accident.",
+      "D) You must obey the rules of the institution."
+    ],
+    "answer": "D) You must obey the rules of the institution.",
+    "explanation": "The chapter lists 'obey' as a transitive verb: correct usage is 'obey the rules', wrong usage is 'obey to rules'. Option D is correct. Option A: 'resembled with' is wrong → 'resemble mother'. Option B: 'comprise of' is wrong → 'comprise parts'. Option C: 'survived from' is wrong → 'survive the accident'. Master Shortcut: ask 'What?' — if a direct answer exists, no preposition needed.",
+    "type": "mcq",
+    "id": "POST_16",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_17",
+    "title": "Forget Bookish Fear",
+    "content": "📘 Grammar Rule: Forget Bookish Fear\n\n📌 Rule 1 → We have already studied verbs many times: in school, in college, in grammar books.\n\n📌 Rule 2 → Competitive exams need understanding, not scary terminology.\n\n📌 Rule 3 → Books start with: helping verbs, auxiliary verbs, modals, primary auxiliaries. Forget all this for now. Become a blank slate.\n\n⚠️ Exception → Not mentioned in notes.\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 03-06-2026 | #chapter: Verb Chapter | #topic: Forget Bookish Fear",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_18",
+    "title": "Every Sentence Must Have a Verb",
+    "content": "📘 Grammar Rule: Every Sentence Must Have a Verb\n\n📌 Rule → If an English sentence exists, then at least one verb must exist in it. Without verb, sentence cannot exist.\n\n✅ Not mentioned in notes.\n\n❌ Not mentioned in notes.\n\n⚠️ Exception → Not mentioned in notes.\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 03-06-2026 | #chapter: Verb Chapter | #topic: Every Sentence Must Have a Verb",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_19",
+    "title": "Action Verbs",
+    "content": "📘 Grammar Rule: Action Verbs\n\n📌 Rule → When the subject performs an effort or activity intentionally, the verb is an Action Verb.\n\n✅ I bought a watch.\n\n📌 Explanation → Can watch buy itself automatically? No. Subject had to perform effort: go to market, pay money, order online. Meaning: subject performed action.\n\n⚠️ Exception → Not mentioned in notes.\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 03-06-2026 | #chapter: Verb Chapter | #topic: Action Verbs",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_20",
+    "title": "Happening Verbs",
+    "content": "📘 Grammar Rule: Happening Verbs\n\n📌 Rule → When something happens with the subject without intentional effort by the subject, the verb is a Happening Verb.\n\n✅ He fell from the chair.\n\n📌 Explanation → Did he intentionally perform 'falling'? No. Something happened with subject. Subject did not perform action intentionally.\n\n📌 Contrast → buy = Action Verb | fall = Happening Verb\n\n⚠️ Exception → Not mentioned in notes.\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 03-06-2026 | #chapter: Verb Chapter | #topic: Happening Verbs",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_21",
+    "title": "State Verbs",
+    "content": "📘 Grammar Rule: State Verbs\n\n📌 Rule → When a sentence only tells the condition, feeling, or state of the subject — without action or happening — the verb is a State Verb.\n\n✅ He seems unhappy.\n\n📌 Explanation → Did subject do something? No. Did something happen to subject? No. Sentence only tells: condition, feeling, state.\n\n⚠️ Exception → Not mentioned in notes.\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 03-06-2026 | #chapter: Verb Chapter | #topic: State Verbs",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_22",
+    "title": "Three Main Verb Categories",
+    "content": "📘 Grammar Rule: Three Main Categories of Verbs\n\n📌 Rule → Forget helping verb terminology. Your brain should mainly see three categories:\n\n📌 Category 1 → Action Verbs → subject performs action.\n\n📌 Category 2 → Happening Verbs → something happens with subject.\n\n📌 Category 3 → State Verbs → sentence tells condition or state.\n\n⚠️ Exception → Not mentioned in notes.\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 03-06-2026 | #chapter: Verb Chapter | #topic: Three Main Verb Categories",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_23",
+    "title": "Object vs Prepositional Object",
+    "content": "📘 Grammar Rule: Object vs Prepositional Object\n\n📌 Rule → If we ask 'What?' after the verb and the noun does NOT become a direct answer, then the noun is a Prepositional Object — object of a preposition, not of the verb.\n\n✅ The sun rises in the east.\n✅ They went to school.\n✅ The cat lay on the table.\n\n📌 Explanation → Do east / school / table become direct answer to 'What?'? No. So these are not direct objects. These are Prepositional Objects — objects of: in, to, on.\n\n⚠️ Exception → Not mentioned in notes.\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 03-06-2026 | #chapter: Verb Chapter | #topic: Object vs Prepositional Object",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_24",
+    "title": "Golden Observation — Preposition Logic",
+    "content": "📘 Grammar Rule: Golden Observation\n\n📌 Rule 1 → Whenever a verb comes, then another noun comes, but noun is NOT a direct object → preposition must appear in between.\n\n📌 Rule 2 → But if verb directly connects to object → no preposition comes.\n\n✅ Not mentioned in notes.\n\n❌ Not mentioned in notes.\n\n⚠️ Exception → Not mentioned in notes.\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 03-06-2026 | #chapter: Verb Chapter | #topic: Golden Observation",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_25",
+    "title": "Discuss / Explain / Describe Trap",
+    "content": "⚠️ Error Type: Unnecessary 'About' After Discuss / Explain / Describe\n\n📌 Rule → Ask: 'What did they discuss?' 'What did they explain?' 'What did they describe?' — Direct answer already exists. Object already exists. So preposition is unnecessary.\n\n✅ Correct Usage:\n▪️ discuss the issue\n▪️ explain the topic\n▪️ describe the event\n\n❌ Wrong Usage:\n▪️ discuss about the issue\n▪️ explain about the topic\n▪️ describe about the event\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 03-06-2026 | #chapter: Verb Chapter | #topic: Discuss / Explain / Describe Trap",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_26",
+    "title": "Investigate / Face / Lack Trap",
+    "content": "⚠️ Error Type: Unnecessary Preposition After Investigate / Face / Lack\n\n📌 Rule → Ask: 'What did police investigate?' → the case. 'What should you face?' → the truth. 'What do students lack?' → confidence. Object already exists. So no preposition required.\n\n✅ Correct Usage:\n▪️ investigate the case\n▪️ face the truth\n▪️ lack confidence\n\n❌ Wrong Usage:\n▪️ investigate into the case\n▪️ face with the truth\n▪️ lack in confidence\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 03-06-2026 | #chapter: Verb Chapter | #topic: Investigate / Face / Lack Trap",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_27",
+    "title": "Transitive Verbs — Full List, Master Shortcut and Final Philosophy",
+    "content": "📘 Grammar Rule: Transitive Verbs\n\n📌 Rule 1 → These are called Transitive Verbs because they directly take object. That is why unnecessary prepositions are removed.\n\n📌 Rule 2 → Do not blindly memorize. Instead understand WHY. These are transitive verbs. Transitive verbs directly take objects. That is why unnecessary prepositions are removed.\n\n📌 Master Shortcut:\nStep 1: Find verb.\nStep 2: Ask 'What?'\nStep 3: If direct answer comes → object already exists.\nStep 4: If object already exists → do not add unnecessary preposition.\n\n✅ Correct Usage | ❌ Wrong Usage:\n▪️ discuss the issue | discuss about the issue\n▪️ explain the topic | explain about the topic\n▪️ describe the event | describe about the event\n▪️ investigate the case | investigate into the case\n▪️ face the truth | face with the truth\n▪️ lack confidence | lack in confidence\n▪️ request help | request for help\n▪️ resemble father | resemble with father\n▪️ enter the room | enter into the room\n▪️ marry someone | marry with someone\n▪️ approach teacher | approach to teacher\n▪️ attend class | attend in class\n▪️ join the team | join in the team\n▪️ reach the station | reach at station\n▪️ oppose the decision | oppose to decision\n▪️ stress the point | stress on point\n▪️ comprise parts | comprise of parts\n▪️ survive the accident | survive from accident\n▪️ answer the question | answer to question\n▪️ obey the rules | obey to rules\n▪️ attack the enemy | attack on enemy\n▪️ accompany friend | accompany with friend\n\n⚠️ Exception → Not mentioned in notes.\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 03-06-2026 | #chapter: Verb Chapter | #topic: Transitive Verbs",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_28",
+    "title": "Word: Lacuna",
+    "content": "📖 Word → Lacuna\n\n🔤 Pronunciation → luh-KYOO-nuh\n\n📋 Meaning → A gap, deficiency, or missing part\n\n📋 Hindi Meaning → कमी\n\n📋 Part of Speech → Noun\n\n🔁 Synonyms → Deficiency, Omission, Hiatus, Void, Vacuum, Inadequacy, Deprivation, Scarcity, Dearth\n\n🔄 Antonyms → Sufficiency, Completeness, Fulness, Adequacy, Plenitude, Plethora, Myriad, Multitude, Barrage, Deluge\n\n📌 Forms / Idioms → Leave no stone unturned | A blind spot | Missing the boat | Crack in the foundation\n\n✅ Usage in Sentence\n▪️ The revised manual finally achieved lacuna (1) / sufficiency (2) for operational requirements.\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 04-06-2026 | #chapter: The Hindu Editorial Analysis | #topic: Lacuna",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_29",
+    "title": "Word: Desultory",
+    "content": "📖 Word → Desultory\n\n🔤 Pronunciation → DES-ul-tor-ee\n\n📋 Meaning → Lacking plan, consistency, or clear direction\n\n📋 Hindi Meaning → असंगत\n\n📋 Part of Speech → Adjective\n\n🔁 Synonyms → Haphazard, Rambling, Aimless, Erratic, Random, Sporadic, Fitful, Hudless, Careless, Reckless, Hasty, Impulsive, Incoherent, Intermittent\n\n🔄 Antonyms → Methodical, Systematic, Coherent, Structured, Deliberate, Orderly, Thorough, Precise, Meticulous\n\n📌 Forms / Idioms → At sixes and sevens | All over the place | Without rhyme or reason\n\n✅ Usage in Sentence\n▪️ His desultory (1) / methodical (2) preparation left him confused before the exam.\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 04-06-2026 | #chapter: The Hindu Editorial Analysis | #topic: Desultory",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_30",
+    "title": "Word: Disquieting",
+    "content": "📖 Word → Disquieting\n\n🔤 Pronunciation → dis-KWAI-uh-ting\n\n📋 Meaning → Causing anxiety, worry, or unease\n\n📋 Hindi Meaning → चिंताजनक\n\n🔁 Synonyms → Alarming, Perturbing, Ominous, Disturbing, Un-nerving, Harrowing, Appalling, Menacing, Dismaying, Disconcerting\n\n🔄 Antonyms → Reassuring, Comforting, Heartening, Encouraging, Assuaging, Placating, Calm, Tranquil, Serene, Placid, Palliative, Mollifying\n\n📌 Forms / Idioms → Ring alarm bells | Sound a warning note | Send shivers down one's spine\n\n✅ Usage in Sentence\n▪️ The doctor's calm explanation was surprisingly disquieting (1) / reassuring (2) for the patient.\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 04-06-2026 | #chapter: The Hindu Editorial Analysis | #topic: Disquieting",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_31",
+    "title": "Word: Augur",
+    "content": "📖 Word → Augur\n\n🔤 Pronunciation → AW-gur\n\n📋 Meaning → To indicate or predict a future event\n\n📋 Hindi Meaning → संकेत देना\n\n📋 Part of Speech → Verb\n\n🔁 Synonyms → Portend, Foreshadow, Presage, Foretell, Prognosticate, Herald, Betoken\n\n🔄 Antonyms → Disprove, Contradict, Refute, Confound, Gainsay, Negate, Repudiate, Baffled, Perplexed, Rebut, Invalidate\n\n📌 Forms / Idioms → Read the writing on the wall | A sign of things to come\n\n✅ Usage in Sentence\n▪️ Rising inflation may augur (1) / disprove (2) an impending economic slowdown.\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 04-06-2026 | #chapter: The Hindu Editorial Analysis | #topic: Augur",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_32",
+    "title": "Word: Perfunctory",
+    "content": "📖 Word → Perfunctory\n\n🔤 Pronunciation → per-FUNGK-tuh-ree\n\n📋 Meaning → Done with little care, effort, or enthusiasm\n\n📋 Hindi Meaning → औपचारिक\n\n📋 Part of Speech → Adjective\n\n🔁 Synonyms → Cursory, Mechanical, Superficial, Routine, Casual, Slipshod, Negligent, Indifferent, Proforma\n\n🔄 Antonyms → Thorough, Meticulous, Diligent, Conscientious, Scrupulous, Assiduous, Tenacious, Painstaking, Zealous, Rigorous\n\n📌 Forms / Idioms → Mere formality | Motions without meaning\n\n✅ Usage in Sentence\n▪️ The auditor conducted a perfunctory (1) / thorough (2) inspection of all financial records.\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 04-06-2026 | #chapter: The Hindu Editorial Analysis | #topic: Perfunctory",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_33",
+    "title": "Word: Effrontery",
+    "content": "📖 Word → Effrontery\n\n🔤 Pronunciation → ih-FRUN-tuh-ree\n\n📋 Meaning → Shameless boldness or audacity\n\n📋 Hindi Meaning → निर्लज्जता\n\n📋 Part of Speech → Noun\n\n🔁 Synonyms → Audacity, Temerity, Insolence, Impudence, Gall, Boldness, Brashness, Cheek\n\n🔄 Antonyms → Modesty, Humility, Deference, Respectfulness, Submission, Veneration, Reticence, Timidity, Meekness\n\n📌 Forms / Idioms → Have the nerve | Thick as thieves\n\n✅ Usage in Sentence\n▪️ She had the effrontery (1) / modesty (2) to insult her supervisor publicly.\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 04-06-2026 | #chapter: The Hindu Editorial Analysis | #topic: Effrontery",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_34",
+    "title": "Word: Traduce",
+    "content": "📖 Word → Traduce\n\n🔤 Pronunciation → truh-DOOS\n\n📋 Meaning → To defame, slander, or speak falsely against\n\n📋 Hindi Meaning → बदनाम करना\n\n📋 Part of Speech → Verb\n\n🔁 Synonyms → Defame, Vilify, Calumniate, Slander, Censure, Asperse, Vilipend, Reprimand, Berate, Castigate, Rebuff, Smear, Condemn, Disparage, Denigrate, Belittle\n\n🔄 Antonyms → Extol, Eulogize, Laud, Commend, Honour, Glorify, Acclaim, Revere, Venerate\n\n📌 Forms / Idioms → Drag through the mud | Blacken someone's name\n\n✅ Usage in Sentence\n▪️ The ceremony was organized to traduce (1) / extol (2) the scientist's contributions.\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 04-06-2026 | #chapter: The Hindu Editorial Analysis | #topic: Traduce",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_35",
+    "title": "Word: Punitive",
+    "content": "📖 Word → Punitive\n\n🔤 Pronunciation → PYOO-ni-tiv\n\n📋 Meaning → Intended to punish or impose penalties\n\n📋 Hindi Meaning → दंडात्मक\n\n📋 Part of Speech → Adjective\n\n🔁 Synonyms → Penal, Retributive, Disciplinary, Corrective\n\n🔄 Antonyms → Lenient, Merciful, Clement, Forgiving\n\n📌 Forms / Idioms → Throw the book at | Bring to justice\n\n✅ Usage in Sentence\n▪️ Owing to humanitarian concerns, the judge adopted a punitive (1) / lenient (2) stance.\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 04-06-2026 | #chapter: The Hindu Editorial Analysis | #topic: Punitive",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_36",
+    "title": "Word: Hubris",
+    "content": "📖 Word → Hubris\n\n🔤 Pronunciation → HYOO-bris\n\n📋 Meaning → Excessive pride, arrogance, or overconfidence\n\n📋 Hindi Meaning → घमंड\n\n📋 Part of Speech → Noun\n\n🔁 Synonyms → Arrogance, Overweeningness, Conceit, Haughtiness, Vanity, Narcissism, Egotism, Swagger, Pompousness\n\n🔄 Antonyms → Humility, Modesty, Self-effacement, Meekness\n\n📌 Forms / Idioms → Pride goes before a fall | Get too big for one's boots\n\n✅ Usage in Sentence\n▪️ His political downfall was widely attributed to unchecked hubris (1) / humility (2).\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 04-06-2026 | #chapter: The Hindu Editorial Analysis | #topic: Hubris",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_37",
+    "title": "Word: Tender — Multiple Meanings",
+    "content": "📖 Word → Tender\n\n🔤 Pronunciation → Not mentioned in notes.\n\n📋 Meaning 1 (Adjective) → gentle, kind, or full of warmth | Hindi: कोमल / स्नेहपूर्ण\n✅ The teacher gave a tender smile to the nervous student.\n\n📋 Meaning 2 (Adjective) → painful or sensitive when touched | Hindi: दर्दयुक्त / संवेदनशील\n✅ His ankle felt tender after the long football match.\n\n📋 Meaning 3 (Noun) → an official offer or bid for a project or contract | Hindi: निविदा / ठेके का प्रस्ताव\n✅ The company submitted a tender for the airport renovation project.\n\n📋 Meaning 4 (Noun) → money that is legally accepted for payment | Hindi: वैध मुद्रा\n✅ The old coins are no longer accepted as legal tender.\n\n🔁 Synonyms → Not mentioned in notes.\n\n🔄 Antonyms → Not mentioned in notes.\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 04-06-2026 | #chapter: The Hindu Editorial Analysis | #topic: Tender — Multiple Meanings",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_38",
+    "title": "Phrasal Verbs: PATCH",
+    "content": "📖 Word → Phrasal Verbs with PATCH\n\n📌 Patch up → To repair a relationship after a quarrel | Hindi: सुलह करना / रिश्ता सुधारना\n✅ The two friends finally patched up after a long misunderstanding.\n\n📌 Patch together → To make something quickly using whatever is available | Hindi: जैसे-तैसे जोड़कर तैयार करना\n✅ The team patched together a temporary plan before the final meeting.\n\n📌 Patch over → To hide or cover a problem without solving it properly | Hindi: समस्या को ऊपर-ऊपर से दबाना\n✅ The manager tried to patch over the dispute instead of addressing it honestly.\n\n📌 Patch through → To connect someone by phone or communication line | Hindi: फोन/कॉल से जोड़ना\n✅ The receptionist patched me through to the senior officer immediately.\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 04-06-2026 | #chapter: The Hindu Editorial Analysis | #topic: Phrasal Verbs with PATCH",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_39",
+    "title": "One-Word Substitutions",
+    "content": "📖 Word → One-Word Substitutions\n\n📌 Fatalist → One who believes in fate | Hindi: भाग्यवादी\n✅ The fatalist accepted every difficulty as destiny.\n\n📌 Cannibal → A person who eats human flesh | Hindi: नरभक्षी\n✅ The tribe was wrongly described as cannibal by outsiders.\n\n📌 Recluse → One who lives alone and avoids society | Hindi: एकांतवासी\n✅ The old recluse rarely met anyone in the village.\n\n📌 Pessimist → A person who looks at the dark side of things | Hindi: निराशावादी\n✅ The pessimist saw failure even in a good opportunity.\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 04-06-2026 | #chapter: The Hindu Editorial Analysis | #topic: One-Word Substitutions",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_40",
+    "title": "UN General Assembly Elects Bangladesh's Rahman as Next President",
+    "content": "🏛️ UN General Assembly Presidential Election\n\n👤 Who → Bangladesh's Rahman\n\n📋 What → Elected as the next President of the UN General Assembly (81st session)\n\n📍 Where → United Nations Headquarters, New York City, USA\n\n🎯 Purpose → To preside over the 81st session of the UNGA representing the Asia-Pacific regional group\n\n📌 Important Facts\n▪️ UNGA presidency rotates among UN's five regional groups\n▪️ 81st session falls to the Asia-Pacific group\n▪️ Rahman will serve a one-year term starting 8 September\n▪️ Annalena Baerbock was the 80th President of UNGA\n▪️ UNGA formed in 1945; HQ: New York City, USA\n▪️ UN operates through six principal organs: UNGA, UNSC, ECOSOC, Secretariat, ICJ, Trusteeship Council\n\n⚠️ Exam Angle → Regional group rotation, session number (81st), and start date (8 September) are high-yield facts for international affairs sections\n\n#03June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_41",
+    "title": "Lokhande Prashant Sitaram Appointed as New CBSE Chairperson",
+    "content": "🏛️ New CBSE Chief Appointed\n\n👤 Who → Lokhande Prashant Sitaram\n\n📋 What → Appointed as new Chairperson of the Central Board of Secondary Education (CBSE)\n\n📍 Where → New Delhi\n\n🎯 Purpose → To lead India's premier school education board overseeing national curriculum and examinations\n\n📌 Important Facts\n▪️ Appointment made in place of Rahul Singh\n▪️ Varun Bhardwaj appointed as new CBSE Secretary\n▪️ CBSE Formation: 1 July 1962\n▪️ CBSE Headquarters: Delhi\n\n⚠️ Exam Angle → Name of new CBSE Chairperson, predecessor (Rahul Singh), and CBSE formation date are frequently tested in SSC/Banking exams\n\n#03June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_42",
+    "title": "Government Forms Panel to Probe CBSE On-Screen Marking System Procurement",
+    "content": "🏛️ One-Member Inquiry Committee on CBSE OSM\n\n👤 Who → S. Radha Chauhan (Chairperson, Capacity Building Commission)\n\n📋 What → Government constituted a one-member inquiry committee to investigate procurement of services for CBSE's On-Screen Marking (OSM) system\n\n📍 Where → New Delhi\n\n🎯 Purpose → To probe irregularities related to procurement of services for the OSM system amid ongoing controversy\n\n📌 Important Facts\n▪️ Committee headed by S. Radha Chauhan, Chairperson of Capacity Building Commission\n▪️ OSM (On-Screen Marking) is used by CBSE for answer sheet evaluation\n▪️ Single-member committee structure chosen for focused investigation\n\n⚠️ Exam Angle → Name of inquiry head (S. Radha Chauhan), her designation (Capacity Building Commission Chairperson), and the subject of probe (OSM procurement) are exam-relevant details\n\n#03June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_43",
+    "title": "Government to Replace WPI with Producer Price Index Over Five Years",
+    "content": "🏛️ India's Inflation Measurement Reform — WPI to PPI Transition\n\n👤 Who → Department for Promotion of Industry and Internal Trade (DPIIT)\n\n📋 What → India begins a five-year transition from Wholesale Price Index (WPI) to Producer Price Index (PPI)\n\n📍 Where → India (national policy)\n\n🎯 Purpose → To modernise India's inflation measurement framework with a more comprehensive producer-level price index\n\n📌 Important Facts\n▪️ Revised WPI series with base year 2022-23 to be released on 15 June 2026 (replacing 2011-12 base)\n▪️ Revised WPI basket expands from 697 to 957 commodities (adding solar energy, wind energy, nuclear electricity)\n▪️ New indices introduced: Output PPI, Trial Input PPI, Service PPI (7 sectors: banking, insurance, pension fund management, securities transactions, railways, air passenger transport, telecommunications)\n▪️ WPI and PPI published simultaneously for 5 years; after that WPI discontinued, PPI becomes primary\n▪️ PPI captures prices at producer level (farm-gate/factory-gate); includes goods AND services\n▪️ Output PPI covers 123 product categories (~1,500 items initially)\n\n⚠️ Exam Angle → Base year change (2011-12 to 2022-23), commodity count (697 to 957), revised WPI launch date (15 June 2026), and WPI vs PPI distinction are high-probability MCQ topics\n\n#03June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_44",
+    "title": "Indian Overseas Bank Receives IFSCA Licence for GIFT City Branch",
+    "content": "🏛️ IOB Gets IFSCA Licence for GIFT City\n\n👤 Who → Indian Overseas Bank (IOB)\n\n📋 What → Received a licence from the International Financial Services Centres Authority (IFSCA) to establish its branch at GIFT City, Gujarat\n\n📍 Where → GIFT City, Gandhinagar, Gujarat\n\n🎯 Purpose → To expand banking operations in India's international financial hub\n\n📌 Important Facts\n▪️ IFSCA is the unified regulator for all financial services activities in India's IFSCs\n▪️ IFSCA Formed: 27 April 2020\n▪️ IFSCA Headquarters: GIFT City, Gandhinagar, Gujarat\n\n⚠️ Exam Angle → IFSCA formation date (27 April 2020), HQ (GIFT City), and its regulatory role over IFSCs are frequently tested; IOB's GIFT City expansion adds current affairs relevance\n\n#03June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_45",
+    "title": "BharatPe Launches BharatPe Flex, a Credit-on-UPI Solution Powered by YES BANK",
+    "content": "🏛️ BharatPe Flex — Credit-on-UPI Launch\n\n👤 Who → BharatPe in partnership with YES BANK\n\n📋 What → Launched 'BharatPe Flex', a Credit-on-UPI solution enabling UPI payments via pre-approved credit lines\n\n📍 Where → India\n\n🎯 Purpose → To allow users to make UPI payments using a pre-approved credit line instead of directly from their bank account\n\n📌 Important Facts\n▪️ Credit-on-UPI: customers use a pre-approved bank credit line for UPI payments instead of savings account balance\n▪️ Partnership between BharatPe and YES BANK powers the solution\n▪️ Users can pay at UPI merchant outlets without using their own bank balance\n\n⚠️ Exam Angle → Concept of Credit-on-UPI, BharatPe's banking partner (YES BANK), and the product name 'BharatPe Flex' are likely fintech/banking awareness MCQ topics\n\n#03June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_46",
+    "title": "UPI Goes Live in Cambodia for Indian Tourists at Merchant Outlets",
+    "content": "🏛️ UPI Acceptance in Cambodia via KHQR\n\n👤 Who → NPCI International Payments Limited (NIPL) and ACLEDA Bank Plc.\n\n📋 What → Indian travellers can now make QR-based UPI payments across Cambodia by scanning Bakong's KHQR codes\n\n📍 Where → Cambodia\n\n🎯 Purpose → To enable seamless cross-border digital payments for Indian tourists at Cambodian merchant outlets\n\n📌 Important Facts\n▪️ Partnership between NIPL (international arm of NPCI) and ACLEDA Bank Plc. enabled this\n▪️ UPI acceptance via KHQR — Cambodia's national QR code system (Bakong's KHQR)\n▪️ Indian tourists use UPI-enabled apps to scan KHQR codes\n\n⚠️ Exam Angle → KHQR as Cambodia's national QR code system, NIPL's role as NPCI's international arm, and UPI's global expansion are high-value topics for banking/SSC awareness\n\n#03June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_47",
+    "title": "WAVES OTT Crosses One Crore Registered Users",
+    "content": "🏛️ Prasar Bharati's WAVES OTT Milestone\n\n👤 Who → Prasar Bharati\n\n📋 What → WAVES (World Audio Visual Entertainment Services) OTT platform crossed one crore registered users\n\n📍 Where → India\n\n🎯 Purpose → To provide a public sector OTT platform for audio-visual entertainment to Indian audiences\n\n📌 Important Facts\n▪️ Milestone achieved in less than two years since launch in November 2024\n▪️ WAVES OTT target: 2 Crore registered users by March 2027\n▪️ Prasar Bharati Formed: 23 November 1997; HQ: New Delhi\n▪️ Under Ministry of Information and Broadcasting\n\n⚠️ Exam Angle → Full form of WAVES, parent body (Prasar Bharati), launch month (November 2024), milestone (1 crore), and target (2 crore by March 2027) are all high-yield data points\n\n#03June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_48",
+    "title": "Gujarat's Hastkala Setu Yojana Crosses ₹102 Crore Sales Milestone",
+    "content": "🏛️ Hastkala Setu Yojana (HSY) Sales Achievement\n\n👤 Who → Government of Gujarat\n\n📋 What → HSY achieved cumulative sales of over ₹102.08 crore since its launch\n\n📍 Where → Gujarat\n\n🎯 Purpose → To strengthen traditional arts and crafts, improve market access for artisans, and promote entrepreneurship\n\n📌 Important Facts\n▪️ HSY = Hastkala Setu Yojana (Gujarat)\n▪️ Sales milestone: ₹102.08 crore (cumulative)\n▪️ Gujarat Formation: 1 May 1960; Capital: Gandhinagar\n▪️ Chief Minister: Bhupendrabhai Patel; Governor: Acharya Devvrat\n▪️ National Parks: Gir, Marine (Gulf of Kutch), Velavadar Blackbuck, Vansda\n\n⚠️ Exam Angle → Scheme name (HSY), its objective (artisan empowerment), sales figure (₹102 crore), and Gujarat static facts are relevant for state-level and general awareness sections\n\n#03June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_49",
+    "title": "Blue India 2026 International Conference and Expo to be Held in Kerala",
+    "content": "🏛️ Blue India 2026 — International Maritime & Ocean Conference\n\n👤 Who → Kerala University of Fisheries and Ocean Studies (KUFOS)\n\n📋 What → Will host the international conference and expo 'Blue India 2026'\n\n📍 Where → Panangad Campus, Kochi, Kerala\n\n🎯 Purpose → To promote blue economy research, ocean innovation, and sustainable marine development\n\n📌 Important Facts\n▪️ Theme: \"Blue Research – Blue Innovation – Blue Future\"\n▪️ Hosted by KUFOS at its Panangad campus in Kochi\n\n⚠️ Exam Angle → Host institution (KUFOS), venue (Kochi, Kerala), and theme of Blue India 2026 are standard questions in environment and economy awareness sections\n\n#03June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_50",
+    "title": "NCDFI and Assam Rifles Sign Agreement to Expand Dairy Supply in North-East",
+    "content": "🏛️ NCDFI–Assam Rifles MoU for Dairy Supply\n\n👤 Who → National Cooperative Dairy Federation of India (NCDFI) and Assam Rifles\n\n📋 What → Signed an agreement to expand supply of milk and dairy products to military establishments across the North-Eastern region\n\n📍 Where → North-East India\n\n🎯 Purpose → To ensure adequate and regular dairy supply to military establishments in the North-Eastern region\n\n📌 Important Facts\n▪️ Assam Rifles is a paramilitary force of India\n▪️ Assam Rifles Formation: 1835 (oldest paramilitary force)\n▪️ Assam Rifles HQ: Shillong, Meghalaya\n\n⚠️ Exam Angle → Assam Rifles formation year (1835), HQ (Shillong, Meghalaya), its paramilitary status, and NCDFI's dairy supply role are exam-relevant facts\n\n#03June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_51",
+    "title": "India Successfully Flight-Tests Indigenous RudraM-II Air-to-Surface Missile",
+    "content": "🏛️ RudraM-II Missile Successful Flight Test\n\n👤 Who → Defence Research and Development Organisation (DRDO) and Indian Air Force (IAF)\n\n📋 What → Successfully conducted flight tests of the indigenously developed RudraM-II Air-to-Surface Missile from an airborne platform\n\n📍 Where → India (airborne platform)\n\n🎯 Purpose → To enhance India's indigenous air-to-surface precision strike capability and Atmanirbhar Bharat in defence\n\n📌 Important Facts\n▪️ RudraM-II is indigenously developed by DRDO\n▪️ Type: Air-to-Surface Missile; launched from airborne platform\n▪️ Joint achievement of DRDO and IAF\n\n⚠️ Exam Angle → Missile name (RudraM-II), type (Air-to-Surface), developing agencies (DRDO + IAF), and launch mode (airborne platform) are key exam points for defence section\n\n#03June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_52",
+    "title": "Former Gujarat Minister and BJP MLA Yogesh Patel Passes Away",
+    "content": "🏛️ Demise of BJP MLA Yogesh Patel\n\n👤 Who → Yogesh Patel, BJP MLA from Manjalpur, Gujarat\n\n📋 What → Passed away\n\n📍 Where → Gujarat\n\n🎯 Purpose → (Obituary)\n\n📌 Important Facts\n▪️ Represented Manjalpur Assembly constituency since 2012\n▪️ Re-elected in 2017 and 2022\n▪️ Served as Minister for Narmada Development and Housing under former CM Vijay Rupani\n\n⚠️ Exam Angle → His constituency (Manjalpur), ministerial portfolios (Narmada Development & Housing), and former CM under whom he served (Vijay Rupani) are relevant for Gujarat state exam questions\n\n#03June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_53",
+    "title": "Telangana Celebrates 11th State Formation Day",
+    "content": "🏛️ Telangana's 11th Formation Day\n\n👤 Who → State of Telangana\n\n📋 What → Celebrated its 11th State Formation Day on 2 June 2026\n\n📍 Where → Telangana\n\n🎯 Purpose → To commemorate the formation of Telangana as India's 29th state\n\n📌 Important Facts\n▪️ Telangana became India's 29th State\n▪️ Formed after bifurcation of Andhra Pradesh under the Andhra Pradesh Reorganisation Act, 2014\n▪️ Formation Day: 2 June (every year)\n\n⚠️ Exam Angle → State number (29th), enabling legislation (AP Reorganisation Act 2014), formation date (2 June), and this year's edition (11th) are repeatedly asked in SSC/state exams\n\n#03June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_54",
+    "title": "World Bicycle Day Observed on 3 June",
+    "content": "🏛️ World Bicycle Day 2026\n\n👤 Who → United Nations / Global observance\n\n📋 What → World Bicycle Day observed annually on 3 June\n\n📍 Where → Global\n\n🎯 Purpose → To recognise the bicycle as a simple, affordable, reliable, clean, and environmentally friendly means of transport\n\n📌 Important Facts\n▪️ Observed every year on 3 June\n▪️ Promotes cycling as sustainable and eco-friendly transportation\n\n⚠️ Exam Angle → Date of World Bicycle Day (3 June) and its significance as a UN observance are standard one-liner questions in all competitive exams\n\n#03June2026",
+    "type": "news",
+    "revision_count": 0
   }
 ]
