@@ -45,20 +45,6 @@
     "revision_count": 5
   },
   {
-    "question": "Which Small Finance Bank inaugurated India's first AI-powered 'phygital' banking branch in Guwahati?",
-    "options": [
-      "AU Small Finance Bank",
-      "Equitas Small Finance Bank",
-      "Slice Small Finance Bank",
-      "Capital Small Finance Bank"
-    ],
-    "correct_option_index": 2,
-    "explanation": "Assam CM inaugurated India's 1st AI phygital branch of Slice SFB in Guwahati, featuring self-service kiosks and paperless cash transactions. #17May2026",
-    "type": "mcq",
-    "id": "POST_17",
-    "revision_count": 0
-  },
-  {
     "question": "Who was appointed as the Chairperson of the Committee on Empowerment of Women by Lok Sabha Speaker Om Birla?",
     "options": [
       "Smt. Droupadi Murmu",
@@ -372,13 +358,6 @@
     "revision_count": 0
   },
   {
-    "id": "POST_43",
-    "title": "India's Industrial Output IIP Grows 4.9% in April 2026",
-    "content": "🏛️ National Industrial Performance Data\n\n👤 Who → Ministry of Statistics and Programme Implementation (MoSPI)\n\n📋 What → Released the Index of Industrial Production (IIP) data showing 4.9% growth in April 2026\n\n📍 Where → New Delhi\n\n🎯 Purpose → Measuring and tracking factory output and industrial activity across India\n\n📌 Important Facts\n▪️ This is the first IIP data released under the new base year 2022-23\n▪️ Growth rate: 4.9% in April 2026\n▪️ IIP data is released by MoSPI (Ministry of Statistics and Programme Implementation)\n\n⚠️ Exam Angle → The significance of this being the first data under base year 2022-23 and the exact growth figure (4.9%) are high-yield points for Banking and SSC exams\n\n#02June2026",
-    "type": "news",
-    "revision_count": 0
-  },
-  {
     "id": "POST_44",
     "title": "GST Revenue Tops ₹1.94 Lakh Crore in May 2026",
     "content": "🏛️ National Fiscal Revenue Milestone\n\n👤 Who → Government of India\n\n📋 What → Gross GST collection for May 2026 stood at ₹1.94 lakh crore\n\n📍 Where → Pan-India\n\n🎯 Purpose → Tracking indirect tax revenue performance and fiscal health of the Indian economy\n\n📌 Important Facts\n▪️ Growth of 3.2% over the corresponding period of last year\n▪️ GST collection for April 2026 reached an all-time high of ₹2.43 lakh crore, reflecting 8.7% year-on-year growth\n▪️ GST was implemented in India on 1 July 2017\n\n⚠️ Exam Angle → Monthly GST figures, all-time high values (₹2.43 lakh crore in April 2026), and growth percentages are standard data points in Banking and State exam current affairs\n\n#02June2026",
@@ -685,5 +664,26 @@
     "content": "🏛️ World Bicycle Day 2026\n\n👤 Who → United Nations / Global observance\n\n📋 What → World Bicycle Day observed annually on 3 June\n\n📍 Where → Global\n\n🎯 Purpose → To recognise the bicycle as a simple, affordable, reliable, clean, and environmentally friendly means of transport\n\n📌 Important Facts\n▪️ Observed every year on 3 June\n▪️ Promotes cycling as sustainable and eco-friendly transportation\n\n⚠️ Exam Angle → Date of World Bicycle Day (3 June) and its significance as a UN observance are standard one-liner questions in all competitive exams\n\n#03June2026",
     "type": "news",
     "revision_count": 0
+  },
+  {
+    "question": "Which Small Finance Bank inaugurated India's first AI-powered 'phygital' banking branch in Guwahati?",
+    "options": [
+      "AU Small Finance Bank",
+      "Equitas Small Finance Bank",
+      "Slice Small Finance Bank",
+      "Capital Small Finance Bank"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Assam CM inaugurated India's 1st AI phygital branch of Slice SFB in Guwahati, featuring self-service kiosks and paperless cash transactions. #17May2026",
+    "type": "mcq",
+    "id": "POST_17",
+    "revision_count": 1
+  },
+  {
+    "id": "POST_43",
+    "title": "India's Industrial Output IIP Grows 4.9% in April 2026",
+    "content": "🏛️ National Industrial Performance Data\n\n👤 Who → Ministry of Statistics and Programme Implementation (MoSPI)\n\n📋 What → Released the Index of Industrial Production (IIP) data showing 4.9% growth in April 2026\n\n📍 Where → New Delhi\n\n🎯 Purpose → Measuring and tracking factory output and industrial activity across India\n\n📌 Important Facts\n▪️ This is the first IIP data released under the new base year 2022-23\n▪️ Growth rate: 4.9% in April 2026\n▪️ IIP data is released by MoSPI (Ministry of Statistics and Programme Implementation)\n\n⚠️ Exam Angle → The significance of this being the first data under base year 2022-23 and the exact growth figure (4.9%) are high-yield points for Banking and SSC exams\n\n#02June2026",
+    "type": "news",
+    "revision_count": 1
   }
 ]
