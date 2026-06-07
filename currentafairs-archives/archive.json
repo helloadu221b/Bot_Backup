@@ -50,265 +50,6 @@
     "revision_count": 5
   },
   {
-    "id": "POST_43",
-    "title": "India's Industrial Output IIP Grows 4.9% in April 2026",
-    "content": "🏛️ National Industrial Performance Data\n\n👤 Who → Ministry of Statistics and Programme Implementation (MoSPI)\n\n📋 What → Released the Index of Industrial Production (IIP) data showing 4.9% growth in April 2026\n\n📍 Where → New Delhi\n\n🎯 Purpose → Measuring and tracking factory output and industrial activity across India\n\n📌 Important Facts\n▪️ This is the first IIP data released under the new base year 2022-23\n▪️ Growth rate: 4.9% in April 2026\n▪️ IIP data is released by MoSPI (Ministry of Statistics and Programme Implementation)\n\n⚠️ Exam Angle → The significance of this being the first data under base year 2022-23 and the exact growth figure (4.9%) are high-yield points for Banking and SSC exams\n\n#02June2026",
-    "type": "news",
-    "revision_count": 1
-  },
-  {
-    "id": "POST_44",
-    "title": "GST Revenue Tops ₹1.94 Lakh Crore in May 2026",
-    "content": "🏛️ National Fiscal Revenue Milestone\n\n👤 Who → Government of India\n\n📋 What → Gross GST collection for May 2026 stood at ₹1.94 lakh crore\n\n📍 Where → Pan-India\n\n🎯 Purpose → Tracking indirect tax revenue performance and fiscal health of the Indian economy\n\n📌 Important Facts\n▪️ Growth of 3.2% over the corresponding period of last year\n▪️ GST collection for April 2026 reached an all-time high of ₹2.43 lakh crore, reflecting 8.7% year-on-year growth\n▪️ GST was implemented in India on 1 July 2017\n\n⚠️ Exam Angle → Monthly GST figures, all-time high values (₹2.43 lakh crore in April 2026), and growth percentages are standard data points in Banking and State exam current affairs\n\n#02June2026",
-    "type": "news",
-    "revision_count": 1
-  },
-  {
-    "question": "After the 2026 revision, the WPI basket will expand from 697 commodities to how many?",
-    "options": [
-      "A) 803",
-      "B) 900",
-      "C) 957",
-      "D) 1500"
-    ],
-    "answer": "C) 957",
-    "explanation": "The revised WPI basket expands from 697 to 957 commodities, adding new items like solar energy, wind energy, and nuclear electricity. 803 is a figure from comparison charts in the DPIIT data; 1,500 refers to items under Output PPI's 123 product categories — not the WPI basket count. #03June2026",
-    "type": "mcq",
-    "id": "POST_79",
-    "revision_count": 0
-  },
-  {
-    "question": "Unlike WPI, the Producer Price Index (PPI) captures prices at which level of the supply chain?",
-    "options": [
-      "A) Retail/consumer level",
-      "B) Wholesale/trader level",
-      "C) Producer level (farm-gate/factory-gate)",
-      "D) Import/port-entry level"
-    ],
-    "answer": "C) Producer level (farm-gate/factory-gate)",
-    "explanation": "PPI captures prices at the producer level — farm-gate or factory-gate — and includes both goods and services. WPI measures at the wholesale level. Output PPI covers 123 product categories (~1,500 items). Service PPI covers 7 sectors including banking, insurance, and railways. #03June2026",
-    "type": "mcq",
-    "id": "POST_80",
-    "revision_count": 0
-  },
-  {
-    "question": "IFSCA, which granted Indian Overseas Bank a licence for its GIFT City branch, was formed on which date?",
-    "options": [
-      "A) 1 April 2019",
-      "B) 27 April 2020",
-      "C) 15 August 2020",
-      "D) 1 January 2021"
-    ],
-    "answer": "B) 27 April 2020",
-    "explanation": "IFSCA (International Financial Services Centres Authority) was formed on 27 April 2020, HQ: GIFT City, Gandhinagar, Gujarat. It is the unified regulator for all financial services in India's IFSCs. IOB received its licence to establish a GIFT City branch. The other dates are incorrect. #03June2026",
-    "type": "mcq",
-    "id": "POST_81",
-    "revision_count": 0
-  },
-  {
-    "question": "BharatPe Flex, a Credit-on-UPI solution, was launched in partnership with which bank?",
-    "options": [
-      "A) HDFC Bank",
-      "B) Kotak Mahindra Bank",
-      "C) Axis Bank",
-      "D) YES BANK"
-    ],
-    "answer": "D) YES BANK",
-    "explanation": "BharatPe partnered with YES BANK to launch 'BharatPe Flex' — a Credit-on-UPI solution allowing UPI payments via a pre-approved credit line instead of the user's savings account balance. HDFC, Kotak Mahindra, and Axis are plausible distractors but are not BharatPe's partner for this product. #03June2026",
-    "type": "mcq",
-    "id": "POST_82",
-    "revision_count": 0
-  },
-  {
-    "question": "UPI payments for Indian tourists in Cambodia work by scanning which country's national QR code system?",
-    "options": [
-      "A) PromptPay QR — Thailand",
-      "B) PayNow QR — Singapore",
-      "C) Bakong's KHQR — Cambodia",
-      "D) DuitNow QR — Malaysia"
-    ],
-    "answer": "C) Bakong's KHQR — Cambodia",
-    "explanation": "Indian tourists make UPI payments in Cambodia by scanning Bakong's KHQR codes — Cambodia's national QR code system. This was enabled by a partnership between NPCI International Payments Limited (NIPL) and ACLEDA Bank Plc. PromptPay is Thailand's, PayNow is Singapore's, and DuitNow is Malaysia's system. #03June2026",
-    "type": "mcq",
-    "id": "POST_83",
-    "revision_count": 0
-  },
-  {
-    "question": "WAVES OTT platform, which crossed one crore registered users, is operated by which organisation?",
-    "options": [
-      "A) Doordarshan",
-      "B) All India Radio",
-      "C) Prasar Bharati",
-      "D) Ministry of Information and Broadcasting"
-    ],
-    "answer": "C) Prasar Bharati",
-    "explanation": "WAVES (World Audio Visual Entertainment Services) is Prasar Bharati's OTT platform. It crossed 1 crore users in under two years since its November 2024 launch. Prasar Bharati was formed on 23 November 1997, HQ: New Delhi, under the Ministry of Information and Broadcasting. Doordarshan and AIR are Prasar Bharati subsidiaries. #03June2026",
-    "type": "mcq",
-    "id": "POST_84",
-    "revision_count": 0
-  },
-  {
-    "question": "By which target date does WAVES OTT aim to reach 2 crore registered users?",
-    "options": [
-      "A) November 2026",
-      "B) December 2026",
-      "C) March 2027",
-      "D) June 2027"
-    ],
-    "answer": "C) March 2027",
-    "explanation": "WAVES OTT aims to achieve 2 crore registered users by March 2027. It crossed 1 crore in less than two years from its November 2024 launch. Prasar Bharati operates WAVES under the Ministry of Information and Broadcasting. The other date options are incorrect. #03June2026",
-    "type": "mcq",
-    "id": "POST_85",
-    "revision_count": 0
-  },
-  {
-    "question": "Gujarat's Hastkala Setu Yojana achieved cumulative sales exceeding which milestone amount since its launch?",
-    "options": [
-      "A) Rs 50 crore",
-      "B) Rs 75 crore",
-      "C) Rs 102 crore",
-      "D) Rs 150 crore"
-    ],
-    "answer": "C) Rs 102 crore",
-    "explanation": "Hastkala Setu Yojana (HSY) of Gujarat achieved cumulative sales of over Rs 102.08 crore since launch. The scheme strengthens traditional arts and crafts and improves market access for artisans. Gujarat was formed on 1 May 1960; CM: Bhupendrabhai Patel; Capital: Gandhinagar. #03June2026",
-    "type": "mcq",
-    "id": "POST_86",
-    "revision_count": 0
-  },
-  {
-    "question": "Blue India 2026 international conference themed 'Blue Research – Blue Innovation – Blue Future' will be hosted by which institution in Kochi?",
-    "options": [
-      "A) Central Marine Fisheries Research Institute (CMFRI)",
-      "B) National Institute of Oceanography (NIO)",
-      "C) Kerala University of Fisheries and Ocean Studies (KUFOS)",
-      "D) Cochin University of Science and Technology (CUSAT)"
-    ],
-    "answer": "C) Kerala University of Fisheries and Ocean Studies (KUFOS)",
-    "explanation": "KUFOS will host Blue India 2026 at its Panangad campus in Kochi, Kerala. The theme is 'Blue Research – Blue Innovation – Blue Future'. CMFRI, NIO, and CUSAT are prominent institutions in marine/ocean sciences but are not the designated host. #03June2026",
-    "type": "mcq",
-    "id": "POST_87",
-    "revision_count": 0
-  },
-  {
-    "question": "Assam Rifles, which signed a dairy supply MoU with NCDFI, is headquartered in which city?",
-    "options": [
-      "A) Guwahati, Assam",
-      "B) Imphal, Manipur",
-      "C) Shillong, Meghalaya",
-      "D) Itanagar, Arunachal Pradesh"
-    ],
-    "answer": "C) Shillong, Meghalaya",
-    "explanation": "Assam Rifles is headquartered at Shillong, Meghalaya. It is India's oldest paramilitary force, formed in 1835. It signed an MoU with NCDFI to expand milk and dairy supply to military establishments across the North-Eastern region. Guwahati, Imphal, and Itanagar are major North-East cities but not the HQ. #03June2026",
-    "type": "mcq",
-    "id": "POST_88",
-    "revision_count": 0
-  },
-  {
-    "question": "RudraM-II, successfully flight-tested by DRDO and IAF, is classified as which type of missile?",
-    "options": [
-      "A) Surface-to-Air Missile",
-      "B) Anti-Tank Guided Missile",
-      "C) Submarine-Launched Ballistic Missile",
-      "D) Air-to-Surface Missile"
-    ],
-    "answer": "D) Air-to-Surface Missile",
-    "explanation": "DRDO and IAF successfully flight-tested the indigenously developed RudraM-II Air-to-Surface Missile from an airborne platform. Surface-to-Air (e.g., Akash), Anti-Tank (e.g., Nag), and Submarine-Launched (e.g., K-4) are different missile categories. RudraM-II is designed for precision air-launched ground strikes. #03June2026",
-    "type": "mcq",
-    "id": "POST_89",
-    "revision_count": 0
-  },
-  {
-    "question": "Yogesh Patel, BJP MLA who passed away, represented which Gujarat assembly constituency since 2012?",
-    "options": [
-      "A) Vadodara City",
-      "B) Surat East",
-      "C) Rajkot West",
-      "D) Manjalpur"
-    ],
-    "answer": "D) Manjalpur",
-    "explanation": "Yogesh Patel represented the Manjalpur Assembly constituency since 2012 and was re-elected in 2017 and 2022. He served as Minister for Narmada Development and Housing under former CM Vijay Rupani. Vadodara City, Surat East, and Rajkot West are other Gujarat constituencies but not his. #03June2026",
-    "type": "mcq",
-    "id": "POST_90",
-    "revision_count": 0
-  },
-  {
-    "question": "Telangana was carved out as India's 29th state under which legislative act?",
-    "options": [
-      "A) States Reorganisation Act, 1956",
-      "B) Andhra Pradesh Reorganisation Act, 2014",
-      "C) Telangana Statehood Act, 2013",
-      "D) Special Category States Act, 2014"
-    ],
-    "answer": "B) Andhra Pradesh Reorganisation Act, 2014",
-    "explanation": "Telangana became India's 29th state after bifurcation of Andhra Pradesh under the Andhra Pradesh Reorganisation Act, 2014. It celebrated its 11th Formation Day on 2 June 2026. The States Reorganisation Act 1956 reorganised states linguistically but did not create Telangana. Options C and D are fictitious acts. #03June2026",
-    "type": "mcq",
-    "id": "POST_91",
-    "revision_count": 0
-  },
-  {
-    "question": "World Bicycle Day is observed on 3 June every year. Which international day is observed on 5 June, often listed alongside June observances?",
-    "options": [
-      "A) World Ocean Day",
-      "B) World Food Safety Day",
-      "C) World Environment Day",
-      "D) World Milk Day"
-    ],
-    "answer": "C) World Environment Day",
-    "explanation": "World Bicycle Day is on 3 June, recognised by the UN. World Environment Day is on 5 June — frequently listed in proximity and often confused in exam questions. World Milk Day is 1 June (FAO); World Ocean Day is 8 June; World Food Safety Day is 7 June. #03June2026",
-    "type": "mcq",
-    "id": "POST_92",
-    "revision_count": 0
-  },
-  {
-    "id": "POST_45",
-    "title": "UPI Transactions Hit Record High in May 2026",
-    "content": "🏛️ Digital Payments Milestone\n\n👤 Who → National Payments Corporation of India (NPCI)\n\n📋 What → UPI recorded its highest-ever transaction volume and value in May 2026\n\n📍 Where → Pan-India\n\n🎯 Purpose → Marking a major milestone in India's digital payments ecosystem\n\n📌 Important Facts\n▪️ UPI processed 23.2 billion transactions worth ₹29.90 lakh crore in May 2026\n▪️ NPCI is an initiative of RBI and the Indian Banks' Association (IBA)\n▪️ NPCI is an umbrella organisation for operating retail payments and settlement systems in India\n\n⚠️ Exam Angle → UPI transaction volume (23.2 billion), value (₹29.90 lakh crore), and NPCI's parent bodies (RBI + IBA) are key data points for Banking exams\n\n#02June2026",
-    "type": "news",
-    "revision_count": 1
-  },
-  {
-    "question": "Which opposition MP was recently nominated by President Edgars Rinkevics as the next Prime Minister of Latvia?",
-    "options": [
-      "A) Krisjanis Karins",
-      "B) Evika Silina",
-      "C) Andris Kulbergs",
-      "D) Edvards Smiltens"
-    ],
-    "answer": "C) Andris Kulbergs",
-    "explanation": "Latvian President Edgars Rinkevics nominated opposition MP Andris Kulbergs from the United List party as the next Prime Minister following constitutional authority. #17May2026",
-    "type": "mcq",
-    "id": "POST_19",
-    "revision_count": 1
-  },
-  {
-    "id": "POST_46",
-    "title": "IRDAI Imposes ₹1 Crore Penalty on Nissan Renault Financial Services India",
-    "content": "🏛️ Insurance Regulatory Action\n\n👤 Who → Insurance Regulatory and Development Authority of India (IRDAI)\n\n📋 What → Imposed a ₹1 crore penalty on Nissan Renault Financial Services India Pvt Ltd\n\n📍 Where → New Delhi\n\n🎯 Purpose → Penalising violations of insurance regulations, particularly relating to motor insurance services\n\n📌 Important Facts\n▪️ Nissan Renault Financial Services India is classified as a Corporate Agent\n▪️ A Corporate Agent is an entity licensed by IRDAI to sell insurance products on behalf of insurance companies\n▪️ IRDAI was established in 1999 and is headquartered in Hyderabad\n\n⚠️ Exam Angle → IRDAI's role, penalty powers, establishment year (1999), HQ (Hyderabad), and the definition of Corporate Agent are standard insurance awareness questions in NIACL and LIC AAO exams\n\n#02June2026",
-    "type": "news",
-    "revision_count": 1
-  },
-  {
-    "question": "The Supreme Court (Number of Judges) Amendment Ordinance, 2026, has increased the sanctioned strength of Supreme Court judges to how many (excluding the CJI)?",
-    "options": [
-      "A) 31",
-      "B) 34",
-      "C) 37",
-      "D) 39"
-    ],
-    "answer": "C) 37",
-    "explanation": "President Murmu approved an increase in Supreme Court judges from 33 to 37 (excluding the CJI) via an ordinance under Article 123 to address case backlogs. #17May2026",
-    "type": "mcq",
-    "id": "POST_20",
-    "revision_count": 1
-  },
-  {
-    "id": "POST_47",
-    "title": "Mahindra Manulife Insurance Ltd Comes into Existence",
-    "content": "🏛️ Insurance Sector Joint Venture\n\n👤 Who → Mahindra Group and Manulife Financial Corporation (Canada)\n\n📋 What → Mahindra Manulife Insurance Ltd (MMIL) officially came into existence after receiving the Certificate of Incorporation from the Ministry of Corporate Affairs (MCA)\n\n📍 Where → India\n\n🎯 Purpose → Expanding life insurance coverage and bringing in foreign expertise through a joint venture\n\n📌 Important Facts\n▪️ MMIL is a joint venture (JV) between Mahindra Group (India) and Manulife Financial Corporation (Canada)\n▪️ Certificate of Incorporation was granted by the Ministry of Corporate Affairs (MCA)\n▪️ Manulife is one of Canada's largest insurance and financial services companies\n\n⚠️ Exam Angle → JV partner details (Mahindra + Manulife/Canada), the regulatory body granting incorporation (MCA), and the full-form of MMIL are exam-relevant data points\n\n#02June2026",
-    "type": "news",
-    "revision_count": 1
-  },
-  {
     "question": "Brajesh Kumar Singh was recently appointed as MD and CEO of Canara Bank. Which bank was he serving as Executive Director before this appointment, and what is his tenure end date?",
     "options": [
       "A) Bank of Baroda — 30 June 2028",
@@ -320,13 +61,6 @@
     "explanation": "Brajesh Kumar Singh was Executive Director of Indian Bank before being appointed MD & CEO of Canara Bank (HQ: Bengaluru). Tenure: till 30 April 2029 (superannuation). He succeeds K. Satyanarayana Raju. Bank of Baroda, PNB, Union Bank are distractors from the PSB space. #02June2026",
     "type": "mcq",
     "id": "POST_21",
-    "revision_count": 1
-  },
-  {
-    "id": "POST_48",
-    "title": "Malaysia Bars Under-16s from Signing Up for Social Media",
-    "content": "🏛️ International Digital Regulation\n\n👤 Who → Government of Malaysia\n\n📋 What → Began enforcing new regulations that bar children below the age of 16 from registering accounts on social media platforms\n\n📍 Where → Malaysia\n\n🎯 Purpose → Protecting minors from harmful digital content and social media addiction\n\n📌 Important Facts\n▪️ The regulations came into effect on 1 June 2026\n▪️ The first country to actually enforce a nationwide social media ban for children under 16 was Australia\n\n⚠️ Exam Angle → The distinction that Australia was the first nation to enforce this ban (not Malaysia) is a critical negative-marking trap for current affairs questions\n\n#02June2026",
-    "type": "news",
     "revision_count": 1
   },
   {
@@ -344,13 +78,6 @@
     "revision_count": 1
   },
   {
-    "id": "POST_49",
-    "title": "India-Oman Comprehensive Economic Partnership Agreement CEPA Operationalised",
-    "content": "🏛️ Bilateral Trade Agreement Milestone\n\n👤 Who → Government of India and Government of Oman\n\n📋 What → Operationalised the Comprehensive Economic Partnership Agreement (CEPA) on 1 June 2026\n\n📍 Where → New Delhi / Muscat\n\n🎯 Purpose → Marking a major milestone in bilateral trade and economic relations between India and Oman\n\n📌 Important Facts\n▪️ Oman granted duty-free access to 99.38% of India's exports by value\n▪️ The concession covers 98.08% of Oman's tariff lines\n▪️ CEPA stands for Comprehensive Economic Partnership Agreement\n\n⚠️ Exam Angle → The specific trade coverage figures (99.38% of India's exports; 98.08% of Oman's tariff lines) are high-precision data points likely to appear in Banking and UPSC prelims\n\n#02June2026",
-    "type": "news",
-    "revision_count": 1
-  },
-  {
     "question": "Defence Secretary Rajesh Kumar Singh was given additional charge of DRDO Chairman. Why was this additional charge necessitated?",
     "options": [
       "A) The previous Chairman resigned citing personal reasons",
@@ -362,13 +89,6 @@
     "explanation": "The additional charge was given because the extended tenure of incumbent DRDO Chairman Samir V Kamat ended. DRDO (est. 1958, HQ: New Delhi) functions under Ministry of Defence. Resignation, Cabinet elevation, and restructuring are fabricated distractors. #02June2026",
     "type": "mcq",
     "id": "POST_23",
-    "revision_count": 1
-  },
-  {
-    "id": "POST_50",
-    "title": "BHASHINI Signs Agreement with DPIIT to Strengthen Multilingual Digital Capabilities",
-    "content": "🏛️ Digital Language Technology Collaboration\n\n👤 Who → Digital India BHASHINI Division (DIBD) and Department for Promotion of Industry and Internal Trade (DPIIT)\n\n📋 What → Signed an agreement to strengthen multilingual digital capabilities across India's industry and trade ecosystem through the BHASHINI Platform\n\n📍 Where → New Delhi\n\n🎯 Purpose → Enhancing multilingual access, governance, and service delivery across DPIIT's digital platforms\n\n📌 Important Facts\n▪️ BHASHINI is India's AI-powered language translation platform\n▪️ DPIIT functions under the Ministry of Commerce and Industry\n▪️ The collaboration targets multilingual digital access for industry stakeholders and citizens\n\n⚠️ Exam Angle → BHASHINI's full form and parent ministry, DPIIT's parent ministry (Commerce & Industry), and this MoU's purpose are standard digital India questions\n\n#02June2026",
-    "type": "news",
     "revision_count": 1
   },
   {
@@ -386,13 +106,6 @@
     "revision_count": 1
   },
   {
-    "id": "POST_51",
-    "title": "Ministry of Jal Shakti and ISRO Sign MoU for Space-Based Water Resource Management",
-    "content": "🏛️ Space-Water Sector Collaboration\n\n👤 Who → Ministry of Jal Shakti and Indian Space Research Organisation (ISRO)\n\n📋 What → Signed a Memorandum of Understanding (MoU) to enhance the use of satellite technology and space-based applications for water resource management in India\n\n📍 Where → New Delhi (during the National Workshop on R&D in the Water Sector)\n\n🎯 Purpose → Leveraging ISRO's satellite capabilities for efficient water monitoring and conservation\n\n📌 Important Facts\n▪️ Union Jal Shakti Minister C. R. Patil launched the third phase of the Jal Sanchay Jan Bhagidari (JSJB) Campaign\n▪️ Target: Create 2 crore water conservation structures between June 2026 and May 2027\n▪️ The Bharat WIN Platform (Bharat Water Innovation Network) was introduced to promote innovation in the water sector\n\n⚠️ Exam Angle → MoU between ISRO and Jal Shakti, JSJB campaign phase number (3rd), target structures (2 crore), and the Bharat WIN Platform are all exam-ready facts\n\n#02June2026",
-    "type": "news",
-    "revision_count": 1
-  },
-  {
     "question": "GST collection for May 2026 was ₹1.94 lakh crore. Which month recorded the all-time high GST collection and what was that figure?",
     "options": [
       "A) March 2026 — ₹1.78 lakh crore",
@@ -404,13 +117,6 @@
     "explanation": "April 2026 recorded the all-time high GST collection of ₹2.43 lakh crore (8.7% YoY growth). May 2026 was ₹1.94 lakh crore (3.2% YoY). Chart data: Jan ₹1.93L, Feb ₹1.83L, Mar ₹1.78L, Apr ₹2.43L, May ₹1.94L (est). All other months are distractors using actual chart values. #02June2026",
     "type": "mcq",
     "id": "POST_25",
-    "revision_count": 1
-  },
-  {
-    "id": "POST_52",
-    "title": "MAHA-Water Mission Launched to Boost Water Innovation and Startups",
-    "content": "🏛️ National Water Innovation Programme\n\n👤 Who → Anusandhan National Research Foundation (ANRF) and Ministry of Jal Shakti\n\n📋 What → Jointly launched the MAHA-Water Mission, a ₹200 crore national programme\n\n📍 Where → New Delhi\n\n🎯 Purpose → Promoting research, innovation, and startup-led solutions in India's water sector\n\n📌 Important Facts\n▪️ MAHA stands for Mission for Advancement in High-Impact Areas\n▪️ Selected multidisciplinary consortia can receive up to ₹20 crore per project\n▪️ The mission was launched by Union Minister of State for Science & Technology, Earth Sciences, Dr. Jitendra Singh\n\n⚠️ Exam Angle → MAHA full form, fund size (₹200 crore), per-project grant (₹20 crore), and the parent bodies (ANRF + Jal Shakti) are key facts for Science & Technology and Economy sections\n\n#02June2026",
-    "type": "news",
     "revision_count": 1
   },
   {
@@ -426,48 +132,6 @@
     "type": "mcq",
     "id": "POST_26",
     "revision_count": 1
-  },
-  {
-    "id": "POST_93",
-    "title": "DK Shivakumar Sworn In as 25th Karnataka Chief Minister",
-    "content": "🏛️ Karnataka Gets New Chief Minister\n\n👤 Who → D K Shivakumar (Senior Congress Leader)\n\n📋 What → Sworn in as the 25th Chief Minister of Karnataka\n\n📍 Where → Karnataka (Capital: Bengaluru)\n\n🎯 Purpose → Formation of new state government in Karnataka\n\n📌 Important Facts\n▪️ Governor Thaawarchand Gehlot administered the oath of office\n▪️ Dr G Parameshwar sworn in as Deputy Chief Minister\n▪️ Karnataka National Parks: Bandipur, Bannerghatta, Kudremukh, Nagarhole (Rajiv Gandhi National Park)\n▪️ Tiger Reserves: Bandipur, Bhadra, Nagarahole, Kali (formerly Dandeli-Anshi), Bhadra Biligiri Rangaswamy Temple\n\n⚠️ Exam Angle → 25th CM of Karnataka, Governor's name (Thaawarchand Gehlot), and Deputy CM (Dr G Parameshwar) are likely MCQ targets\n\n#04June2026",
-    "type": "news",
-    "revision_count": 0
-  },
-  {
-    "id": "POST_94",
-    "title": "Union Minister Jitendra Singh Launches AI-Enabled CPGRAMS Voice Chatbot SAMADHAN DIDI",
-    "content": "🏛️ AI Chatbot for Public Grievance Redressal Launched\n\n👤 Who → Dr. Jitendra Singh, Union Minister of State for Personnel, Public Grievances and Pensions\n\n📋 What → Launched AI-enabled CPGRAMS Voice Chatbot – 'SAMADHAN DIDI'\n\n📍 Where → New Delhi\n\n🎯 Purpose → To make the public grievance redressal system more accessible, multilingual and citizen-friendly\n\n📌 Important Facts\n▪️ Developed by DARPG (Department of Administrative Reforms and Public Grievances) in collaboration with BHASHINI\n▪️ Supports all 22 Scheduled Languages of India\n▪️ CPGRAMS = Centralized Public Grievance Redress and Monitoring System\n▪️ BHASHINI = BHASHa INterface for India – India's AI-powered language translation platform under MeitY\n\n⚠️ Exam Angle → Full form of CPGRAMS, developer (DARPG + BHASHINI), language support (22 Scheduled Languages) are key exam points\n\n#04June2026",
-    "type": "news",
-    "revision_count": 0
-  },
-  {
-    "id": "POST_95",
-    "title": "Navachar Mantra Launched to Support Grassroots Innovators and Entrepreneurs",
-    "content": "🏛️ Flagship Innovation Programme Launched\n\n👤 Who → Jayant Chaudhary, Union Minister for Skill Development and Entrepreneurship\n\n📋 What → Launched 'Navachar Mantra', a flagship national programme\n\n📍 Where → India (National Level)\n\n🎯 Purpose → To identify, mentor and scale grassroots innovations across the country; transform innovative ideas into successful ventures\n\n📌 Important Facts\n▪️ Aimed at supporting innovators and entrepreneurs at the grassroots level\n▪️ Focuses on providing mentoring and scaling support\n▪️ Launched by the Ministry of Skill Development and Entrepreneurship\n\n⚠️ Exam Angle → Navachar Mantra launched by which ministry/minister, and its objective (grassroots innovation) are likely exam questions\n\n#04June2026",
-    "type": "news",
-    "revision_count": 0
-  },
-  {
-    "id": "POST_96",
-    "title": "Government Approves ₹10,000 Crore ATF Price Stabilisation Fund for Indian Airlines",
-    "content": "🏛️ Cabinet Approves Fuel Stabilisation Support for Airlines\n\n👤 Who → Union Cabinet of India\n\n📋 What → Approved a one-time budgetary support of ₹10,000 crore for Oil Marketing Companies (OMCs) for Aviation Turbine Fuel (ATF) price stabilisation\n\n📍 Where → India\n\n🎯 Purpose → To shield Indian airlines from sharp fuel price rise caused by the ongoing West Asia crisis\n\n📌 Important Facts\n▪️ Beneficiaries: Indian airlines (Domestic & International Operations)\n▪️ Duration: 36 Months\n▪️ Nature: Self-Sustaining Revolving Fund\n▪️ Airlines must sign MoU with OMCs and purchase ATF only from participating OMCs\n▪️ Support valid for up to 3 years OR until the entire advance amount is recovered, whichever is earlier\n▪️ Aviation Turbine Fuel (ATF): Specialised fuel used for commercial, cargo, and military aircraft\n\n⚠️ Exam Angle → Fund amount (₹10,000 crore), duration (36 months), fund nature (self-sustaining revolving fund), and beneficiaries are key exam points\n\n#04June2026",
-    "type": "news",
-    "revision_count": 0
-  },
-  {
-    "id": "POST_97",
-    "title": "IEPFA and SEBI to Organise Niveshak Shivir in Bhopal on 5th June",
-    "content": "🏛️ Investor Awareness Camp to be Held in Bhopal\n\n👤 Who → IEPFA (Investor Education and Protection Fund Authority) and SEBI (Securities and Exchange Board of India)\n\n📋 What → Organising a day-long 'Niveshak Shivir' in Bhopal\n\n📍 Where → Bhopal, Madhya Pradesh\n\n🎯 Purpose → To assist investors in resolving issues related to unclaimed dividends and shares; enable direct access to investor services and on-ground grievance redressal\n\n📌 Important Facts\n▪️ IEPFA is under the Ministry of Corporate Affairs, Government of India\n▪️ The 'Shivir' acts as a one-stop facilitation platform for investors\n▪️ Enables direct access to investor services and grievance redressal mechanisms\n\n⚠️ Exam Angle → IEPFA's parent ministry (Ministry of Corporate Affairs), purpose of Niveshak Shivir, and venue (Bhopal) are likely exam points\n\n#04June2026",
-    "type": "news",
-    "revision_count": 0
-  },
-  {
-    "id": "POST_98",
-    "title": "Russia Delivers Fourth Squadron of S-400 Air Defence System to India",
-    "content": "🏛️ India Receives Fourth S-400 Triumf Squadron from Russia\n\n👤 Who → India (receiver); Russia (supplier)\n\n📋 What → India received the fourth squadron of the Russian-made S-400 Triumf Air Defence System\n\n📍 Where → India\n\n🎯 Purpose → Strengthening India's long-range surface-to-air missile defence capability\n\n📌 Important Facts\n▪️ Part of the $5.43 billion (approx. ₹40,000 crore+) India-Russia agreement signed in 2018\n▪️ Total procurement: Five S-400 squadrons\n▪️ Type: Long-Range Surface-to-Air Missile (SAM) System\n▪️ This is the fourth of five contracted squadrons\n\n⚠️ Exam Angle → Deal value ($5.43 billion), year of agreement (2018), total squadrons (5), type (Long-Range SAM) are standard exam targets\n\n#04June2026",
-    "type": "news",
-    "revision_count": 0
   },
   {
     "id": "POST_99",
@@ -1203,5 +867,698 @@
     "type": "mcq",
     "id": "POST_78",
     "revision_count": 1
+  },
+  {
+    "id": "POST_43",
+    "title": "India's Industrial Output IIP Grows 4.9% in April 2026",
+    "content": "🏛️ National Industrial Performance Data\n\n👤 Who → Ministry of Statistics and Programme Implementation (MoSPI)\n\n📋 What → Released the Index of Industrial Production (IIP) data showing 4.9% growth in April 2026\n\n📍 Where → New Delhi\n\n🎯 Purpose → Measuring and tracking factory output and industrial activity across India\n\n📌 Important Facts\n▪️ This is the first IIP data released under the new base year 2022-23\n▪️ Growth rate: 4.9% in April 2026\n▪️ IIP data is released by MoSPI (Ministry of Statistics and Programme Implementation)\n\n⚠️ Exam Angle → The significance of this being the first data under base year 2022-23 and the exact growth figure (4.9%) are high-yield points for Banking and SSC exams\n\n#02June2026",
+    "type": "news",
+    "revision_count": 2
+  },
+  {
+    "question": "After the 2026 revision, the WPI basket will expand from 697 commodities to how many?",
+    "options": [
+      "A) 803",
+      "B) 900",
+      "C) 957",
+      "D) 1500"
+    ],
+    "answer": "C) 957",
+    "explanation": "The revised WPI basket expands from 697 to 957 commodities, adding new items like solar energy, wind energy, and nuclear electricity. 803 is a figure from comparison charts in the DPIIT data; 1,500 refers to items under Output PPI's 123 product categories — not the WPI basket count. #03June2026",
+    "type": "mcq",
+    "id": "POST_79",
+    "revision_count": 1
+  },
+  {
+    "id": "POST_44",
+    "title": "GST Revenue Tops ₹1.94 Lakh Crore in May 2026",
+    "content": "🏛️ National Fiscal Revenue Milestone\n\n👤 Who → Government of India\n\n📋 What → Gross GST collection for May 2026 stood at ₹1.94 lakh crore\n\n📍 Where → Pan-India\n\n🎯 Purpose → Tracking indirect tax revenue performance and fiscal health of the Indian economy\n\n📌 Important Facts\n▪️ Growth of 3.2% over the corresponding period of last year\n▪️ GST collection for April 2026 reached an all-time high of ₹2.43 lakh crore, reflecting 8.7% year-on-year growth\n▪️ GST was implemented in India on 1 July 2017\n\n⚠️ Exam Angle → Monthly GST figures, all-time high values (₹2.43 lakh crore in April 2026), and growth percentages are standard data points in Banking and State exam current affairs\n\n#02June2026",
+    "type": "news",
+    "revision_count": 2
+  },
+  {
+    "question": "Unlike WPI, the Producer Price Index (PPI) captures prices at which level of the supply chain?",
+    "options": [
+      "A) Retail/consumer level",
+      "B) Wholesale/trader level",
+      "C) Producer level (farm-gate/factory-gate)",
+      "D) Import/port-entry level"
+    ],
+    "answer": "C) Producer level (farm-gate/factory-gate)",
+    "explanation": "PPI captures prices at the producer level — farm-gate or factory-gate — and includes both goods and services. WPI measures at the wholesale level. Output PPI covers 123 product categories (~1,500 items). Service PPI covers 7 sectors including banking, insurance, and railways. #03June2026",
+    "type": "mcq",
+    "id": "POST_80",
+    "revision_count": 1
+  },
+  {
+    "id": "POST_45",
+    "title": "UPI Transactions Hit Record High in May 2026",
+    "content": "🏛️ Digital Payments Milestone\n\n👤 Who → National Payments Corporation of India (NPCI)\n\n📋 What → UPI recorded its highest-ever transaction volume and value in May 2026\n\n📍 Where → Pan-India\n\n🎯 Purpose → Marking a major milestone in India's digital payments ecosystem\n\n📌 Important Facts\n▪️ UPI processed 23.2 billion transactions worth ₹29.90 lakh crore in May 2026\n▪️ NPCI is an initiative of RBI and the Indian Banks' Association (IBA)\n▪️ NPCI is an umbrella organisation for operating retail payments and settlement systems in India\n\n⚠️ Exam Angle → UPI transaction volume (23.2 billion), value (₹29.90 lakh crore), and NPCI's parent bodies (RBI + IBA) are key data points for Banking exams\n\n#02June2026",
+    "type": "news",
+    "revision_count": 2
+  },
+  {
+    "question": "IFSCA, which granted Indian Overseas Bank a licence for its GIFT City branch, was formed on which date?",
+    "options": [
+      "A) 1 April 2019",
+      "B) 27 April 2020",
+      "C) 15 August 2020",
+      "D) 1 January 2021"
+    ],
+    "answer": "B) 27 April 2020",
+    "explanation": "IFSCA (International Financial Services Centres Authority) was formed on 27 April 2020, HQ: GIFT City, Gandhinagar, Gujarat. It is the unified regulator for all financial services in India's IFSCs. IOB received its licence to establish a GIFT City branch. The other dates are incorrect. #03June2026",
+    "type": "mcq",
+    "id": "POST_81",
+    "revision_count": 1
+  },
+  {
+    "id": "POST_46",
+    "title": "IRDAI Imposes ₹1 Crore Penalty on Nissan Renault Financial Services India",
+    "content": "🏛️ Insurance Regulatory Action\n\n👤 Who → Insurance Regulatory and Development Authority of India (IRDAI)\n\n📋 What → Imposed a ₹1 crore penalty on Nissan Renault Financial Services India Pvt Ltd\n\n📍 Where → New Delhi\n\n🎯 Purpose → Penalising violations of insurance regulations, particularly relating to motor insurance services\n\n📌 Important Facts\n▪️ Nissan Renault Financial Services India is classified as a Corporate Agent\n▪️ A Corporate Agent is an entity licensed by IRDAI to sell insurance products on behalf of insurance companies\n▪️ IRDAI was established in 1999 and is headquartered in Hyderabad\n\n⚠️ Exam Angle → IRDAI's role, penalty powers, establishment year (1999), HQ (Hyderabad), and the definition of Corporate Agent are standard insurance awareness questions in NIACL and LIC AAO exams\n\n#02June2026",
+    "type": "news",
+    "revision_count": 2
+  },
+  {
+    "question": "BharatPe Flex, a Credit-on-UPI solution, was launched in partnership with which bank?",
+    "options": [
+      "A) HDFC Bank",
+      "B) Kotak Mahindra Bank",
+      "C) Axis Bank",
+      "D) YES BANK"
+    ],
+    "answer": "D) YES BANK",
+    "explanation": "BharatPe partnered with YES BANK to launch 'BharatPe Flex' — a Credit-on-UPI solution allowing UPI payments via a pre-approved credit line instead of the user's savings account balance. HDFC, Kotak Mahindra, and Axis are plausible distractors but are not BharatPe's partner for this product. #03June2026",
+    "type": "mcq",
+    "id": "POST_82",
+    "revision_count": 1
+  },
+  {
+    "id": "POST_47",
+    "title": "Mahindra Manulife Insurance Ltd Comes into Existence",
+    "content": "🏛️ Insurance Sector Joint Venture\n\n👤 Who → Mahindra Group and Manulife Financial Corporation (Canada)\n\n📋 What → Mahindra Manulife Insurance Ltd (MMIL) officially came into existence after receiving the Certificate of Incorporation from the Ministry of Corporate Affairs (MCA)\n\n📍 Where → India\n\n🎯 Purpose → Expanding life insurance coverage and bringing in foreign expertise through a joint venture\n\n📌 Important Facts\n▪️ MMIL is a joint venture (JV) between Mahindra Group (India) and Manulife Financial Corporation (Canada)\n▪️ Certificate of Incorporation was granted by the Ministry of Corporate Affairs (MCA)\n▪️ Manulife is one of Canada's largest insurance and financial services companies\n\n⚠️ Exam Angle → JV partner details (Mahindra + Manulife/Canada), the regulatory body granting incorporation (MCA), and the full-form of MMIL are exam-relevant data points\n\n#02June2026",
+    "type": "news",
+    "revision_count": 2
+  },
+  {
+    "question": "UPI payments for Indian tourists in Cambodia work by scanning which country's national QR code system?",
+    "options": [
+      "A) PromptPay QR — Thailand",
+      "B) PayNow QR — Singapore",
+      "C) Bakong's KHQR — Cambodia",
+      "D) DuitNow QR — Malaysia"
+    ],
+    "answer": "C) Bakong's KHQR — Cambodia",
+    "explanation": "Indian tourists make UPI payments in Cambodia by scanning Bakong's KHQR codes — Cambodia's national QR code system. This was enabled by a partnership between NPCI International Payments Limited (NIPL) and ACLEDA Bank Plc. PromptPay is Thailand's, PayNow is Singapore's, and DuitNow is Malaysia's system. #03June2026",
+    "type": "mcq",
+    "id": "POST_83",
+    "revision_count": 1
+  },
+  {
+    "id": "POST_48",
+    "title": "Malaysia Bars Under-16s from Signing Up for Social Media",
+    "content": "🏛️ International Digital Regulation\n\n👤 Who → Government of Malaysia\n\n📋 What → Began enforcing new regulations that bar children below the age of 16 from registering accounts on social media platforms\n\n📍 Where → Malaysia\n\n🎯 Purpose → Protecting minors from harmful digital content and social media addiction\n\n📌 Important Facts\n▪️ The regulations came into effect on 1 June 2026\n▪️ The first country to actually enforce a nationwide social media ban for children under 16 was Australia\n\n⚠️ Exam Angle → The distinction that Australia was the first nation to enforce this ban (not Malaysia) is a critical negative-marking trap for current affairs questions\n\n#02June2026",
+    "type": "news",
+    "revision_count": 2
+  },
+  {
+    "question": "WAVES OTT platform, which crossed one crore registered users, is operated by which organisation?",
+    "options": [
+      "A) Doordarshan",
+      "B) All India Radio",
+      "C) Prasar Bharati",
+      "D) Ministry of Information and Broadcasting"
+    ],
+    "answer": "C) Prasar Bharati",
+    "explanation": "WAVES (World Audio Visual Entertainment Services) is Prasar Bharati's OTT platform. It crossed 1 crore users in under two years since its November 2024 launch. Prasar Bharati was formed on 23 November 1997, HQ: New Delhi, under the Ministry of Information and Broadcasting. Doordarshan and AIR are Prasar Bharati subsidiaries. #03June2026",
+    "type": "mcq",
+    "id": "POST_84",
+    "revision_count": 1
+  },
+  {
+    "id": "POST_49",
+    "title": "India-Oman Comprehensive Economic Partnership Agreement CEPA Operationalised",
+    "content": "🏛️ Bilateral Trade Agreement Milestone\n\n👤 Who → Government of India and Government of Oman\n\n📋 What → Operationalised the Comprehensive Economic Partnership Agreement (CEPA) on 1 June 2026\n\n📍 Where → New Delhi / Muscat\n\n🎯 Purpose → Marking a major milestone in bilateral trade and economic relations between India and Oman\n\n📌 Important Facts\n▪️ Oman granted duty-free access to 99.38% of India's exports by value\n▪️ The concession covers 98.08% of Oman's tariff lines\n▪️ CEPA stands for Comprehensive Economic Partnership Agreement\n\n⚠️ Exam Angle → The specific trade coverage figures (99.38% of India's exports; 98.08% of Oman's tariff lines) are high-precision data points likely to appear in Banking and UPSC prelims\n\n#02June2026",
+    "type": "news",
+    "revision_count": 2
+  },
+  {
+    "question": "By which target date does WAVES OTT aim to reach 2 crore registered users?",
+    "options": [
+      "A) November 2026",
+      "B) December 2026",
+      "C) March 2027",
+      "D) June 2027"
+    ],
+    "answer": "C) March 2027",
+    "explanation": "WAVES OTT aims to achieve 2 crore registered users by March 2027. It crossed 1 crore in less than two years from its November 2024 launch. Prasar Bharati operates WAVES under the Ministry of Information and Broadcasting. The other date options are incorrect. #03June2026",
+    "type": "mcq",
+    "id": "POST_85",
+    "revision_count": 1
+  },
+  {
+    "id": "POST_116",
+    "title": "Austria, Portugal, Trinidad and Tobago and Zimbabwe Elected to UN Security Council",
+    "content": "🏛️ UNGA Elects New Non-Permanent Members to UNSC\n\n👤 Who → Austria, Kyrgyzstan, Portugal, Trinidad and Tobago, and Zimbabwe\n\n📋 What → Elected as non-permanent members of the United Nations Security Council (UNSC) for a two-year term\n\n📍 Where → United Nations General Assembly (UNGA)\n\n🎯 Purpose → To fill the non-permanent seats in the UNSC beginning 1 January 2027\n\n📌 Important Facts\n▪️ Term begins: 1 January 2027\n▪️ They will replace: Denmark, Greece, Pakistan, Panama, and Somalia\n▪️ UNSC has 5 permanent members (P5) and 10 non-permanent members\n▪️ Non-permanent members are elected by UNGA for 2-year terms\n▪️ 5 new members are elected each year\n\n⚠️ Exam Angle → Names of newly elected members, term start date (1 January 2027), and the countries being replaced are standard exam targets\n\n#05June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_117",
+    "title": "Visa Appoints Shah Rukh Khan as Brand Ambassador for India Campaign",
+    "content": "🏛️ Bollywood Star Named Brand Ambassador for Global Payments Brand\n\n👤 Who → Shah Rukh Khan (appointed); Visa (company)\n\n📋 What → Shah Rukh Khan appointed as the new brand ambassador for Visa India\n\n📍 Where → India\n\n🎯 Purpose → To promote Visa's new campaign titled 'Infinitely More' in India\n\n📌 Important Facts\n▪️ New campaign name: 'Infinitely More'\n▪️ Visa is a global digital payments company\n▪️ Shah Rukh Khan is one of India's most recognised celebrities\n\n⚠️ Exam Angle → Brand ambassador name (Shah Rukh Khan), company (Visa), and campaign name ('Infinitely More') are likely exam points\n\n#05June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_118",
+    "title": "PM Surya Ghar Muft Bijli Yojana Targets 75 Lakh Households by December 2026",
+    "content": "🏛️ Rooftop Solar Scheme Sets New Milestone Target\n\n👤 Who → Ministry of New and Renewable Energy (MNRE); launched by PM Narendra Modi\n\n📋 What → Target set to install rooftop solar systems in 75 lakh households by December 2026 under PM Surya Ghar: Muft Bijli Yojana (PMSG: MBY)\n\n📍 Where → India (nationwide)\n\n🎯 Purpose → To provide up to 300 units of free electricity per month through rooftop solar; reduce household energy costs\n\n📌 Important Facts\n▪️ Launched: 13 February 2024 by PM Narendra Modi\n▪️ Implementing Ministry: MNRE\n▪️ Total Financial Outlay: ₹75,021 crore\n▪️ Overall target: 1 crore households by March 2027\n▪️ Subsidy: ₹30,000 (1 kW) | ₹60,000 (2 kW) | ₹78,000 max (3 kW+)\n▪️ Free electricity: Up to 300 units/month\n\n⚠️ Exam Angle → Launch date (13 Feb 2024), financial outlay (₹75,021 crore), subsidy slabs, and implementing ministry (MNRE) are key exam points\n\n#05June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_119",
+    "title": "VYOMA Innovation Challenge Launched by Digital India BHASHINI Division",
+    "content": "🏛️ AI Innovation Challenge for Offline Multilingual Solutions Launched\n\n👤 Who → Digital India BHASHINI Division (DIBD), in collaboration with Current AI and Kalpa Impact\n\n📋 What → Launched VYOMA Innovation Challenge to promote open-source, multilingual, voice-first AI solutions for offline and low-connectivity environments\n\n📍 Where → India\n\n🎯 Purpose → Develop AI solutions that work offline and in low-connectivity environments; build on Sunno Sutra handheld AI device\n\n📌 Important Facts\n▪️ Based on Sunno Sutra — multilingual, voice-first, open-source handheld AI device developed by BHASHINI and Current AI\n▪️ Sunno Sutra unveiled at IndiaAI Impact Summit 2026\n▪️ Prize money: Up to ₹80 lakh for winning teams\n▪️ DIBD = Digital India BHASHINI Division\n▪️ BHASHINI functions under Digital India Corporation (DIC) under MeitY\n▪️ Operates through National Hub for Language Technology (NHLT)\n\n⚠️ Exam Angle → Challenge name (VYOMA), organiser (DIBD), prize (₹80 lakh), and base device (Sunno Sutra) are likely exam questions\n\n#05June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_120",
+    "title": "India Launches First Flex-Fuel Passenger Vehicle WagonR",
+    "content": "🏛️ India's First Flex-Fuel Vehicle Unveiled\n\n👤 Who → Union Minister Hardeep Singh Puri (Petroleum & Natural Gas) and Nitin Gadkari (Road Transport & Highways); developed by Maruti Suzuki\n\n📋 What → Launched India's first flex-fuel passenger vehicle — WagonR developed by Maruti Suzuki\n\n📍 Where → New Delhi\n\n🎯 Purpose → To promote ethanol-blended fuel usage and reduce dependence on fossil fuels in the transport sector\n\n📌 Important Facts\n▪️ FFV (Flex-Fuel Vehicle) can run on blends from E20 to E100\n▪️ E20 = 20% Ethanol + 80% Petrol; E100 = 100% Ethanol\n▪️ Ethanol is produced from: Sugarcane, Maize (Corn), Damaged food grains, Rice\n▪️ Agricultural feedstock is converted into biofuel\n▪️ Manufacturer: Maruti Suzuki\n\n⚠️ Exam Angle → First flex-fuel passenger vehicle name (WagonR), manufacturer (Maruti Suzuki), fuel range (E20–E100), and ethanol sources are key exam points\n\n#05June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_121",
+    "title": "MY Bharat Earns Guinness World Record for Most Users Taking Online Quiz in One Week",
+    "content": "🏛️ Mera Yuva Bharat Platform Achieves Global Recognition\n\n👤 Who → Mera Yuva Bharat (MY Bharat); Guinness World Records certificate received by Mansukh Mandaviya\n\n📋 What → MY Bharat officially recognised by Guinness World Records for 'Most Users to Take an Online Quiz in One Week'\n\n📍 Where → India\n\n🎯 Purpose → Recognition of youth participation through the Viksit Bharat Young Leaders' Dialogue 2026 Quiz\n\n📌 Important Facts\n▪️ Record achieved via: Viksit Bharat Young Leaders' Dialogue 2026 Quiz (25–31 October 2025)\n▪️ Certificate received by: Mansukh Mandaviya\n▪️ MY Bharat launched: 31 October 2023\n▪️ Ministry: Ministry of Youth Affairs and Sports\n▪️ Target Group: Young people aged 15–29 years\n▪️ Objective: Youth empowerment and nation-building\n\n⚠️ Exam Angle → Platform name (MY Bharat), launch date (31 Oct 2023), ministry, target age group (15–29), and record category are all exam-worthy facts\n\n#05June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_122",
+    "title": "Scindia Launches Mission Senehjori to Make Assam's Muga Silk a Global Luxury Brand",
+    "content": "🏛️ Cluster-Based Mission to Elevate Muga Silk Sector Launched\n\n👤 Who → Jyotiraditya Scindia, Union Minister for Development of North Eastern Region (DoNER)\n\n📋 What → Launched Mission Senehjori — a cluster-based initiative to transform Assam's Muga Silk sector into a globally competitive luxury textile ecosystem\n\n📍 Where → Assam / North East India\n\n🎯 Purpose → To make Assam's Muga Silk a global luxury brand; support weavers and silk producers\n\n📌 Important Facts\n▪️ Launched by Ministry of Development of North Eastern Region (DoNER)\n▪️ Assam produces ~90% of the world's Muga Silk\n▪️ Muga Silk: Natural golden colour, high durability, premium luxury fabric\n▪️ Muga Silk is India's first GI-tagged silk\n▪️ Financial Outlay: ₹396–411 crore (Total); DoNER contribution: ₹136–151 crore; Duration: 3 Years\n▪️ PM Modi gifted a Muga silk stole to Italian PM Meloni in Rome\n\n⚠️ Exam Angle → Mission name (Senehjori), GI tag (first GI-tagged silk), Assam's share (~90%), and launching ministry (DoNER) are key exam points\n\n#05June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_123",
+    "title": "University of Liverpool to Set Up Branch Campus in Bengaluru",
+    "content": "🏛️ UK University Receives Approval to Open Campus in India\n\n👤 Who → University of Liverpool (United Kingdom); approved by Ministry of Education, India\n\n📋 What → University of Liverpool received approval to establish its branch campus in Bengaluru, Karnataka\n\n📍 Where → Bengaluru, Karnataka\n\n🎯 Purpose → To expand quality higher education access in India under the National Education Policy 2020\n\n📌 Important Facts\n▪️ Letter of Approval (LoA) handed over in presence of External Affairs Minister Dr. S. Jaishankar and UK Foreign Secretary Yvette Cooper\n▪️ NEP 2020 allows leading foreign universities to set up campuses in India\n▪️ University of Liverpool is based in the United Kingdom\n\n⚠️ Exam Angle → University name (Liverpool), location (Bengaluru), policy enabling this (NEP 2020), and dignitaries present (Jaishankar + Yvette Cooper) are exam-worthy\n\n#05June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_124",
+    "title": "India and UK Launch Critical Minerals Global Supply Chain Observatory (GSCO)",
+    "content": "🏛️ India-UK Platform to Track Global Critical Mineral Supply Chains\n\n👤 Who → G. Kishan Reddy (Union Minister for Coal and Mines, India) and Yvette Cooper (UK Secretary of State for Foreign, Commonwealth and Development Affairs)\n\n📋 What → Jointly launched the India-UK Critical Minerals Global Supply Chain Observatory (GSCO) in New Delhi\n\n📍 Where → New Delhi\n\n🎯 Purpose → To track global critical mineral supply chains and strengthen bilateral cooperation in the critical minerals sector\n\n📌 Important Facts\n▪️ GSCO = Critical Minerals Global Supply Chain Observatory\n▪️ Examples of Critical Minerals: Lithium, Cobalt, Nickel, Graphite, Rare Earth Elements (REEs), Copper\n▪️ Critical minerals are essential for clean energy, EVs, and defence technologies\n\n⚠️ Exam Angle → Full form of GSCO, critical minerals listed, and the two ministers who launched it are likely exam questions\n\n#05June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_125",
+    "title": "Germany Removes Airport Transit Visa Requirement for Indians",
+    "content": "🏛️ Germany Eases Travel Rules for Indian Nationals\n\n👤 Who → Germany (announcing country); Indian nationals (beneficiaries)\n\n📋 What → Germany abolished the Airport Transit Visa (ATV) requirement for Indian nationals, effective 3 June 2026\n\n📍 Where → Germany (announced by the German Embassy in India)\n\n🎯 Purpose → To ease transit travel for Indian passengers through German airports\n\n📌 Important Facts\n▪️ Effective date: 3 June 2026\n▪️ ATV (Airport Transit Visa) allows passengers to transit through the international area of an airport without entering the country\n▪️ Germany: Capital – Berlin | Currency – Euro | President – Frank-Walter Steinmeier | Chancellor – Friedrich Merz\n\n⚠️ Exam Angle → Effective date (3 June 2026), full form of ATV, and Germany's Chancellor (Friedrich Merz) are standard exam targets\n\n#05June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_126",
+    "title": "OECD Projects India's Growth at 6.3% in Financial Year 2026-27",
+    "content": "🏛️ OECD Releases Latest Economic Outlook for India\n\n👤 Who → Organisation for Economic Co-operation and Development (OECD)\n\n📋 What → Projected India's GDP growth at 6.3% in 2026-27 and 6.4% in 2027-28\n\n📍 Where → Global (OECD report)\n\n🎯 Purpose → To assess India's economic trajectory in the latest OECD Economic Outlook\n\n📌 Important Facts\n▪️ India's projected growth: 6.3% (2026-27) and 6.4% (2027-28)\n▪️ OECD Founded: 30 September 1961\n▪️ Headquarters: Paris, France\n▪️ Membership: 38 countries\n▪️ Secretary-General: Mathias Cormann\n\n⚠️ Exam Angle → Growth figures (6.3% and 6.4%), OECD HQ (Paris), founding date, membership count (38), and Secretary-General (Mathias Cormann) are exam-ready facts\n\n#05June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_127",
+    "title": "Jammu and Kashmir Bank Wins Gold at Finacle Innovation Awards 2026",
+    "content": "🏛️ J&K Bank Recognised for Technology-Led Innovation\n\n👤 Who → Jammu & Kashmir Bank (J&K Bank)\n\n📋 What → Won the Gold Award at Finacle Innovation Awards 2026 in the category 'Modern Technologies-led Innovation – Data Insights & Analytics Platform'\n\n📍 Where → Finacle India Connect 2026 event held in Mumbai\n\n🎯 Purpose → Recognition of J&K Bank's data analytics and technology innovation\n\n📌 Important Facts\n▪️ Award category: Modern Technologies-led Innovation – Data Insights & Analytics Platform\n▪️ Event: Finacle India Connect 2026, Mumbai\n▪️ J&K Bank Founded: 1 October 1938\n▪️ Headquarters: Srinagar, Jammu and Kashmir\n\n⚠️ Exam Angle → Award category, event name (Finacle India Connect 2026), J&K Bank founding year (1938), and HQ (Srinagar) are key exam points\n\n#05June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_128",
+    "title": "ADB and Standard Chartered Sign Agreements to Boost Supply Chain Finance in India",
+    "content": "🏛️ ADB-Standard Chartered Partnership for Trade Finance in India\n\n👤 Who → Asian Development Bank (ADB) and Standard Chartered Bank\n\n📋 What → Signed two agreements to strengthen trade finance and supply chain finance in India through risk-sharing arrangements covering both USD and INR transactions\n\n📍 Where → India (structured through GIFT City – Gujarat International Finance Tec-City)\n\n🎯 Purpose → To enhance trade finance and supply chain finance availability in India\n\n📌 Important Facts\n▪️ Structured through GIFT City (Gujarat International Finance Tec-City)\n▪️ Covers both US Dollar (USD) and Indian Rupee (INR) transactions\n▪️ ADB Formation: 19 December 1966\n▪️ ADB HQ: Manila, Philippines\n▪️ ADB Members: 69 countries (69th – Israel)\n▪️ ADB President: Masato Kanda (11th – Japan)\n\n⚠️ Exam Angle → ADB HQ (Manila), founding date (19 Dec 1966), president (Masato Kanda), member count (69), and GIFT City connection are all exam-ready\n\n#05June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_129",
+    "title": "NASA Declares MAVEN Mission Ended After More Than a Decade Around Mars",
+    "content": "🏛️ NASA Officially Ends Mars Atmosphere Mission\n\n👤 Who → NASA (National Aeronautics and Space Administration)\n\n📋 What → Officially declared the MAVEN (Mars Atmosphere and Volatile Evolution) mission ended after the spacecraft remained silent for nearly six months\n\n📍 Where → Mars (mission); Washington D.C., USA (NASA HQ)\n\n🎯 Purpose → MAVEN had been studying the atmosphere of Mars since 2014; mission ended after communication loss in December 2025\n\n📌 Important Facts\n▪️ MAVEN = Mars Atmosphere and Volatile Evolution\n▪️ Studying Mars atmosphere since: 2014\n▪️ Communication lost: December 2025 (after passing behind the Red Planet)\n▪️ NASA Formed: July 29, 1958\n▪️ NASA HQ: Washington, D.C., USA\n▪️ NASA Administrator: Jared Isaacman\n\n⚠️ Exam Angle → Full form of MAVEN, communication loss year (2025), mission start year (2014), and NASA Administrator (Jared Isaacman) are likely MCQ targets\n\n#05June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_130",
+    "title": "BALTOPS 2026: NATO's Major Naval Exercise in the Baltic Sea",
+    "content": "🏛️ US and NATO Allies Launch Large-Scale Baltic Naval Exercise\n\n👤 Who → United States and NATO allies; led by United States Navy\n\n📋 What → Launched BALTOPS 2026 (Baltic Operations) — one of the largest multinational naval exercises in the Baltic Sea\n\n📍 Where → Baltic Sea\n\n🎯 Purpose → To strengthen NATO naval interoperability and demonstrate collective defence capability in the Baltic region\n\n📌 Important Facts\n▪️ BALTOPS started: 1971\n▪️ Led by: United States Navy\n▪️ Participation: ~20 vessels, 15 countries, ~6,000 military personnel\n▪️ NATO Formation: 4 April 1949 | HQ: Brussels, Belgium\n▪️ NATO Members: 32 (32nd – Sweden)\n▪️ NATO Secretary-General: Mark Rutte\n\n⚠️ Exam Angle → BALTOPS start year (1971), leading nation (USA), NATO Secretary-General (Mark Rutte), NATO's 32nd member (Sweden), and HQ (Brussels) are standard exam points\n\n#05June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_131",
+    "title": "World Environment Day Observed on 5 June with Theme Now For Climate",
+    "content": "🏛️ Annual Global Day for Environmental Awareness Observed\n\n👤 Who → United Nations Environment Programme (UNEP); Host Country: Azerbaijan\n\n📋 What → World Environment Day (WED) celebrated on 5 June\n\n📍 Where → Worldwide; Host Country – Azerbaijan\n\n🎯 Purpose → To encourage awareness and action for the protection of the environment; theme emphasises urgent climate action\n\n📌 Important Facts\n▪️ Theme 2026: 'Now For Climate'\n▪️ Observed annually: 5 June\n▪️ Organised by: United Nations Environment Programme (UNEP)\n▪️ Host Country 2026: Azerbaijan\n▪️ Theme focus: World is dangerously close to exceeding the 1.5°C global warming threshold\n\n⚠️ Exam Angle → Theme 2026 ('Now For Climate'), date (5 June), host country (Azerbaijan), and organiser (UNEP) are all likely exam questions\n\n#05June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_132",
+    "title": "International Day for the Fight Against Illegal, Unreported and Unregulated Fishing Observed on 5 June",
+    "content": "🏛️ UN Observance Day for Combating Illegal Fishing\n\n👤 Who → United Nations / FAO\n\n📋 What → International Day for the Fight against Illegal, Unreported and Unregulated (IUU) Fishing observed\n\n📍 Where → Worldwide\n\n🎯 Purpose → To combat illegal, unreported, and unregulated fishing; protect marine biodiversity and sustainable fisheries\n\n📌 Important Facts\n▪️ Observed every year on: 5 June\n▪️ FAO report 'Review of the State of World Marine Fishery Resources – 2025': Over a third of fish stocks are being overexploited\n▪️ SDG 14 – Life Below Water: Conserve and sustainably use oceans, seas and marine resources\n\n⚠️ Exam Angle → Date (5 June), full form of IUU, SDG 14 (Life Below Water), and FAO report findings are exam-worthy\n\n#05June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "question": "The United Nations General Assembly recently elected five new non-permanent members to the UN Security Council. Which of the following was NOT among the newly elected countries?",
+    "options": [
+      "A) Austria",
+      "B) Portugal",
+      "C) Pakistan",
+      "D) Zimbabwe"
+    ],
+    "answer": "C) Pakistan",
+    "explanation": "UNGA elected Austria, Kyrgyzstan, Portugal, Trinidad and Tobago, and Zimbabwe as new non-permanent UNSC members for a 2-year term beginning 1 January 2027. Pakistan is among the countries being REPLACED, not elected. #05June2026",
+    "type": "mcq",
+    "id": "POST_133",
+    "revision_count": 0
+  },
+  {
+    "question": "The newly elected non-permanent members of the UNSC will begin their two-year term from which date?",
+    "options": [
+      "A) 1 July 2026",
+      "B) 1 October 2026",
+      "C) 1 January 2027",
+      "D) 1 April 2027"
+    ],
+    "answer": "C) 1 January 2027",
+    "explanation": "Austria, Kyrgyzstan, Portugal, Trinidad & Tobago, and Zimbabwe were elected to the UNSC for a 2-year term beginning 1 January 2027. They will replace Denmark, Greece, Pakistan, Panama, and Somalia whose terms conclude at end of 2026. #05June2026",
+    "type": "mcq",
+    "id": "POST_134",
+    "revision_count": 0
+  },
+  {
+    "question": "Visa recently appointed a brand ambassador for its India campaign titled 'Infinitely More'. Who was appointed?",
+    "options": [
+      "A) Virat Kohli",
+      "B) Ranveer Singh",
+      "C) Shah Rukh Khan",
+      "D) Amitabh Bachchan"
+    ],
+    "answer": "C) Shah Rukh Khan",
+    "explanation": "Shah Rukh Khan was appointed as the new brand ambassador for Visa India, for its campaign titled 'Infinitely More'. The other options are prominent celebrities who serve as brand ambassadors for various other companies. #05June2026",
+    "type": "mcq",
+    "id": "POST_135",
+    "revision_count": 0
+  },
+  {
+    "question": "Under PM Surya Ghar: Muft Bijli Yojana, what is the maximum subsidy available for installing a 3 kW or more rooftop solar system?",
+    "options": [
+      "A) ₹30,000",
+      "B) ₹60,000",
+      "C) ₹78,000",
+      "D) ₹1,00,000"
+    ],
+    "answer": "C) ₹78,000",
+    "explanation": "Under PM Surya Ghar: Muft Bijli Yojana, subsidy slabs are: 1 kW → ₹30,000; 2 kW → ₹60,000; 3 kW or more → ₹78,000 (maximum). The scheme was launched on 13 February 2024 by PM Modi with a total outlay of ₹75,021 crore. #05June2026",
+    "type": "mcq",
+    "id": "POST_136",
+    "revision_count": 0
+  },
+  {
+    "question": "The VYOMA Innovation Challenge was launched by the Digital India BHASHINI Division. It is built on which multilingual, voice-first AI handheld device?",
+    "options": [
+      "A) Bhasha Mitra",
+      "B) Sunno Sutra",
+      "C) Vaani AI",
+      "D) Samvad Device"
+    ],
+    "answer": "B) Sunno Sutra",
+    "explanation": "The VYOMA Innovation Challenge builds on Sunno Sutra — a multilingual, voice-first, open-source handheld AI reference device jointly developed by BHASHINI and Current AI, unveiled at IndiaAI Impact Summit 2026. Winning teams are eligible for prizes up to ₹80 lakh. #05June2026",
+    "type": "mcq",
+    "id": "POST_137",
+    "revision_count": 0
+  },
+  {
+    "question": "India launched its first flex-fuel passenger vehicle in New Delhi. Which company manufactured this vehicle?",
+    "options": [
+      "A) Tata Motors",
+      "B) Hyundai India",
+      "C) Maruti Suzuki",
+      "D) Mahindra & Mahindra"
+    ],
+    "answer": "C) Maruti Suzuki",
+    "explanation": "India's first flex-fuel passenger vehicle, WagonR, was developed by Maruti Suzuki and launched in New Delhi. A Flex-Fuel Vehicle (FFV) can run on fuel blends from E20 to E100, where E20 = 20% Ethanol + 80% Petrol and E100 = 100% Ethanol. #05June2026",
+    "type": "mcq",
+    "id": "POST_138",
+    "revision_count": 0
+  },
+  {
+    "question": "MY Bharat (Mera Yuva Bharat) received a Guinness World Record for 'Most Users to Take an Online Quiz in One Week'. Who received the certificate on behalf of MY Bharat?",
+    "options": [
+      "A) Anurag Thakur",
+      "B) Mansukh Mandaviya",
+      "C) Dharmendra Pradhan",
+      "D) Rajnath Singh"
+    ],
+    "answer": "B) Mansukh Mandaviya",
+    "explanation": "The Guinness World Records certificate was received by Mansukh Mandaviya. The record was achieved through the Viksit Bharat Young Leaders' Dialogue 2026 Quiz conducted from 25–31 October 2025. MY Bharat was launched on 31 October 2023 under the Ministry of Youth Affairs and Sports. #05June2026",
+    "type": "mcq",
+    "id": "POST_139",
+    "revision_count": 0
+  },
+  {
+    "question": "Mission Senehjori was launched to promote Assam's Muga Silk as a global luxury brand. Which ministry launched this cluster-based initiative?",
+    "options": [
+      "A) Ministry of Textiles",
+      "B) Ministry of Commerce and Industry",
+      "C) Ministry of Development of North Eastern Region (DoNER)",
+      "D) Ministry of MSME"
+    ],
+    "answer": "C) Ministry of Development of North Eastern Region (DoNER)",
+    "explanation": "Mission Senehjori was launched by Jyotiraditya Scindia, Union Minister for DoNER. Assam produces about 90% of the world's Muga Silk. Muga Silk is India's first GI-tagged silk, known for its natural golden colour and high durability. Financial outlay: ₹396–411 crore over 3 years. #05June2026",
+    "type": "mcq",
+    "id": "POST_140",
+    "revision_count": 0
+  },
+  {
+    "question": "The University of Liverpool received approval to set up a branch campus in Bengaluru. Which Indian policy framework enables foreign universities to establish campuses in India?",
+    "options": [
+      "A) National Education Policy 2013",
+      "B) Right to Education Act 2009",
+      "C) National Education Policy 2020",
+      "D) Higher Education Regulatory Act 2022"
+    ],
+    "answer": "C) National Education Policy 2020",
+    "explanation": "NEP 2020 allows leading foreign universities to establish campuses in India. The Letter of Approval for University of Liverpool's Bengaluru campus was handed over in the presence of External Affairs Minister Dr. S. Jaishankar and UK Foreign Secretary Yvette Cooper. #05June2026",
+    "type": "mcq",
+    "id": "POST_141",
+    "revision_count": 0
+  },
+  {
+    "question": "India and UK jointly launched the Critical Minerals Global Supply Chain Observatory (GSCO) in New Delhi. Which Indian minister co-launched this platform?",
+    "options": [
+      "A) Piyush Goyal",
+      "B) Jyotiraditya Scindia",
+      "C) G. Kishan Reddy",
+      "D) Hardeep Singh Puri"
+    ],
+    "answer": "C) G. Kishan Reddy",
+    "explanation": "Union Minister for Coal and Mines G. Kishan Reddy and UK Secretary Yvette Cooper jointly launched the India-UK GSCO in New Delhi. Critical minerals tracked include Lithium, Cobalt, Nickel, Graphite, Rare Earth Elements (REEs), and Copper. #05June2026",
+    "type": "mcq",
+    "id": "POST_142",
+    "revision_count": 0
+  },
+  {
+    "question": "Germany abolished the Airport Transit Visa (ATV) requirement for Indian nationals effective from which date?",
+    "options": [
+      "A) 1 June 2026",
+      "B) 3 June 2026",
+      "C) 5 June 2026",
+      "D) 15 June 2026"
+    ],
+    "answer": "B) 3 June 2026",
+    "explanation": "Germany abolished the ATV requirement for Indian nationals effective 3 June 2026, as announced by the German Embassy in India. An Airport Transit Visa allows passengers to transit through the international area of an airport without entering the country. Germany's Chancellor is Friedrich Merz. #05June2026",
+    "type": "mcq",
+    "id": "POST_143",
+    "revision_count": 0
+  },
+  {
+    "question": "According to the latest OECD Economic Outlook, India's GDP growth is projected at what percentage for the financial year 2026-27?",
+    "options": [
+      "A) 5.8%",
+      "B) 6.1%",
+      "C) 6.3%",
+      "D) 6.7%"
+    ],
+    "answer": "C) 6.3%",
+    "explanation": "OECD projected India's GDP growth at 6.3% in 2026-27 and 6.4% in 2027-28. OECD was founded on 30 September 1961, has 38 member countries, is headquartered in Paris, France, and its Secretary-General is Mathias Cormann. #05June2026",
+    "type": "mcq",
+    "id": "POST_144",
+    "revision_count": 0
+  },
+  {
+    "question": "Jammu & Kashmir Bank won the Gold Award at Finacle Innovation Awards 2026 in which category?",
+    "options": [
+      "A) Best Digital Banking Experience",
+      "B) Modern Technologies-led Innovation – Data Insights & Analytics Platform",
+      "C) Financial Inclusion Excellence Award",
+      "D) Best Mobile Banking Innovation"
+    ],
+    "answer": "B) Modern Technologies-led Innovation – Data Insights & Analytics Platform",
+    "explanation": "J&K Bank won the Gold Award at Finacle Innovation Awards 2026 in the category 'Modern Technologies-led Innovation – Data Insights & Analytics Platform' at the Finacle India Connect 2026 event in Mumbai. J&K Bank was founded on 1 October 1938 and is headquartered in Srinagar. #05June2026",
+    "type": "mcq",
+    "id": "POST_145",
+    "revision_count": 0
+  },
+  {
+    "question": "ADB and Standard Chartered Bank signed agreements to boost supply chain finance in India. Through which city's financial hub is this arrangement structured?",
+    "options": [
+      "A) IFSC, Mumbai",
+      "B) GIFT City, Gujarat",
+      "C) Bandra Kurla Complex, Mumbai",
+      "D) Connaught Place, New Delhi"
+    ],
+    "answer": "B) GIFT City, Gujarat",
+    "explanation": "The ADB–Standard Chartered supply chain finance arrangement is structured through GIFT City (Gujarat International Finance Tec-City). ADB was formed on 19 December 1966, is headquartered in Manila, Philippines, has 69 member countries, and its President is Masato Kanda (11th, from Japan). #05June2026",
+    "type": "mcq",
+    "id": "POST_146",
+    "revision_count": 0
+  },
+  {
+    "question": "NASA officially declared the MAVEN mission ended. Since which year had MAVEN been studying the atmosphere of Mars?",
+    "options": [
+      "A) 2010",
+      "B) 2012",
+      "C) 2014",
+      "D) 2016"
+    ],
+    "answer": "C) 2014",
+    "explanation": "MAVEN (Mars Atmosphere and Volatile Evolution) had been studying Mars' atmosphere since 2014. The spacecraft lost communication in December 2025 after passing behind the Red Planet. NASA was formed on July 29, 1958, and its current Administrator is Jared Isaacman. #05June2026",
+    "type": "mcq",
+    "id": "POST_147",
+    "revision_count": 0
+  },
+  {
+    "question": "BALTOPS 2026 is a major multinational naval exercise conducted in the Baltic Sea. Since which year has this exercise been held?",
+    "options": [
+      "A) 1949",
+      "B) 1961",
+      "C) 1971",
+      "D) 1991"
+    ],
+    "answer": "C) 1971",
+    "explanation": "BALTOPS (Baltic Operations) was started in 1971 and is led by the United States Navy. BALTOPS 2026 involved ~20 vessels, 15 countries, and ~6,000 military personnel. NATO was formed on 4 April 1949, has 32 members (32nd – Sweden), and Secretary-General is Mark Rutte. #05June2026",
+    "type": "mcq",
+    "id": "POST_148",
+    "revision_count": 0
+  },
+  {
+    "question": "What is the theme of World Environment Day 2026, observed on 5 June?",
+    "options": [
+      "A) Only One Earth",
+      "B) Ecosystem Restoration",
+      "C) Now For Climate",
+      "D) Beat Plastic Pollution"
+    ],
+    "answer": "C) Now For Climate",
+    "explanation": "World Environment Day 2026 theme is 'Now For Climate', emphasising urgent climate action as the world moves dangerously close to exceeding the 1.5°C global warming threshold. Host Country: Azerbaijan. Organised by: UNEP (United Nations Environment Programme). #05June2026",
+    "type": "mcq",
+    "id": "POST_149",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_50",
+    "title": "BHASHINI Signs Agreement with DPIIT to Strengthen Multilingual Digital Capabilities",
+    "content": "🏛️ Digital Language Technology Collaboration\n\n👤 Who → Digital India BHASHINI Division (DIBD) and Department for Promotion of Industry and Internal Trade (DPIIT)\n\n📋 What → Signed an agreement to strengthen multilingual digital capabilities across India's industry and trade ecosystem through the BHASHINI Platform\n\n📍 Where → New Delhi\n\n🎯 Purpose → Enhancing multilingual access, governance, and service delivery across DPIIT's digital platforms\n\n📌 Important Facts\n▪️ BHASHINI is India's AI-powered language translation platform\n▪️ DPIIT functions under the Ministry of Commerce and Industry\n▪️ The collaboration targets multilingual digital access for industry stakeholders and citizens\n\n⚠️ Exam Angle → BHASHINI's full form and parent ministry, DPIIT's parent ministry (Commerce & Industry), and this MoU's purpose are standard digital India questions\n\n#02June2026",
+    "type": "news",
+    "revision_count": 2
+  },
+  {
+    "question": "Gujarat's Hastkala Setu Yojana achieved cumulative sales exceeding which milestone amount since its launch?",
+    "options": [
+      "A) Rs 50 crore",
+      "B) Rs 75 crore",
+      "C) Rs 102 crore",
+      "D) Rs 150 crore"
+    ],
+    "answer": "C) Rs 102 crore",
+    "explanation": "Hastkala Setu Yojana (HSY) of Gujarat achieved cumulative sales of over Rs 102.08 crore since launch. The scheme strengthens traditional arts and crafts and improves market access for artisans. Gujarat was formed on 1 May 1960; CM: Bhupendrabhai Patel; Capital: Gandhinagar. #03June2026",
+    "type": "mcq",
+    "id": "POST_86",
+    "revision_count": 1
+  },
+  {
+    "id": "POST_51",
+    "title": "Ministry of Jal Shakti and ISRO Sign MoU for Space-Based Water Resource Management",
+    "content": "🏛️ Space-Water Sector Collaboration\n\n👤 Who → Ministry of Jal Shakti and Indian Space Research Organisation (ISRO)\n\n📋 What → Signed a Memorandum of Understanding (MoU) to enhance the use of satellite technology and space-based applications for water resource management in India\n\n📍 Where → New Delhi (during the National Workshop on R&D in the Water Sector)\n\n🎯 Purpose → Leveraging ISRO's satellite capabilities for efficient water monitoring and conservation\n\n📌 Important Facts\n▪️ Union Jal Shakti Minister C. R. Patil launched the third phase of the Jal Sanchay Jan Bhagidari (JSJB) Campaign\n▪️ Target: Create 2 crore water conservation structures between June 2026 and May 2027\n▪️ The Bharat WIN Platform (Bharat Water Innovation Network) was introduced to promote innovation in the water sector\n\n⚠️ Exam Angle → MoU between ISRO and Jal Shakti, JSJB campaign phase number (3rd), target structures (2 crore), and the Bharat WIN Platform are all exam-ready facts\n\n#02June2026",
+    "type": "news",
+    "revision_count": 2
+  },
+  {
+    "question": "Blue India 2026 international conference themed 'Blue Research – Blue Innovation – Blue Future' will be hosted by which institution in Kochi?",
+    "options": [
+      "A) Central Marine Fisheries Research Institute (CMFRI)",
+      "B) National Institute of Oceanography (NIO)",
+      "C) Kerala University of Fisheries and Ocean Studies (KUFOS)",
+      "D) Cochin University of Science and Technology (CUSAT)"
+    ],
+    "answer": "C) Kerala University of Fisheries and Ocean Studies (KUFOS)",
+    "explanation": "KUFOS will host Blue India 2026 at its Panangad campus in Kochi, Kerala. The theme is 'Blue Research – Blue Innovation – Blue Future'. CMFRI, NIO, and CUSAT are prominent institutions in marine/ocean sciences but are not the designated host. #03June2026",
+    "type": "mcq",
+    "id": "POST_87",
+    "revision_count": 1
+  },
+  {
+    "id": "POST_52",
+    "title": "MAHA-Water Mission Launched to Boost Water Innovation and Startups",
+    "content": "🏛️ National Water Innovation Programme\n\n👤 Who → Anusandhan National Research Foundation (ANRF) and Ministry of Jal Shakti\n\n📋 What → Jointly launched the MAHA-Water Mission, a ₹200 crore national programme\n\n📍 Where → New Delhi\n\n🎯 Purpose → Promoting research, innovation, and startup-led solutions in India's water sector\n\n📌 Important Facts\n▪️ MAHA stands for Mission for Advancement in High-Impact Areas\n▪️ Selected multidisciplinary consortia can receive up to ₹20 crore per project\n▪️ The mission was launched by Union Minister of State for Science & Technology, Earth Sciences, Dr. Jitendra Singh\n\n⚠️ Exam Angle → MAHA full form, fund size (₹200 crore), per-project grant (₹20 crore), and the parent bodies (ANRF + Jal Shakti) are key facts for Science & Technology and Economy sections\n\n#02June2026",
+    "type": "news",
+    "revision_count": 2
+  },
+  {
+    "question": "Assam Rifles, which signed a dairy supply MoU with NCDFI, is headquartered in which city?",
+    "options": [
+      "A) Guwahati, Assam",
+      "B) Imphal, Manipur",
+      "C) Shillong, Meghalaya",
+      "D) Itanagar, Arunachal Pradesh"
+    ],
+    "answer": "C) Shillong, Meghalaya",
+    "explanation": "Assam Rifles is headquartered at Shillong, Meghalaya. It is India's oldest paramilitary force, formed in 1835. It signed an MoU with NCDFI to expand milk and dairy supply to military establishments across the North-Eastern region. Guwahati, Imphal, and Itanagar are major North-East cities but not the HQ. #03June2026",
+    "type": "mcq",
+    "id": "POST_88",
+    "revision_count": 1
+  },
+  {
+    "id": "POST_93",
+    "title": "DK Shivakumar Sworn In as 25th Karnataka Chief Minister",
+    "content": "🏛️ Karnataka Gets New Chief Minister\n\n👤 Who → D K Shivakumar (Senior Congress Leader)\n\n📋 What → Sworn in as the 25th Chief Minister of Karnataka\n\n📍 Where → Karnataka (Capital: Bengaluru)\n\n🎯 Purpose → Formation of new state government in Karnataka\n\n📌 Important Facts\n▪️ Governor Thaawarchand Gehlot administered the oath of office\n▪️ Dr G Parameshwar sworn in as Deputy Chief Minister\n▪️ Karnataka National Parks: Bandipur, Bannerghatta, Kudremukh, Nagarhole (Rajiv Gandhi National Park)\n▪️ Tiger Reserves: Bandipur, Bhadra, Nagarahole, Kali (formerly Dandeli-Anshi), Bhadra Biligiri Rangaswamy Temple\n\n⚠️ Exam Angle → 25th CM of Karnataka, Governor's name (Thaawarchand Gehlot), and Deputy CM (Dr G Parameshwar) are likely MCQ targets\n\n#04June2026",
+    "type": "news",
+    "revision_count": 1
+  },
+  {
+    "question": "RudraM-II, successfully flight-tested by DRDO and IAF, is classified as which type of missile?",
+    "options": [
+      "A) Surface-to-Air Missile",
+      "B) Anti-Tank Guided Missile",
+      "C) Submarine-Launched Ballistic Missile",
+      "D) Air-to-Surface Missile"
+    ],
+    "answer": "D) Air-to-Surface Missile",
+    "explanation": "DRDO and IAF successfully flight-tested the indigenously developed RudraM-II Air-to-Surface Missile from an airborne platform. Surface-to-Air (e.g., Akash), Anti-Tank (e.g., Nag), and Submarine-Launched (e.g., K-4) are different missile categories. RudraM-II is designed for precision air-launched ground strikes. #03June2026",
+    "type": "mcq",
+    "id": "POST_89",
+    "revision_count": 1
+  },
+  {
+    "id": "POST_94",
+    "title": "Union Minister Jitendra Singh Launches AI-Enabled CPGRAMS Voice Chatbot SAMADHAN DIDI",
+    "content": "🏛️ AI Chatbot for Public Grievance Redressal Launched\n\n👤 Who → Dr. Jitendra Singh, Union Minister of State for Personnel, Public Grievances and Pensions\n\n📋 What → Launched AI-enabled CPGRAMS Voice Chatbot – 'SAMADHAN DIDI'\n\n📍 Where → New Delhi\n\n🎯 Purpose → To make the public grievance redressal system more accessible, multilingual and citizen-friendly\n\n📌 Important Facts\n▪️ Developed by DARPG (Department of Administrative Reforms and Public Grievances) in collaboration with BHASHINI\n▪️ Supports all 22 Scheduled Languages of India\n▪️ CPGRAMS = Centralized Public Grievance Redress and Monitoring System\n▪️ BHASHINI = BHASHa INterface for India – India's AI-powered language translation platform under MeitY\n\n⚠️ Exam Angle → Full form of CPGRAMS, developer (DARPG + BHASHINI), language support (22 Scheduled Languages) are key exam points\n\n#04June2026",
+    "type": "news",
+    "revision_count": 1
+  },
+  {
+    "question": "Yogesh Patel, BJP MLA who passed away, represented which Gujarat assembly constituency since 2012?",
+    "options": [
+      "A) Vadodara City",
+      "B) Surat East",
+      "C) Rajkot West",
+      "D) Manjalpur"
+    ],
+    "answer": "D) Manjalpur",
+    "explanation": "Yogesh Patel represented the Manjalpur Assembly constituency since 2012 and was re-elected in 2017 and 2022. He served as Minister for Narmada Development and Housing under former CM Vijay Rupani. Vadodara City, Surat East, and Rajkot West are other Gujarat constituencies but not his. #03June2026",
+    "type": "mcq",
+    "id": "POST_90",
+    "revision_count": 1
+  },
+  {
+    "id": "POST_95",
+    "title": "Navachar Mantra Launched to Support Grassroots Innovators and Entrepreneurs",
+    "content": "🏛️ Flagship Innovation Programme Launched\n\n👤 Who → Jayant Chaudhary, Union Minister for Skill Development and Entrepreneurship\n\n📋 What → Launched 'Navachar Mantra', a flagship national programme\n\n📍 Where → India (National Level)\n\n🎯 Purpose → To identify, mentor and scale grassroots innovations across the country; transform innovative ideas into successful ventures\n\n📌 Important Facts\n▪️ Aimed at supporting innovators and entrepreneurs at the grassroots level\n▪️ Focuses on providing mentoring and scaling support\n▪️ Launched by the Ministry of Skill Development and Entrepreneurship\n\n⚠️ Exam Angle → Navachar Mantra launched by which ministry/minister, and its objective (grassroots innovation) are likely exam questions\n\n#04June2026",
+    "type": "news",
+    "revision_count": 1
+  },
+  {
+    "question": "Telangana was carved out as India's 29th state under which legislative act?",
+    "options": [
+      "A) States Reorganisation Act, 1956",
+      "B) Andhra Pradesh Reorganisation Act, 2014",
+      "C) Telangana Statehood Act, 2013",
+      "D) Special Category States Act, 2014"
+    ],
+    "answer": "B) Andhra Pradesh Reorganisation Act, 2014",
+    "explanation": "Telangana became India's 29th state after bifurcation of Andhra Pradesh under the Andhra Pradesh Reorganisation Act, 2014. It celebrated its 11th Formation Day on 2 June 2026. The States Reorganisation Act 1956 reorganised states linguistically but did not create Telangana. Options C and D are fictitious acts. #03June2026",
+    "type": "mcq",
+    "id": "POST_91",
+    "revision_count": 1
+  },
+  {
+    "id": "POST_96",
+    "title": "Government Approves ₹10,000 Crore ATF Price Stabilisation Fund for Indian Airlines",
+    "content": "🏛️ Cabinet Approves Fuel Stabilisation Support for Airlines\n\n👤 Who → Union Cabinet of India\n\n📋 What → Approved a one-time budgetary support of ₹10,000 crore for Oil Marketing Companies (OMCs) for Aviation Turbine Fuel (ATF) price stabilisation\n\n📍 Where → India\n\n🎯 Purpose → To shield Indian airlines from sharp fuel price rise caused by the ongoing West Asia crisis\n\n📌 Important Facts\n▪️ Beneficiaries: Indian airlines (Domestic & International Operations)\n▪️ Duration: 36 Months\n▪️ Nature: Self-Sustaining Revolving Fund\n▪️ Airlines must sign MoU with OMCs and purchase ATF only from participating OMCs\n▪️ Support valid for up to 3 years OR until the entire advance amount is recovered, whichever is earlier\n▪️ Aviation Turbine Fuel (ATF): Specialised fuel used for commercial, cargo, and military aircraft\n\n⚠️ Exam Angle → Fund amount (₹10,000 crore), duration (36 months), fund nature (self-sustaining revolving fund), and beneficiaries are key exam points\n\n#04June2026",
+    "type": "news",
+    "revision_count": 1
+  },
+  {
+    "question": "World Bicycle Day is observed on 3 June every year. Which international day is observed on 5 June, often listed alongside June observances?",
+    "options": [
+      "A) World Ocean Day",
+      "B) World Food Safety Day",
+      "C) World Environment Day",
+      "D) World Milk Day"
+    ],
+    "answer": "C) World Environment Day",
+    "explanation": "World Bicycle Day is on 3 June, recognised by the UN. World Environment Day is on 5 June — frequently listed in proximity and often confused in exam questions. World Milk Day is 1 June (FAO); World Ocean Day is 8 June; World Food Safety Day is 7 June. #03June2026",
+    "type": "mcq",
+    "id": "POST_92",
+    "revision_count": 1
+  },
+  {
+    "id": "POST_97",
+    "title": "IEPFA and SEBI to Organise Niveshak Shivir in Bhopal on 5th June",
+    "content": "🏛️ Investor Awareness Camp to be Held in Bhopal\n\n👤 Who → IEPFA (Investor Education and Protection Fund Authority) and SEBI (Securities and Exchange Board of India)\n\n📋 What → Organising a day-long 'Niveshak Shivir' in Bhopal\n\n📍 Where → Bhopal, Madhya Pradesh\n\n🎯 Purpose → To assist investors in resolving issues related to unclaimed dividends and shares; enable direct access to investor services and on-ground grievance redressal\n\n📌 Important Facts\n▪️ IEPFA is under the Ministry of Corporate Affairs, Government of India\n▪️ The 'Shivir' acts as a one-stop facilitation platform for investors\n▪️ Enables direct access to investor services and grievance redressal mechanisms\n\n⚠️ Exam Angle → IEPFA's parent ministry (Ministry of Corporate Affairs), purpose of Niveshak Shivir, and venue (Bhopal) are likely exam points\n\n#04June2026",
+    "type": "news",
+    "revision_count": 1
+  },
+  {
+    "question": "Which opposition MP was recently nominated by President Edgars Rinkevics as the next Prime Minister of Latvia?",
+    "options": [
+      "A) Krisjanis Karins",
+      "B) Evika Silina",
+      "C) Andris Kulbergs",
+      "D) Edvards Smiltens"
+    ],
+    "answer": "C) Andris Kulbergs",
+    "explanation": "Latvian President Edgars Rinkevics nominated opposition MP Andris Kulbergs from the United List party as the next Prime Minister following constitutional authority. #17May2026",
+    "type": "mcq",
+    "id": "POST_19",
+    "revision_count": 2
+  },
+  {
+    "id": "POST_98",
+    "title": "Russia Delivers Fourth Squadron of S-400 Air Defence System to India",
+    "content": "🏛️ India Receives Fourth S-400 Triumf Squadron from Russia\n\n👤 Who → India (receiver); Russia (supplier)\n\n📋 What → India received the fourth squadron of the Russian-made S-400 Triumf Air Defence System\n\n📍 Where → India\n\n🎯 Purpose → Strengthening India's long-range surface-to-air missile defence capability\n\n📌 Important Facts\n▪️ Part of the $5.43 billion (approx. ₹40,000 crore+) India-Russia agreement signed in 2018\n▪️ Total procurement: Five S-400 squadrons\n▪️ Type: Long-Range Surface-to-Air Missile (SAM) System\n▪️ This is the fourth of five contracted squadrons\n\n⚠️ Exam Angle → Deal value ($5.43 billion), year of agreement (2018), total squadrons (5), type (Long-Range SAM) are standard exam targets\n\n#04June2026",
+    "type": "news",
+    "revision_count": 1
+  },
+  {
+    "question": "The Supreme Court (Number of Judges) Amendment Ordinance, 2026, has increased the sanctioned strength of Supreme Court judges to how many (excluding the CJI)?",
+    "options": [
+      "A) 31",
+      "B) 34",
+      "C) 37",
+      "D) 39"
+    ],
+    "answer": "C) 37",
+    "explanation": "President Murmu approved an increase in Supreme Court judges from 33 to 37 (excluding the CJI) via an ordinance under Article 123 to address case backlogs. #17May2026",
+    "type": "mcq",
+    "id": "POST_20",
+    "revision_count": 2
   }
 ]
