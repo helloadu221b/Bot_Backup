@@ -50,258 +50,6 @@
     "revision_count": 5
   },
   {
-    "question": "Brajesh Kumar Singh was recently appointed as MD and CEO of Canara Bank. Which bank was he serving as Executive Director before this appointment, and what is his tenure end date?",
-    "options": [
-      "A) Bank of Baroda — 30 June 2028",
-      "B) Indian Bank — 30 April 2029",
-      "C) Punjab National Bank — 31 March 2028",
-      "D) Union Bank of India — 30 April 2028"
-    ],
-    "answer": "B) Indian Bank — 30 April 2029",
-    "explanation": "Brajesh Kumar Singh was Executive Director of Indian Bank before being appointed MD & CEO of Canara Bank (HQ: Bengaluru). Tenure: till 30 April 2029 (superannuation). He succeeds K. Satyanarayana Raju. Bank of Baroda, PNB, Union Bank are distractors from the PSB space. #02June2026",
-    "type": "mcq",
-    "id": "POST_21",
-    "revision_count": 1
-  },
-  {
-    "question": "Vice Admiral Vineet McCarty assumed charge as the 20th Commander-in-Chief of the Andaman and Nicobar Command (ANC). Which of the following statements about ANC is INCORRECT?",
-    "options": [
-      "A) ANC was established in 2001",
-      "B) Its headquarters is at Sri Vijaya Puram",
-      "C) It is India's first and only Integrated Theatre Command",
-      "D) It operates under the exclusive command of the Indian Navy"
-    ],
-    "answer": "D) It operates under the exclusive command of the Indian Navy",
-    "explanation": "ANC is NOT exclusively under the Navy — it is an Integrated Theatre Command where Army, Navy, and Air Force work under ONE commander for a geographical/operational objective. Established 2001, HQ: Sri Vijaya Puram. Vineet McCarty succeeded Vice Admiral Ajay Kochhar (became Vice Chief of Naval Staff). #02June2026",
-    "type": "mcq",
-    "id": "POST_22",
-    "revision_count": 1
-  },
-  {
-    "question": "Defence Secretary Rajesh Kumar Singh was given additional charge of DRDO Chairman. Why was this additional charge necessitated?",
-    "options": [
-      "A) The previous Chairman resigned citing personal reasons",
-      "B) The extended tenure of incumbent DRDO Chairman Samir V Kamat ended",
-      "C) The post was vacant due to the elevation of previous Chairman to Cabinet rank",
-      "D) DRDO was merged with the Ministry of Defence under a restructuring order"
-    ],
-    "answer": "B) The extended tenure of incumbent DRDO Chairman Samir V Kamat ended",
-    "explanation": "The additional charge was given because the extended tenure of incumbent DRDO Chairman Samir V Kamat ended. DRDO (est. 1958, HQ: New Delhi) functions under Ministry of Defence. Resignation, Cabinet elevation, and restructuring are fabricated distractors. #02June2026",
-    "type": "mcq",
-    "id": "POST_23",
-    "revision_count": 1
-  },
-  {
-    "question": "India's IIP grew 4.9% in April 2026. What makes this data release uniquely significant compared to previous months?",
-    "options": [
-      "A) It is the first IIP data released under base year 2004-05",
-      "B) It is the first IIP data released under base year 2011-12",
-      "C) It is the first IIP data released under new base year 2022-23",
-      "D) It is the first IIP data released under base year 2017-18"
-    ],
-    "answer": "C) It is the first IIP data released under new base year 2022-23",
-    "explanation": "April 2026 IIP (4.9% growth) is the first data released under the new base year 2022-23, replacing the old 2011-12 series. Released by MoSPI. The new series expanded the item basket to 463 items. Base years 2004-05, 2011-12, and 2017-18 are distractors referencing older or non-existent revisions. #02June2026",
-    "type": "mcq",
-    "id": "POST_24",
-    "revision_count": 1
-  },
-  {
-    "question": "GST collection for May 2026 was ₹1.94 lakh crore. Which month recorded the all-time high GST collection and what was that figure?",
-    "options": [
-      "A) March 2026 — ₹1.78 lakh crore",
-      "B) January 2026 — ₹1.93 lakh crore",
-      "C) April 2026 — ₹2.43 lakh crore",
-      "D) February 2026 — ₹1.83 lakh crore"
-    ],
-    "answer": "C) April 2026 — ₹2.43 lakh crore",
-    "explanation": "April 2026 recorded the all-time high GST collection of ₹2.43 lakh crore (8.7% YoY growth). May 2026 was ₹1.94 lakh crore (3.2% YoY). Chart data: Jan ₹1.93L, Feb ₹1.83L, Mar ₹1.78L, Apr ₹2.43L, May ₹1.94L (est). All other months are distractors using actual chart values. #02June2026",
-    "type": "mcq",
-    "id": "POST_25",
-    "revision_count": 1
-  },
-  {
-    "question": "UPI hit a record high in May 2026 with 23.2 billion transactions. NPCI, which oversees UPI, is a joint initiative of which two bodies?",
-    "options": [
-      "A) SEBI and Ministry of Finance",
-      "B) RBI and Indian Banks' Association (IBA)",
-      "C) RBI and NITI Aayog",
-      "D) Ministry of Finance and DPIIT"
-    ],
-    "answer": "B) RBI and Indian Banks' Association (IBA)",
-    "explanation": "NPCI (National Payments Corporation of India) is a joint initiative of RBI and the Indian Banks' Association (IBA). It is an umbrella body for retail payment & settlement systems. UPI processed 23.2 billion transactions worth ₹29.90 lakh crore in May 2026 — a record high. SEBI, NITI Aayog, DPIIT have no role in NPCI's establishment. #02June2026",
-    "type": "mcq",
-    "id": "POST_26",
-    "revision_count": 1
-  },
-  {
-    "id": "POST_99",
-    "title": "Indian Army Tests Indigenous Divyastra Mk-1 Loitering Munition",
-    "content": "🏛️ Indian Army Successfully Trials Kamikaze Drone\n\n👤 Who → Indian Army; developed by Indian startup Hoverit\n\n📋 What → Successfully conducted operational trials of Divyastra Mk-1, an indigenous tactical loitering munition (commonly called a 'kamikaze drone')\n\n📍 Where → Jodhpur, Rajasthan\n\n🎯 Purpose → To enhance tactical strike capabilities using indigenous loitering munition technology\n\n📌 Important Facts\n▪️ Divyastra Mk-1 is developed by Indian startup Hoverit\n▪️ Classified as a tactical loitering munition (kamikaze drone)\n▪️ Trials conducted in Jodhpur, Rajasthan\n▪️ Represents India's push for indigenisation in defence technology\n\n⚠️ Exam Angle → Developer (Hoverit startup), type (loitering munition/kamikaze drone), and test location (Jodhpur) are key exam points\n\n#04June2026",
-    "type": "news",
-    "revision_count": 0
-  },
-  {
-    "id": "POST_100",
-    "title": "Fairwood Nuclear and South Korea's SK Securities Sign Agreement for SMR Projects in India",
-    "content": "🏛️ India-South Korea Nuclear Collaboration for SMR Development\n\n👤 Who → Fairwood Nuclear Pvt. Ltd. (India) and SK Securities Co. Ltd. (South Korea)\n\n📋 What → Signed a strategic collaboration agreement for development and financing of Small Modular Reactors (SMRs) and Micro Modular Reactors (MMRs) in India\n\n📍 Where → India\n\n🎯 Purpose → To support development and financing of SMR and MMR projects in India\n\n📌 Important Facts\n▪️ SMR = Small Modular Reactor; MMR = Micro Modular Reactor\n▪️ Partnership between an Indian nuclear firm and a South Korean securities company\n▪️ Represents cross-border nuclear energy financing collaboration\n\n⚠️ Exam Angle → Full forms of SMR and MMR, partner countries (India & South Korea), and companies involved are likely exam questions\n\n#04June2026",
-    "type": "news",
-    "revision_count": 0
-  },
-  {
-    "id": "POST_101",
-    "title": "Telangana and Germany's Thuringia State Sign MoU",
-    "content": "🏛️ Telangana-Thuringia Sign Bilateral Cooperation Agreement\n\n👤 Who → Government of Telangana (India) and Germany's State of Thuringia\n\n📋 What → Signed a Memorandum of Understanding (MoU) to enhance bilateral cooperation\n\n📍 Where → India/Germany (bilateral)\n\n🎯 Purpose → To enhance cooperation in key sectors: Technology, Skill Development & Training, Start-ups, and Life Sciences\n\n📌 Important Facts\n▪️ Four key sectors covered: Technology, Skill Development & Training, Start-ups, Life Sciences\n▪️ Thuringia is a state of Germany\n▪️ Part of India's sub-national diplomacy with European states\n\n⚠️ Exam Angle → Partner state (Thuringia, Germany), sectors of cooperation, and the nature of agreement (MoU) are likely exam targets\n\n#04June2026",
-    "type": "news",
-    "revision_count": 0
-  },
-  {
-    "id": "POST_102",
-    "title": "International Day of Innocent Children Victims of Aggression Observed on 4 June",
-    "content": "🏛️ UN Observance Day for Child Victims of Conflict\n\n👤 Who → United Nations / International Community\n\n📋 What → International Day of Innocent Children Victims of Aggression observed\n\n📍 Where → Worldwide\n\n🎯 Purpose → To recognize the suffering of children who become victims of wars, armed conflicts, violence, and aggression worldwide\n\n📌 Important Facts\n▪️ Observed every year on 4 June\n▪️ Recognises children affected by wars, armed conflicts, violence, and aggression\n▪️ A United Nations observance day\n\n⚠️ Exam Angle → Date (4 June) and the full name of the observance are standard exam questions\n\n#04June2026",
-    "type": "news",
-    "revision_count": 0
-  },
-  {
-    "question": "D K Shivakumar was recently sworn in as the Chief Minister of Karnataka. What is his position in the sequence of Karnataka Chief Ministers?",
-    "options": [
-      "A) 23rd",
-      "B) 24th",
-      "C) 25th",
-      "D) 26th"
-    ],
-    "answer": "C) 25th",
-    "explanation": "D K Shivakumar was sworn in as the 25th Chief Minister of Karnataka. The oath was administered by Governor Thaawarchand Gehlot. Dr G Parameshwar was sworn in as Deputy CM. Options A and B are incorrect sequence numbers; D) 26th is ahead of the actual count. #04June2026",
-    "type": "mcq",
-    "id": "POST_103",
-    "revision_count": 0
-  },
-  {
-    "question": "Who administered the oath of office to the newly sworn-in Chief Minister of Karnataka in June 2026?",
-    "options": [
-      "A) Rajendra Vishwanath Arlekar",
-      "B) Thaawarchand Gehlot",
-      "C) Anusiya Uikey",
-      "D) Ramesh Bais"
-    ],
-    "answer": "B) Thaawarchand Gehlot",
-    "explanation": "Governor Thaawarchand Gehlot administered the oath of office to D K Shivakumar as Karnataka's 25th CM. The other options are governors of different states and serve as plausible distractors. #04June2026",
-    "type": "mcq",
-    "id": "POST_104",
-    "revision_count": 0
-  },
-  {
-    "question": "The AI-enabled CPGRAMS Voice Chatbot 'SAMADHAN DIDI' was developed by DARPG in collaboration with which platform?",
-    "options": [
-      "A) DigiLocker",
-      "B) UMANG",
-      "C) BHASHINI",
-      "D) GeM Portal"
-    ],
-    "answer": "C) BHASHINI",
-    "explanation": "SAMADHAN DIDI was developed by DARPG in collaboration with BHASHINI (BHASHa INterface for India), India's AI-powered language translation platform under MeitY. DigiLocker, UMANG, and GeM are other digital govt platforms unrelated to this chatbot. #04June2026",
-    "type": "mcq",
-    "id": "POST_105",
-    "revision_count": 0
-  },
-  {
-    "question": "The CPGRAMS Voice Chatbot 'SAMADHAN DIDI' currently supports how many Scheduled Languages of India?",
-    "options": [
-      "A) 14",
-      "B) 18",
-      "C) 22",
-      "D) 28"
-    ],
-    "answer": "C) 22",
-    "explanation": "SAMADHAN DIDI supports all 22 Scheduled Languages of India, making the public grievance system multilingual and citizen-friendly. CPGRAMS stands for Centralized Public Grievance Redress and Monitoring System. Options A, B, and D are incorrect counts. #04June2026",
-    "type": "mcq",
-    "id": "POST_106",
-    "revision_count": 0
-  },
-  {
-    "question": "Navachar Mantra, a flagship national programme for grassroots innovators, was launched by which Union Minister?",
-    "options": [
-      "A) Dharmendra Pradhan",
-      "B) Piyush Goyal",
-      "C) Jayant Chaudhary",
-      "D) Mansukh Mandaviya"
-    ],
-    "answer": "C) Jayant Chaudhary",
-    "explanation": "Jayant Chaudhary, Union Minister for Skill Development and Entrepreneurship, launched Navachar Mantra to identify, mentor and scale grassroots innovations. Dharmendra Pradhan handles Education; others hold different portfolios. #04June2026",
-    "type": "mcq",
-    "id": "POST_107",
-    "revision_count": 0
-  },
-  {
-    "question": "The Union Cabinet approved a ₹10,000 crore ATF Price Stabilisation Fund. What is the duration of this support scheme?",
-    "options": [
-      "A) 12 Months",
-      "B) 24 Months",
-      "C) 36 Months",
-      "D) 48 Months"
-    ],
-    "answer": "C) 36 Months",
-    "explanation": "The ATF Price Stabilisation Fund has a duration of 36 months (3 years) or until the advance amount is fully recovered, whichever is earlier. The fund is self-sustaining and revolving in nature, meant to shield Indian airlines from fuel price volatility due to the West Asia crisis. #04June2026",
-    "type": "mcq",
-    "id": "POST_108",
-    "revision_count": 0
-  },
-  {
-    "question": "The ₹10,000 crore ATF Price Stabilisation Fund was approved to be channelled through which entities to provide fuel support to Indian airlines?",
-    "options": [
-      "A) Airports Authority of India",
-      "B) Oil Marketing Companies (OMCs)",
-      "C) DGCA and Ministry of Civil Aviation",
-      "D) National Aviation Company of India"
-    ],
-    "answer": "B) Oil Marketing Companies (OMCs)",
-    "explanation": "The support of ₹10,000 crore was approved for Oil Marketing Companies (OMCs) to provide ATF price stabilisation to Indian airlines. Airlines must sign an MoU with OMCs and purchase ATF only from participating OMCs. Other options are regulatory or administrative bodies, not fuel supply entities. #04June2026",
-    "type": "mcq",
-    "id": "POST_109",
-    "revision_count": 0
-  },
-  {
-    "question": "The Investor Education and Protection Fund Authority (IEPFA) organised the 'Niveshak Shivir' in Bhopal in collaboration with which regulatory body?",
-    "options": [
-      "A) RBI",
-      "B) IRDAI",
-      "C) PFRDA",
-      "D) SEBI"
-    ],
-    "answer": "D) SEBI",
-    "explanation": "IEPFA, under the Ministry of Corporate Affairs, organised the day-long 'Niveshak Shivir' in Bhopal in collaboration with SEBI (Securities and Exchange Board of India). The event served as a one-stop platform for resolving issues related to unclaimed dividends and shares. #04June2026",
-    "type": "mcq",
-    "id": "POST_110",
-    "revision_count": 0
-  },
-  {
-    "question": "India received the fourth squadron of the S-400 Triumf Air Defence System. The original procurement agreement with Russia was signed in which year?",
-    "options": [
-      "A) 2014",
-      "B) 2016",
-      "C) 2018",
-      "D) 2020"
-    ],
-    "answer": "C) 2018",
-    "explanation": "The $5.43 billion (approx. ₹40,000 crore+) India-Russia agreement for five S-400 squadrons was signed in 2018. The S-400 Triumf is a Long-Range Surface-to-Air Missile (SAM) system. India received the fourth of five contracted squadrons in 2026. #04June2026",
-    "type": "mcq",
-    "id": "POST_111",
-    "revision_count": 0
-  },
-  {
-    "question": "The Divyastra Mk-1, an indigenous loitering munition successfully tested by the Indian Army, was developed by which organisation?",
-    "options": [
-      "A) DRDO",
-      "B) HAL",
-      "C) BEL",
-      "D) Hoverit (Indian Startup)"
-    ],
-    "answer": "D) Hoverit (Indian Startup)",
-    "explanation": "Divyastra Mk-1 is an indigenous tactical loitering munition (kamikaze drone) developed by Indian startup Hoverit. Operational trials were conducted in Jodhpur, Rajasthan. DRDO, HAL, and BEL are PSU defence organisations, not the developer of this specific system. #04June2026",
-    "type": "mcq",
-    "id": "POST_112",
-    "revision_count": 0
-  },
-  {
     "question": "Fairwood Nuclear Pvt. Ltd. of India signed a strategic collaboration agreement with SK Securities Co. Ltd. of South Korea for which type of nuclear reactors?",
     "options": [
       "A) Fast Breeder Reactors (FBR) and Pressurised Heavy Water Reactors (PHWR)",
@@ -344,13 +92,6 @@
     "revision_count": 0
   },
   {
-    "id": "POST_53",
-    "title": "India Finishes Runner-Up at Asian Under-20 Athletics Championships 2026",
-    "content": "🏛️ International Athletics Championship\n\n👤 Who → Indian Athletics Contingent\n\n📋 What → Scripted history at the 22nd Asian Under-20 Athletics Championships by finishing second in the overall medal standings\n\n📍 Where → Hong Kong\n\n🎯 Purpose → Showcasing India's growing dominance in youth athletics at the continental level\n\n📌 Important Facts\n▪️ India's record haul: 19 medals — 10 gold, 5 silver, 4 bronze\n▪️ This was India's best-ever performance at the Asian U-20 Athletics Championships outside home soil\n▪️ Nitin Gupta secured India's first gold by winning the men's 5000m race walk title\n▪️ Pooja Singh struck gold in the women's high jump with a 1.93m effort — a new senior national record\n▪️ Mogali Venkatram clinched gold in the Men's 800 metres\n▪️ World Under-20 Athletics Championships: Eugene, Oregon, USA (5–9 August)\n\n⚠️ Exam Angle → Edition number (22nd), host city (Hong Kong), medal tally (10G-5S-4B), individual gold medalists, and the new national record (1.93m high jump) are all probable exam questions\n\n#02June2026",
-    "type": "news",
-    "revision_count": 1
-  },
-  {
     "question": "IRDAI imposed a ₹1 crore penalty on Nissan Renault Financial Services India. What is the classification of this entity and why was it penalised?",
     "options": [
       "A) Insurance Broker — for mis-selling life insurance policies",
@@ -362,13 +103,6 @@
     "explanation": "Nissan Renault Financial Services India is a Corporate Agent — an entity licensed by IRDAI to sell insurance products on behalf of insurers. Penalised ₹1 crore for violating motor insurance regulations. IRDAI est. 1999, HQ: Hyderabad. Broker, TPA, and Reinsurer are separate IRDAI-regulated categories. #02June2026",
     "type": "mcq",
     "id": "POST_27",
-    "revision_count": 1
-  },
-  {
-    "id": "POST_54",
-    "title": "IIT Kanpur Hosts India's First DORIS Ground Beacon",
-    "content": "🏛️ Space Technology and Satellite Infrastructure\n\n👤 Who → Indian Institute of Technology (IIT) Kanpur\n\n📋 What → Established India's first DORIS Ground Beacon\n\n📍 Where → IIT Kanpur, Uttar Pradesh\n\n🎯 Purpose → Becoming part of the global DORIS network for high-precision satellite tracking and positioning\n\n📌 Important Facts\n▪️ DORIS stands for Doppler Orbitography and Radio-positioning Integrated by Satellite\n▪️ DORIS was developed by France\n▪️ It is a satellite tracking and positioning system that determines exact position and velocity of satellites with centimetre-level accuracy\n\n⚠️ Exam Angle → DORIS full form, developer country (France), the institution (IIT Kanpur), and India's 'first' DORIS beacon status are high-precision questions for Science & Technology segments\n\n#02June2026",
-    "type": "news",
     "revision_count": 1
   },
   {
@@ -386,13 +120,6 @@
     "revision_count": 1
   },
   {
-    "id": "POST_55",
-    "title": "India Issues Letter of Request to France for 114 Rafale Fighter Jets",
-    "content": "🏛️ Strategic Defence Procurement\n\n👤 Who → Government of India\n\n📋 What → Formally issued a Letter of Request (LoR) to France for the procurement of 114 Rafale fighter aircraft\n\n📍 Where → New Delhi\n\n🎯 Purpose → Modernising the Indian Air Force's combat fleet through a government-to-government (G2G) deal\n\n📌 Important Facts\n▪️ The deal is estimated at around ₹3.25 lakh crore\n▪️ Rafale is a 4.5 Generation Multi-Role Fighter Aircraft\n▪️ Developed and manufactured by Dassault Aviation, France\n▪️ India had earlier procured 36 Rafale jets under the previous agreement with France\n\n⚠️ Exam Angle → Quantity (114 jets), deal value (₹3.25 lakh crore), generation (4.5), manufacturer (Dassault Aviation), and procurement type (G2G/LoR) are all favourite questions in defence current affairs\n\n#02June2026",
-    "type": "news",
-    "revision_count": 1
-  },
-  {
     "question": "Malaysia enforced regulations barring under-16s from social media on 1 June 2026. Which country was the FIRST to enforce a nationwide social media ban for children under 16?",
     "options": [
       "A) United Kingdom",
@@ -404,13 +131,6 @@
     "explanation": "Australia was the first country to actually enforce a nationwide social media ban for children under 16 — not Malaysia. Malaysia followed by enforcing similar rules from 1 June 2026. UK, France, and Norway have discussed similar measures but were not the first to enforce. This is a classic 'first vs. recent' exam trap. #02June2026",
     "type": "mcq",
     "id": "POST_29",
-    "revision_count": 1
-  },
-  {
-    "id": "POST_56",
-    "title": "BRO Celebrates 37th Raising Day of Project UDAYAK at Doomdooma, Assam",
-    "content": "🏛️ Border Infrastructure and Defence Milestones\n\n👤 Who → Border Roads Organisation (BRO)\n\n📋 What → Celebrated the 37th Raising Day of Project UDAYAK at Doomdooma in Assam\n\n📍 Where → Doomdooma, Assam\n\n🎯 Purpose → Recognising Project UDAYAK's role in developing strategic road and bridge infrastructure in eastern Arunachal Pradesh\n\n📌 Important Facts\n▪️ Project UDAYAK was originally raised on 1 June 1990 as part of BRO's restructuring\n▪️ Focus: Infrastructure development in the far-eastern region of the country\n▪️ Responsible for strategic road and bridge infrastructure in eastern Arunachal Pradesh\n\n⚠️ Exam Angle → Raising year (1990), edition (37th), location (Doomdooma, Assam), operational area (eastern Arunachal Pradesh) are precise facts for SSC and defence exam segments\n\n#02June2026",
-    "type": "news",
     "revision_count": 1
   },
   {
@@ -428,13 +148,6 @@
     "revision_count": 1
   },
   {
-    "id": "POST_57",
-    "title": "World Milk Day Observed on June 1",
-    "content": "🏛️ International UN Observances\n\n👤 Who → Food and Agriculture Organization (FAO) of the United Nations\n\n📋 What → World Milk Day 2026 observed globally on 1 June\n\n📍 Where → Observed globally\n\n🎯 Purpose → Recognising the importance of milk as a global food and supporting the dairy sector worldwide\n\n📌 Important Facts\n▪️ World Milk Day is observed every year on 1 June\n▪️ It was established by the Food and Agriculture Organization (FAO) of the United Nations in 2001\n\n⚠️ Exam Angle → Exact date (June 1), establishment year (2001), and the UN body responsible (FAO) are standard questions in Banking and State exam current affairs sections\n\n#02June2026",
-    "type": "news",
-    "revision_count": 1
-  },
-  {
     "question": "BHASHINI signed an agreement with DPIIT. DPIIT functions under which ministry, and what is the primary objective of this collaboration?",
     "options": [
       "A) Ministry of Electronics and IT — to develop AI chips for India",
@@ -446,13 +159,6 @@
     "explanation": "DPIIT (Dept. for Promotion of Industry and Internal Trade) functions under Ministry of Commerce and Industry. The BHASHINI-DPIIT agreement aims to strengthen multilingual digital capabilities across India's industry and trade ecosystem via BHASHINI Platform. MeitY, not DPIIT, is under Electronics & IT. #02June2026",
     "type": "mcq",
     "id": "POST_31",
-    "revision_count": 1
-  },
-  {
-    "id": "POST_58",
-    "title": "Veteran Singer Suman Kalyanpur Passes Away",
-    "content": "🏛️ National Obituary\n\n👤 Who → Suman Kalyanpur (Renowned veteran Bollywood playback singer)\n\n📋 What → Passed away recently\n\n📍 Where → India\n\n🎯 Purpose → Mourning the loss of one of Bollywood's most celebrated classic playback singers\n\n📌 Important Facts\n▪️ Known for iconic songs: 'Aajkal Tere Mere Pyaar Ke Charche', 'Na Na Karke Pyaar', 'Tumne Pukara Aur Hum Chale Aaye'\n▪️ Often compared to Lata Mangeshkar for her melodious voice and style\n\n⚠️ Exam Angle → Renowned artists and their iconic associated works are standard questions under national obituary categories in current affairs exams\n\n#02June2026",
-    "type": "news",
     "revision_count": 1
   },
   {
@@ -470,13 +176,6 @@
     "revision_count": 1
   },
   {
-    "id": "POST_11",
-    "title": "VD Satheesan sworn in as Kerala Chief Minister",
-    "content": "🏛️ Congress Leader Takes Oath in Kerala\n\n👤 Who → VD Satheesan\n\n📋 What → Sworn in as the 13th Chief Minister of Kerala\n\n📍 Where → Kerala, India\n\n🎯 Purpose → Formation of new government after UDF return to power\n\n📌 Important Facts\n▪️ Administered by Governor Rajendra Vishwanath Arlekar\n▪️ UDF returned to power after 10 years\n\n⚠️ Exam Angle → 13th CM of Kerala and the name of the Governor are key for state exams\n\n#19May2026",
-    "type": "news",
-    "revision_count": 2
-  },
-  {
     "question": "The MAHA-Water Mission was jointly launched by ANRF and Jal Shakti Ministry. What does 'MAHA' stand for, and what is the total programme outlay?",
     "options": [
       "A) Mission for Advancement in High-Impact Areas — ₹500 crore",
@@ -489,13 +188,6 @@
     "type": "mcq",
     "id": "POST_33",
     "revision_count": 1
-  },
-  {
-    "id": "POST_40",
-    "title": "Brajesh Kumar Singh Appointed as MD and CEO of Canara Bank",
-    "content": "🏛️ Public Sector Banking Leadership Change\n\n👤 Who → Brajesh Kumar Singh\n\n📋 What → Appointed as the Managing Director (MD) and CEO of Canara Bank by the Government of India\n\n📍 Where → New Delhi\n\n🎯 Purpose → Leading one of India's largest public sector banks and driving its strategic operations\n\n📌 Important Facts\n▪️ He is currently serving as the Executive Director of Indian Bank\n▪️ His tenure is till 30 April 2029 (date of superannuation)\n▪️ He succeeds K. Satyanarayana Raju\n▪️ Canara Bank is headquartered in Bengaluru, Karnataka\n\n⚠️ Exam Angle → MD & CEO appointments to PSU banks, tenure dates, and predecessor names are high-frequency questions in IBPS PO, SBI PO, and RBI Grade B exams\n\n#02June2026",
-    "type": "news",
-    "revision_count": 2
   },
   {
     "question": "India finished runner-up at the 22nd Asian Under-20 Athletics Championships 2026. Which Indian athlete set a new senior national record in their event, and what was the record-breaking mark?",
@@ -512,13 +204,6 @@
     "revision_count": 1
   },
   {
-    "id": "POST_41",
-    "title": "Vice Admiral Vineet McCarty Takes Charge as 20th Commander-in-Chief of Andaman and Nicobar Command",
-    "content": "🏛️ Strategic Military Command Transition\n\n👤 Who → Vice Admiral Vineet McCarty\n\n📋 What → Assumed charge as the 20th Commander-in-Chief of the Andaman and Nicobar Command (ANC)\n\n📍 Where → Sri Vijaya Puram (Port Blair)\n\n🎯 Purpose → Leading India's only Integrated Theatre Command for tri-service operations in the strategically critical Andaman Sea region\n\n📌 Important Facts\n▪️ He succeeded Vice Admiral Ajay Kochhar, who took over as the Vice Chief of the Naval Staff\n▪️ Andaman and Nicobar Command (ANC) was established in 2001\n▪️ Headquarters: Sri Vijaya Puram\n▪️ It is India's first and only Integrated Theatre Command where Army, Navy, and Air Force work under one commander\n\n⚠️ Exam Angle → Ordinal position (20th), ANC establishment year (2001), HQ location, and the unique 'Integrated Theatre Command' status are all exam-ready data points\n\n#02June2026",
-    "type": "news",
-    "revision_count": 2
-  },
-  {
     "question": "India's first DORIS Ground Beacon was established at IIT Kanpur. DORIS was developed by which country and what does the acronym stand for?",
     "options": [
       "A) USA — Digital Orbital Radio Interference Satellite System",
@@ -531,13 +216,6 @@
     "type": "mcq",
     "id": "POST_35",
     "revision_count": 1
-  },
-  {
-    "id": "POST_42",
-    "title": "Defence Secretary Rajesh Kumar Singh Gets Additional Charge as DRDO Chairman",
-    "content": "🏛️ Defence Research Leadership\n\n👤 Who → Defence Secretary Rajesh Kumar Singh\n\n📋 What → Given the additional charge of Chairman, Defence Research and Development Organisation (DRDO)\n\n📍 Where → New Delhi\n\n🎯 Purpose → Ensuring continued leadership and oversight of India's premier defence research body\n\n📌 Important Facts\n▪️ The additional charge was given as the extended tenure of incumbent DRDO Chairman Samir V Kamat ends\n▪️ DRDO is under the Ministry of Defence\n▪️ DRDO was established in 1958 and is headquartered in New Delhi\n\n⚠️ Exam Angle → DRDO's parent ministry, establishment year, HQ, and leadership transition patterns are standard questions for CDS, UPSC, and SSC exams\n\n#02June2026",
-    "type": "news",
-    "revision_count": 2
   },
   {
     "question": "India issued a Letter of Request (LoR) to France for 114 Rafale fighter jets. Which of the following correctly describes the Rafale aircraft?",
@@ -554,13 +232,6 @@
     "revision_count": 1
   },
   {
-    "id": "POST_59",
-    "title": "UN General Assembly Elects Bangladesh's Rahman as Next President",
-    "content": "🏛️ UN General Assembly Presidential Election\n\n👤 Who → Bangladesh's Rahman\n\n📋 What → Elected as the next President of the UN General Assembly (81st session)\n\n📍 Where → United Nations Headquarters, New York City, USA\n\n🎯 Purpose → To preside over the 81st session of the UNGA representing the Asia-Pacific regional group\n\n📌 Important Facts\n▪️ UNGA presidency rotates among UN's five regional groups\n▪️ 81st session falls to the Asia-Pacific group\n▪️ Rahman will serve a one-year term starting 8 September\n▪️ Annalena Baerbock was the 80th President of UNGA\n▪️ UNGA formed in 1945; HQ: New York City, USA\n▪️ UN operates through six principal organs: UNGA, UNSC, ECOSOC, Secretariat, ICJ, Trusteeship Council\n\n⚠️ Exam Angle → Regional group rotation, session number (81st), and start date (8 September) are high-yield facts for international affairs sections\n\n#03June2026",
-    "type": "news",
-    "revision_count": 1
-  },
-  {
     "question": "BRO celebrated the 37th Raising Day of Project UDAYAK at Doomdooma, Assam. In which year was Project UDAYAK originally raised and which region does it serve?",
     "options": [
       "A) 1985 — Western Ladakh and Siachen Glacier",
@@ -572,13 +243,6 @@
     "explanation": "Project UDAYAK was raised on 1 June 1990 as part of BRO's restructuring to focus on the far-eastern region. It handles strategic road and bridge infrastructure in eastern Arunachal Pradesh. 37th Raising Day (2026 - 1990 + 1 = 37). Ladakh, Uttarakhand, and Meghalaya options are fabricated distractors. #02June2026",
     "type": "mcq",
     "id": "POST_37",
-    "revision_count": 1
-  },
-  {
-    "id": "POST_60",
-    "title": "Lokhande Prashant Sitaram Appointed as New CBSE Chairperson",
-    "content": "🏛️ New CBSE Chief Appointed\n\n👤 Who → Lokhande Prashant Sitaram\n\n📋 What → Appointed as new Chairperson of the Central Board of Secondary Education (CBSE)\n\n📍 Where → New Delhi\n\n🎯 Purpose → To lead India's premier school education board overseeing national curriculum and examinations\n\n📌 Important Facts\n▪️ Appointment made in place of Rahul Singh\n▪️ Varun Bhardwaj appointed as new CBSE Secretary\n▪️ CBSE Formation: 1 July 1962\n▪️ CBSE Headquarters: Delhi\n\n⚠️ Exam Angle → Name of new CBSE Chairperson, predecessor (Rahul Singh), and CBSE formation date are frequently tested in SSC/Banking exams\n\n#03June2026",
-    "type": "news",
     "revision_count": 1
   },
   {
@@ -1560,5 +1224,670 @@
     "type": "mcq",
     "id": "POST_20",
     "revision_count": 2
+  },
+  {
+    "id": "POST_99",
+    "title": "Indian Army Tests Indigenous Divyastra Mk-1 Loitering Munition",
+    "content": "🏛️ Indian Army Successfully Trials Kamikaze Drone\n\n👤 Who → Indian Army; developed by Indian startup Hoverit\n\n📋 What → Successfully conducted operational trials of Divyastra Mk-1, an indigenous tactical loitering munition (commonly called a 'kamikaze drone')\n\n📍 Where → Jodhpur, Rajasthan\n\n🎯 Purpose → To enhance tactical strike capabilities using indigenous loitering munition technology\n\n📌 Important Facts\n▪️ Divyastra Mk-1 is developed by Indian startup Hoverit\n▪️ Classified as a tactical loitering munition (kamikaze drone)\n▪️ Trials conducted in Jodhpur, Rajasthan\n▪️ Represents India's push for indigenisation in defence technology\n\n⚠️ Exam Angle → Developer (Hoverit startup), type (loitering munition/kamikaze drone), and test location (Jodhpur) are key exam points\n\n#04June2026",
+    "type": "news",
+    "revision_count": 1
+  },
+  {
+    "question": "Brajesh Kumar Singh was recently appointed as MD and CEO of Canara Bank. Which bank was he serving as Executive Director before this appointment, and what is his tenure end date?",
+    "options": [
+      "A) Bank of Baroda — 30 June 2028",
+      "B) Indian Bank — 30 April 2029",
+      "C) Punjab National Bank — 31 March 2028",
+      "D) Union Bank of India — 30 April 2028"
+    ],
+    "answer": "B) Indian Bank — 30 April 2029",
+    "explanation": "Brajesh Kumar Singh was Executive Director of Indian Bank before being appointed MD & CEO of Canara Bank (HQ: Bengaluru). Tenure: till 30 April 2029 (superannuation). He succeeds K. Satyanarayana Raju. Bank of Baroda, PNB, Union Bank are distractors from the PSB space. #02June2026",
+    "type": "mcq",
+    "id": "POST_21",
+    "revision_count": 2
+  },
+  {
+    "id": "POST_100",
+    "title": "Fairwood Nuclear and South Korea's SK Securities Sign Agreement for SMR Projects in India",
+    "content": "🏛️ India-South Korea Nuclear Collaboration for SMR Development\n\n👤 Who → Fairwood Nuclear Pvt. Ltd. (India) and SK Securities Co. Ltd. (South Korea)\n\n📋 What → Signed a strategic collaboration agreement for development and financing of Small Modular Reactors (SMRs) and Micro Modular Reactors (MMRs) in India\n\n📍 Where → India\n\n🎯 Purpose → To support development and financing of SMR and MMR projects in India\n\n📌 Important Facts\n▪️ SMR = Small Modular Reactor; MMR = Micro Modular Reactor\n▪️ Partnership between an Indian nuclear firm and a South Korean securities company\n▪️ Represents cross-border nuclear energy financing collaboration\n\n⚠️ Exam Angle → Full forms of SMR and MMR, partner countries (India & South Korea), and companies involved are likely exam questions\n\n#04June2026",
+    "type": "news",
+    "revision_count": 1
+  },
+  {
+    "question": "Vice Admiral Vineet McCarty assumed charge as the 20th Commander-in-Chief of the Andaman and Nicobar Command (ANC). Which of the following statements about ANC is INCORRECT?",
+    "options": [
+      "A) ANC was established in 2001",
+      "B) Its headquarters is at Sri Vijaya Puram",
+      "C) It is India's first and only Integrated Theatre Command",
+      "D) It operates under the exclusive command of the Indian Navy"
+    ],
+    "answer": "D) It operates under the exclusive command of the Indian Navy",
+    "explanation": "ANC is NOT exclusively under the Navy — it is an Integrated Theatre Command where Army, Navy, and Air Force work under ONE commander for a geographical/operational objective. Established 2001, HQ: Sri Vijaya Puram. Vineet McCarty succeeded Vice Admiral Ajay Kochhar (became Vice Chief of Naval Staff). #02June2026",
+    "type": "mcq",
+    "id": "POST_22",
+    "revision_count": 2
+  },
+  {
+    "id": "POST_101",
+    "title": "Telangana and Germany's Thuringia State Sign MoU",
+    "content": "🏛️ Telangana-Thuringia Sign Bilateral Cooperation Agreement\n\n👤 Who → Government of Telangana (India) and Germany's State of Thuringia\n\n📋 What → Signed a Memorandum of Understanding (MoU) to enhance bilateral cooperation\n\n📍 Where → India/Germany (bilateral)\n\n🎯 Purpose → To enhance cooperation in key sectors: Technology, Skill Development & Training, Start-ups, and Life Sciences\n\n📌 Important Facts\n▪️ Four key sectors covered: Technology, Skill Development & Training, Start-ups, Life Sciences\n▪️ Thuringia is a state of Germany\n▪️ Part of India's sub-national diplomacy with European states\n\n⚠️ Exam Angle → Partner state (Thuringia, Germany), sectors of cooperation, and the nature of agreement (MoU) are likely exam targets\n\n#04June2026",
+    "type": "news",
+    "revision_count": 1
+  },
+  {
+    "question": "Defence Secretary Rajesh Kumar Singh was given additional charge of DRDO Chairman. Why was this additional charge necessitated?",
+    "options": [
+      "A) The previous Chairman resigned citing personal reasons",
+      "B) The extended tenure of incumbent DRDO Chairman Samir V Kamat ended",
+      "C) The post was vacant due to the elevation of previous Chairman to Cabinet rank",
+      "D) DRDO was merged with the Ministry of Defence under a restructuring order"
+    ],
+    "answer": "B) The extended tenure of incumbent DRDO Chairman Samir V Kamat ended",
+    "explanation": "The additional charge was given because the extended tenure of incumbent DRDO Chairman Samir V Kamat ended. DRDO (est. 1958, HQ: New Delhi) functions under Ministry of Defence. Resignation, Cabinet elevation, and restructuring are fabricated distractors. #02June2026",
+    "type": "mcq",
+    "id": "POST_23",
+    "revision_count": 2
+  },
+  {
+    "id": "POST_102",
+    "title": "International Day of Innocent Children Victims of Aggression Observed on 4 June",
+    "content": "🏛️ UN Observance Day for Child Victims of Conflict\n\n👤 Who → United Nations / International Community\n\n📋 What → International Day of Innocent Children Victims of Aggression observed\n\n📍 Where → Worldwide\n\n🎯 Purpose → To recognize the suffering of children who become victims of wars, armed conflicts, violence, and aggression worldwide\n\n📌 Important Facts\n▪️ Observed every year on 4 June\n▪️ Recognises children affected by wars, armed conflicts, violence, and aggression\n▪️ A United Nations observance day\n\n⚠️ Exam Angle → Date (4 June) and the full name of the observance are standard exam questions\n\n#04June2026",
+    "type": "news",
+    "revision_count": 1
+  },
+  {
+    "question": "India's IIP grew 4.9% in April 2026. What makes this data release uniquely significant compared to previous months?",
+    "options": [
+      "A) It is the first IIP data released under base year 2004-05",
+      "B) It is the first IIP data released under base year 2011-12",
+      "C) It is the first IIP data released under new base year 2022-23",
+      "D) It is the first IIP data released under base year 2017-18"
+    ],
+    "answer": "C) It is the first IIP data released under new base year 2022-23",
+    "explanation": "April 2026 IIP (4.9% growth) is the first data released under the new base year 2022-23, replacing the old 2011-12 series. Released by MoSPI. The new series expanded the item basket to 463 items. Base years 2004-05, 2011-12, and 2017-18 are distractors referencing older or non-existent revisions. #02June2026",
+    "type": "mcq",
+    "id": "POST_24",
+    "revision_count": 2
+  },
+  {
+    "id": "POST_53",
+    "title": "India Finishes Runner-Up at Asian Under-20 Athletics Championships 2026",
+    "content": "🏛️ International Athletics Championship\n\n👤 Who → Indian Athletics Contingent\n\n📋 What → Scripted history at the 22nd Asian Under-20 Athletics Championships by finishing second in the overall medal standings\n\n📍 Where → Hong Kong\n\n🎯 Purpose → Showcasing India's growing dominance in youth athletics at the continental level\n\n📌 Important Facts\n▪️ India's record haul: 19 medals — 10 gold, 5 silver, 4 bronze\n▪️ This was India's best-ever performance at the Asian U-20 Athletics Championships outside home soil\n▪️ Nitin Gupta secured India's first gold by winning the men's 5000m race walk title\n▪️ Pooja Singh struck gold in the women's high jump with a 1.93m effort — a new senior national record\n▪️ Mogali Venkatram clinched gold in the Men's 800 metres\n▪️ World Under-20 Athletics Championships: Eugene, Oregon, USA (5–9 August)\n\n⚠️ Exam Angle → Edition number (22nd), host city (Hong Kong), medal tally (10G-5S-4B), individual gold medalists, and the new national record (1.93m high jump) are all probable exam questions\n\n#02June2026",
+    "type": "news",
+    "revision_count": 2
+  },
+  {
+    "question": "GST collection for May 2026 was ₹1.94 lakh crore. Which month recorded the all-time high GST collection and what was that figure?",
+    "options": [
+      "A) March 2026 — ₹1.78 lakh crore",
+      "B) January 2026 — ₹1.93 lakh crore",
+      "C) April 2026 — ₹2.43 lakh crore",
+      "D) February 2026 — ₹1.83 lakh crore"
+    ],
+    "answer": "C) April 2026 — ₹2.43 lakh crore",
+    "explanation": "April 2026 recorded the all-time high GST collection of ₹2.43 lakh crore (8.7% YoY growth). May 2026 was ₹1.94 lakh crore (3.2% YoY). Chart data: Jan ₹1.93L, Feb ₹1.83L, Mar ₹1.78L, Apr ₹2.43L, May ₹1.94L (est). All other months are distractors using actual chart values. #02June2026",
+    "type": "mcq",
+    "id": "POST_25",
+    "revision_count": 2
+  },
+  {
+    "id": "POST_54",
+    "title": "IIT Kanpur Hosts India's First DORIS Ground Beacon",
+    "content": "🏛️ Space Technology and Satellite Infrastructure\n\n👤 Who → Indian Institute of Technology (IIT) Kanpur\n\n📋 What → Established India's first DORIS Ground Beacon\n\n📍 Where → IIT Kanpur, Uttar Pradesh\n\n🎯 Purpose → Becoming part of the global DORIS network for high-precision satellite tracking and positioning\n\n📌 Important Facts\n▪️ DORIS stands for Doppler Orbitography and Radio-positioning Integrated by Satellite\n▪️ DORIS was developed by France\n▪️ It is a satellite tracking and positioning system that determines exact position and velocity of satellites with centimetre-level accuracy\n\n⚠️ Exam Angle → DORIS full form, developer country (France), the institution (IIT Kanpur), and India's 'first' DORIS beacon status are high-precision questions for Science & Technology segments\n\n#02June2026",
+    "type": "news",
+    "revision_count": 2
+  },
+  {
+    "question": "UPI hit a record high in May 2026 with 23.2 billion transactions. NPCI, which oversees UPI, is a joint initiative of which two bodies?",
+    "options": [
+      "A) SEBI and Ministry of Finance",
+      "B) RBI and Indian Banks' Association (IBA)",
+      "C) RBI and NITI Aayog",
+      "D) Ministry of Finance and DPIIT"
+    ],
+    "answer": "B) RBI and Indian Banks' Association (IBA)",
+    "explanation": "NPCI (National Payments Corporation of India) is a joint initiative of RBI and the Indian Banks' Association (IBA). It is an umbrella body for retail payment & settlement systems. UPI processed 23.2 billion transactions worth ₹29.90 lakh crore in May 2026 — a record high. SEBI, NITI Aayog, DPIIT have no role in NPCI's establishment. #02June2026",
+    "type": "mcq",
+    "id": "POST_26",
+    "revision_count": 2
+  },
+  {
+    "id": "POST_55",
+    "title": "India Issues Letter of Request to France for 114 Rafale Fighter Jets",
+    "content": "🏛️ Strategic Defence Procurement\n\n👤 Who → Government of India\n\n📋 What → Formally issued a Letter of Request (LoR) to France for the procurement of 114 Rafale fighter aircraft\n\n📍 Where → New Delhi\n\n🎯 Purpose → Modernising the Indian Air Force's combat fleet through a government-to-government (G2G) deal\n\n📌 Important Facts\n▪️ The deal is estimated at around ₹3.25 lakh crore\n▪️ Rafale is a 4.5 Generation Multi-Role Fighter Aircraft\n▪️ Developed and manufactured by Dassault Aviation, France\n▪️ India had earlier procured 36 Rafale jets under the previous agreement with France\n\n⚠️ Exam Angle → Quantity (114 jets), deal value (₹3.25 lakh crore), generation (4.5), manufacturer (Dassault Aviation), and procurement type (G2G/LoR) are all favourite questions in defence current affairs\n\n#02June2026",
+    "type": "news",
+    "revision_count": 2
+  },
+  {
+    "question": "D K Shivakumar was recently sworn in as the Chief Minister of Karnataka. What is his position in the sequence of Karnataka Chief Ministers?",
+    "options": [
+      "A) 23rd",
+      "B) 24th",
+      "C) 25th",
+      "D) 26th"
+    ],
+    "answer": "C) 25th",
+    "explanation": "D K Shivakumar was sworn in as the 25th Chief Minister of Karnataka. The oath was administered by Governor Thaawarchand Gehlot. Dr G Parameshwar was sworn in as Deputy CM. Options A and B are incorrect sequence numbers; D) 26th is ahead of the actual count. #04June2026",
+    "type": "mcq",
+    "id": "POST_103",
+    "revision_count": 1
+  },
+  {
+    "id": "POST_56",
+    "title": "BRO Celebrates 37th Raising Day of Project UDAYAK at Doomdooma, Assam",
+    "content": "🏛️ Border Infrastructure and Defence Milestones\n\n👤 Who → Border Roads Organisation (BRO)\n\n📋 What → Celebrated the 37th Raising Day of Project UDAYAK at Doomdooma in Assam\n\n📍 Where → Doomdooma, Assam\n\n🎯 Purpose → Recognising Project UDAYAK's role in developing strategic road and bridge infrastructure in eastern Arunachal Pradesh\n\n📌 Important Facts\n▪️ Project UDAYAK was originally raised on 1 June 1990 as part of BRO's restructuring\n▪️ Focus: Infrastructure development in the far-eastern region of the country\n▪️ Responsible for strategic road and bridge infrastructure in eastern Arunachal Pradesh\n\n⚠️ Exam Angle → Raising year (1990), edition (37th), location (Doomdooma, Assam), operational area (eastern Arunachal Pradesh) are precise facts for SSC and defence exam segments\n\n#02June2026",
+    "type": "news",
+    "revision_count": 2
+  },
+  {
+    "question": "Who administered the oath of office to the newly sworn-in Chief Minister of Karnataka in June 2026?",
+    "options": [
+      "A) Rajendra Vishwanath Arlekar",
+      "B) Thaawarchand Gehlot",
+      "C) Anusiya Uikey",
+      "D) Ramesh Bais"
+    ],
+    "answer": "B) Thaawarchand Gehlot",
+    "explanation": "Governor Thaawarchand Gehlot administered the oath of office to D K Shivakumar as Karnataka's 25th CM. The other options are governors of different states and serve as plausible distractors. #04June2026",
+    "type": "mcq",
+    "id": "POST_104",
+    "revision_count": 1
+  },
+  {
+    "id": "POST_57",
+    "title": "World Milk Day Observed on June 1",
+    "content": "🏛️ International UN Observances\n\n👤 Who → Food and Agriculture Organization (FAO) of the United Nations\n\n📋 What → World Milk Day 2026 observed globally on 1 June\n\n📍 Where → Observed globally\n\n🎯 Purpose → Recognising the importance of milk as a global food and supporting the dairy sector worldwide\n\n📌 Important Facts\n▪️ World Milk Day is observed every year on 1 June\n▪️ It was established by the Food and Agriculture Organization (FAO) of the United Nations in 2001\n\n⚠️ Exam Angle → Exact date (June 1), establishment year (2001), and the UN body responsible (FAO) are standard questions in Banking and State exam current affairs sections\n\n#02June2026",
+    "type": "news",
+    "revision_count": 2
+  },
+  {
+    "question": "The AI-enabled CPGRAMS Voice Chatbot 'SAMADHAN DIDI' was developed by DARPG in collaboration with which platform?",
+    "options": [
+      "A) DigiLocker",
+      "B) UMANG",
+      "C) BHASHINI",
+      "D) GeM Portal"
+    ],
+    "answer": "C) BHASHINI",
+    "explanation": "SAMADHAN DIDI was developed by DARPG in collaboration with BHASHINI (BHASHa INterface for India), India's AI-powered language translation platform under MeitY. DigiLocker, UMANG, and GeM are other digital govt platforms unrelated to this chatbot. #04June2026",
+    "type": "mcq",
+    "id": "POST_105",
+    "revision_count": 1
+  },
+  {
+    "id": "POST_58",
+    "title": "Veteran Singer Suman Kalyanpur Passes Away",
+    "content": "🏛️ National Obituary\n\n👤 Who → Suman Kalyanpur (Renowned veteran Bollywood playback singer)\n\n📋 What → Passed away recently\n\n📍 Where → India\n\n🎯 Purpose → Mourning the loss of one of Bollywood's most celebrated classic playback singers\n\n📌 Important Facts\n▪️ Known for iconic songs: 'Aajkal Tere Mere Pyaar Ke Charche', 'Na Na Karke Pyaar', 'Tumne Pukara Aur Hum Chale Aaye'\n▪️ Often compared to Lata Mangeshkar for her melodious voice and style\n\n⚠️ Exam Angle → Renowned artists and their iconic associated works are standard questions under national obituary categories in current affairs exams\n\n#02June2026",
+    "type": "news",
+    "revision_count": 2
+  },
+  {
+    "question": "The CPGRAMS Voice Chatbot 'SAMADHAN DIDI' currently supports how many Scheduled Languages of India?",
+    "options": [
+      "A) 14",
+      "B) 18",
+      "C) 22",
+      "D) 28"
+    ],
+    "answer": "C) 22",
+    "explanation": "SAMADHAN DIDI supports all 22 Scheduled Languages of India, making the public grievance system multilingual and citizen-friendly. CPGRAMS stands for Centralized Public Grievance Redress and Monitoring System. Options A, B, and D are incorrect counts. #04June2026",
+    "type": "mcq",
+    "id": "POST_106",
+    "revision_count": 1
+  },
+  {
+    "id": "POST_11",
+    "title": "VD Satheesan sworn in as Kerala Chief Minister",
+    "content": "🏛️ Congress Leader Takes Oath in Kerala\n\n👤 Who → VD Satheesan\n\n📋 What → Sworn in as the 13th Chief Minister of Kerala\n\n📍 Where → Kerala, India\n\n🎯 Purpose → Formation of new government after UDF return to power\n\n📌 Important Facts\n▪️ Administered by Governor Rajendra Vishwanath Arlekar\n▪️ UDF returned to power after 10 years\n\n⚠️ Exam Angle → 13th CM of Kerala and the name of the Governor are key for state exams\n\n#19May2026",
+    "type": "news",
+    "revision_count": 3
+  },
+  {
+    "question": "Navachar Mantra, a flagship national programme for grassroots innovators, was launched by which Union Minister?",
+    "options": [
+      "A) Dharmendra Pradhan",
+      "B) Piyush Goyal",
+      "C) Jayant Chaudhary",
+      "D) Mansukh Mandaviya"
+    ],
+    "answer": "C) Jayant Chaudhary",
+    "explanation": "Jayant Chaudhary, Union Minister for Skill Development and Entrepreneurship, launched Navachar Mantra to identify, mentor and scale grassroots innovations. Dharmendra Pradhan handles Education; others hold different portfolios. #04June2026",
+    "type": "mcq",
+    "id": "POST_107",
+    "revision_count": 1
+  },
+  {
+    "id": "POST_40",
+    "title": "Brajesh Kumar Singh Appointed as MD and CEO of Canara Bank",
+    "content": "🏛️ Public Sector Banking Leadership Change\n\n👤 Who → Brajesh Kumar Singh\n\n📋 What → Appointed as the Managing Director (MD) and CEO of Canara Bank by the Government of India\n\n📍 Where → New Delhi\n\n🎯 Purpose → Leading one of India's largest public sector banks and driving its strategic operations\n\n📌 Important Facts\n▪️ He is currently serving as the Executive Director of Indian Bank\n▪️ His tenure is till 30 April 2029 (date of superannuation)\n▪️ He succeeds K. Satyanarayana Raju\n▪️ Canara Bank is headquartered in Bengaluru, Karnataka\n\n⚠️ Exam Angle → MD & CEO appointments to PSU banks, tenure dates, and predecessor names are high-frequency questions in IBPS PO, SBI PO, and RBI Grade B exams\n\n#02June2026",
+    "type": "news",
+    "revision_count": 3
+  },
+  {
+    "question": "The Union Cabinet approved a ₹10,000 crore ATF Price Stabilisation Fund. What is the duration of this support scheme?",
+    "options": [
+      "A) 12 Months",
+      "B) 24 Months",
+      "C) 36 Months",
+      "D) 48 Months"
+    ],
+    "answer": "C) 36 Months",
+    "explanation": "The ATF Price Stabilisation Fund has a duration of 36 months (3 years) or until the advance amount is fully recovered, whichever is earlier. The fund is self-sustaining and revolving in nature, meant to shield Indian airlines from fuel price volatility due to the West Asia crisis. #04June2026",
+    "type": "mcq",
+    "id": "POST_108",
+    "revision_count": 1
+  },
+  {
+    "id": "POST_41",
+    "title": "Vice Admiral Vineet McCarty Takes Charge as 20th Commander-in-Chief of Andaman and Nicobar Command",
+    "content": "🏛️ Strategic Military Command Transition\n\n👤 Who → Vice Admiral Vineet McCarty\n\n📋 What → Assumed charge as the 20th Commander-in-Chief of the Andaman and Nicobar Command (ANC)\n\n📍 Where → Sri Vijaya Puram (Port Blair)\n\n🎯 Purpose → Leading India's only Integrated Theatre Command for tri-service operations in the strategically critical Andaman Sea region\n\n📌 Important Facts\n▪️ He succeeded Vice Admiral Ajay Kochhar, who took over as the Vice Chief of the Naval Staff\n▪️ Andaman and Nicobar Command (ANC) was established in 2001\n▪️ Headquarters: Sri Vijaya Puram\n▪️ It is India's first and only Integrated Theatre Command where Army, Navy, and Air Force work under one commander\n\n⚠️ Exam Angle → Ordinal position (20th), ANC establishment year (2001), HQ location, and the unique 'Integrated Theatre Command' status are all exam-ready data points\n\n#02June2026",
+    "type": "news",
+    "revision_count": 3
+  },
+  {
+    "question": "The ₹10,000 crore ATF Price Stabilisation Fund was approved to be channelled through which entities to provide fuel support to Indian airlines?",
+    "options": [
+      "A) Airports Authority of India",
+      "B) Oil Marketing Companies (OMCs)",
+      "C) DGCA and Ministry of Civil Aviation",
+      "D) National Aviation Company of India"
+    ],
+    "answer": "B) Oil Marketing Companies (OMCs)",
+    "explanation": "The support of ₹10,000 crore was approved for Oil Marketing Companies (OMCs) to provide ATF price stabilisation to Indian airlines. Airlines must sign an MoU with OMCs and purchase ATF only from participating OMCs. Other options are regulatory or administrative bodies, not fuel supply entities. #04June2026",
+    "type": "mcq",
+    "id": "POST_109",
+    "revision_count": 1
+  },
+  {
+    "id": "POST_42",
+    "title": "Defence Secretary Rajesh Kumar Singh Gets Additional Charge as DRDO Chairman",
+    "content": "🏛️ Defence Research Leadership\n\n👤 Who → Defence Secretary Rajesh Kumar Singh\n\n📋 What → Given the additional charge of Chairman, Defence Research and Development Organisation (DRDO)\n\n📍 Where → New Delhi\n\n🎯 Purpose → Ensuring continued leadership and oversight of India's premier defence research body\n\n📌 Important Facts\n▪️ The additional charge was given as the extended tenure of incumbent DRDO Chairman Samir V Kamat ends\n▪️ DRDO is under the Ministry of Defence\n▪️ DRDO was established in 1958 and is headquartered in New Delhi\n\n⚠️ Exam Angle → DRDO's parent ministry, establishment year, HQ, and leadership transition patterns are standard questions for CDS, UPSC, and SSC exams\n\n#02June2026",
+    "type": "news",
+    "revision_count": 3
+  },
+  {
+    "question": "The Investor Education and Protection Fund Authority (IEPFA) organised the 'Niveshak Shivir' in Bhopal in collaboration with which regulatory body?",
+    "options": [
+      "A) RBI",
+      "B) IRDAI",
+      "C) PFRDA",
+      "D) SEBI"
+    ],
+    "answer": "D) SEBI",
+    "explanation": "IEPFA, under the Ministry of Corporate Affairs, organised the day-long 'Niveshak Shivir' in Bhopal in collaboration with SEBI (Securities and Exchange Board of India). The event served as a one-stop platform for resolving issues related to unclaimed dividends and shares. #04June2026",
+    "type": "mcq",
+    "id": "POST_110",
+    "revision_count": 1
+  },
+  {
+    "id": "POST_59",
+    "title": "UN General Assembly Elects Bangladesh's Rahman as Next President",
+    "content": "🏛️ UN General Assembly Presidential Election\n\n👤 Who → Bangladesh's Rahman\n\n📋 What → Elected as the next President of the UN General Assembly (81st session)\n\n📍 Where → United Nations Headquarters, New York City, USA\n\n🎯 Purpose → To preside over the 81st session of the UNGA representing the Asia-Pacific regional group\n\n📌 Important Facts\n▪️ UNGA presidency rotates among UN's five regional groups\n▪️ 81st session falls to the Asia-Pacific group\n▪️ Rahman will serve a one-year term starting 8 September\n▪️ Annalena Baerbock was the 80th President of UNGA\n▪️ UNGA formed in 1945; HQ: New York City, USA\n▪️ UN operates through six principal organs: UNGA, UNSC, ECOSOC, Secretariat, ICJ, Trusteeship Council\n\n⚠️ Exam Angle → Regional group rotation, session number (81st), and start date (8 September) are high-yield facts for international affairs sections\n\n#03June2026",
+    "type": "news",
+    "revision_count": 2
+  },
+  {
+    "question": "India received the fourth squadron of the S-400 Triumf Air Defence System. The original procurement agreement with Russia was signed in which year?",
+    "options": [
+      "A) 2014",
+      "B) 2016",
+      "C) 2018",
+      "D) 2020"
+    ],
+    "answer": "C) 2018",
+    "explanation": "The $5.43 billion (approx. ₹40,000 crore+) India-Russia agreement for five S-400 squadrons was signed in 2018. The S-400 Triumf is a Long-Range Surface-to-Air Missile (SAM) system. India received the fourth of five contracted squadrons in 2026. #04June2026",
+    "type": "mcq",
+    "id": "POST_111",
+    "revision_count": 1
+  },
+  {
+    "id": "POST_60",
+    "title": "Lokhande Prashant Sitaram Appointed as New CBSE Chairperson",
+    "content": "🏛️ New CBSE Chief Appointed\n\n👤 Who → Lokhande Prashant Sitaram\n\n📋 What → Appointed as new Chairperson of the Central Board of Secondary Education (CBSE)\n\n📍 Where → New Delhi\n\n🎯 Purpose → To lead India's premier school education board overseeing national curriculum and examinations\n\n📌 Important Facts\n▪️ Appointment made in place of Rahul Singh\n▪️ Varun Bhardwaj appointed as new CBSE Secretary\n▪️ CBSE Formation: 1 July 1962\n▪️ CBSE Headquarters: Delhi\n\n⚠️ Exam Angle → Name of new CBSE Chairperson, predecessor (Rahul Singh), and CBSE formation date are frequently tested in SSC/Banking exams\n\n#03June2026",
+    "type": "news",
+    "revision_count": 2
+  },
+  {
+    "question": "The Divyastra Mk-1, an indigenous loitering munition successfully tested by the Indian Army, was developed by which organisation?",
+    "options": [
+      "A) DRDO",
+      "B) HAL",
+      "C) BEL",
+      "D) Hoverit (Indian Startup)"
+    ],
+    "answer": "D) Hoverit (Indian Startup)",
+    "explanation": "Divyastra Mk-1 is an indigenous tactical loitering munition (kamikaze drone) developed by Indian startup Hoverit. Operational trials were conducted in Jodhpur, Rajasthan. DRDO, HAL, and BEL are PSU defence organisations, not the developer of this specific system. #04June2026",
+    "type": "mcq",
+    "id": "POST_112",
+    "revision_count": 1
+  },
+  {
+    "id": "POST_150",
+    "title": "Neelkanth Mishra Appointed Executive Director at the World Bank",
+    "content": "🏛️ India Gets New Executive Director at World Bank\n\n👤 Who → Neelkanth Mishra (appointed); he will succeed Parameswaran Iyer\n\n📋 What → Appointments Committee of the Cabinet (ACC) approved Neelkanth Mishra as Executive Director (ED) at the World Bank\n\n📍 Where → World Bank Headquarters, Washington D.C., USA\n\n🎯 Purpose → To represent India's interests at the World Bank as Executive Director\n\n📌 Important Facts\n▪️ He will succeed Parameswaran Iyer\n▪️ Tenure: 3 Years\n▪️ Present Position (before appointment): Chief Economist, Axis Bank\n▪️ Appointment approved by: Appointments Committee of the Cabinet (ACC)\n\n⚠️ Exam Angle → Neelkanth Mishra's role (ED, World Bank), predecessor (Parameswaran Iyer), tenure (3 years), and his prior role (Chief Economist, Axis Bank) are likely MCQ targets\n\n#06June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_151",
+    "title": "Swaminathan Janakiraman Re-appointed as RBI Deputy Governor",
+    "content": "🏛️ Central Government Re-appoints RBI Deputy Governor\n\n👤 Who → Swaminathan Janakiraman\n\n📋 What → Re-appointed as Deputy Governor of the Reserve Bank of India (RBI) for a further period of two years\n\n📍 Where → Reserve Bank of India (RBI)\n\n🎯 Purpose → Continuity of leadership at RBI's Deputy Governor level\n\n📌 Important Facts\n▪️ New term begins: 26 June 2026\n▪️ Extension period: 2 years\n▪️ Current RBI Deputy Governors: Swaminathan Janakiraman, Poonam Gupta, Shirish Chandra Murmu, Rohit Jain\n▪️ RBI Governor: Sanjay Malhotra\n\n⚠️ Exam Angle → All four Deputy Governor names, new term start date (26 June 2026), and RBI Governor (Sanjay Malhotra) are standard exam targets\n\n#06June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_152",
+    "title": "Government Forms 6 Sector-Specific Working Groups to Promote Domestic Manufacturing",
+    "content": "🏛️ India Constitutes Working Groups to Boost Atmanirbhar Bharat\n\n👤 Who → Government of India; groups chaired by secretary in the Department for Promotion of Industry and Internal Trade (DPIIT)\n\n📋 What → Constituted 6 sector-specific working groups to identify around 100 products for increasing domestic manufacturing and reducing import dependence\n\n📍 Where → India (national level)\n\n🎯 Purpose → To support Atmanirbhar Bharat by identifying ~100 products for domestic manufacturing\n\n📌 Important Facts\n▪️ Number of working groups: 6\n▪️ Products to be identified: ~100\n▪️ Chaired by: Secretary, DPIIT\n▪️ Six Sectors: (1) Pharmaceuticals, Biotechnology & Medical Devices (2) Chemicals, Petrochemicals, Textiles & Footwear (3) Capital Goods, Automotive, EVs & Advanced Capital Goods (4) Energy (5) Construction Equipment & Infrastructure (6) Defence, Aerospace (Civilian Use) & Electronics\n\n⚠️ Exam Angle → Number of groups (6), chairing authority (DPIIT secretary), product target (~100), and the six sectors are all exam-ready facts\n\n#06June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_153",
+    "title": "Venezuelan Acting President Delcy Rodriguez Concludes Visit to India",
+    "content": "🏛️ Venezuela-India Bilateral Ties Strengthened\n\n👤 Who → Delcy Rodriguez, Acting President of the Bolivarian Republic of Venezuela\n\n📋 What → Concluded her visit to India; departed from Chhatrapati Shivaji Maharaj International Airport\n\n📍 Where → India (Mumbai departure)\n\n🎯 Purpose → To expand and deepen bilateral partnership in trade and investment, energy, digital technology, health, agriculture, and people-to-people ties\n\n📌 Important Facts\n▪️ PM Narendra Modi and Delcy Rodriguez agreed to further expand bilateral partnership\n▪️ Key areas of cooperation: Trade & Investment, Energy, Digital Technology, Health, Agriculture, People-to-people ties\n\n⚠️ Exam Angle → Delcy Rodriguez's designation (Acting President of Venezuela), areas of bilateral cooperation, and her departure airport are likely exam points\n\n#06June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_154",
+    "title": "RBI Keeps Repo Rate Unchanged at 5.25%",
+    "content": "🏛️ Monetary Policy Committee Holds Rates Steady\n\n👤 Who → Monetary Policy Committee (MPC), chaired by RBI Governor Sanjay Malhotra\n\n📋 What → MPC held its 61st meeting and voted unanimously to keep the Policy Repo Rate unchanged at 5.25%\n\n📍 Where → Reserve Bank of India (RBI)\n\n🎯 Purpose → To maintain monetary stability while supporting economic growth\n\n📌 Important Facts\n▪️ Policy Repo Rate: 5.25% (unchanged)\n▪️ Standing Deposit Facility (SDF): 5.00%\n▪️ Marginal Standing Facility (MSF) Rate: 5.50%\n▪️ Bank Rate: 5.50%\n▪️ Real GDP growth projected for 2026-27: 6.6%\n▪️ CPI Inflation projected for 2026-27: 5.1%\n▪️ MPC stance: Neutral (continued)\n▪️ This was the 61st MPC meeting\n\n⚠️ Exam Angle → Repo rate (5.25%), SDF (5.00%), MSF/Bank Rate (5.50%), GDP projection (6.6%), CPI projection (5.1%), and neutral stance are all high-probability exam questions\n\n#06June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_155",
+    "title": "Surha Tal Becomes India's 100th Ramsar Site",
+    "content": "🏛️ UP Wetland Designated as India's 100th Ramsar Site on World Environment Day\n\n👤 Who → Jai Prakash Narayan Bird Sanctuary (Surha Tal), Ballia district, Uttar Pradesh\n\n📋 What → Designated as India's 100th Ramsar Site (Wetland of International Importance)\n\n📍 Where → Ballia district, Uttar Pradesh\n\n🎯 Purpose → Recognition of ecological importance of the wetland under the Ramsar Convention\n\n📌 Important Facts\n▪️ India's 100th Ramsar Site\n▪️ 13th Ramsar Site of Uttar Pradesh\n▪️ 2,595th Ramsar Site in the world\n▪️ Tamil Nadu leads with 20 Ramsar Sites\n▪️ Gujarat has the largest wetland area in India\n▪️ India has the highest number of Ramsar Sites in Asia and 3rd highest globally (after UK – 176 and Mexico – 144)\n▪️ Ramsar Convention signed in Ramsar, Iran, in 1971\n▪️ Designated on World Environment Day\n\n⚠️ Exam Angle → India's 100th Ramsar site name (Surha Tal/JP Bird Sanctuary), its district (Ballia, UP), global rank (2,595th), Tamil Nadu's count (20), and Ramsar Convention year (1971) are prime MCQ targets\n\n#06June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_156",
+    "title": "New Regional Meteorological Centre Inaugurated at Jammu",
+    "content": "🏛️ India's 7th Regional Meteorological Centre Opens in Jammu\n\n👤 Who → Union Minister Dr. Jitendra Singh (inaugurated); India Meteorological Department (IMD)\n\n📋 What → Inaugurated the new Regional Meteorological Centre (RMC) at Jammu\n\n📍 Where → Jammu (J&K); new RMC will also be established in Lucknow\n\n🎯 Purpose → To provide weather services to Jammu & Kashmir, Ladakh, and Himachal Pradesh\n\n📌 Important Facts\n▪️ This is India's 7th RMC\n▪️ A new RMC to be set up soon in Lucknow\n▪️ Serves: J&K, Ladakh, Himachal Pradesh\n▪️ RMC functions: Weather Forecasting, Early Warning Services, Rainfall Monitoring, Disaster Alerts, Climate Services\n▪️ IMD: Under Ministry of Earth Sciences | Formed: 15 January 1875 | HQ: New Delhi | DG: Mrutyunjay Mohapatra\n\n⚠️ Exam Angle → 7th RMC (Jammu), states served (J&K, Ladakh, HP), IMD founding date (15 Jan 1875), and Director General (Mrutyunjay Mohapatra) are exam-worthy\n\n#06June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_157",
+    "title": "R Praggnanandhaa Becomes First Indian to Win Norway Chess Title",
+    "content": "🏛️ Indian Grandmaster Scripts History at Norway Chess\n\n👤 Who → R. Praggnanandhaa (Indian Grandmaster); from Chennai, Tamil Nadu\n\n📋 What → Became the first Indian to win the Norway Chess title in Oslo, with a final-round victory over Germany's Vincent Keymer\n\n📍 Where → Oslo, Norway\n\n🎯 Purpose → Historic achievement — first Indian to win the prestigious Norway Chess tournament\n\n📌 Important Facts\n▪️ First Indian to win Norway Chess title\n▪️ Defeated Germany's Vincent Keymer in the final round\n▪️ American Grandmaster Wesley So finished second\n▪️ Alireza Firouzja ended third\n▪️ Praggnanandhaa is from Chennai, Tamil Nadu\n\n⚠️ Exam Angle → First Indian (Praggnanandhaa), runner-up (Wesley So), venue (Oslo), and his home city (Chennai, Tamil Nadu) are likely exam points\n\n#06June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_158",
+    "title": "India Defeats Bangladesh and Lifts SAFF Women's Championship 2026 Trophy",
+    "content": "🏛️ India Wins SAFF Women's Championship for Record 6th Time\n\n👤 Who → India Women's National Football Team\n\n📋 What → Defeated defending champions Bangladesh Women's National Football Team 3-1 in the final of SAFF Women's Championship 2026\n\n📍 Where → Pandit Jawaharlal Nehru Stadium, Margao, Goa\n\n🎯 Purpose → Won the SAFF Women's Championship title for a record sixth time\n\n📌 Important Facts\n▪️ Final score: India 3–1 Bangladesh\n▪️ Record: India's 6th SAFF Women's Championship title\n▪️ Venue: Pandit Jawaharlal Nehru Stadium, Margao, Goa\n▪️ Bangladesh was the defending champion\n\n⚠️ Exam Angle → Record title count (6th), final score (3-1), venue (Margao, Goa), and opponent (Bangladesh) are standard exam targets\n\n#06June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_159",
+    "title": "Savitha Shri Baskar Wins 2026 Women's Asian Individual Chess Championship",
+    "content": "🏛️ Indian Woman Chess Player Claims Asian Championship Title\n\n👤 Who → Savitha Shri Baskar; from Tamil Nadu\n\n📋 What → Won the 2026 Women's Asian Individual Chess Championship in Ulaanbaatar, Mongolia\n\n📍 Where → Ulaanbaatar, Mongolia\n\n🎯 Purpose → India's 13th Women's Asian Chess Championship Title; also secured FIDE Women's World Cup 2027 qualification\n\n📌 Important Facts\n▪️ Venue: Ulaanbaatar, Mongolia\n▪️ This is India's 13th Women's Asian Chess Championship Title\n▪️ Also secured qualification for the 2027 FIDE Women's World Cup\n▪️ Savitha Shri Baskar is from Tamil Nadu\n\n⚠️ Exam Angle → Winner (Savitha Shri Baskar), venue (Ulaanbaatar, Mongolia), India's championship count (13th), and FIDE World Cup qualification are likely exam points\n\n#06June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_160",
+    "title": "Indian Wicket-Keeper Batter KS Bharat Announces Retirement from International Cricket",
+    "content": "🏛️ Indian Cricketer KS Bharat Retires from International Cricket\n\n👤 Who → KS Bharat, Indian wicket-keeper and batter\n\n📋 What → Announced retirement from international cricket\n\n📍 Where → India\n\n🎯 Purpose → End of international career\n\n📌 Important Facts\n▪️ Made his Test debut for India against Australia\n▪️ In 2015, became the first wicket-keeper batsman to score a triple hundred in the Ranji Trophy\n\n⚠️ Exam Angle → KS Bharat's notable record (first WK to score a triple hundred in Ranji Trophy, 2015) and his Test debut opponent (Australia) are likely exam points\n\n#06June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_161",
+    "title": "Mirra Andreeva Wins Maiden Grand Slam Title at French Open",
+    "content": "🏛️ Russian Tennis Star Claims First Grand Slam Title\n\n👤 Who → Mirra Andreeva (Russia)\n\n📋 What → Won her first Grand Slam title at the French Open by defeating Poland's Maja Chwalinska in the women's singles final\n\n📍 Where → French Open (Roland Garros), Paris, France\n\n🎯 Purpose → Historic achievement — first Russian woman to win a Grand Slam since Maria Sharapova in 2014\n\n📌 Important Facts\n▪️ Defeated: Maja Chwalinska (Poland) in the final\n▪️ First Russian woman to win a Grand Slam since Maria Sharapova won the French Open in 2014\n▪️ This is Andreeva's maiden Grand Slam title\n\n⚠️ Exam Angle → Andreeva's nationality (Russia), opponent in final (Maja Chwalinska), Grand Slam event (French Open), and historical reference (first Russian woman since Sharapova, 2014) are exam-ready\n\n#06June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_162",
+    "title": "Former Lok Sabha Secretary General Subhash C Kashyap Passes Away at 97",
+    "content": "🏛️ Constitutional Expert and Former Lok Sabha SG No More\n\n👤 Who → Subhash C. Kashyap, former Lok Sabha Secretary General and constitutional expert\n\n📋 What → Passed away at the age of 97\n\n📍 Where → India\n\n🎯 Purpose → Remembrance of a distinguished constitutional expert\n\n📌 Important Facts\n▪️ Served as Secretary General of Lok Sabha from 1983 to 1990\n▪️ Was part of the high-level committee headed by former President Ram Nath Kovind to prepare a legal framework on simultaneous elections\n▪️ Age at death: 97\n\n⚠️ Exam Angle → His tenure as Lok Sabha SG (1983–1990), his role in the Ram Nath Kovind committee on simultaneous elections, and his age (97) are likely exam points\n\n#06June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_163",
+    "title": "Russian Language Day Observed on 6 June",
+    "content": "🏛️ UN Observance Day for Russian Language\n\n👤 Who → United Nations\n\n📋 What → Russian Language Day observed on 6 June at the United Nations\n\n📍 Where → Worldwide (UN observance)\n\n🎯 Purpose → Celebrated on the birthdate of Alexander Sergeyevich Pushkin, considered the greatest Russian poet and founder of modern Russian literature\n\n📌 Important Facts\n▪️ Observed on: 6 June (birthdate of Alexander Pushkin)\n▪️ Pushkin is considered the greatest Russian poet and founder of modern Russian literature\n\n⚠️ Exam Angle → Date (6 June), reason (Pushkin's birthday), and Pushkin's significance in Russian literature are likely exam questions\n\n#06June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_164",
+    "title": "World Food Safety Day Observed on 7 June",
+    "content": "🏛️ Global Day to Highlight Food Safety Awareness\n\n👤 Who → United Nations / FAO\n\n📋 What → World Food Safety Day 2026 observed on 7 June\n\n📍 Where → Worldwide\n\n🎯 Purpose → To draw global attention to the prevention, detection, and management of foodborne risks\n\n📌 Important Facts\n▪️ Observed annually: 7 June\n▪️ Theme 2026: 'From burden to solutions – safe food everywhere'\n▪️ Slogan: 'Food Safety: Everyone's Business'\n\n⚠️ Exam Angle → Date (7 June), Theme 2026 ('From burden to solutions – safe food everywhere'), and Slogan are key exam points\n\n#06June2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "question": "The Appointments Committee of the Cabinet recently approved Neelkanth Mishra as Executive Director at the World Bank. Who will he succeed in this role?",
+    "options": [
+      "A) Subhash Chandra Garg",
+      "B) Parameswaran Iyer",
+      "C) K V Kamath",
+      "D) Rajiv Kumar"
+    ],
+    "answer": "B) Parameswaran Iyer",
+    "explanation": "Neelkanth Mishra was appointed as Executive Director at the World Bank HQ, Washington D.C., for a tenure of 3 years. He will succeed Parameswaran Iyer. Before this appointment, Mishra served as Chief Economist at Axis Bank. #06June2026",
+    "type": "mcq",
+    "id": "POST_165",
+    "revision_count": 0
+  },
+  {
+    "question": "Swaminathan Janakiraman was re-appointed as Deputy Governor of RBI for a further period of two years. From which date does his new term begin?",
+    "options": [
+      "A) 1 June 2026",
+      "B) 15 June 2026",
+      "C) 26 June 2026",
+      "D) 1 July 2026"
+    ],
+    "answer": "C) 26 June 2026",
+    "explanation": "The Central Government re-appointed Swaminathan Janakiraman as RBI Deputy Governor for a further 2-year term beginning 26 June 2026. The four current RBI Deputy Governors are Swaminathan Janakiraman, Poonam Gupta, Shirish Chandra Murmu, and Rohit Jain. RBI Governor is Sanjay Malhotra. #06June2026",
+    "type": "mcq",
+    "id": "POST_166",
+    "revision_count": 0
+  },
+  {
+    "question": "The Government of India constituted 6 sector-specific working groups to promote domestic manufacturing. These groups will be chaired by the secretary of which department?",
+    "options": [
+      "A) Department of Economic Affairs (DEA)",
+      "B) Department of Commerce",
+      "C) Department for Promotion of Industry and Internal Trade (DPIIT)",
+      "D) Ministry of MSME"
+    ],
+    "answer": "C) Department for Promotion of Industry and Internal Trade (DPIIT)",
+    "explanation": "The 6 sector-specific working groups were constituted to identify ~100 products for domestic manufacturing under the Atmanirbhar Bharat initiative. They will be chaired by the secretary in DPIIT. The six sectors include Pharmaceuticals, Chemicals, Capital Goods/EVs, Energy, Construction Equipment, and Defence/Aerospace/Electronics. #06June2026",
+    "type": "mcq",
+    "id": "POST_167",
+    "revision_count": 0
+  },
+  {
+    "question": "Which of the following is NOT one of the six sectors covered by the Government's newly constituted sector-specific working groups for domestic manufacturing?",
+    "options": [
+      "A) Energy",
+      "B) Pharmaceuticals, Biotechnology and Medical Devices",
+      "C) Food Processing and Agriculture",
+      "D) Defence, Aerospace and Electronics"
+    ],
+    "answer": "C) Food Processing and Agriculture",
+    "explanation": "The six sectors are: (1) Pharmaceuticals, Biotechnology & Medical Devices, (2) Chemicals, Petrochemicals, Textiles & Footwear, (3) Capital Goods, Automotive, EVs & Advanced Capital Goods, (4) Energy, (5) Construction Equipment & Infrastructure, (6) Defence, Aerospace & Electronics. Food Processing is NOT among them. #06June2026",
+    "type": "mcq",
+    "id": "POST_168",
+    "revision_count": 0
+  },
+  {
+    "question": "The RBI's Monetary Policy Committee held its 61st meeting and kept the Policy Repo Rate unchanged. What is the current Repo Rate?",
+    "options": [
+      "A) 5.00%",
+      "B) 5.25%",
+      "C) 5.50%",
+      "D) 6.00%"
+    ],
+    "answer": "B) 5.25%",
+    "explanation": "The MPC, chaired by RBI Governor Sanjay Malhotra, unanimously voted to keep the Policy Repo Rate at 5.25%. SDF rate is 5.00%; MSF rate and Bank Rate are at 5.50%. Real GDP growth for 2026-27 is projected at 6.6% and CPI inflation at 5.1%. MPC maintained a neutral stance. #06June2026",
+    "type": "mcq",
+    "id": "POST_169",
+    "revision_count": 0
+  },
+  {
+    "question": "Surha Tal (Jai Prakash Narayan Bird Sanctuary) was designated as India's 100th Ramsar Site. In which district of Uttar Pradesh is it located?",
+    "options": [
+      "A) Varanasi",
+      "B) Agra",
+      "C) Ballia",
+      "D) Prayagraj"
+    ],
+    "answer": "C) Ballia",
+    "explanation": "Surha Tal (Jai Prakash Narayan Bird Sanctuary) in Ballia district of Uttar Pradesh was designated India's 100th Ramsar Site on World Environment Day. It is UP's 13th Ramsar Site and the 2,595th globally. Tamil Nadu leads with 20 Ramsar Sites. India ranks highest in Asia and 3rd globally after UK (176) and Mexico (144). #06June2026",
+    "type": "mcq",
+    "id": "POST_170",
+    "revision_count": 0
+  },
+  {
+    "question": "Surha Tal became India's 100th Ramsar Site. How many Ramsar Sites does India have in Asia — is it the highest, second highest, or third highest?",
+    "options": [
+      "A) Second highest in Asia",
+      "B) Third highest in Asia",
+      "C) Highest in Asia",
+      "D) Fourth highest in Asia"
+    ],
+    "answer": "C) Highest in Asia",
+    "explanation": "India has the highest number of Ramsar Sites in Asia. Globally, India ranks third — after the UK (176) and Mexico (144). The Ramsar Convention was signed in Ramsar, Iran, in 1971. Tamil Nadu has the most Ramsar Sites in India with 20. #06June2026",
+    "type": "mcq",
+    "id": "POST_171",
+    "revision_count": 0
+  },
+  {
+    "question": "A new Regional Meteorological Centre (RMC) was inaugurated at Jammu. What is its position in the sequence of RMCs established in India?",
+    "options": [
+      "A) 5th",
+      "B) 6th",
+      "C) 7th",
+      "D) 8th"
+    ],
+    "answer": "C) 7th",
+    "explanation": "The new RMC at Jammu is India's 7th Regional Meteorological Centre, inaugurated by Union Minister Dr. Jitendra Singh. It will serve J&K, Ladakh, and Himachal Pradesh. A new RMC will also be set up in Lucknow soon. IMD was formed on 15 January 1875 and its DG is Mrutyunjay Mohapatra. #06June2026",
+    "type": "mcq",
+    "id": "POST_172",
+    "revision_count": 0
+  },
+  {
+    "question": "Grandmaster R. Praggnanandhaa became the first Indian to win the Norway Chess title. Who did he defeat in the final round?",
+    "options": [
+      "A) Magnus Carlsen",
+      "B) Alireza Firouzja",
+      "C) Wesley So",
+      "D) Vincent Keymer"
+    ],
+    "answer": "D) Vincent Keymer",
+    "explanation": "R. Praggnanandhaa from Chennai, Tamil Nadu, won the Norway Chess title in Oslo — the first Indian to do so — with a final-round victory over Germany's Vincent Keymer. American GM Wesley So finished second and Alireza Firouzja ended third. #06June2026",
+    "type": "mcq",
+    "id": "POST_173",
+    "revision_count": 0
+  },
+  {
+    "question": "India won the SAFF Women's Championship 2026 by defeating Bangladesh 3-1 in the final. How many times has India now won this title?",
+    "options": [
+      "A) 4th time",
+      "B) 5th time",
+      "C) 6th time",
+      "D) 7th time"
+    ],
+    "answer": "C) 6th time",
+    "explanation": "India defeated defending champions Bangladesh 3-1 in the final of SAFF Women's Championship 2026 to win the title for a record 6th time. The final was played at Pandit Jawaharlal Nehru Stadium, Margao, Goa. #06June2026",
+    "type": "mcq",
+    "id": "POST_174",
+    "revision_count": 0
+  },
+  {
+    "question": "Savitha Shri Baskar won the 2026 Women's Asian Individual Chess Championship. In which city was this championship held?",
+    "options": [
+      "A) Almaty, Kazakhstan",
+      "B) Tashkent, Uzbekistan",
+      "C) Ulaanbaatar, Mongolia",
+      "D) Tehran, Iran"
+    ],
+    "answer": "C) Ulaanbaatar, Mongolia",
+    "explanation": "Savitha Shri Baskar from Tamil Nadu won the 2026 Women's Asian Individual Chess Championship held in Ulaanbaatar, Mongolia. With this victory, she secured qualification for the 2027 FIDE Women's World Cup. This is India's 13th Women's Asian Chess Championship title. #06June2026",
+    "type": "mcq",
+    "id": "POST_175",
+    "revision_count": 0
+  },
+  {
+    "question": "KS Bharat, who recently retired from international cricket, achieved a notable record in 2015. What was it?",
+    "options": [
+      "A) First wicket-keeper to score a century on Test debut",
+      "B) First wicket-keeper batsman to score a triple hundred in the Ranji Trophy",
+      "C) First Indian keeper to take 10 catches in a Test match",
+      "D) First wicket-keeper to score a double century in the IPL"
+    ],
+    "answer": "B) First wicket-keeper batsman to score a triple hundred in the Ranji Trophy",
+    "explanation": "In 2015, KS Bharat became the first wicket-keeper batsman to score a triple hundred in the Ranji Trophy. He made his Test debut for India against Australia. He recently announced retirement from international cricket. #06June2026",
+    "type": "mcq",
+    "id": "POST_176",
+    "revision_count": 0
+  },
+  {
+    "question": "Mirra Andreeva won the French Open 2026 women's singles title. She became the first Russian woman to win a Grand Slam title since which player achieved the same feat in 2014?",
+    "options": [
+      "A) Elena Dementieva",
+      "B) Svetlana Kuznetsova",
+      "C) Maria Sharapova",
+      "D) Anastasia Pavlyuchenkova"
+    ],
+    "answer": "C) Maria Sharapova",
+    "explanation": "Mirra Andreeva defeated Poland's Maja Chwalinska in the French Open final to win her maiden Grand Slam title. She became the first Russian woman to win a Grand Slam since Maria Sharapova won the French Open in 2014. #06June2026",
+    "type": "mcq",
+    "id": "POST_177",
+    "revision_count": 0
+  },
+  {
+    "question": "Subhash C. Kashyap, who passed away recently, served as Secretary General of Lok Sabha during which period?",
+    "options": [
+      "A) 1975 to 1980",
+      "B) 1980 to 1985",
+      "C) 1983 to 1990",
+      "D) 1990 to 1996"
+    ],
+    "answer": "C) 1983 to 1990",
+    "explanation": "Subhash C. Kashyap served as Secretary General of Lok Sabha from 1983 to 1990. He was also part of the high-level committee headed by former President Ram Nath Kovind to prepare a legal framework on simultaneous elections. He passed away at the age of 97. #06June2026",
+    "type": "mcq",
+    "id": "POST_178",
+    "revision_count": 0
+  },
+  {
+    "question": "Russian Language Day is observed at the United Nations on 6 June. This date marks the birthday of which literary figure?",
+    "options": [
+      "A) Leo Tolstoy",
+      "B) Fyodor Dostoevsky",
+      "C) Alexander Sergeyevich Pushkin",
+      "D) Anton Chekhov"
+    ],
+    "answer": "C) Alexander Sergeyevich Pushkin",
+    "explanation": "Russian Language Day is celebrated on 6 June at the United Nations — the birthdate of Alexander Sergeyevich Pushkin, considered the greatest Russian poet and the founder of modern Russian literature. Tolstoy, Dostoevsky, and Chekhov are other iconic Russian literary figures but not the basis for this observance. #06June2026",
+    "type": "mcq",
+    "id": "POST_179",
+    "revision_count": 0
+  },
+  {
+    "question": "What is the theme of World Food Safety Day 2026, observed on 7 June?",
+    "options": [
+      "A) Safe Food, Better Health",
+      "B) From burden to solutions - safe food everywhere",
+      "C) Food Safety is Everyone's Right",
+      "D) Zero Hunger, Zero Risk"
+    ],
+    "answer": "B) From burden to solutions - safe food everywhere",
+    "explanation": "World Food Safety Day 2026, observed on 7 June, carries the theme 'From burden to solutions - safe food everywhere' with the slogan 'Food Safety: Everyone's Business'. It aims to draw global attention to the prevention, detection, and management of foodborne risks. #06June2026",
+    "type": "mcq",
+    "id": "POST_180",
+    "revision_count": 0
   }
 ]
