@@ -1,1 +1,394 @@
-[]
+[
+  {
+    "question": "Which committee's recommendation directly led to the establishment of the Reserve Bank of India?",
+    "options": [
+      "A) Narasimham Committee",
+      "B) Hilton Young Commission",
+      "C) Urjit Patel Committee",
+      "D) Malegam Committee"
+    ],
+    "answer": "B) Hilton Young Commission",
+    "explanation": "The Hilton Young Commission (Royal Commission on Indian Currency and Finance) recommended creation of a central bank, leading to RBI's establishment in 1935. Narasimham dealt with banking reforms, Urjit Patel with monetary policy framework, and Malegam with microfinance. #BankingEconomics",
+    "type": "mcq",
+    "id": "POST_1",
+    "revision_count": 0
+  },
+  {
+    "question": "Which statement correctly distinguishes the issuance authority of Indian currency notes?",
+    "options": [
+      "A) RBI issues and signs all notes including ₹1",
+      "B) Ministry of Finance issues all notes while RBI signs them",
+      "C) ₹1 note is issued by Ministry of Finance while other notes are issued by RBI",
+      "D) All notes are issued by SPMCIL"
+    ],
+    "answer": "C) ₹1 note is issued by Ministry of Finance while other notes are issued by RBI",
+    "explanation": "₹1 note is a government note issued and signed by the Finance Secretary. Other currency notes are issued by RBI and bear the RBI Governor's signature. SPMCIL prints notes but does not issue them. #BankingEconomics",
+    "type": "mcq",
+    "id": "POST_2",
+    "revision_count": 0
+  },
+  {
+    "question": "Under RBI's structure, who appoints the members of the Central Board of Directors?",
+    "options": [
+      "A) Parliament",
+      "B) President of India independently",
+      "C) Government of India under RBI Act, 1934",
+      "D) RBI Governor"
+    ],
+    "answer": "C) Government of India under RBI Act, 1934",
+    "explanation": "The Central Board governs RBI affairs and its members are appointed by the Government of India under the RBI Act, 1934. Directors generally have a four-year tenure. #BankingEconomics",
+    "type": "mcq",
+    "id": "POST_3",
+    "revision_count": 0
+  },
+  {
+    "question": "Which of the following is the first Indian Governor of RBI?",
+    "options": [
+      "A) Sir Osborne Smith",
+      "B) C. D. Deshmukh",
+      "C) K. J. Udeshi",
+      "D) Urjit Patel"
+    ],
+    "answer": "B) C. D. Deshmukh",
+    "explanation": "Sir Osborne Smith was the first RBI Governor overall, while C. D. Deshmukh was the first Indian RBI Governor. K. J. Udeshi was the first woman Deputy Governor. #BankingEconomics",
+    "type": "mcq",
+    "id": "POST_4",
+    "revision_count": 0
+  },
+  {
+    "question": "A depositor's bank fails. Which institution provides deposit insurance up to the specified limit?",
+    "options": [
+      "A) NABARD",
+      "B) SIDBI",
+      "C) DICGC",
+      "D) ReBIT"
+    ],
+    "answer": "C) DICGC",
+    "explanation": "DICGC provides deposit insurance to bank customers up to ₹5 lakh per depositor per bank. ReBIT handles IT and cybersecurity, while NABARD and SIDBI serve development finance roles. #BankingEconomics",
+    "type": "mcq",
+    "id": "POST_5",
+    "revision_count": 0
+  },
+  {
+    "question": "Which RBI-related entity primarily handles information technology and cybersecurity operations for the central bank?",
+    "options": [
+      "A) BRBNMPL",
+      "B) ReBIT",
+      "C) RBIH",
+      "D) IFTAS"
+    ],
+    "answer": "B) ReBIT",
+    "explanation": "ReBIT manages RBI's IT and cybersecurity operations. BRBNMPL prints notes, RBIH promotes innovation, and IFTAS provides technology services to the banking sector. #BankingEconomics",
+    "type": "mcq",
+    "id": "POST_6",
+    "revision_count": 0
+  },
+  {
+    "question": "An increase in Repo Rate is most likely to have which immediate policy objective?",
+    "options": [
+      "A) Increase money supply",
+      "B) Reduce borrowing cost of banks",
+      "C) Control inflation by reducing liquidity",
+      "D) Increase government expenditure"
+    ],
+    "answer": "C) Control inflation by reducing liquidity",
+    "explanation": "Repo Rate is the rate at which RBI lends short-term funds to banks. A higher Repo Rate makes borrowing costlier, reducing credit growth and money supply, thereby helping control inflation. #BankingEconomics",
+    "type": "mcq",
+    "id": "POST_7",
+    "revision_count": 0
+  },
+  {
+    "question": "Which monetary tool requires banks to maintain a percentage of deposits as cash with RBI?",
+    "options": [
+      "A) SLR",
+      "B) CRR",
+      "C) OMO",
+      "D) Bank Rate"
+    ],
+    "answer": "B) CRR",
+    "explanation": "CRR (Cash Reserve Ratio) requires banks to keep a portion of deposits as cash with RBI. SLR is maintained in liquid assets, while OMO and Bank Rate are different monetary tools. #BankingEconomics",
+    "type": "mcq",
+    "id": "POST_8",
+    "revision_count": 0
+  },
+  {
+    "question": "How does a higher Statutory Liquidity Ratio generally affect bank lending?",
+    "options": [
+      "A) Increases lending capacity",
+      "B) Has no effect on lending",
+      "C) Reduces funds available for lending",
+      "D) Eliminates CRR requirement"
+    ],
+    "answer": "C) Reduces funds available for lending",
+    "explanation": "A higher SLR requires banks to hold more assets in cash, gold, or approved securities, leaving fewer funds available for loans. It is a liquidity control measure. #BankingEconomics",
+    "type": "mcq",
+    "id": "POST_9",
+    "revision_count": 0
+  },
+  {
+    "question": "When RBI purchases government securities through Open Market Operations, what is the likely impact?",
+    "options": [
+      "A) Liquidity decreases",
+      "B) Liquidity increases",
+      "C) CRR automatically rises",
+      "D) Deposit insurance limit changes"
+    ],
+    "answer": "B) Liquidity increases",
+    "explanation": "Under OMO, RBI buying government securities injects money into the economy, increasing liquidity. Selling securities has the opposite effect. #BankingEconomics",
+    "type": "mcq",
+    "id": "POST_10",
+    "revision_count": 0
+  },
+  {
+    "question": "Which qualitative credit control tool relies primarily on persuasion rather than legal compulsion?",
+    "options": [
+      "A) Direct Action",
+      "B) Credit Rationing",
+      "C) Moral Suasion",
+      "D) Margin Requirement"
+    ],
+    "answer": "C) Moral Suasion",
+    "explanation": "Moral Suasion involves RBI persuading banks to follow desired credit policies. It is advisory in nature, unlike Direct Action, which can involve penalties and restrictions. #BankingEconomics",
+    "type": "mcq",
+    "id": "POST_11",
+    "revision_count": 0
+  },
+  {
+    "question": "Under the Minimum Reserve System, RBI must maintain a minimum reserve of:",
+    "options": [
+      "A) ₹100 crore",
+      "B) ₹150 crore",
+      "C) ₹200 crore",
+      "D) ₹500 crore"
+    ],
+    "answer": "C) ₹200 crore",
+    "explanation": "Under the Minimum Reserve System, RBI maintains a minimum reserve of ₹200 crore, consisting of ₹115 crore in gold and ₹85 crore in foreign securities. #BankingEconomics",
+    "type": "mcq",
+    "id": "POST_12",
+    "revision_count": 0
+  },
+  {
+    "question": "Which body decides the Repo Rate in India?",
+    "options": [
+      "A) Central Board alone",
+      "B) Ministry of Finance",
+      "C) Monetary Policy Committee",
+      "D) NITI Aayog"
+    ],
+    "answer": "C) Monetary Policy Committee",
+    "explanation": "The MPC decides the Repo Rate and monetary policy stance. It has six members: three from RBI and three appointed by the Government of India. #BankingEconomics",
+    "type": "mcq",
+    "id": "POST_13",
+    "revision_count": 0
+  },
+  {
+    "question": "The Banking Regulation Act, 1949 primarily empowers RBI to:",
+    "options": [
+      "A) Conduct foreign trade",
+      "B) License, inspect and regulate banks",
+      "C) Print all coins",
+      "D) Levy income tax"
+    ],
+    "answer": "B) License, inspect and regulate banks",
+    "explanation": "The Banking Regulation Act, 1949 provides RBI powers related to licensing, inspection, supervision, and regulation of banks. #BankingEconomics",
+    "type": "mcq",
+    "id": "POST_14",
+    "revision_count": 0
+  },
+  {
+    "question": "FEMA, administered by RBI and the Enforcement Directorate, replaced which earlier legislation?",
+    "options": [
+      "A) SARFAESI",
+      "B) RBI Act",
+      "C) FERA",
+      "D) PMLA"
+    ],
+    "answer": "C) FERA",
+    "explanation": "The Foreign Exchange Management Act (FEMA), 1999 replaced the Foreign Exchange Regulation Act (FERA). FEMA governs foreign exchange transactions in India. #BankingEconomics",
+    "type": "mcq",
+    "id": "POST_15",
+    "revision_count": 0
+  },
+  {
+    "question": "Which organization prints Indian currency notes on behalf of RBI?",
+    "options": [
+      "A) DICGC",
+      "B) BRBNMPL",
+      "C) NABARD",
+      "D) PFRDA"
+    ],
+    "answer": "B) BRBNMPL",
+    "explanation": "Bharatiya Reserve Bank Note Mudran Private Limited (BRBNMPL) prints Indian currency notes on behalf of RBI. #BankingEconomics",
+    "type": "mcq",
+    "id": "POST_16",
+    "revision_count": 0
+  },
+  {
+    "question": "RBI acts as the 'Lender of Last Resort' primarily to:",
+    "options": [
+      "A) Finance fiscal deficit permanently",
+      "B) Provide emergency liquidity to banks facing severe shortages",
+      "C) Issue government bonds",
+      "D) Control foreign trade"
+    ],
+    "answer": "B) Provide emergency liquidity to banks facing severe shortages",
+    "explanation": "As Lender of Last Resort, RBI provides emergency funds to banks facing temporary liquidity crises, helping maintain confidence and financial stability. #BankingEconomics",
+    "type": "mcq",
+    "id": "POST_17",
+    "revision_count": 0
+  },
+  {
+    "question": "Which local board of RBI represents the South region?",
+    "options": [
+      "A) Mumbai",
+      "B) Delhi",
+      "C) Kolkata",
+      "D) Chennai"
+    ],
+    "answer": "D) Chennai",
+    "explanation": "RBI has four local boards: Mumbai (West), Delhi (North), Chennai (South), and Kolkata (East). They advise the Central Board and represent regional interests. #BankingEconomics",
+    "type": "mcq",
+    "id": "POST_18",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_19",
+    "title": "Reserve Bank of India (RBI) - Overview",
+    "content": "🏦 Topic → Reserve Bank of India (RBI) - Overview\n\n📖 Definition → RBI is India's central bank — the apex financial institution that controls the country's money supply, banking system, and monetary policy.\n\n⚙️ Working / Mechanism →\n▪️ Established on 1 April 1935 under the Reserve Bank of India Act, 1934\n▪️ Before 1949 → RBI was privately owned (shareholders held the bank)\n▪️ Nationalized on 1 January 1949 → came fully under Government of India control\n▪️ Initial Central Office → Kolkata (Calcutta) at the time of establishment\n▪️ Permanently shifted to Mumbai in 1937 (even before nationalization)\n▪️ Current Headquarters → Mumbai, Maharashtra\n\n📌 Key Facts\n▪️ Governing Legislation → Reserve Bank of India Act, 1934\n▪️ Operational Start → 1 April 1935\n▪️ Nationalization Date → 1 January 1949\n▪️ First HQ → Kolkata; Current HQ → Mumbai (since 1937)\n▪️ Created to regulate: Currency issuance, Banking system, Credit system, Monetary stability, Financial stability of India\n▪️ Hilton Young Commission (also called Royal Commission on Indian Currency and Finance)\n  → Established in 1926\n  → Recommended establishment of a central bank in India\n  → Its recommendation directly led to the creation of RBI in 1935\n\n🎯 Exam Focus\n▪️ Year of establishment (1935) vs. Year of RBI Act (1934) — two different years!\n▪️ Nationalization year: 1949\n▪️ Hilton Young Commission → 1926 → recommended central bank → RBI created 1935\n▪️ HQ shift: Kolkata → Mumbai in 1937 (before nationalization in 1949)\n▪️ RBI is NOT a commercial bank — it is the central bank / apex monetary authority\n\n⚠️ Common Confusion / Trap\n▪️ RBI Act 1934 ≠ RBI Established 1934 → Act passed in 1934, bank started in 1935\n▪️ RBI was initially privately owned (1935–1948), NOT a government body from birth\n▪️ Nationalization → 1 January 1949 (same year as Banking Regulation Act 1949)\n▪️ Initial HQ was Kolkata, but shifted to Mumbai in 1937 — NOT after nationalization\n\n🔄 Related Static Concepts\n▪️ Hilton Young Commission (1926)\n▪️ RBI Act 1934\n▪️ Banking Regulation Act 1949\n▪️ RBI Nationalization\n▪️ RBI Governors\n\n#BankingEconomics",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_20",
+    "title": "RBI Structure and Central Board",
+    "content": "🏦 Topic → RBI Structure and Central Board of Directors\n\n📖 Definition → RBI is governed by a Central Board of Directors — the highest decision-making body of the Reserve Bank. They are appointed by the Government of India under the RBI Act, 1934.\n\n⚙️ Working / Mechanism →\n▪️ The Central Board oversees all RBI operations, policies, and decisions\n▪️ Members are appointed by Government of India under RBI Act 1934\n▪️ Tenure of Central Board Directors → 4 years\n\nComposition of Central Board:\n▪️ Governor (Chairperson of the Board)\n▪️ Up to 4 Deputy Governors\n▪️ Directors from 4 Local Boards (one from each region)\n▪️ Government nominees (representatives from Ministry of Finance etc.)\n\nRBI's 4 Local Boards:\n▪️ Mumbai → represents West region\n▪️ Delhi → represents North region\n▪️ Chennai → represents South region\n▪️ Kolkata → represents East region\n\nRole of Local Boards:\n▪️ Advise the Central Board on regional matters\n▪️ Represent regional banking and economic interests\n\n📌 Key Facts\n▪️ Total Local Boards → 4\n▪️ Central Board Director Tenure → 4 years\n▪️ Deputy Governors → Up to 4 (maximum limit)\n▪️ Appointing Authority → Government of India\n▪️ Governing Law → Reserve Bank of India Act, 1934\n\n🎯 Exam Focus\n▪️ Number of Local Boards = 4 (covering 4 regions)\n▪️ Tenure of Directors = 4 years\n▪️ Maximum Deputy Governors = 4\n▪️ Who appoints Central Board members → Government of India (NOT the RBI Governor)\n▪️ Role of Local Boards → advisory, not decision-making\n\n⚠️ Common Confusion / Trap\n▪️ RBI Governor is the Chairperson of Central Board — but NOT appointed by the Board itself\n▪️ Governor is appointed by the Government of India (Appointments Committee of Cabinet)\n▪️ Local Boards ADVISE the Central Board — they do NOT have independent executive powers\n▪️ Deputy Governors can be UP TO 4 — this is a maximum, not a fixed number\n\n🔄 Related Static Concepts\n▪️ RBI Governor Appointments\n▪️ RBI Act 1934\n▪️ MPC (Monetary Policy Committee) — separate from Central Board\n▪️ Banking Regulation Act 1949\n\n#BankingEconomics",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_21",
+    "title": "RBI Governors - Key Firsts",
+    "content": "🏦 Topic → RBI Governors — Key Firsts\n\n📖 Definition → The RBI Governor is the head of the Reserve Bank of India, appointed by the Government of India. Several milestone appointments in RBI's history are frequently tested in competitive exams.\n\n⚙️ Working / Mechanism →\n▪️ The Governor heads the Central Board and chairs the Monetary Policy Committee (MPC)\n▪️ Appointed by the Appointments Committee of Cabinet (Government of India)\n▪️ Tenure is typically 3 years (renewable)\n▪️ The Governor's signature appears on all currency notes except the ₹1 note\n\n📌 Key Facts — Firsts and Milestones\n▪️ First RBI Governor → Sir Osborne Smith (1935–1937) — British national\n▪️ First Indian RBI Governor → C. D. Deshmukh (appointed 1943, after nationalization in 1949 served as first post-nationalization Indian governor)\n▪️ First Woman Deputy Governor → K. J. Udeshi\n▪️ C. D. Deshmukh became the first Indian Governor after RBI was taken over and nationalized\n▪️ Urjit Patel → frequently linked to questions around economists and governors (served 2016–2018; associated with Inflation Targeting framework)\n▪️ Current RBI Governor → Must revise from current affairs separately (changes frequently)\n\n🎯 Exam Focus\n▪️ First Governor = Sir Osborne Smith (British)\n▪️ First Indian Governor = C. D. Deshmukh\n▪️ First Woman Deputy Governor = K. J. Udeshi\n▪️ Governor signs all notes EXCEPT ₹1 note\n▪️ Urjit Patel → associated with Inflation Targeting and MPC framework\n\n⚠️ Common Confusion / Trap\n▪️ Sir Osborne Smith was First Governor — NOT the first Indian Governor\n▪️ First Indian Governor = C. D. Deshmukh — NOT Osborne Smith\n▪️ K. J. Udeshi was First Woman DEPUTY Governor — NOT Governor\n▪️ Never assume the most recent governor in your notes is the current governor — always verify with current affairs\n\n🔄 Related Static Concepts\n▪️ RBI Nationalization (1949)\n▪️ Currency Notes Signature (₹1 vs all other notes)\n▪️ MPC — Governor chairs it\n▪️ Government of India appointment powers\n\n#BankingEconomics",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_22",
+    "title": "DICGC - Deposit Insurance",
+    "content": "🏦 Topic → DICGC — Deposit Insurance and Credit Guarantee Corporation\n\n📖 Definition → DICGC is a subsidiary of RBI that provides deposit insurance to bank customers. This means if a bank fails or is liquidated, DICGC guarantees that depositors will get their money back up to a specified limit.\n\n⚙️ Working / Mechanism →\n▪️ Every bank that accepts public deposits must be insured with DICGC\n▪️ Banks pay a premium to DICGC for this insurance coverage\n▪️ If a bank fails → DICGC pays the depositor their insured amount\n▪️ Insurance is per depositor, per bank (not across all banks combined)\n▪️ Current Deposit Insurance Limit → ₹5 lakh per depositor per bank\n  → Example: If you have ₹8 lakh in a failing bank → you get ₹5 lakh back (guaranteed)\n  → The remaining ₹3 lakh may or may not be recovered from liquidation proceeds\n\n📌 Key Facts\n▪️ Full Form → Deposit Insurance and Credit Guarantee Corporation\n▪️ Parent Organization → Reserve Bank of India (RBI subsidiary)\n▪️ Governing Act → DICGC Act, 1961\n▪️ Headquarters → Mumbai\n▪️ Insurance Limit → ₹5 lakh per depositor per bank\n▪️ Covers → savings accounts, fixed deposits, current accounts, recurring deposits\n▪️ Does NOT cover → investment products like mutual funds, stocks, bonds\n▪️ Insurance limit was increased from ₹1 lakh to ₹5 lakh in February 2020 (Union Budget 2020–21)\n\n🎯 Exam Focus\n▪️ DICGC is a subsidiary of RBI (not a separate independent body)\n▪️ Insurance limit = ₹5 lakh (revised upward in 2020 from ₹1 lakh)\n▪️ Insurance applies per depositor per bank (not per account)\n▪️ Governing Act → DICGC Act 1961\n▪️ Covers only bank deposits — NOT investment products\n\n⚠️ Common Confusion / Trap\n▪️ ₹5 lakh is per depositor per bank — if you have accounts in 3 banks, each bank's deposit is insured up to ₹5 lakh separately\n▪️ DICGC ≠ SEBI — SEBI regulates markets; DICGC insures deposits\n▪️ DICGC protects depositors, NOT investors (stocks/mutual funds are NOT covered)\n▪️ Previous limit was ₹1 lakh — exam may still test old figure; the CURRENT figure is ₹5 lakh\n\n🔄 Related Static Concepts\n▪️ RBI Subsidiaries (BRBNMPL, ReBIT, IFTAS, RBIH)\n▪️ Banking Regulation Act 1949\n▪️ SEBI (Securities and Exchange Board of India)\n▪️ Bank Liquidation Process\n\n#BankingEconomics",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_23",
+    "title": "RBI Subsidiaries",
+    "content": "🏦 Topic → RBI Subsidiaries and Associated Institutions\n\n📖 Definition → RBI has set up several subsidiary companies and institutions to handle specialized functions like currency printing, IT security, innovation, and financial technology services.\n\n⚙️ Working / Mechanism → Each subsidiary handles a specific technical or operational area under RBI supervision.\n\n📌 Key Facts — All RBI Subsidiaries\n\n1. DICGC (Deposit Insurance and Credit Guarantee Corporation)\n▪️ Provides deposit insurance to bank customers\n▪️ Insurance limit → ₹5 lakh per depositor per bank\n▪️ Governed by DICGC Act, 1961\n\n2. BRBNMPL (Bharatiya Reserve Bank Note Mudran Private Limited)\n▪️ Full Form → Bharatiya Reserve Bank Note Mudran Private Limited\n▪️ Function → Prints Indian currency notes on behalf of RBI\n▪️ Operates currency note printing presses under RBI supervision\n\n3. ReBIT (Reserve Bank Information Technology Private Limited)\n▪️ Full Form → Reserve Bank Information Technology Private Limited\n▪️ Function → Handles all RBI IT infrastructure and cybersecurity operations\n▪️ Ensures digital security of India's central banking system\n\n4. IFTAS (Indian Financial Technology and Allied Services)\n▪️ Full Form → Indian Financial Technology and Allied Services\n▪️ Function → Provides technology and communication services for the banking sector\n\n5. RBIH (Reserve Bank Innovation Hub)\n▪️ Full Form → Reserve Bank Innovation Hub\n▪️ Established → March 2022\n▪️ Headquarters → Bengaluru (Bangalore), Karnataka\n▪️ Initial Capital → ₹100 crore\n▪️ Registered as a Section 8 Company under Companies Act, 2013\n  (Section 8 = Not-for-profit company)\n▪️ Purpose → Promotes financial innovation and fintech development in India\n\n🎯 Exam Focus\n▪️ RBIH HQ = Bengaluru (not Mumbai like other RBI entities)\n▪️ RBIH established = 2022, Capital = ₹100 crore\n▪️ RBIH = Section 8 Company (not-for-profit)\n▪️ BRBNMPL = currency printing; ReBIT = IT and cybersecurity\n▪️ DICGC Act 1961 governs deposit insurance\n\n⚠️ Common Confusion / Trap\n▪️ BRBNMPL prints notes but SPMCIL also prints notes — know both and their difference\n▪️ ReBIT ≠ IFTAS — ReBIT handles RBI's internal IT; IFTAS serves the broader banking sector\n▪️ RBIH HQ is Bengaluru — NOT Mumbai (unlike most RBI entities)\n▪️ RBIH = Section 8 Company = not-for-profit entity (even though it has ₹100 crore capital)\n\n🔄 Related Static Concepts\n▪️ SPMCIL (Currency Printing)\n▪️ DICGC Act 1961\n▪️ Companies Act 2013 (Section 8)\n▪️ RBI Functions\n\n#BankingEconomics",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_24",
+    "title": "Currency Printing in India",
+    "content": "🏦 Topic → Currency Printing in India — SPMCIL and BRBNMPL\n\n📖 Definition → Indian currency notes and coins are printed/minted by two main organizations: BRBNMPL (under RBI) and SPMCIL (under Ministry of Finance). There is a unique exception for the ₹1 note.\n\n⚙️ Working / Mechanism →\n▪️ RBI issues all currency notes (except ₹1 note)\n▪️ BRBNMPL and SPMCIL print the physical notes under RBI's direction\n▪️ ₹1 note is NOT issued by RBI — it is a Government of India note, issued by Ministry of Finance\n\n📌 Key Facts — SPMCIL\n▪️ Full Form → Security Printing and Minting Corporation of India Limited\n▪️ Founded → 13 January 2006\n▪️ Headquarters → New Delhi\n▪️ Operates the following:\n  → 4 Government Mints → produce coins\n  → 2 Currency Note Presses → print paper currency notes\n  → 2 Security Printing Presses → print passports, postal stamps, etc.\n  → 1 Security Paper Mill → produces special security paper used in currency notes\n\nKey Facts — Currency Note Signatures:\n▪️ ₹1 note → signed by Finance Secretary (under Ministry of Finance)\n▪️ All other notes (₹2 and above) → signed by RBI Governor\n▪️ ₹1 note is technically a Government Currency Note, NOT a Reserve Bank Note\n\n🎯 Exam Focus\n▪️ SPMCIL founded = 13 January 2006, HQ = New Delhi\n▪️ SPMCIL operates 4 mints, 2 currency presses, 2 security presses, 1 paper mill\n▪️ ₹1 note → issued by Ministry of Finance, signed by Finance Secretary\n▪️ All other notes → issued by RBI, signed by RBI Governor\n▪️ BRBNMPL = RBI subsidiary that also prints currency\n\n⚠️ Common Confusion / Trap\n▪️ ₹1 note is NOT a RBI note — it is a Ministry of Finance note (this is a major exam trap)\n▪️ ₹1 note signer = Finance Secretary (NOT RBI Governor)\n▪️ All other notes signer = RBI Governor (NOT Finance Secretary)\n▪️ Both SPMCIL and BRBNMPL print notes — they are different entities\n▪️ Coins are produced by SPMCIL mints — NOT by BRBNMPL (which only prints paper notes)\n\n🔄 Related Static Concepts\n▪️ BRBNMPL (RBI subsidiary)\n▪️ Minimum Reserve System\n▪️ RBI Functions — Currency Issuance\n▪️ Ministry of Finance vs RBI roles\n\n#BankingEconomics",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_25",
+    "title": "Functions of RBI",
+    "content": "🏦 Topic → Functions of RBI\n\n📖 Definition → RBI performs multiple critical functions to maintain the monetary, financial, and banking stability of India. These functions can be classified as monetary, regulatory, developmental, and supervisory.\n\n⚙️ Working / Mechanism →\n\n1. Maker of Monetary Policy\n▪️ Controls inflation, money supply, and interest rates in the economy\n▪️ Tools used → Repo Rate, Reverse Repo Rate, CRR, SLR, Bank Rate, OMO\n▪️ Decisions taken by the Monetary Policy Committee (MPC)\n\n2. Issuer of Currency\n▪️ Prints and issues all currency notes except the ₹1 note\n▪️ ₹1 note → issued by Ministry of Finance (not RBI)\n▪️ Ensures adequate currency supply in the economy\n\n3. Banker to Government\n▪️ Manages government accounts, public borrowing, and national debt\n▪️ Acts as banker for both Central Government and all State Governments\n▪️ Manages the auction of government securities (G-Secs, T-Bills)\n\n4. Banker to Banks (Banker's Bank)\n▪️ Commercial banks maintain reserve accounts (CRR accounts) with RBI\n▪️ RBI provides financial support, settlement support, and regulatory guidance\n▪️ Facilitates inter-bank settlement and payment systems\n\n5. Foreign Exchange Management\n▪️ Managed under RBI + FEMA (Foreign Exchange Management Act, 1999)\n▪️ Maintains and manages India's forex reserves\n▪️ Controls and regulates the foreign exchange market\n\n6. Lender of Last Resort (LOLR)\n▪️ When banks face severe fund shortage → RBI provides emergency loans\n▪️ Ensures no bank collapses due to a temporary liquidity crisis\n▪️ This function protects depositors and the banking system\n▪️ Simple understanding: RBI is the emergency fund provider for all banks\n\n7. Banking Regulation and Supervision\n▪️ Issues banking licenses to new banks\n▪️ Regulates and supervises all banks and Non-Banking Financial Companies (NBFCs)\n▪️ Enforces compliance with Banking Regulation Act, 1949\n\n📌 Key Facts\n▪️ LOLR = Lender of Last Resort → unique function of central banks\n▪️ FEMA 1999 → governs foreign exchange; RBI + Enforcement Directorate (ED) administer it\n▪️ ₹1 note exception → Ministry of Finance issues it, not RBI\n▪️ CRR accounts → commercial banks park mandatory reserves with RBI\n\n🎯 Exam Focus\n▪️ LOLR = RBI (not any commercial bank)\n▪️ FEMA administered jointly by RBI + Enforcement Directorate (ED)\n▪️ RBI is Banker to both Central Government AND State Governments\n▪️ RBI issues licenses for new banks → under Banking Regulation Act 1949\n\n⚠️ Common Confusion / Trap\n▪️ LOLR = RBI acts as lender for commercial banks in crisis — NOT for retail customers\n▪️ FEMA (1999) replaced FERA (1973) — both are different; FERA was more stringent\n▪️ RBI does NOT lend to the public directly — it lends to banks\n▪️ Foreign exchange reserves management = RBI function, NOT SEBI\n\n🔄 Related Static Concepts\n▪️ Monetary Policy Committee (MPC)\n▪️ FEMA 1999 vs FERA 1973\n▪️ Banking Regulation Act 1949\n▪️ Monetary Policy Tools (Repo Rate, CRR, SLR)\n\n#BankingEconomics",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_26",
+    "title": "Repo Rate",
+    "content": "🏦 Topic → Repo Rate\n\n📖 Definition → Repo Rate is the rate at which the Reserve Bank of India (RBI) lends short-term money to commercial banks. The word 'Repo' comes from 'Repurchase Agreement' — banks sell government securities to RBI and agree to repurchase them at a higher price (the difference is the interest = Repo Rate).\n\n⚙️ Working / Mechanism →\n▪️ Bank needs short-term funds → Bank gives government securities to RBI as collateral → RBI gives money → Bank repays with interest (Repo Rate)\n▪️ Higher Repo Rate → borrowing becomes costlier for banks → banks lend less → money supply reduces → inflation is controlled\n▪️ Lower Repo Rate → cheaper borrowing → banks lend more → money supply increases → economic growth stimulated\n\n📌 Key Facts\n▪️ Type → Quantitative monetary policy tool\n▪️ Decided by → Monetary Policy Committee (MPC) — meeting every 2 months\n▪️ Nature → Short-term lending (overnight to a few days)\n▪️ Collateral → Government securities (backed loans)\n▪️ Used for → Inflation control and liquidity management\n▪️ Impact on EMIs: Higher Repo Rate → Bank lending rates rise → EMIs rise\n\n🎯 Exam Focus\n▪️ Repo Rate = RBI lends to banks (short term, backed by G-Secs)\n▪️ Increase in Repo Rate → reduces inflation (contractionary policy)\n▪️ Decrease in Repo Rate → stimulates growth (expansionary policy)\n▪️ Decided by MPC (not by RBI Governor alone)\n▪️ Repo Rate directly impacts home loan, car loan, personal loan interest rates\n\n⚠️ Common Confusion / Trap\n▪️ Repo Rate = RBI lends to banks (NOT banks lending to RBI)\n▪️ Reverse Repo Rate = RBI borrows from banks (exact opposite)\n▪️ Bank Rate = long-term, no collateral; Repo Rate = short-term, with collateral\n▪️ Repo Rate increase does NOT directly reduce inflation instantly — it works through the credit channel over time\n\n🔄 Related Static Concepts\n▪️ Reverse Repo Rate\n▪️ Bank Rate\n▪️ MSF (Marginal Standing Facility)\n▪️ MPC\n▪️ Inflation Targeting\n▪️ CRR and SLR\n\n#BankingEconomics",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_27",
+    "title": "Reverse Repo Rate",
+    "content": "🏦 Topic → Reverse Repo Rate\n\n📖 Definition → Reverse Repo Rate is the rate at which RBI borrows money from commercial banks. Banks park their surplus (extra) funds with RBI and earn interest at the Reverse Repo Rate.\n\n⚙️ Working / Mechanism →\n▪️ Banks have excess funds → Banks deposit money with RBI → RBI pays interest = Reverse Repo Rate\n▪️ Higher Reverse Repo Rate → banks prefer to park more money with RBI (safe returns) → less money goes into the economy → liquidity absorbed\n▪️ Lower Reverse Repo Rate → banks prefer to lend in the market (better returns) → more money in economy → liquidity increases\n\n📌 Key Facts\n▪️ Direction → Banks lend to RBI (opposite of Repo)\n▪️ Purpose → Absorbs excess liquidity from the banking system\n▪️ Liquidity Absorption → RBI removes excess money from the banking system\n▪️ Reverse Repo Rate is always LOWER than Repo Rate (creates a corridor)\n▪️ The gap between Repo Rate and Reverse Repo Rate is called the Policy Rate Corridor\n▪️ Decided by → MPC\n\n🎯 Exam Focus\n▪️ Reverse Repo = banks lend to RBI (remember: REVERSE direction of Repo)\n▪️ Used to absorb excess liquidity from the market\n▪️ Always lower than Repo Rate\n▪️ Repo Rate > Reverse Repo Rate (always)\n\n⚠️ Common Confusion / Trap\n▪️ Repo = RBI lends; Reverse Repo = RBI borrows (easy reversal trick)\n▪️ Higher Reverse Repo = LESS money in economy (not more)\n▪️ Reverse Repo is NOT the same as Bank Rate\n▪️ Reverse Repo is NOT the SDF (Standing Deposit Facility) — both absorb liquidity but SDF does not require collateral from banks\n\n🔄 Related Static Concepts\n▪️ Repo Rate\n▪️ Standing Deposit Facility (SDF)\n▪️ Liquidity Adjustment Facility (LAF)\n▪️ MPC\n▪️ Open Market Operations (OMO)\n\n#BankingEconomics",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_28",
+    "title": "CRR - Cash Reserve Ratio",
+    "content": "🏦 Topic → CRR — Cash Reserve Ratio\n\n📖 Definition → CRR is the percentage of a bank's total deposits (Net Demand and Time Liabilities — NDTL) that the bank must keep as cash with the Reserve Bank of India. Banks cannot use this money for lending.\n\n⚙️ Working / Mechanism →\n▪️ Every bank collects deposits from customers\n▪️ A fixed percentage of those deposits must be maintained as cash with RBI\n▪️ Higher CRR → banks must keep more cash with RBI → less money left to lend → credit reduces → inflation controlled\n▪️ Lower CRR → banks keep less cash with RBI → more money available to lend → credit increases → economic activity stimulated\n▪️ CRR is a non-earning asset — banks earn NO interest on CRR balance maintained with RBI\n\n📌 Key Facts\n▪️ Full Form → Cash Reserve Ratio\n▪️ Maintained with → RBI (as cash)\n▪️ Basis → Percentage of NDTL (Net Demand and Time Liabilities)\n▪️ Purpose → Controls credit availability and money supply\n▪️ Decided by → RBI (monetary policy tool)\n▪️ Banks earn ZERO interest on CRR balances\n▪️ CRR is a quantitative tool of monetary policy\n\n🎯 Exam Focus\n▪️ CRR is maintained with RBI (in cash form)\n▪️ Basis of calculation = NDTL (Net Demand and Time Liabilities)\n▪️ Banks earn NO interest on CRR → it's a cost for banks\n▪️ Higher CRR = contractionary (reduces credit); Lower CRR = expansionary\n▪️ CRR is a more powerful tool than Repo Rate for controlling credit supply\n\n⚠️ Common Confusion / Trap\n▪️ CRR ≠ SLR → CRR is maintained in CASH with RBI; SLR is maintained in gold/cash/securities by the bank itself\n▪️ CRR is maintained WITH RBI; SLR is maintained BY the bank (big difference!)\n▪️ Banks earn NO interest on CRR; some returns possible in SLR securities\n▪️ NDTL = Net Demand and Time Liabilities (total deposits roughly)\n\n🔄 Related Static Concepts\n▪️ SLR (Statutory Liquidity Ratio)\n▪️ Repo Rate\n▪️ NDTL (Net Demand and Time Liabilities)\n▪️ Monetary Policy Tools\n▪️ Credit Control\n\n#BankingEconomics",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_29",
+    "title": "SLR - Statutory Liquidity Ratio",
+    "content": "🏦 Topic → SLR — Statutory Liquidity Ratio\n\n📖 Definition → SLR is the percentage of a bank's total deposits (NDTL) that the bank must maintain in the form of liquid assets — gold, cash, or approved government securities — before extending credit to customers.\n\n⚙️ Working / Mechanism →\n▪️ Unlike CRR, the bank keeps SLR assets with ITSELF (not with RBI)\n▪️ Approved assets for SLR: Government securities (G-Secs), Treasury Bills (T-Bills), cash, gold\n▪️ Higher SLR → more funds locked in government securities → less available for lending → credit contracts\n▪️ Lower SLR → fewer funds locked → more available for lending → credit expands\n▪️ SLR also ensures banks always invest a portion in safe government assets → supports government borrowing\n\n📌 Key Facts\n▪️ Full Form → Statutory Liquidity Ratio\n▪️ Maintained with → Bank itself (NOT with RBI)\n▪️ Approved forms → Cash, Gold, Approved government securities\n▪️ Basis → Percentage of NDTL (same as CRR)\n▪️ Purpose → Ensures bank solvency + controls credit expansion + supports government borrowing\n▪️ Banks can earn returns on SLR assets (government securities pay interest)\n▪️ Maximum SLR limit under Banking Regulation Act → 40% of NDTL\n\n🎯 Exam Focus\n▪️ SLR maintained BY the bank itself (NOT deposited with RBI)\n▪️ SLR assets include: Gold, Cash, Government Securities\n▪️ Banks CAN earn interest on SLR investments (unlike CRR where no interest is earned)\n▪️ SLR also indirectly helps government raise funds (banks compulsorily buy G-Secs)\n▪️ Maximum SLR = 40% (under Banking Regulation Act 1949)\n\n⚠️ Common Confusion / Trap\n▪️ CRR = maintained WITH RBI in cash; SLR = maintained BY bank in gold/securities/cash\n▪️ SLR ≠ CRR — they serve different purposes and are maintained differently\n▪️ SLR is governed by Banking Regulation Act 1949; CRR by RBI Act 1934\n▪️ Banks earn interest on G-Secs in SLR portfolio — this differentiates it from CRR\n\n🔄 Related Static Concepts\n▪️ CRR (Cash Reserve Ratio)\n▪️ NDTL (Net Demand and Time Liabilities)\n▪️ Government Securities (G-Secs)\n▪️ Banking Regulation Act 1949\n▪️ Monetary Policy Tools\n\n#BankingEconomics",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_30",
+    "title": "Bank Rate",
+    "content": "🏦 Topic → Bank Rate\n\n📖 Definition → Bank Rate is the rate at which RBI lends money to commercial banks for the LONG TERM, without requiring any collateral (no government securities as security). It is a signal rate that influences the overall interest rate structure in the economy.\n\n⚙️ Working / Mechanism →\n▪️ Bank Rate = long-term borrowing rate from RBI\n▪️ No collateral required (unlike Repo Rate which requires G-Secs)\n▪️ Higher Bank Rate → borrowing from RBI becomes expensive → banks charge higher interest to customers → credit reduces\n▪️ Bank Rate is used to penalize banks that fall short of their SLR requirements → penalty = Bank Rate\n▪️ Bank Rate is typically aligned with MSF Rate (Marginal Standing Facility Rate)\n\n📌 Key Facts\n▪️ Nature → Long-term lending rate from RBI to banks\n▪️ Collateral → NOT required (unlike Repo Rate)\n▪️ Usage → Penalty rate for SLR shortfall\n▪️ Relationship → Usually equals MSF Rate\n▪️ Decided by → RBI\n▪️ Historical significance → Was the primary policy rate before LAF framework was introduced\n\n🎯 Exam Focus\n▪️ Bank Rate = long-term, NO collateral\n▪️ Repo Rate = short-term, WITH collateral (G-Secs)\n▪️ Bank Rate is used as the PENALTY rate for SLR shortfalls\n▪️ Bank Rate ≈ MSF Rate (both are same or aligned)\n▪️ Bank Rate is NOT the key policy rate today — Repo Rate is the operative policy rate\n\n⚠️ Common Confusion / Trap\n▪️ Bank Rate vs Repo Rate → Bank Rate: long-term, no collateral; Repo Rate: short-term, with collateral\n▪️ Bank Rate is NOT the same as Repo Rate (common trap)\n▪️ Bank Rate was the primary policy rate historically — today it has been replaced by Repo Rate as the operative policy rate\n▪️ MSF Rate ≈ Bank Rate (but MSF allows banks to borrow above SLR for very short periods)\n\n🔄 Related Static Concepts\n▪️ Repo Rate\n▪️ MSF (Marginal Standing Facility)\n▪️ SLR (Statutory Liquidity Ratio)\n▪️ LAF (Liquidity Adjustment Facility)\n▪️ Monetary Policy Tools\n\n#BankingEconomics",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_31",
+    "title": "Open Market Operations (OMO)",
+    "content": "🏦 Topic → Open Market Operations (OMO)\n\n📖 Definition → OMO is the process by which RBI buys or sells government securities in the open market to regulate the money supply (liquidity) in the banking system.\n\n⚙️ Working / Mechanism →\n▪️ RBI BUYS government securities from banks → RBI pays money to banks → money enters the banking system → liquidity INCREASES (money injected)\n▪️ RBI SELLS government securities to banks → banks pay money to RBI → money leaves the banking system → liquidity DECREASES (money absorbed)\n\nSimple memory trick:\n→ OMO Purchase = RBI pumps money into economy (like water flowing in)\n→ OMO Sale = RBI pulls money out of economy (like water draining out)\n\n📌 Key Facts\n▪️ Full Form → Open Market Operations\n▪️ Instrument used → Government Securities (G-Secs / Treasury Bills)\n▪️ OMO Purchase → Injects liquidity → Expansionary\n▪️ OMO Sale → Absorbs liquidity → Contractionary\n▪️ Used alongside Repo Rate and CRR for liquidity management\n▪️ Twist OMO → RBI simultaneously buys long-term securities and sells short-term securities (to manage yield curve)\n\n🎯 Exam Focus\n▪️ OMO Buy = liquidity injection = expansionary\n▪️ OMO Sell = liquidity absorption = contractionary\n▪️ OMO works through the open market (not directly with the government)\n▪️ RBI uses OMO frequently to manage day-to-day liquidity conditions\n\n⚠️ Common Confusion / Trap\n▪️ OMO Purchase (RBI buys) = INCREASES money supply (NOT reduces it)\n▪️ OMO Sale (RBI sells) = REDUCES money supply (NOT increases it)\n▪️ OMO ≠ MSS (Market Stabilization Scheme) — both absorb liquidity but MSS uses special bonds\n▪️ Twist OMO = buying long-term + selling short-term simultaneously (used to manage yield curve, not just liquidity)\n\n🔄 Related Static Concepts\n▪️ LAF (Liquidity Adjustment Facility)\n▪️ Repo Rate and Reverse Repo Rate\n▪️ MSS (Market Stabilization Scheme)\n▪️ Government Securities (G-Secs)\n▪️ Monetary Policy Tools\n\n#BankingEconomics",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_32",
+    "title": "Controller of Credit - Qualitative Tools",
+    "content": "🏦 Topic → Controller of Credit — Qualitative Tools of RBI\n\n📖 Definition → Besides quantitative tools like Repo Rate and CRR (which control the total volume of money), RBI also uses qualitative tools to direct the PURPOSE and FLOW of credit — ensuring money goes to productive sectors and not to speculation.\n\n⚙️ Working / Mechanism →\nQuantitative Tools → control HOW MUCH credit is available\nQualitative Tools → control WHERE and HOW credit flows\n\n1. Margin Requirement\n▪️ RBI sets a minimum margin a borrower must contribute when taking a loan against securities\n▪️ Example: If margin = 40%, for a ₹100 loan you must contribute ₹40 yourself; bank lends only ₹60\n▪️ Higher margin → borrower gets less loan → credit controlled → reduces speculative borrowing\n\n2. Moral Suasion\n▪️ RBI persuades and requests banks to follow certain credit policies\n▪️ Moral Suasion = gentle pressure through advice, guidance, and requests\n▪️ NOT a legal order — based on RBI's moral authority and influence\n▪️ Example: RBI advises banks to be cautious about real estate loans during a property bubble\n\n3. Credit Rationing\n▪️ RBI fixes a limit on the total credit or loans a bank can give\n▪️ Ensures credit does not flow excessively into speculative or non-priority areas\n▪️ Can be sector-specific (e.g., limit loans to stock market investments)\n\n4. Direct Action\n▪️ RBI takes strict punitive action against banks that violate its guidelines\n▪️ Can include: financial penalties, restrictions on business activities, cancellation of banking license\n▪️ Most severe qualitative tool — legal and coercive in nature\n\n📌 Key Facts\n▪️ Qualitative tools → direct credit flow (not just volume)\n▪️ Moral Suasion → NOT legally binding (persuasion only)\n▪️ Direct Action → legally binding and most coercive\n▪️ Margin Requirement → reduces speculative lending\n▪️ Credit Rationing → sector-level credit caps\n\n🎯 Exam Focus\n▪️ Qualitative vs Quantitative distinction is a frequent exam question\n▪️ Moral Suasion = NOT a legal mandate (key exam trap)\n▪️ Direct Action = MOST SEVERE qualitative tool\n▪️ Margin Requirement → works by reducing borrowing capacity (not by changing interest rate)\n\n⚠️ Common Confusion / Trap\n▪️ Moral Suasion ≠ Directive → Moral Suasion is guidance; Directive is a formal order\n▪️ Credit Rationing ≠ Priority Sector Lending → PSL directs credit to specific sectors; rationing CAPS credit\n▪️ Direct Action is qualitative but uses LEGAL powers → it is both qualitative and regulatory\n▪️ Repo Rate and CRR are quantitative tools; Margin Requirement and Moral Suasion are qualitative\n\n🔄 Related Static Concepts\n▪️ Repo Rate (Quantitative Tool)\n▪️ CRR and SLR (Quantitative Tools)\n▪️ Banking Regulation Act 1949 (enforcement basis)\n▪️ Priority Sector Lending\n▪️ RBI Regulatory Powers\n\n#BankingEconomics",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_33",
+    "title": "Minimum Reserve System",
+    "content": "🏦 Topic → Minimum Reserve System\n\n📖 Definition → The Minimum Reserve System is the current system used in India under which RBI is required to maintain a minimum fixed reserve of ₹200 crore (backed by gold and foreign securities) against all currency notes issued. This system replaced the older Proportional Reserve System.\n\n⚙️ Working / Mechanism →\n▪️ Under Minimum Reserve System:\n  → RBI must always maintain a minimum reserve of ₹200 crore total\n  → ₹115 crore → must be in GOLD\n  → ₹85 crore → must be in FOREIGN SECURITIES\n▪️ Beyond this minimum, RBI can issue any amount of currency as required by the economy\n▪️ This gives RBI flexibility to expand money supply based on economic needs\n\nPrevious System — Proportional Reserve System:\n▪️ India previously followed Proportional Reserve System\n▪️ Under that system → RBI had to maintain 33% gold backing against total currency issued\n▪️ Problem → limited RBI's ability to expand money supply because it required large gold reserves\n▪️ Switch to Minimum Reserve System → gave RBI much more flexibility\n\n📌 Key Facts\n▪️ Current System → Minimum Reserve System\n▪️ Minimum Reserve → ₹200 crore total\n  → Gold component → ₹115 crore\n  → Foreign Securities → ₹85 crore\n▪️ Old System → Proportional Reserve System (33% gold backing)\n▪️ Purpose of reserve → Ensures credibility and backing of Indian currency\n\n🎯 Exam Focus\n▪️ Minimum Reserve = ₹200 crore (₹115 crore gold + ₹85 crore foreign securities)\n▪️ India follows Minimum Reserve System (NOT Proportional)\n▪️ Old system = Proportional Reserve System with 33% gold requirement\n▪️ MRS gives RBI flexibility to issue more currency without proportional gold increase\n\n⚠️ Common Confusion / Trap\n▪️ India uses MINIMUM Reserve System — NOT Proportional Reserve System (common trap)\n▪️ ₹200 crore is the MINIMUM — RBI can maintain more\n▪️ ₹115 crore in gold + ₹85 crore in foreign securities = ₹200 crore total (check split)\n▪️ Proportional Reserve System required 33% gold — this is the OLD system no longer in use\n\n🔄 Related Static Concepts\n▪️ Currency Issuance by RBI\n▪️ BRBNMPL (Currency Printing)\n▪️ Foreign Exchange Reserves\n▪️ ₹1 Note (Ministry of Finance, not RBI)\n▪️ RBI Functions\n\n#BankingEconomics",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_34",
+    "title": "Monetary Policy Committee (MPC)",
+    "content": "🏦 Topic → Monetary Policy Committee (MPC)\n\n📖 Definition → MPC is a statutory committee under the RBI Act, 1934 (amended in 2016) that is responsible for deciding the benchmark interest rate (Repo Rate) and the overall monetary policy stance of India. It was formed as part of India's move to a formal Inflation Targeting framework.\n\n⚙️ Working / Mechanism →\n▪️ MPC meets every 2 months (bi-monthly) → approximately 6 times a year\n▪️ Discusses current economic conditions: inflation, growth, global factors\n▪️ Votes on the Repo Rate decision (each member gets one vote)\n▪️ Decisions by majority vote; RBI Governor has casting vote in case of a tie\n\nMPC Composition:\n▪️ Total Members → 6\n▪️ RBI side (3 members):\n  → RBI Governor (Chairperson of MPC)\n  → RBI Deputy Governor (in charge of monetary policy)\n  → Executive Director of RBI\n▪️ Government side (3 members):\n  → 3 external experts appointed by Government of India\n  → Must have expertise in economics, banking, or finance\n  → Serve for a term of 4 years\n\n📌 Key Facts\n▪️ Total members → 6 (3 RBI + 3 Government)\n▪️ Chairperson → RBI Governor\n▪️ Meeting frequency → Every 2 months (bi-monthly)\n▪️ Primary mandate → Maintain inflation at 4% (with ±2% tolerance band = 2% to 6%)\n▪️ Established under → RBI Act 1934 (Section 45ZB, added by 2016 amendment)\n▪️ RBI Governor's casting vote → used only in case of a tie\n▪️ Inflation target is set by Government of India in consultation with RBI\n\n🎯 Exam Focus\n▪️ MPC members = 6 (3 RBI + 3 Government nominees)\n▪️ MPC Chairperson = RBI Governor\n▪️ Meeting frequency = bi-monthly (every 2 months)\n▪️ Inflation target = 4% ± 2% = range of 2% to 6%\n▪️ MPC established under RBI Act 1934 (amended 2016)\n▪️ CPI (Consumer Price Index) is used to measure inflation for MPC's target\n\n⚠️ Common Confusion / Trap\n▪️ MPC ≠ Central Board of Directors — MPC decides Repo Rate; Central Board governs RBI operations\n▪️ Government appoints 3 external members → they are NOT RBI employees\n▪️ MPC target = CPI-based inflation (NOT WPI — Wholesale Price Index)\n▪️ MPC meets EVERY 2 MONTHS → NOT quarterly (every 3 months)\n▪️ Casting vote of Governor = used ONLY in a tie — not in every meeting\n\n🔄 Related Static Concepts\n▪️ Repo Rate\n▪️ Inflation Targeting Framework\n▪️ CPI vs WPI (inflation measurement)\n▪️ RBI Act 1934\n▪️ Flexible Inflation Targeting (FIT)\n\n#BankingEconomics",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_35",
+    "title": "RBI Act 1934 and Banking Regulation Act 1949",
+    "content": "🏦 Topic → RBI Act 1934 and Banking Regulation Act 1949\n\n📖 Definition → Two of the most important laws governing India's banking system. RBI Act 1934 governs the Reserve Bank itself, while Banking Regulation Act 1949 governs how commercial banks must operate and be supervised.\n\n⚙️ Working / Mechanism →\n\nRBI Act, 1934:\n▪️ The foundational law that created and governs the Reserve Bank of India\n▪️ Key provisions:\n  → Establishment of RBI\n  → RBI's powers over currency issuance\n  → CRR provisions (Cash Reserve Ratio powers)\n  → MPC establishment (added by 2016 amendment — Section 45ZB)\n  → RBI's role as banker to government\n▪️ RBI was established in 1935 UNDER this Act passed in 1934\n\nBanking Regulation Act, 1949:\n▪️ Governs the functioning and regulation of all commercial banks in India\n▪️ Key provisions:\n  → Gives RBI power to issue banking licenses\n  → Gives RBI power to inspect and audit banks\n  → Gives RBI power to supersede bank management (take over a bank's board)\n  → SLR provisions (Statutory Liquidity Ratio — max 40% of NDTL)\n  → Defines what activities a bank can and cannot do\n  → Merger and amalgamation of banks\n▪️ Covers all commercial banks, cooperative banks (amended), and payment banks\n\n📌 Key Facts\n▪️ RBI Act 1934 → governs RBI itself (its powers, structure, currency issuance, MPC)\n▪️ Banking Regulation Act 1949 → governs commercial banks\n▪️ CRR → governed by RBI Act 1934\n▪️ SLR → governed by Banking Regulation Act 1949\n▪️ MPC → Section 45ZB of RBI Act 1934 (inserted in 2016)\n▪️ Nationalization year = 1949 → same year as Banking Regulation Act 1949\n\n🎯 Exam Focus\n▪️ CRR power → RBI Act 1934 (NOT Banking Regulation Act)\n▪️ SLR power → Banking Regulation Act 1949 (NOT RBI Act)\n▪️ RBI Act 1934 passed BEFORE RBI established (RBI started 1935) — common trap\n▪️ Banking Regulation Act 1949 → same year as nationalization of RBI (1949)\n▪️ RBI can supersede a bank's board of directors under Banking Regulation Act\n\n⚠️ Common Confusion / Trap\n▪️ RBI Act 1934 ≠ establishes RBI in 1934 → Act was passed in 1934; RBI opened 1 April 1935\n▪️ CRR under RBI Act; SLR under Banking Regulation Act — frequently asked comparison\n▪️ Banking Regulation Act 1949 applies to commercial banks, NOT to RBI itself\n▪️ FEMA 1999 is separate from both — it covers foreign exchange, not banking regulation\n\n🔄 Related Static Concepts\n▪️ FEMA 1999 (Foreign Exchange Management Act)\n▪️ CRR and SLR comparison\n▪️ MPC (Section 45ZB of RBI Act)\n▪️ RBI Regulatory Powers\n▪️ Nationalization of RBI (1949)\n\n#BankingEconomics",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_36",
+    "title": "FEMA 1999 - Foreign Exchange Management Act",
+    "content": "🏦 Topic → FEMA 1999 — Foreign Exchange Management Act\n\n📖 Definition → FEMA is the law that governs all foreign exchange transactions in India. It regulates the inflow and outflow of foreign currency and is administered jointly by the Reserve Bank of India and the Enforcement Directorate (ED).\n\n⚙️ Working / Mechanism →\n▪️ Covers: import/export payments, remittances, foreign investment, forex market transactions\n▪️ Administered by:\n  → RBI → for routine regulatory oversight\n  → Enforcement Directorate (ED) → for violations and enforcement actions\n▪️ Violations under FEMA are CIVIL offences (NOT criminal like under old FERA)\n  → Civil offence = penalties and fines (not jail primarily)\n\nFEMA vs FERA:\n▪️ FERA (Foreign Exchange Regulation Act, 1973) → older law, more stringent\n  → Violations under FERA = CRIMINAL offences (could lead to imprisonment)\n▪️ FEMA (Foreign Exchange Management Act, 1999) → replaced FERA\n  → Violations under FEMA = CIVIL offences (penalties, not primarily imprisonment)\n  → More liberalized approach; aligned with economic liberalization of 1991\n\n📌 Key Facts\n▪️ Full Form → Foreign Exchange Management Act\n▪️ Year → 1999 (came into force 1 June 2000)\n▪️ Replaced → FERA (Foreign Exchange Regulation Act, 1973)\n▪️ Administered by → RBI + Enforcement Directorate (ED)\n▪️ Nature of offences → Civil (monetary penalties), not criminal primarily\n▪️ Covers all current account and capital account transactions\n▪️ Purpose → Facilitate external trade and payments; manage forex reserves\n\n🎯 Exam Focus\n▪️ FEMA = 1999 (replaced FERA = 1973)\n▪️ FEMA violations = civil offences; FERA violations = criminal offences\n▪️ Administered jointly by RBI + Enforcement Directorate (ED)\n▪️ FEMA is more liberal compared to FERA (post-1991 liberalization era law)\n▪️ RBI manages forex reserves under FEMA framework\n\n⚠️ Common Confusion / Trap\n▪️ FEMA ≠ FERA → FEMA is the current law; FERA is the old repealed law\n▪️ FEMA = civil violations; FERA = criminal violations (key differentiation)\n▪️ ED (Enforcement Directorate) enforces FEMA → NOT RBI alone\n▪️ FEMA came into force in 2000 (though passed in 1999)\n▪️ FEMA also covers NRI (Non-Resident Indian) transactions and remittances\n\n🔄 Related Static Concepts\n▪️ FERA 1973 (replaced by FEMA)\n▪️ RBI Functions (Forex management)\n▪️ Enforcement Directorate (ED)\n▪️ Current Account and Capital Account transactions\n▪️ Foreign Exchange Reserves management\n\n#BankingEconomics",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_37",
+    "title": "Lender of Last Resort (LOLR)",
+    "content": "🏦 Topic → Lender of Last Resort (LOLR)\n\n📖 Definition → Lender of Last Resort (LOLR) is a function where RBI acts as the emergency financial provider for commercial banks when they face a severe shortage of funds and cannot borrow from any other source. This prevents banks from collapsing due to temporary liquidity crises.\n\n⚙️ Working / Mechanism →\n▪️ A commercial bank faces sudden massive withdrawals or fund shortage\n▪️ Bank cannot borrow from money markets or other banks\n▪️ Bank approaches RBI as the last option\n▪️ RBI provides emergency loans (at penal/higher interest rates) to stabilize the bank\n▪️ This prevents bank failure, protects depositors, and stops financial contagion (crisis spreading)\n\nWhy is LOLR important?\n▪️ Without LOLR → one bank failure can cause panic withdrawals in other banks too (bank run contagion)\n▪️ LOLR prevents systemic collapse of the banking system\n▪️ It is a safety net, NOT a routine facility (meant only for genuine emergencies)\n\n📌 Key Facts\n▪️ LOLR = RBI (central bank of India)\n▪️ Purpose → Prevents bank failure due to temporary liquidity shortage\n▪️ Rate → Emergency lending typically at higher rates (penal rates)\n▪️ Provides financial stability to the banking system\n▪️ Every country's central bank serves as LOLR for its banking system\n▪️ In India → RBI is the LOLR\n▪️ Related concept → Bagehot's Principle: LOLR should lend freely at high interest rates against good collateral during a crisis\n\n🎯 Exam Focus\n▪️ LOLR = RBI (frequently asked one-liner)\n▪️ LOLR protects banking system from systemic collapse\n▪️ LOLR is for BANKS — not for general public or companies\n▪️ LOLR lending = at HIGHER (penal) rates, NOT subsidized rates\n▪️ LOLR prevents bank run contagion\n\n⚠️ Common Confusion / Trap\n▪️ LOLR lends at PENAL (high) rates — NOT cheap emergency loans\n▪️ LOLR is for commercial banks ONLY — NOT for individuals or corporations\n▪️ LOLR ≠ MSF — MSF is routine; LOLR is genuine last-resort emergency lending\n▪️ LOLR is a function of RBI — NOT of SEBI, NABARD, or any other body\n\n🔄 Related Static Concepts\n▪️ MSF (Marginal Standing Facility)\n▪️ Repo Rate (routine borrowing)\n▪️ Bank Run / Contagion Risk\n▪️ Basel III (Banking stability norms)\n▪️ Systemic Risk\n\n#BankingEconomics",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_38",
+    "title": "Important RBI Exam One-Liners",
+    "content": "🏦 Topic → Important RBI Exam One-Liners (Rapid Revision)\n\n📖 Definition → Quick-fire facts about RBI that are directly and frequently tested in all competitive banking and economy exams.\n\n⚙️ Working / Mechanism → These are direct factual one-liners for last-minute revision.\n\n📌 Key Facts — All Important RBI One-Liners\n▪️ RBI Established → 1 April 1935\n▪️ RBI Act passed → 1934 (one year before RBI opened)\n▪️ RBI Nationalized → 1 January 1949\n▪️ RBI Headquarters → Mumbai\n▪️ RBI Initial Headquarters → Kolkata (Calcutta)\n▪️ HQ shifted to Mumbai → 1937\n▪️ Number of Local Boards → 4 (Mumbai, Delhi, Chennai, Kolkata)\n▪️ First Governor of RBI → Sir Osborne Smith (British)\n▪️ First Indian Governor → C. D. Deshmukh\n▪️ First Woman Deputy Governor → K. J. Udeshi\n▪️ Currency note issuer → RBI (for all notes except ₹1)\n▪️ ₹1 note issuer → Ministry of Finance\n▪️ ₹1 note signed by → Finance Secretary\n▪️ All other notes signed by → RBI Governor\n▪️ Deposit Insurance Limit (DICGC) → ₹5 lakh per depositor per bank\n▪️ Lender of Last Resort (LOLR) → RBI\n▪️ Minimum Reserve → ₹200 crore (₹115 crore gold + ₹85 crore foreign securities)\n▪️ Hilton Young Commission → 1926 → recommended central bank → led to RBI 1935\n▪️ MPC total members → 6 (3 RBI + 3 Government)\n▪️ MPC Chairperson → RBI Governor\n▪️ MPC meets → every 2 months (bi-monthly)\n▪️ FEMA year → 1999 (replaced FERA 1973)\n▪️ DICGC Act → 1961\n▪️ RBIH established → March 2022; HQ → Bengaluru\n▪️ RBIH Initial Capital → ₹100 crore\n▪️ SPMCIL founded → 13 January 2006; HQ → New Delhi\n▪️ Banking Regulation Act → 1949\n▪️ Central Board Director Tenure → 4 years\n▪️ Maximum Deputy Governors → 4\n\n🎯 Exam Focus\n▪️ All figures above are direct MCQ answers\n▪️ Most commonly confused pairs: 1934 vs 1935; Kolkata vs Mumbai; FERA vs FEMA\n▪️ ₹5 lakh deposit insurance (updated in 2020 from ₹1 lakh)\n\n⚠️ Common Confusion / Trap\n▪️ RBI Act = 1934; RBI Opened = 1935 (different years)\n▪️ Nationalization = 1949 = same year as Banking Regulation Act 1949\n▪️ LOLR = RBI (not SBI, not Finance Ministry)\n▪️ RBIH HQ = Bengaluru (not Mumbai)\n\n🔄 Related Static Concepts\n▪️ DICGC\n▪️ MPC\n▪️ Minimum Reserve System\n▪️ Currency Printing (SPMCIL + BRBNMPL)\n▪️ FEMA 1999\n\n#BankingEconomics",
+    "type": "news",
+    "revision_count": 0
+  }
+]
