@@ -1,341 +1,5 @@
 [
   {
-    "question": "In the sentence 'He seems unhappy', what type of verb is 'seems' and why?",
-    "options": [
-      "A) Action Verb — because 'seeming' is something the subject does.",
-      "B) Happening Verb — because unhappiness happened to the subject.",
-      "C) State Verb — because the sentence only tells the condition or state of the subject.",
-      "D) Auxiliary Verb — because 'seems' supports the adjective 'unhappy'."
-    ],
-    "answer": "C) State Verb — because the sentence only tells the condition or state of the subject.",
-    "explanation": "The chapter states: 'Did subject do something? No. Did something happen to subject? No. Sentence only tells: condition, feeling, state.' This makes 'seems' a State Verb. Option A is wrong — no intentional action is performed. Option B is wrong — nothing happened to the subject. Option D introduces auxiliary verb terminology which the chapter explicitly asks to forget.",
-    "type": "mcq",
-    "id": "POST_10",
-    "revision_count": 3
-  },
-  {
-    "question": "A teacher asks students to classify verbs into three brain-friendly categories instead of bookish terminology. Which of the following correctly lists all three categories as described in the chapter?",
-    "options": [
-      "A) Transitive Verbs, Intransitive Verbs, Linking Verbs",
-      "B) Primary Auxiliaries, Modals, Main Verbs",
-      "C) Action Verbs, Happening Verbs, State Verbs",
-      "D) Regular Verbs, Irregular Verbs, Auxiliary Verbs"
-    ],
-    "answer": "C) Action Verbs, Happening Verbs, State Verbs",
-    "explanation": "The chapter explicitly says: 'Forget helping verb terminology. Your brain should mainly see: 1. Action Verbs → subject performs action. 2. Happening Verbs → something happens with subject. 3. State Verbs → sentence tells condition/state.' All other options use bookish or traditional grammar terminology that the chapter instructs to forget.",
-    "type": "mcq",
-    "id": "POST_11",
-    "revision_count": 3
-  },
-  {
-    "question": "In the sentence 'They went to school', what is 'school' and why is it NOT a direct object?",
-    "options": [
-      "A) 'School' is a direct object because it directly follows the verb 'went'.",
-      "B) 'School' is a Prepositional Object — it is the object of the preposition 'to', not of the verb.",
-      "C) 'School' is an indirect object because it names a place.",
-      "D) 'School' is a subject complement because it describes the subject."
-    ],
-    "answer": "B) 'School' is a Prepositional Object — it is the object of the preposition 'to', not of the verb.",
-    "explanation": "The chapter explains: 'If we ask What? do east/school/table become direct answer? No. So these are not direct objects. These are Prepositional Objects because they are objects of: in, to, on.' 'School' answers the preposition 'to', not the verb 'went' directly. Options A, C, D all misidentify the grammatical role of 'school'.",
-    "type": "mcq",
-    "id": "POST_12",
-    "revision_count": 3
-  },
-  {
-    "id": "POST_95",
-    "title": "Noun and Article Rule with All, Both, Either, Neither, None",
-    "content": "📘 Grammar Rule: Noun Form After Determiners\n\n📌 Rule → After ALL, BOTH, EITHER, NEITHER, NONE — the noun discussed is GENERALLY PLURAL.\n\n✅ Correct: all the players\n✅ Correct: both the books\n✅ Correct: neither of the players\n✅ Correct: none of the students\n\n⚠️ Note → Even though EITHER/NEITHER refer to two and take singular verbs, the NOUN in the 'of + noun' phrase remains plural.\n\n🧠 Memory Trick → The noun in these phrases represents the GROUP being referred to — so it stays plural. The VERB changes based on the determiner's logic, not the noun.\n\n✏️ Exam Angle → Common confusion: students write 'neither of the player' (wrong) — the noun after 'of' must be plural.",
-    "type": "news",
-    "revision_count": 1
-  },
-  {
-    "question": "Which of the following sentences uses the correct determiner from the Few/Little family?",
-    "options": [
-      "A) Few money was left in his account.",
-      "B) A little students attended the seminar.",
-      "C) A few players are ready for the match.",
-      "D) Little books were found on the shelf."
-    ],
-    "answer": "C) A few players are ready for the match.",
-    "explanation": "'Players' is a plural countable noun → Few Family is correct. 'A few' fits because players being ready is a positive/logical context. Option A: 'money' is uncountable → Little Family required, not Few. Option B: 'students' is plural countable → Few Family required, not Little. Option D: 'books' is plural countable → Few Family required, not Little. Rule: Plural Noun = Few Family; Uncountable Noun = Little Family.",
-    "type": "mcq",
-    "id": "POST_62",
-    "revision_count": 2
-  },
-  {
-    "id": "POST_96",
-    "title": "All + Negative Construction",
-    "content": "📘 Grammar Rule: All with Negative\n\n📌 Rule → ALL cannot be used with a negative verb. Replace with NONE.\n\n❌ Wrong: All the players are not talented.\n✅ Correct: None of the players is talented.\n\n⚠️ Why → 'All... not' creates a partial negative (some are, some aren't), which is ambiguous. 'None' makes the total exclusion clear.\n\n🧠 Memory Trick → ALL + NOT = confused meaning → swap the whole thing to NONE. Think: ALL goes POSITIVE, NONE goes NEGATIVE.\n\n✏️ Exam Angle → Sentence improvement questions in SSC CGL regularly test this. The wrong sentence sounds natural in spoken Hindi-English, making it a perfect trap.",
-    "type": "news",
-    "revision_count": 1
-  },
-  {
-    "question": "Choose the correct sentence with respect to the use of determiners with uncountable nouns.",
-    "options": [
-      "A) Few water remains in the bottle.",
-      "B) A few knowledge is dangerous.",
-      "C) A little water is sufficient for the recipe.",
-      "D) Few information was provided."
-    ],
-    "answer": "C) A little water is sufficient for the recipe.",
-    "explanation": "'Water' is uncountable → Little Family is correct. 'A little' fits as having some water is a positive/sufficient context. Option A: 'water' is uncountable → 'few' (Few Family) is wrong. Option B: 'knowledge' is uncountable → 'a few' (Few Family) is wrong. Option D: 'information' is uncountable → 'few' is incorrect; 'little' should be used. Rule: Uncountable nouns always take the Little Family.",
-    "type": "mcq",
-    "id": "POST_63",
-    "revision_count": 2
-  },
-  {
-    "id": "POST_97",
-    "title": "Both + Negative Construction",
-    "content": "📘 Grammar Rule: Both with Negative\n\n📌 Rule → BOTH cannot be used with a negative verb. Replace with NEITHER.\n\n❌ Wrong: Both the players are not talented.\n✅ Correct: Neither of the players is talented.\n\n⚠️ Why → 'Both... not' implies one is and one isn't (partial negation). NEITHER conveys total negation of two.\n\n🧠 Memory Trick → BOTH is the positive twin, NEITHER is the negative twin. Whenever you negate BOTH, swap it to NEITHER.\n\n✏️ Exam Angle → Paired with the ALL+NOT rule in error-spotting passages in IBPS PO and SBI Clerk exams.",
-    "type": "news",
-    "revision_count": 1
-  },
-  {
-    "question": "Which of the following sentences correctly uses 'police' in terms of subject-verb agreement?",
-    "options": [
-      "A) The police has surrounded the building.",
-      "B) The police have arrested the suspect.",
-      "C) The police is investigating the case.",
-      "D) Police was deployed at the venue."
-    ],
-    "answer": "B) The police have arrested the suspect.",
-    "explanation": "'Police' looks singular but grammatically behaves as a PLURAL noun, so it takes a plural verb. 'Have' is the correct plural verb here. Options A, C, D all use singular verbs (has/is/was) which are incorrect with 'police'. This is a classic exam trap — never judge a noun's grammatical number by its appearance alone. Rule: Police → always plural verb.",
-    "type": "mcq",
-    "id": "POST_64",
-    "revision_count": 2
-  },
-  {
-    "id": "POST_98",
-    "title": "Either + Negative Construction",
-    "content": "📘 Grammar Rule: Either with Negative\n\n📌 Rule → EITHER cannot be paired with a negative verb. Simply REMOVE the negative word instead.\n\n❌ Wrong: Either of the players is not talented.\n✅ Correct: Either of the players is talented.\n\n⚠️ Shortcut → Unlike ALL→NONE and BOTH→NEITHER, EITHER has no negative counterpart in this structure. Remove the 'not'.\n\n🧠 Memory Trick → EITHER is always positive in this structure. NEITHER is already its negative form — so 'Either + not' is redundant/wrong. Just drop the 'not'.\n\n✏️ Exam Angle → This is the trickiest of the three — students often replace EITHER with NEITHER, creating a double negative.",
-    "type": "news",
-    "revision_count": 1
-  },
-  {
-    "question": "Identify the sentence that correctly uses 'criteria' or 'criterion'.",
-    "options": [
-      "A) The criteria for selection is very strict.",
-      "B) These criteria was not met by the candidate.",
-      "C) Only one criteria needs to be fulfilled.",
-      "D) Several criteria were outlined in the policy."
-    ],
-    "answer": "D) Several criteria were outlined in the policy.",
-    "explanation": "'Criteria' is the plural form of 'criterion' and must take a plural verb. Option D correctly pairs 'Several criteria' with 'were'. Option A: 'criteria' (plural) with 'is' (singular) → wrong. Option B: 'criteria' with 'was' (singular) → wrong. Option C: 'one criteria' is wrong; singular form is 'criterion'. Rule: Criteria = plural → plural verb; Criterion = singular → singular verb.",
-    "type": "mcq",
-    "id": "POST_65",
-    "revision_count": 2
-  },
-  {
-    "id": "POST_99",
-    "title": "Double Negative Rule",
-    "content": "📘 Grammar Rule: Double Negatives\n\n📌 Rule → A sentence cannot carry two negative words. Only one negative is allowed.\n\n✅ Correct: I do not want help.\n❌ Wrong: I do not want no help.\n\n⚠️ In English, two negatives do NOT make a positive (unlike in math). They simply make the sentence grammatically incorrect.\n\n🧠 Memory Trick → One sentence = one negative. Like a single traffic signal — two 'STOP' signs in one sentence cause confusion (and errors).\n\n✏️ Exam Angle → Common in error-spotting: 'I cannot do nothing' → wrong. 'I cannot do anything' → correct. Railways and SSC CHSL frequently test this.",
-    "type": "news",
-    "revision_count": 1
-  },
-  {
-    "question": "A student relies only on Hindi translation to decide between 'Few' and 'A Few'. Which statement best describes the problem with this approach?",
-    "options": [
-      "A) It works perfectly for all exam questions.",
-      "B) It fails because Few and A Few have no meaning difference.",
-      "C) It creates confusion because context and sentence logic are the real deciding factors.",
-      "D) It is the method recommended for SSC CGL level questions."
-    ],
-    "answer": "C) It creates confusion because context and sentence logic are the real deciding factors.",
-    "explanation": "The translation method (Few = almost none, A Few = some) breaks down in exam conditions where context, conjunction, and sentence meaning are the actual deciding factors. The same amount can be 'few' or 'a few' depending on the situation (e.g., ₹5000 for a phone vs ₹5000 for Antilia). Options A and D are factually wrong. Option B is wrong — they do have a meaning difference, but it is context-driven, not fixed.",
-    "type": "mcq",
-    "id": "POST_66",
-    "revision_count": 2
-  },
-  {
-    "id": "POST_100",
-    "title": "Neither and None Cannot Take 'Not'",
-    "content": "📘 Grammar Rule: Neither/None Already Negative\n\n📌 Rule → NEITHER and NONE are inherently negative words. Adding 'not' creates a double negative — which is wrong.\n\n❌ Wrong: Neither of the players is not talented.\n❌ Wrong: None of the players is not talented.\n✅ Correct: Neither of the players is talented.\n✅ Correct: None of the players is talented.\n\n⚠️ Remember → NEITHER = not either. NONE = not one. They already carry the negative meaning.\n\n🧠 Memory Trick → NEITHER and NONE wear a permanent 'NOT' badge. Adding another 'not' is like writing 'NOT NOT' — cancels to positive, making the sentence logically wrong.\n\n✏️ Exam Angle → This directly tests knowledge of inherent negatives — a high-frequency SSC CGL and IBPS PO error spotting topic.",
-    "type": "news",
-    "revision_count": 1
-  },
-  {
-    "question": "₹5000 is mentioned in a sentence about purchasing a luxury car worth ₹1 crore. Which determiner best fits the blank: 'He had only ___ money to buy the car.'?",
-    "options": [
-      "A) A little",
-      "B) The little",
-      "C) Little",
-      "D) A few"
-    ],
-    "answer": "C) Little",
-    "explanation": "'Money' is uncountable → Little Family. In the context of buying a ₹1 crore car, ₹5000 is almost nothing — a negative/insufficient feeling. Apply NO Test: 'He had NO money to buy the car' → sounds logical ✅ → use 'Little' (not 'A Little'). Option A (A little) implies sufficient amount — wrong context. Option D: 'A few' is Few Family, used only with plural countable nouns — wrong family entirely.",
-    "type": "mcq",
-    "id": "POST_67",
-    "revision_count": 2
-  },
-  {
-    "id": "POST_101",
-    "title": "All / All The / All Of — Usage Differences",
-    "content": "📘 Grammar Rule: All vs All The vs All Of\n\n📌 Rule 1 → ALL + Noun (no article) → General/universal sense.\n✅ All books are knowledge-giving. (books in general)\n\n📌 Rule 2 → ALL THE + Noun → Specific/definite group.\n✅ All the books in this library are knowledge-giving. (specific books)\n\n📌 Rule 3 → ALL OF THE + Noun → After 'of', the article 'the' is mandatory; noun cannot stand alone.\n✅ All of the books are useful.\n❌ Wrong: All of books are useful.\n\n⚠️ Structure reminder → ALL OF must be followed by a determiner (the/my/these) before the noun.\n\n🧠 Memory Trick → Think of 'ALL OF' as reaching inside a defined container — it NEEDS the lid (the/my/these) before touching the contents.\n\n✏️ Exam Angle → SBI PO sentence correction: distinguishing 'All books' (general) vs 'All the books' (specific) is a tested nuance.",
-    "type": "news",
-    "revision_count": 1
-  },
-  {
-    "question": "Apply the NO Test to find the correct answer: 'She is a doctor. She has ___ time for leisure activities.'",
-    "options": [
-      "A) A few",
-      "B) A little",
-      "C) Few",
-      "D) Little"
-    ],
-    "answer": "D) Little",
-    "explanation": "'Time' is uncountable → Little Family (eliminates A & C). Apply NO Test: 'She has NO time for leisure.' → A doctor being very busy makes this LOGICAL ✅ → use 'Little' (negative sense). If 'A little' were used, it would mean she has some leisure time — contradicts the busy doctor context. Rule: NO Test logical → Few/Little. NO Test illogical → A Few/A Little.",
-    "type": "mcq",
-    "id": "POST_68",
-    "revision_count": 2
-  },
-  {
-    "id": "POST_102",
-    "title": "Trap with 'The' — All The Employees",
-    "content": "📘 Grammar Rule: Correct Use of 'The' with All\n\n📌 Rule → 'All the + noun' is correct ONLY when the noun is specifically defined/limited by context.\n\n❌ Wrong (general): All the employees must follow the updated rules.\n✅ Correct (general): All employees must follow the updated rules.\n\n✅ Correct (specific): All the employees of this school must follow the updated rules.\n(Here 'of this school' defines and limits which employees → 'the' is valid.)\n\n⚠️ Key Test → Ask: Are we talking about a specific, identified group? Yes → use 'the'. No → drop 'the'.\n\n🧠 Memory Trick → 'THE' = pointing finger. If you can point at a specific group, use 'the'. If it's general/open, no pointing needed.\n\n✏️ Exam Angle → One of the most deceptive traps in SSC CGL error spotting — the sentence sounds perfectly fine but fails the specificity test.",
-    "type": "news",
-    "revision_count": 1
-  },
-  {
-    "question": "Which sentence correctly applies the NO Test result to choose 'A Few'?",
-    "options": [
-      "A) He is a miser, so he has a few savings.",
-      "B) She is a social butterfly; she has a few friends everywhere.",
-      "C) The hall was empty; a few people attended.",
-      "D) He failed all subjects; a few marks helped him."
-    ],
-    "answer": "B) She is a social butterfly; she has a few friends everywhere.",
-    "explanation": "A 'social butterfly' is someone who socialises widely — having friends is expected and logical. NO Test: 'She has NO friends' → ILLOGICAL ❌ → use 'A Few'. Option A: A miser saving money is logical → 'few savings' (Little Family wrong here; 'savings' is countable plural → 'few' is correct, not 'a few'). Option C: Empty hall contradicts 'a few' — 'few' fits. Option D: Failing all subjects then having helpful marks is contradictory context — 'few marks' fits better.",
-    "type": "mcq",
-    "id": "POST_69",
-    "revision_count": 2
-  },
-  {
-    "id": "POST_103",
-    "title": "Both / Both The / Both Of — Parallel Rules",
-    "content": "📘 Grammar Rule: Both vs Both The vs Both Of\n\n📌 Rule 1 → BOTH + Noun → General reference to two items.\n✅ Both books are useful.\n\n📌 Rule 2 → BOTH THE + Noun → Specific reference to two defined items.\n✅ Both the books in the library are useful.\n\n📌 Rule 3 → BOTH OF THE + Noun → 'Of' requires 'the' before the noun.\n✅ Both of the books are useful.\n❌ Wrong: Both of books are useful.\n\n⚠️ Same logic as ALL — BOTH follows the exact same three-tier rule.\n\n🧠 Memory Trick → ALL and BOTH are grammar siblings — same rules apply. If you master ALL's three structures, BOTH comes free.\n\n✏️ Exam Angle → Sentence improvement in IBPS PO often replaces 'Both of the' with 'Both of' (dropping 'the') as the error.",
-    "type": "news",
-    "revision_count": 1
-  },
-  {
-    "question": "Fill in the blank using conjunction logic: 'He is extremely wealthy, ___ he has ___ financial worries.'",
-    "options": [
-      "A) but … a few",
-      "B) so … few",
-      "C) although … little",
-      "D) however … a little"
-    ],
-    "answer": "B) so … few",
-    "explanation": "'So' is a Same Feeling conjunction → Positive (wealthy) stays Positive → but 'financial worries' being few means LESS worries = positive outcome. NO Test on 'worries': 'He has NO financial worries' → sounds LOGICAL for a wealthy man ✅ → 'Few'. 'Worries' is a countable plural noun → Few Family. Option A: 'but' is contrast — would reverse direction unnecessarily. Options C & D: 'little/a little' belong to Little Family; 'worries' is countable plural → wrong family.",
-    "type": "mcq",
-    "id": "POST_70",
-    "revision_count": 2
-  },
-  {
-    "id": "POST_104",
-    "title": "Golden Rules Summary — All Determiner Shortcuts",
-    "content": "📘 Grammar Rule: Master Summary — Determiners\n\n📌 Golden Rules:\n\n🔤 Rule 1 → One or less than one → SINGULAR\n🔤 Rule 2 → Greater than one → PLURAL\n🔤 Rule 3 → After 'one' → SINGULAR noun\n🔤 Rule 4 → After 'two' → PLURAL noun\n\n🔁 Conversion Rules:\n▪️ ALL + negative → replace with NONE\n▪️ BOTH + negative → replace with NEITHER\n▪️ EITHER + negative → REMOVE the negative word\n▪️ NEITHER / NONE + not → ALWAYS WRONG (double negative)\n\n⚠️ Structural Rules:\n▪️ 'More than one' → singular noun + singular verb\n▪️ ALL OF / BOTH OF → must be followed by 'the/my/these' before noun\n▪️ ALL THE / BOTH THE → only when group is specifically defined\n\n🧠 Memory Trick → Solve through LOGIC and STRUCTURE, not Hindi translation. Map each sentence to the number line: ≤1 = singular, >1 = plural.\n\n✏️ Exam Angle → This entire topic forms a high-weight cluster in SSC CGL Tier 1 & 2, IBPS PO, SBI PO, and Railways NTPC error spotting and sentence improvement sections.",
-    "type": "news",
-    "revision_count": 1
-  },
-  {
-    "question": "Identify the conjunction type and choose the correct determiner: 'She had never studied, ___ she had ___ knowledge of the subject.'",
-    "options": [
-      "A) yet … a little",
-      "B) so … little",
-      "C) because … a little",
-      "D) therefore … little"
-    ],
-    "answer": "B) so … little",
-    "explanation": "'So' = Same Feeling conjunction. 'Never studied' is Negative → same direction continues → Negative → 'little' (not 'a little'). 'Knowledge' is uncountable → Little Family ✅. NO Test: 'She had NO knowledge' → sounds LOGICAL (never studied = no knowledge) ✅ → 'Little'. Option A: 'yet' is contrast — would suggest she HAS knowledge despite not studying → then 'a little' could work, but 'yet' + 'a little' is a valid contrast answer, making this a tricky distractor. Option C/D: 'because/therefore' are same-feeling but pair incorrectly with 'a little' (positive) in a negative context.",
-    "type": "mcq",
-    "id": "POST_71",
-    "revision_count": 2
-  },
-  {
-    "id": "POST_21",
-    "title": "State Verbs",
-    "content": "📘 Grammar Rule: State Verbs\n\n📌 Rule → When a sentence only tells the condition, feeling, or state of the subject — without action or happening — the verb is a State Verb.\n\n✅ He seems unhappy.\n\n📌 Explanation → Did subject do something? No. Did something happen to subject? No. Sentence only tells: condition, feeling, state.\n\n⚠️ Exception → Not mentioned in notes.\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 03-06-2026 | #chapter: Verb Chapter | #topic: State Verbs",
-    "type": "news",
-    "revision_count": 2
-  },
-  {
-    "question": "Which of the following correctly identifies both the conjunction type AND the right determiner? 'The patient was critical, but the doctor had ___ hope of saving him.'",
-    "options": [
-      "A) Same Feeling conjunction; few hope",
-      "B) Contrast conjunction; a little hope",
-      "C) Same Feeling conjunction; little hope",
-      "D) Contrast conjunction; few hope"
-    ],
-    "answer": "B) Contrast conjunction; a little hope",
-    "explanation": "'But' = Contrast conjunction → reverses direction. 'Critical patient' = Negative → 'But' reverses → Positive direction → 'A little' (some hope exists). 'Hope' is uncountable → Little Family ✅. NO Test: 'Doctor had NO hope' → sounds ILLOGICAL after 'but' in this sentence ❌ → use 'A Little'. Option C uses 'little' (negative) which contradicts the contrast reversal that 'but' creates. Option D: 'few hope' — 'hope' is uncountable, so Few Family is wrong entirely.",
-    "type": "mcq",
-    "id": "POST_72",
-    "revision_count": 2
-  },
-  {
-    "id": "POST_22",
-    "title": "Three Main Verb Categories",
-    "content": "📘 Grammar Rule: Three Main Categories of Verbs\n\n📌 Rule → Forget helping verb terminology. Your brain should mainly see three categories:\n\n📌 Category 1 → Action Verbs → subject performs action.\n\n📌 Category 2 → Happening Verbs → something happens with subject.\n\n📌 Category 3 → State Verbs → sentence tells condition or state.\n\n⚠️ Exception → Not mentioned in notes.\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 03-06-2026 | #chapter: Verb Chapter | #topic: Three Main Verb Categories",
-    "type": "news",
-    "revision_count": 2
-  },
-  {
-    "question": "Which sequence correctly represents the 4-step process to solve any Few/Little exam question?",
-    "options": [
-      "A) Apply NO Test → Check Noun Type → Read Conjunction → Choose Answer",
-      "B) Translate to Hindi → Check Noun → Apply NO Test → Choose Answer",
-      "C) Identify Noun Type (Plural/Uncountable) → Read Conjunction → Apply NO Test → Choose Answer",
-      "D) Read Conjunction → Translate to Hindi → Apply NO Test → Choose Answer"
-    ],
-    "answer": "C) Identify Noun Type (Plural/Uncountable) → Read Conjunction → Apply NO Test → Choose Answer",
-    "explanation": "The correct order is: (1) Noun type fixes the FAMILY (Few or Little), (2) Conjunction fixes the DIRECTION (same or reversed), (3) NO Test fixes whether to use A or No-A, (4) Then choose the final answer. Option A puts NO Test before conjunction — wrong order. Option B and D use Hindi translation which the teacher explicitly warns against as it creates confusion. The FACT framework: Family → (Conjunction) → Article check → Test (NO Test).",
-    "type": "mcq",
-    "id": "POST_73",
-    "revision_count": 2
-  },
-  {
-    "question": "In which of the following sentences is the word 'elide' used INCORRECTLY?",
-    "options": [
-      "A) The editor chose to elide the redundant paragraphs from the draft.",
-      "B) The report elided several key facts that investors needed to know.",
-      "C) The author elided new chapters to make the book more comprehensive.",
-      "D) She elided over a crucial issue that needed factoring in."
-    ],
-    "answer": "C) The author elided new chapters to make the book more comprehensive.",
-    "explanation": "'Elide' means to deliberately omit or leave out. Option C incorrectly uses it to mean 'add' — one cannot elide something to make a book 'more comprehensive'; that would require adding content, not removing it. A, B, D all correctly use 'elide' to mean deliberate omission. Synonyms: excise, expunge, suppress.",
-    "type": "mcq",
-    "id": "POST_157",
-    "revision_count": 0
-  },
-  {
-    "question": "Which word is the most appropriate ANTONYM of 'oppress'?",
-    "options": [
-      "A) Subjugate",
-      "B) Coerce",
-      "C) Emancipate",
-      "D) Intimidate"
-    ],
-    "answer": "C) Emancipate",
-    "explanation": "'Oppress' means to keep under cruel control. Its antonym must mean to free from control — 'Emancipate' fits perfectly. Option A (Subjugate) and B (Coerce) are synonyms of oppress. Option D (Intimidate) is also a synonym. 'Emancipate' = to set free from oppression. Other antonyms: Liberate, Relieve, Bolster.",
-    "type": "mcq",
-    "id": "POST_158",
-    "revision_count": 0
-  },
-  {
-    "question": "The company's profits were ______, even as the morale of its employees collapsed under unrealistic targets.",
-    "options": [
-      "A) Receding",
-      "B) Sunken",
-      "C) Bulging",
-      "D) Concave"
-    ],
-    "answer": "C) Bulging",
-    "explanation": "'Bulging' means protruding outward conspicuously — used figuratively here to show profits overflowing/growing rapidly. Options A (Receding) and B (Sunken) are antonyms. Option D (Concave) means hollow/curved inward — also opposite in meaning. 'Bulging profits' is a standard editorial usage tested in SBI PO reading comprehension.",
-    "type": "mcq",
-    "id": "POST_159",
-    "revision_count": 0
-  },
-  {
     "question": "The continued demand for ______ by the groom's family solidified the unequal relationship between bride-givers and bride-takers.",
     "options": [
       "A) Dereliction",
@@ -462,13 +126,6 @@
     "revision_count": 0
   },
   {
-    "id": "POST_23",
-    "title": "Object vs Prepositional Object",
-    "content": "📘 Grammar Rule: Object vs Prepositional Object\n\n📌 Rule → If we ask 'What?' after the verb and the noun does NOT become a direct answer, then the noun is a Prepositional Object — object of a preposition, not of the verb.\n\n✅ The sun rises in the east.\n✅ They went to school.\n✅ The cat lay on the table.\n\n📌 Explanation → Do east / school / table become direct answer to 'What?'? No. So these are not direct objects. These are Prepositional Objects — objects of: in, to, on.\n\n⚠️ Exception → Not mentioned in notes.\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 03-06-2026 | #chapter: Verb Chapter | #topic: Object vs Prepositional Object",
-    "type": "news",
-    "revision_count": 2
-  },
-  {
     "question": "Which sentence contains an error related to the use of 'phenomena'?",
     "options": [
       "A) The phenomena observed in the lab were unusual.",
@@ -480,13 +137,6 @@
     "explanation": "'Phenomena' is the PLURAL form of 'phenomenon'. Using it with singular demonstrative 'This' and singular verb 'has' is grammatically incorrect. The correct form should be 'This phenomenon has puzzled...' or 'These phenomena have puzzled...'. Options A, B, D all correctly pair 'phenomena' with plural context. Rule: Phenomena = plural (like Criteria); always use plural verbs and plural determiners with it.",
     "type": "mcq",
     "id": "POST_74",
-    "revision_count": 2
-  },
-  {
-    "id": "POST_24",
-    "title": "Golden Observation — Preposition Logic",
-    "content": "📘 Grammar Rule: Golden Observation\n\n📌 Rule 1 → Whenever a verb comes, then another noun comes, but noun is NOT a direct object → preposition must appear in between.\n\n📌 Rule 2 → But if verb directly connects to object → no preposition comes.\n\n✅ Not mentioned in notes.\n\n❌ Not mentioned in notes.\n\n⚠️ Exception → Not mentioned in notes.\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 03-06-2026 | #chapter: Verb Chapter | #topic: Golden Observation",
-    "type": "news",
     "revision_count": 2
   },
   {
@@ -504,13 +154,6 @@
     "revision_count": 2
   },
   {
-    "id": "POST_25",
-    "title": "Discuss / Explain / Describe Trap",
-    "content": "⚠️ Error Type: Unnecessary 'About' After Discuss / Explain / Describe\n\n📌 Rule → Ask: 'What did they discuss?' 'What did they explain?' 'What did they describe?' — Direct answer already exists. Object already exists. So preposition is unnecessary.\n\n✅ Correct Usage:\n▪️ discuss the issue\n▪️ explain the topic\n▪️ describe the event\n\n❌ Wrong Usage:\n▪️ discuss about the issue\n▪️ explain about the topic\n▪️ describe about the event\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 03-06-2026 | #chapter: Verb Chapter | #topic: Discuss / Explain / Describe Trap",
-    "type": "news",
-    "revision_count": 2
-  },
-  {
     "question": "Which of the following sentences correctly uses 'The Little'?",
     "options": [
       "A) The little students attended the function.",
@@ -522,13 +165,6 @@
     "explanation": "'Water' is uncountable → Little Family. 'Left in the bottle' defines WHICH water → noun is definite → The Little ✅. Option A: 'students' is plural countable → Few Family required, not Little. Option C: 'books' is plural countable → The Few, not The Little. Option D: 'players' is plural countable → The Few required. Rule: The Little = Uncountable noun + Definite (identified in sentence).",
     "type": "mcq",
     "id": "POST_81",
-    "revision_count": 2
-  },
-  {
-    "id": "POST_26",
-    "title": "Investigate / Face / Lack Trap",
-    "content": "⚠️ Error Type: Unnecessary Preposition After Investigate / Face / Lack\n\n📌 Rule → Ask: 'What did police investigate?' → the case. 'What should you face?' → the truth. 'What do students lack?' → confidence. Object already exists. So no preposition required.\n\n✅ Correct Usage:\n▪️ investigate the case\n▪️ face the truth\n▪️ lack confidence\n\n❌ Wrong Usage:\n▪️ investigate into the case\n▪️ face with the truth\n▪️ lack in confidence\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 03-06-2026 | #chapter: Verb Chapter | #topic: Investigate / Face / Lack Trap",
-    "type": "news",
     "revision_count": 2
   },
   {
@@ -546,13 +182,6 @@
     "revision_count": 2
   },
   {
-    "id": "POST_27",
-    "title": "Transitive Verbs — Full List, Master Shortcut and Final Philosophy",
-    "content": "📘 Grammar Rule: Transitive Verbs\n\n📌 Rule 1 → These are called Transitive Verbs because they directly take object. That is why unnecessary prepositions are removed.\n\n📌 Rule 2 → Do not blindly memorize. Instead understand WHY. These are transitive verbs. Transitive verbs directly take objects. That is why unnecessary prepositions are removed.\n\n📌 Master Shortcut:\nStep 1: Find verb.\nStep 2: Ask 'What?'\nStep 3: If direct answer comes → object already exists.\nStep 4: If object already exists → do not add unnecessary preposition.\n\n✅ Correct Usage | ❌ Wrong Usage:\n▪️ discuss the issue | discuss about the issue\n▪️ explain the topic | explain about the topic\n▪️ describe the event | describe about the event\n▪️ investigate the case | investigate into the case\n▪️ face the truth | face with the truth\n▪️ lack confidence | lack in confidence\n▪️ request help | request for help\n▪️ resemble father | resemble with father\n▪️ enter the room | enter into the room\n▪️ marry someone | marry with someone\n▪️ approach teacher | approach to teacher\n▪️ attend class | attend in class\n▪️ join the team | join in the team\n▪️ reach the station | reach at station\n▪️ oppose the decision | oppose to decision\n▪️ stress the point | stress on point\n▪️ comprise parts | comprise of parts\n▪️ survive the accident | survive from accident\n▪️ answer the question | answer to question\n▪️ obey the rules | obey to rules\n▪️ attack the enemy | attack on enemy\n▪️ accompany friend | accompany with friend\n\n⚠️ Exception → Not mentioned in notes.\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 03-06-2026 | #chapter: Verb Chapter | #topic: Transitive Verbs",
-    "type": "news",
-    "revision_count": 2
-  },
-  {
     "question": "Which sentence correctly uses 'The Few'?",
     "options": [
       "A) The few money he earned was spent wisely.",
@@ -564,13 +193,6 @@
     "explanation": "'Coins' is plural countable → Few Family. 'He collected' defines WHICH coins → noun is definite → The Few ✅. Option A: 'money' is uncountable → Little Family required, not Few. Option B: 'time' is uncountable → Little Family required. Option D: 'water' is uncountable → The Little required. Rule: The Few = Plural countable noun + Definite (identified in sentence).",
     "type": "mcq",
     "id": "POST_83",
-    "revision_count": 2
-  },
-  {
-    "id": "POST_28",
-    "title": "Word: Lacuna",
-    "content": "📖 Word → Lacuna\n\n🔤 Pronunciation → luh-KYOO-nuh\n\n📋 Meaning → A gap, deficiency, or missing part\n\n📋 Hindi Meaning → कमी\n\n📋 Part of Speech → Noun\n\n🔁 Synonyms → Deficiency, Omission, Hiatus, Void, Vacuum, Inadequacy, Deprivation, Scarcity, Dearth\n\n🔄 Antonyms → Sufficiency, Completeness, Fulness, Adequacy, Plenitude, Plethora, Myriad, Multitude, Barrage, Deluge\n\n📌 Forms / Idioms → Leave no stone unturned | A blind spot | Missing the boat | Crack in the foundation\n\n✅ Usage in Sentence\n▪️ The revised manual finally achieved lacuna (1) / sufficiency (2) for operational requirements.\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 04-06-2026 | #chapter: The Hindu Editorial Analysis | #topic: Lacuna",
-    "type": "news",
     "revision_count": 2
   },
   {
@@ -2343,5 +1965,383 @@
     "content": "📘 Vocabulary & Concept: Core Determiners\n\n📌 Rule → Each determiner has a precise numeric meaning:\n\n📖 ALL → Refers to MORE THAN TWO items or people.\n✅ All the students passed the exam.\n\n📖 BOTH → Refers to EXACTLY TWO items or people.\n✅ Both the brothers are doctors.\n\n📖 EITHER → Two exist; ONE is selected.\n✅ Either of the two roads leads to the station.\n\n📖 NEITHER → Two exist; ZERO is selected (negative of both).\n✅ Neither of the candidates was selected.\n\n📖 NONE → More than two exist; NOT EVEN ONE qualifies.\n✅ None of the students passed.\n\n🧠 Memory Trick → ALL(∞), BOTH(2=2), EITHER(2→1), NEITHER(2→0), NONE(∞→0). Picture it as a funnel narrowing from all to none.\n\n✏️ Exam Angle → IBPS PO fill-in-the-blanks: knowing the exact numeric reference prevents wrong answer selection.",
     "type": "news",
     "revision_count": 2
+  },
+  {
+    "question": "In the sentence 'He seems unhappy', what type of verb is 'seems' and why?",
+    "options": [
+      "A) Action Verb — because 'seeming' is something the subject does.",
+      "B) Happening Verb — because unhappiness happened to the subject.",
+      "C) State Verb — because the sentence only tells the condition or state of the subject.",
+      "D) Auxiliary Verb — because 'seems' supports the adjective 'unhappy'."
+    ],
+    "answer": "C) State Verb — because the sentence only tells the condition or state of the subject.",
+    "explanation": "The chapter states: 'Did subject do something? No. Did something happen to subject? No. Sentence only tells: condition, feeling, state.' This makes 'seems' a State Verb. Option A is wrong — no intentional action is performed. Option B is wrong — nothing happened to the subject. Option D introduces auxiliary verb terminology which the chapter explicitly asks to forget.",
+    "type": "mcq",
+    "id": "POST_10",
+    "revision_count": 4
+  },
+  {
+    "id": "POST_95",
+    "title": "Noun and Article Rule with All, Both, Either, Neither, None",
+    "content": "📘 Grammar Rule: Noun Form After Determiners\n\n📌 Rule → After ALL, BOTH, EITHER, NEITHER, NONE — the noun discussed is GENERALLY PLURAL.\n\n✅ Correct: all the players\n✅ Correct: both the books\n✅ Correct: neither of the players\n✅ Correct: none of the students\n\n⚠️ Note → Even though EITHER/NEITHER refer to two and take singular verbs, the NOUN in the 'of + noun' phrase remains plural.\n\n🧠 Memory Trick → The noun in these phrases represents the GROUP being referred to — so it stays plural. The VERB changes based on the determiner's logic, not the noun.\n\n✏️ Exam Angle → Common confusion: students write 'neither of the player' (wrong) — the noun after 'of' must be plural.",
+    "type": "news",
+    "revision_count": 2
+  },
+  {
+    "question": "A teacher asks students to classify verbs into three brain-friendly categories instead of bookish terminology. Which of the following correctly lists all three categories as described in the chapter?",
+    "options": [
+      "A) Transitive Verbs, Intransitive Verbs, Linking Verbs",
+      "B) Primary Auxiliaries, Modals, Main Verbs",
+      "C) Action Verbs, Happening Verbs, State Verbs",
+      "D) Regular Verbs, Irregular Verbs, Auxiliary Verbs"
+    ],
+    "answer": "C) Action Verbs, Happening Verbs, State Verbs",
+    "explanation": "The chapter explicitly says: 'Forget helping verb terminology. Your brain should mainly see: 1. Action Verbs → subject performs action. 2. Happening Verbs → something happens with subject. 3. State Verbs → sentence tells condition/state.' All other options use bookish or traditional grammar terminology that the chapter instructs to forget.",
+    "type": "mcq",
+    "id": "POST_11",
+    "revision_count": 4
+  },
+  {
+    "id": "POST_96",
+    "title": "All + Negative Construction",
+    "content": "📘 Grammar Rule: All with Negative\n\n📌 Rule → ALL cannot be used with a negative verb. Replace with NONE.\n\n❌ Wrong: All the players are not talented.\n✅ Correct: None of the players is talented.\n\n⚠️ Why → 'All... not' creates a partial negative (some are, some aren't), which is ambiguous. 'None' makes the total exclusion clear.\n\n🧠 Memory Trick → ALL + NOT = confused meaning → swap the whole thing to NONE. Think: ALL goes POSITIVE, NONE goes NEGATIVE.\n\n✏️ Exam Angle → Sentence improvement questions in SSC CGL regularly test this. The wrong sentence sounds natural in spoken Hindi-English, making it a perfect trap.",
+    "type": "news",
+    "revision_count": 2
+  },
+  {
+    "question": "In the sentence 'They went to school', what is 'school' and why is it NOT a direct object?",
+    "options": [
+      "A) 'School' is a direct object because it directly follows the verb 'went'.",
+      "B) 'School' is a Prepositional Object — it is the object of the preposition 'to', not of the verb.",
+      "C) 'School' is an indirect object because it names a place.",
+      "D) 'School' is a subject complement because it describes the subject."
+    ],
+    "answer": "B) 'School' is a Prepositional Object — it is the object of the preposition 'to', not of the verb.",
+    "explanation": "The chapter explains: 'If we ask What? do east/school/table become direct answer? No. So these are not direct objects. These are Prepositional Objects because they are objects of: in, to, on.' 'School' answers the preposition 'to', not the verb 'went' directly. Options A, C, D all misidentify the grammatical role of 'school'.",
+    "type": "mcq",
+    "id": "POST_12",
+    "revision_count": 4
+  },
+  {
+    "id": "POST_97",
+    "title": "Both + Negative Construction",
+    "content": "📘 Grammar Rule: Both with Negative\n\n📌 Rule → BOTH cannot be used with a negative verb. Replace with NEITHER.\n\n❌ Wrong: Both the players are not talented.\n✅ Correct: Neither of the players is talented.\n\n⚠️ Why → 'Both... not' implies one is and one isn't (partial negation). NEITHER conveys total negation of two.\n\n🧠 Memory Trick → BOTH is the positive twin, NEITHER is the negative twin. Whenever you negate BOTH, swap it to NEITHER.\n\n✏️ Exam Angle → Paired with the ALL+NOT rule in error-spotting passages in IBPS PO and SBI Clerk exams.",
+    "type": "news",
+    "revision_count": 2
+  },
+  {
+    "question": "Which of the following sentences uses the correct determiner from the Few/Little family?",
+    "options": [
+      "A) Few money was left in his account.",
+      "B) A little students attended the seminar.",
+      "C) A few players are ready for the match.",
+      "D) Little books were found on the shelf."
+    ],
+    "answer": "C) A few players are ready for the match.",
+    "explanation": "'Players' is a plural countable noun → Few Family is correct. 'A few' fits because players being ready is a positive/logical context. Option A: 'money' is uncountable → Little Family required, not Few. Option B: 'students' is plural countable → Few Family required, not Little. Option D: 'books' is plural countable → Few Family required, not Little. Rule: Plural Noun = Few Family; Uncountable Noun = Little Family.",
+    "type": "mcq",
+    "id": "POST_62",
+    "revision_count": 3
+  },
+  {
+    "id": "POST_98",
+    "title": "Either + Negative Construction",
+    "content": "📘 Grammar Rule: Either with Negative\n\n📌 Rule → EITHER cannot be paired with a negative verb. Simply REMOVE the negative word instead.\n\n❌ Wrong: Either of the players is not talented.\n✅ Correct: Either of the players is talented.\n\n⚠️ Shortcut → Unlike ALL→NONE and BOTH→NEITHER, EITHER has no negative counterpart in this structure. Remove the 'not'.\n\n🧠 Memory Trick → EITHER is always positive in this structure. NEITHER is already its negative form — so 'Either + not' is redundant/wrong. Just drop the 'not'.\n\n✏️ Exam Angle → This is the trickiest of the three — students often replace EITHER with NEITHER, creating a double negative.",
+    "type": "news",
+    "revision_count": 2
+  },
+  {
+    "question": "Choose the correct sentence with respect to the use of determiners with uncountable nouns.",
+    "options": [
+      "A) Few water remains in the bottle.",
+      "B) A few knowledge is dangerous.",
+      "C) A little water is sufficient for the recipe.",
+      "D) Few information was provided."
+    ],
+    "answer": "C) A little water is sufficient for the recipe.",
+    "explanation": "'Water' is uncountable → Little Family is correct. 'A little' fits as having some water is a positive/sufficient context. Option A: 'water' is uncountable → 'few' (Few Family) is wrong. Option B: 'knowledge' is uncountable → 'a few' (Few Family) is wrong. Option D: 'information' is uncountable → 'few' is incorrect; 'little' should be used. Rule: Uncountable nouns always take the Little Family.",
+    "type": "mcq",
+    "id": "POST_63",
+    "revision_count": 3
+  },
+  {
+    "id": "POST_99",
+    "title": "Double Negative Rule",
+    "content": "📘 Grammar Rule: Double Negatives\n\n📌 Rule → A sentence cannot carry two negative words. Only one negative is allowed.\n\n✅ Correct: I do not want help.\n❌ Wrong: I do not want no help.\n\n⚠️ In English, two negatives do NOT make a positive (unlike in math). They simply make the sentence grammatically incorrect.\n\n🧠 Memory Trick → One sentence = one negative. Like a single traffic signal — two 'STOP' signs in one sentence cause confusion (and errors).\n\n✏️ Exam Angle → Common in error-spotting: 'I cannot do nothing' → wrong. 'I cannot do anything' → correct. Railways and SSC CHSL frequently test this.",
+    "type": "news",
+    "revision_count": 2
+  },
+  {
+    "question": "Which of the following sentences correctly uses 'police' in terms of subject-verb agreement?",
+    "options": [
+      "A) The police has surrounded the building.",
+      "B) The police have arrested the suspect.",
+      "C) The police is investigating the case.",
+      "D) Police was deployed at the venue."
+    ],
+    "answer": "B) The police have arrested the suspect.",
+    "explanation": "'Police' looks singular but grammatically behaves as a PLURAL noun, so it takes a plural verb. 'Have' is the correct plural verb here. Options A, C, D all use singular verbs (has/is/was) which are incorrect with 'police'. This is a classic exam trap — never judge a noun's grammatical number by its appearance alone. Rule: Police → always plural verb.",
+    "type": "mcq",
+    "id": "POST_64",
+    "revision_count": 3
+  },
+  {
+    "id": "POST_100",
+    "title": "Neither and None Cannot Take 'Not'",
+    "content": "📘 Grammar Rule: Neither/None Already Negative\n\n📌 Rule → NEITHER and NONE are inherently negative words. Adding 'not' creates a double negative — which is wrong.\n\n❌ Wrong: Neither of the players is not talented.\n❌ Wrong: None of the players is not talented.\n✅ Correct: Neither of the players is talented.\n✅ Correct: None of the players is talented.\n\n⚠️ Remember → NEITHER = not either. NONE = not one. They already carry the negative meaning.\n\n🧠 Memory Trick → NEITHER and NONE wear a permanent 'NOT' badge. Adding another 'not' is like writing 'NOT NOT' — cancels to positive, making the sentence logically wrong.\n\n✏️ Exam Angle → This directly tests knowledge of inherent negatives — a high-frequency SSC CGL and IBPS PO error spotting topic.",
+    "type": "news",
+    "revision_count": 2
+  },
+  {
+    "question": "Identify the sentence that correctly uses 'criteria' or 'criterion'.",
+    "options": [
+      "A) The criteria for selection is very strict.",
+      "B) These criteria was not met by the candidate.",
+      "C) Only one criteria needs to be fulfilled.",
+      "D) Several criteria were outlined in the policy."
+    ],
+    "answer": "D) Several criteria were outlined in the policy.",
+    "explanation": "'Criteria' is the plural form of 'criterion' and must take a plural verb. Option D correctly pairs 'Several criteria' with 'were'. Option A: 'criteria' (plural) with 'is' (singular) → wrong. Option B: 'criteria' with 'was' (singular) → wrong. Option C: 'one criteria' is wrong; singular form is 'criterion'. Rule: Criteria = plural → plural verb; Criterion = singular → singular verb.",
+    "type": "mcq",
+    "id": "POST_65",
+    "revision_count": 3
+  },
+  {
+    "id": "POST_101",
+    "title": "All / All The / All Of — Usage Differences",
+    "content": "📘 Grammar Rule: All vs All The vs All Of\n\n📌 Rule 1 → ALL + Noun (no article) → General/universal sense.\n✅ All books are knowledge-giving. (books in general)\n\n📌 Rule 2 → ALL THE + Noun → Specific/definite group.\n✅ All the books in this library are knowledge-giving. (specific books)\n\n📌 Rule 3 → ALL OF THE + Noun → After 'of', the article 'the' is mandatory; noun cannot stand alone.\n✅ All of the books are useful.\n❌ Wrong: All of books are useful.\n\n⚠️ Structure reminder → ALL OF must be followed by a determiner (the/my/these) before the noun.\n\n🧠 Memory Trick → Think of 'ALL OF' as reaching inside a defined container — it NEEDS the lid (the/my/these) before touching the contents.\n\n✏️ Exam Angle → SBI PO sentence correction: distinguishing 'All books' (general) vs 'All the books' (specific) is a tested nuance.",
+    "type": "news",
+    "revision_count": 2
+  },
+  {
+    "question": "A student relies only on Hindi translation to decide between 'Few' and 'A Few'. Which statement best describes the problem with this approach?",
+    "options": [
+      "A) It works perfectly for all exam questions.",
+      "B) It fails because Few and A Few have no meaning difference.",
+      "C) It creates confusion because context and sentence logic are the real deciding factors.",
+      "D) It is the method recommended for SSC CGL level questions."
+    ],
+    "answer": "C) It creates confusion because context and sentence logic are the real deciding factors.",
+    "explanation": "The translation method (Few = almost none, A Few = some) breaks down in exam conditions where context, conjunction, and sentence meaning are the actual deciding factors. The same amount can be 'few' or 'a few' depending on the situation (e.g., ₹5000 for a phone vs ₹5000 for Antilia). Options A and D are factually wrong. Option B is wrong — they do have a meaning difference, but it is context-driven, not fixed.",
+    "type": "mcq",
+    "id": "POST_66",
+    "revision_count": 3
+  },
+  {
+    "id": "POST_102",
+    "title": "Trap with 'The' — All The Employees",
+    "content": "📘 Grammar Rule: Correct Use of 'The' with All\n\n📌 Rule → 'All the + noun' is correct ONLY when the noun is specifically defined/limited by context.\n\n❌ Wrong (general): All the employees must follow the updated rules.\n✅ Correct (general): All employees must follow the updated rules.\n\n✅ Correct (specific): All the employees of this school must follow the updated rules.\n(Here 'of this school' defines and limits which employees → 'the' is valid.)\n\n⚠️ Key Test → Ask: Are we talking about a specific, identified group? Yes → use 'the'. No → drop 'the'.\n\n🧠 Memory Trick → 'THE' = pointing finger. If you can point at a specific group, use 'the'. If it's general/open, no pointing needed.\n\n✏️ Exam Angle → One of the most deceptive traps in SSC CGL error spotting — the sentence sounds perfectly fine but fails the specificity test.",
+    "type": "news",
+    "revision_count": 2
+  },
+  {
+    "question": "₹5000 is mentioned in a sentence about purchasing a luxury car worth ₹1 crore. Which determiner best fits the blank: 'He had only ___ money to buy the car.'?",
+    "options": [
+      "A) A little",
+      "B) The little",
+      "C) Little",
+      "D) A few"
+    ],
+    "answer": "C) Little",
+    "explanation": "'Money' is uncountable → Little Family. In the context of buying a ₹1 crore car, ₹5000 is almost nothing — a negative/insufficient feeling. Apply NO Test: 'He had NO money to buy the car' → sounds logical ✅ → use 'Little' (not 'A Little'). Option A (A little) implies sufficient amount — wrong context. Option D: 'A few' is Few Family, used only with plural countable nouns — wrong family entirely.",
+    "type": "mcq",
+    "id": "POST_67",
+    "revision_count": 3
+  },
+  {
+    "id": "POST_103",
+    "title": "Both / Both The / Both Of — Parallel Rules",
+    "content": "📘 Grammar Rule: Both vs Both The vs Both Of\n\n📌 Rule 1 → BOTH + Noun → General reference to two items.\n✅ Both books are useful.\n\n📌 Rule 2 → BOTH THE + Noun → Specific reference to two defined items.\n✅ Both the books in the library are useful.\n\n📌 Rule 3 → BOTH OF THE + Noun → 'Of' requires 'the' before the noun.\n✅ Both of the books are useful.\n❌ Wrong: Both of books are useful.\n\n⚠️ Same logic as ALL — BOTH follows the exact same three-tier rule.\n\n🧠 Memory Trick → ALL and BOTH are grammar siblings — same rules apply. If you master ALL's three structures, BOTH comes free.\n\n✏️ Exam Angle → Sentence improvement in IBPS PO often replaces 'Both of the' with 'Both of' (dropping 'the') as the error.",
+    "type": "news",
+    "revision_count": 2
+  },
+  {
+    "question": "Apply the NO Test to find the correct answer: 'She is a doctor. She has ___ time for leisure activities.'",
+    "options": [
+      "A) A few",
+      "B) A little",
+      "C) Few",
+      "D) Little"
+    ],
+    "answer": "D) Little",
+    "explanation": "'Time' is uncountable → Little Family (eliminates A & C). Apply NO Test: 'She has NO time for leisure.' → A doctor being very busy makes this LOGICAL ✅ → use 'Little' (negative sense). If 'A little' were used, it would mean she has some leisure time — contradicts the busy doctor context. Rule: NO Test logical → Few/Little. NO Test illogical → A Few/A Little.",
+    "type": "mcq",
+    "id": "POST_68",
+    "revision_count": 3
+  },
+  {
+    "id": "POST_104",
+    "title": "Golden Rules Summary — All Determiner Shortcuts",
+    "content": "📘 Grammar Rule: Master Summary — Determiners\n\n📌 Golden Rules:\n\n🔤 Rule 1 → One or less than one → SINGULAR\n🔤 Rule 2 → Greater than one → PLURAL\n🔤 Rule 3 → After 'one' → SINGULAR noun\n🔤 Rule 4 → After 'two' → PLURAL noun\n\n🔁 Conversion Rules:\n▪️ ALL + negative → replace with NONE\n▪️ BOTH + negative → replace with NEITHER\n▪️ EITHER + negative → REMOVE the negative word\n▪️ NEITHER / NONE + not → ALWAYS WRONG (double negative)\n\n⚠️ Structural Rules:\n▪️ 'More than one' → singular noun + singular verb\n▪️ ALL OF / BOTH OF → must be followed by 'the/my/these' before noun\n▪️ ALL THE / BOTH THE → only when group is specifically defined\n\n🧠 Memory Trick → Solve through LOGIC and STRUCTURE, not Hindi translation. Map each sentence to the number line: ≤1 = singular, >1 = plural.\n\n✏️ Exam Angle → This entire topic forms a high-weight cluster in SSC CGL Tier 1 & 2, IBPS PO, SBI PO, and Railways NTPC error spotting and sentence improvement sections.",
+    "type": "news",
+    "revision_count": 2
+  },
+  {
+    "question": "Which sentence correctly applies the NO Test result to choose 'A Few'?",
+    "options": [
+      "A) He is a miser, so he has a few savings.",
+      "B) She is a social butterfly; she has a few friends everywhere.",
+      "C) The hall was empty; a few people attended.",
+      "D) He failed all subjects; a few marks helped him."
+    ],
+    "answer": "B) She is a social butterfly; she has a few friends everywhere.",
+    "explanation": "A 'social butterfly' is someone who socialises widely — having friends is expected and logical. NO Test: 'She has NO friends' → ILLOGICAL ❌ → use 'A Few'. Option A: A miser saving money is logical → 'few savings' (Little Family wrong here; 'savings' is countable plural → 'few' is correct, not 'a few'). Option C: Empty hall contradicts 'a few' — 'few' fits. Option D: Failing all subjects then having helpful marks is contradictory context — 'few marks' fits better.",
+    "type": "mcq",
+    "id": "POST_69",
+    "revision_count": 3
+  },
+  {
+    "id": "POST_21",
+    "title": "State Verbs",
+    "content": "📘 Grammar Rule: State Verbs\n\n📌 Rule → When a sentence only tells the condition, feeling, or state of the subject — without action or happening — the verb is a State Verb.\n\n✅ He seems unhappy.\n\n📌 Explanation → Did subject do something? No. Did something happen to subject? No. Sentence only tells: condition, feeling, state.\n\n⚠️ Exception → Not mentioned in notes.\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 03-06-2026 | #chapter: Verb Chapter | #topic: State Verbs",
+    "type": "news",
+    "revision_count": 3
+  },
+  {
+    "question": "Fill in the blank using conjunction logic: 'He is extremely wealthy, ___ he has ___ financial worries.'",
+    "options": [
+      "A) but … a few",
+      "B) so … few",
+      "C) although … little",
+      "D) however … a little"
+    ],
+    "answer": "B) so … few",
+    "explanation": "'So' is a Same Feeling conjunction → Positive (wealthy) stays Positive → but 'financial worries' being few means LESS worries = positive outcome. NO Test on 'worries': 'He has NO financial worries' → sounds LOGICAL for a wealthy man ✅ → 'Few'. 'Worries' is a countable plural noun → Few Family. Option A: 'but' is contrast — would reverse direction unnecessarily. Options C & D: 'little/a little' belong to Little Family; 'worries' is countable plural → wrong family.",
+    "type": "mcq",
+    "id": "POST_70",
+    "revision_count": 3
+  },
+  {
+    "id": "POST_22",
+    "title": "Three Main Verb Categories",
+    "content": "📘 Grammar Rule: Three Main Categories of Verbs\n\n📌 Rule → Forget helping verb terminology. Your brain should mainly see three categories:\n\n📌 Category 1 → Action Verbs → subject performs action.\n\n📌 Category 2 → Happening Verbs → something happens with subject.\n\n📌 Category 3 → State Verbs → sentence tells condition or state.\n\n⚠️ Exception → Not mentioned in notes.\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 03-06-2026 | #chapter: Verb Chapter | #topic: Three Main Verb Categories",
+    "type": "news",
+    "revision_count": 3
+  },
+  {
+    "question": "Identify the conjunction type and choose the correct determiner: 'She had never studied, ___ she had ___ knowledge of the subject.'",
+    "options": [
+      "A) yet … a little",
+      "B) so … little",
+      "C) because … a little",
+      "D) therefore … little"
+    ],
+    "answer": "B) so … little",
+    "explanation": "'So' = Same Feeling conjunction. 'Never studied' is Negative → same direction continues → Negative → 'little' (not 'a little'). 'Knowledge' is uncountable → Little Family ✅. NO Test: 'She had NO knowledge' → sounds LOGICAL (never studied = no knowledge) ✅ → 'Little'. Option A: 'yet' is contrast — would suggest she HAS knowledge despite not studying → then 'a little' could work, but 'yet' + 'a little' is a valid contrast answer, making this a tricky distractor. Option C/D: 'because/therefore' are same-feeling but pair incorrectly with 'a little' (positive) in a negative context.",
+    "type": "mcq",
+    "id": "POST_71",
+    "revision_count": 3
+  },
+  {
+    "id": "POST_23",
+    "title": "Object vs Prepositional Object",
+    "content": "📘 Grammar Rule: Object vs Prepositional Object\n\n📌 Rule → If we ask 'What?' after the verb and the noun does NOT become a direct answer, then the noun is a Prepositional Object — object of a preposition, not of the verb.\n\n✅ The sun rises in the east.\n✅ They went to school.\n✅ The cat lay on the table.\n\n📌 Explanation → Do east / school / table become direct answer to 'What?'? No. So these are not direct objects. These are Prepositional Objects — objects of: in, to, on.\n\n⚠️ Exception → Not mentioned in notes.\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 03-06-2026 | #chapter: Verb Chapter | #topic: Object vs Prepositional Object",
+    "type": "news",
+    "revision_count": 3
+  },
+  {
+    "question": "Which of the following correctly identifies both the conjunction type AND the right determiner? 'The patient was critical, but the doctor had ___ hope of saving him.'",
+    "options": [
+      "A) Same Feeling conjunction; few hope",
+      "B) Contrast conjunction; a little hope",
+      "C) Same Feeling conjunction; little hope",
+      "D) Contrast conjunction; few hope"
+    ],
+    "answer": "B) Contrast conjunction; a little hope",
+    "explanation": "'But' = Contrast conjunction → reverses direction. 'Critical patient' = Negative → 'But' reverses → Positive direction → 'A little' (some hope exists). 'Hope' is uncountable → Little Family ✅. NO Test: 'Doctor had NO hope' → sounds ILLOGICAL after 'but' in this sentence ❌ → use 'A Little'. Option C uses 'little' (negative) which contradicts the contrast reversal that 'but' creates. Option D: 'few hope' — 'hope' is uncountable, so Few Family is wrong entirely.",
+    "type": "mcq",
+    "id": "POST_72",
+    "revision_count": 3
+  },
+  {
+    "id": "POST_24",
+    "title": "Golden Observation — Preposition Logic",
+    "content": "📘 Grammar Rule: Golden Observation\n\n📌 Rule 1 → Whenever a verb comes, then another noun comes, but noun is NOT a direct object → preposition must appear in between.\n\n📌 Rule 2 → But if verb directly connects to object → no preposition comes.\n\n✅ Not mentioned in notes.\n\n❌ Not mentioned in notes.\n\n⚠️ Exception → Not mentioned in notes.\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 03-06-2026 | #chapter: Verb Chapter | #topic: Golden Observation",
+    "type": "news",
+    "revision_count": 3
+  },
+  {
+    "question": "Which sequence correctly represents the 4-step process to solve any Few/Little exam question?",
+    "options": [
+      "A) Apply NO Test → Check Noun Type → Read Conjunction → Choose Answer",
+      "B) Translate to Hindi → Check Noun → Apply NO Test → Choose Answer",
+      "C) Identify Noun Type (Plural/Uncountable) → Read Conjunction → Apply NO Test → Choose Answer",
+      "D) Read Conjunction → Translate to Hindi → Apply NO Test → Choose Answer"
+    ],
+    "answer": "C) Identify Noun Type (Plural/Uncountable) → Read Conjunction → Apply NO Test → Choose Answer",
+    "explanation": "The correct order is: (1) Noun type fixes the FAMILY (Few or Little), (2) Conjunction fixes the DIRECTION (same or reversed), (3) NO Test fixes whether to use A or No-A, (4) Then choose the final answer. Option A puts NO Test before conjunction — wrong order. Option B and D use Hindi translation which the teacher explicitly warns against as it creates confusion. The FACT framework: Family → (Conjunction) → Article check → Test (NO Test).",
+    "type": "mcq",
+    "id": "POST_73",
+    "revision_count": 3
+  },
+  {
+    "id": "POST_25",
+    "title": "Discuss / Explain / Describe Trap",
+    "content": "⚠️ Error Type: Unnecessary 'About' After Discuss / Explain / Describe\n\n📌 Rule → Ask: 'What did they discuss?' 'What did they explain?' 'What did they describe?' — Direct answer already exists. Object already exists. So preposition is unnecessary.\n\n✅ Correct Usage:\n▪️ discuss the issue\n▪️ explain the topic\n▪️ describe the event\n\n❌ Wrong Usage:\n▪️ discuss about the issue\n▪️ explain about the topic\n▪️ describe about the event\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 03-06-2026 | #chapter: Verb Chapter | #topic: Discuss / Explain / Describe Trap",
+    "type": "news",
+    "revision_count": 3
+  },
+  {
+    "question": "In which of the following sentences is the word 'elide' used INCORRECTLY?",
+    "options": [
+      "A) The editor chose to elide the redundant paragraphs from the draft.",
+      "B) The report elided several key facts that investors needed to know.",
+      "C) The author elided new chapters to make the book more comprehensive.",
+      "D) She elided over a crucial issue that needed factoring in."
+    ],
+    "answer": "C) The author elided new chapters to make the book more comprehensive.",
+    "explanation": "'Elide' means to deliberately omit or leave out. Option C incorrectly uses it to mean 'add' — one cannot elide something to make a book 'more comprehensive'; that would require adding content, not removing it. A, B, D all correctly use 'elide' to mean deliberate omission. Synonyms: excise, expunge, suppress.",
+    "type": "mcq",
+    "id": "POST_157",
+    "revision_count": 1
+  },
+  {
+    "id": "POST_26",
+    "title": "Investigate / Face / Lack Trap",
+    "content": "⚠️ Error Type: Unnecessary Preposition After Investigate / Face / Lack\n\n📌 Rule → Ask: 'What did police investigate?' → the case. 'What should you face?' → the truth. 'What do students lack?' → confidence. Object already exists. So no preposition required.\n\n✅ Correct Usage:\n▪️ investigate the case\n▪️ face the truth\n▪️ lack confidence\n\n❌ Wrong Usage:\n▪️ investigate into the case\n▪️ face with the truth\n▪️ lack in confidence\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 03-06-2026 | #chapter: Verb Chapter | #topic: Investigate / Face / Lack Trap",
+    "type": "news",
+    "revision_count": 3
+  },
+  {
+    "question": "Which word is the most appropriate ANTONYM of 'oppress'?",
+    "options": [
+      "A) Subjugate",
+      "B) Coerce",
+      "C) Emancipate",
+      "D) Intimidate"
+    ],
+    "answer": "C) Emancipate",
+    "explanation": "'Oppress' means to keep under cruel control. Its antonym must mean to free from control — 'Emancipate' fits perfectly. Option A (Subjugate) and B (Coerce) are synonyms of oppress. Option D (Intimidate) is also a synonym. 'Emancipate' = to set free from oppression. Other antonyms: Liberate, Relieve, Bolster.",
+    "type": "mcq",
+    "id": "POST_158",
+    "revision_count": 1
+  },
+  {
+    "id": "POST_27",
+    "title": "Transitive Verbs — Full List, Master Shortcut and Final Philosophy",
+    "content": "📘 Grammar Rule: Transitive Verbs\n\n📌 Rule 1 → These are called Transitive Verbs because they directly take object. That is why unnecessary prepositions are removed.\n\n📌 Rule 2 → Do not blindly memorize. Instead understand WHY. These are transitive verbs. Transitive verbs directly take objects. That is why unnecessary prepositions are removed.\n\n📌 Master Shortcut:\nStep 1: Find verb.\nStep 2: Ask 'What?'\nStep 3: If direct answer comes → object already exists.\nStep 4: If object already exists → do not add unnecessary preposition.\n\n✅ Correct Usage | ❌ Wrong Usage:\n▪️ discuss the issue | discuss about the issue\n▪️ explain the topic | explain about the topic\n▪️ describe the event | describe about the event\n▪️ investigate the case | investigate into the case\n▪️ face the truth | face with the truth\n▪️ lack confidence | lack in confidence\n▪️ request help | request for help\n▪️ resemble father | resemble with father\n▪️ enter the room | enter into the room\n▪️ marry someone | marry with someone\n▪️ approach teacher | approach to teacher\n▪️ attend class | attend in class\n▪️ join the team | join in the team\n▪️ reach the station | reach at station\n▪️ oppose the decision | oppose to decision\n▪️ stress the point | stress on point\n▪️ comprise parts | comprise of parts\n▪️ survive the accident | survive from accident\n▪️ answer the question | answer to question\n▪️ obey the rules | obey to rules\n▪️ attack the enemy | attack on enemy\n▪️ accompany friend | accompany with friend\n\n⚠️ Exception → Not mentioned in notes.\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 03-06-2026 | #chapter: Verb Chapter | #topic: Transitive Verbs",
+    "type": "news",
+    "revision_count": 3
+  },
+  {
+    "question": "The company's profits were ______, even as the morale of its employees collapsed under unrealistic targets.",
+    "options": [
+      "A) Receding",
+      "B) Sunken",
+      "C) Bulging",
+      "D) Concave"
+    ],
+    "answer": "C) Bulging",
+    "explanation": "'Bulging' means protruding outward conspicuously — used figuratively here to show profits overflowing/growing rapidly. Options A (Receding) and B (Sunken) are antonyms. Option D (Concave) means hollow/curved inward — also opposite in meaning. 'Bulging profits' is a standard editorial usage tested in SBI PO reading comprehension.",
+    "type": "mcq",
+    "id": "POST_159",
+    "revision_count": 1
+  },
+  {
+    "id": "POST_28",
+    "title": "Word: Lacuna",
+    "content": "📖 Word → Lacuna\n\n🔤 Pronunciation → luh-KYOO-nuh\n\n📋 Meaning → A gap, deficiency, or missing part\n\n📋 Hindi Meaning → कमी\n\n📋 Part of Speech → Noun\n\n🔁 Synonyms → Deficiency, Omission, Hiatus, Void, Vacuum, Inadequacy, Deprivation, Scarcity, Dearth\n\n🔄 Antonyms → Sufficiency, Completeness, Fulness, Adequacy, Plenitude, Plethora, Myriad, Multitude, Barrage, Deluge\n\n📌 Forms / Idioms → Leave no stone unturned | A blind spot | Missing the boat | Crack in the foundation\n\n✅ Usage in Sentence\n▪️ The revised manual finally achieved lacuna (1) / sufficiency (2) for operational requirements.\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 04-06-2026 | #chapter: The Hindu Editorial Analysis | #topic: Lacuna",
+    "type": "news",
+    "revision_count": 3
   }
 ]
