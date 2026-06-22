@@ -50,258 +50,6 @@
     "revision_count": 5
   },
   {
-    "question": "BALTOPS 2026 is a major multinational naval exercise conducted in the Baltic Sea. Since which year has this exercise been held?",
-    "options": [
-      "A) 1949",
-      "B) 1961",
-      "C) 1971",
-      "D) 1991"
-    ],
-    "answer": "C) 1971",
-    "explanation": "BALTOPS (Baltic Operations) was started in 1971 and is led by the United States Navy. BALTOPS 2026 involved ~20 vessels, 15 countries, and ~6,000 military personnel. NATO was formed on 4 April 1949, has 32 members (32nd – Sweden), and Secretary-General is Mark Rutte. #05June2026",
-    "type": "mcq",
-    "id": "POST_148",
-    "revision_count": 1
-  },
-  {
-    "question": "What is the theme of World Environment Day 2026, observed on 5 June?",
-    "options": [
-      "A) Only One Earth",
-      "B) Ecosystem Restoration",
-      "C) Now For Climate",
-      "D) Beat Plastic Pollution"
-    ],
-    "answer": "C) Now For Climate",
-    "explanation": "World Environment Day 2026 theme is 'Now For Climate', emphasising urgent climate action as the world moves dangerously close to exceeding the 1.5°C global warming threshold. Host Country: Azerbaijan. Organised by: UNEP (United Nations Environment Programme). #05June2026",
-    "type": "mcq",
-    "id": "POST_149",
-    "revision_count": 1
-  },
-  {
-    "question": "Which infrastructure project was inaugurated by PM Narendra Modi during his visit to Daman in June 2026?",
-    "options": [
-      "A) New terminal building of NAMO Airport",
-      "B) Daman International Cruise Terminal",
-      "C) Diu Greenfield Airport",
-      "D) NAMO Convention Centre"
-    ],
-    "answer": "A) New terminal building of NAMO Airport",
-    "explanation": "PM Modi inaugurated the new terminal building of NAMO Airport in Daman and also dedicated the NAMO Hospital to the nation. Dadra & Nagar Haveli and Daman & Diu merged into a single UT on Jan 26, 2020. Capital: Daman; Administrator: Praful Khoda Patel. Other options are fictitious. #11June2026",
-    "type": "mcq",
-    "id": "POST_228",
-    "revision_count": 0
-  },
-  {
-    "question": "Dadra and Nagar Haveli and Daman and Diu were officially merged into a single Union Territory on which date?",
-    "options": [
-      "A) August 5, 2019",
-      "B) October 31, 2019",
-      "C) January 26, 2020",
-      "D) November 1, 2020"
-    ],
-    "answer": "C) January 26, 2020",
-    "explanation": "The two UTs were merged into a single Union Territory on January 26, 2020. Aug 5, 2019 relates to J&K reorganisation; Oct 31, 2019 is J&K/Ladakh UT formation day; Nov 1 is unrelated. Capital is Daman; Administrator is Praful Khoda Patel. #11June2026",
-    "type": "mcq",
-    "id": "POST_229",
-    "revision_count": 0
-  },
-  {
-    "question": "The President of India approved the merger of REC Ltd with which organisation in June 2026?",
-    "options": [
-      "A) Rural Electrification Corporation",
-      "B) Power Grid Corporation of India",
-      "C) Power Finance Corporation",
-      "D) NTPC Limited"
-    ],
-    "answer": "C) Power Finance Corporation",
-    "explanation": "The President approved the merger of REC Ltd with Power Finance Corporation (PFC). PFC acquired 52.63% govt stake in REC in March 2019 for ₹14,500 crore. PFC is a Maharatna PSU under Ministry of Power, founded July 1986, HQ New Delhi, CMD: Parminder Chopra. PGCIL and NTPC are separate entities. #11June2026",
-    "type": "mcq",
-    "id": "POST_230",
-    "revision_count": 0
-  },
-  {
-    "question": "Power Finance Corporation (PFC) was founded in which year and holds which Navratna/Maharatna status?",
-    "options": [
-      "A) 1976 — Navratna",
-      "B) 1986 — Maharatna",
-      "C) 1990 — Miniratna",
-      "D) 1982 — Maharatna"
-    ],
-    "answer": "B) 1986 — Maharatna",
-    "explanation": "PFC was founded in July 1986 and holds Maharatna status. It operates under the Ministry of Power with HQ in New Delhi. Chairman & MD is Parminder Chopra. Other year-status combinations are incorrect. #11June2026",
-    "type": "mcq",
-    "id": "POST_231",
-    "revision_count": 0
-  },
-  {
-    "question": "Which Union Territory had two new Special Economic Zones notified by the Central Government in June 2026?",
-    "options": [
-      "A) Lakshadweep",
-      "B) Andaman and Nicobar Islands",
-      "C) Puducherry",
-      "D) Dadra and Nagar Haveli"
-    ],
-    "answer": "C) Puducherry",
-    "explanation": "The Central Government notified two new SEZs in Puducherry to promote industrial development, investment, exports and employment. The Multi-Sector SEZ developer is Pondicherry Industrial Promotion Development and Investment Corporation, located at Karasur Village, Villianur Taluk. CM: N Rangasamy; Lt. Governor: Kuniyil Kailashnathan. #11June2026",
-    "type": "mcq",
-    "id": "POST_232",
-    "revision_count": 0
-  },
-  {
-    "question": "The SAPLING Dialogue 2026 was jointly organised by the Ministry of Food Processing Industries and which international body?",
-    "options": [
-      "A) Asian Development Bank",
-      "B) United Nations Development Programme",
-      "C) World Bank Group",
-      "D) International Monetary Fund"
-    ],
-    "answer": "C) World Bank Group",
-    "explanation": "SAPLING (South Asian Policy Leadership for Improved Nutrition and Growth) Dialogue 2026 was jointly organised by MoFPI and World Bank Group in Ahmedabad, Gujarat. Theme: 'Unlocking Value: Advancing Food Processing for Employment Generation and Sustainable Growth in South Asia'. Addressed by Chirag Paswan, Union Minister for Food Processing. #11June2026",
-    "type": "mcq",
-    "id": "POST_233",
-    "revision_count": 0
-  },
-  {
-    "question": "Which minister led the Indian delegation at the 114th International Labour Conference held in Geneva in 2026?",
-    "options": [
-      "A) Mansukh Mandaviya",
-      "B) Shobha Karandlaje",
-      "C) Bhupender Yadav",
-      "D) Piyush Goyal"
-    ],
-    "answer": "B) Shobha Karandlaje",
-    "explanation": "Shobha Karandlaje, Union Minister of State for Labour & Employment and MSME, led India's delegation at the 114th ILC in Geneva, Switzerland. ILO was founded on 11 April 1919, HQ Geneva; DG: Gilbert Houngbo; won Nobel Peace Prize in 1969. ILC is called the 'international parliament of labor'. #11June2026",
-    "type": "mcq",
-    "id": "POST_234",
-    "revision_count": 0
-  },
-  {
-    "question": "The International Labour Organization (ILO) was awarded the Nobel Peace Prize in which year?",
-    "options": [
-      "A) 1945",
-      "B) 1961",
-      "C) 1969",
-      "D) 1975"
-    ],
-    "answer": "C) 1969",
-    "explanation": "ILO won the Nobel Peace Prize in 1969. It was founded on 11 April 1919, HQ in Geneva, Switzerland, and is led by Director-General Gilbert Houngbo. The ILC (114th edition in 2026) is the annual supreme decision-making body of the ILO. #11June2026",
-    "type": "mcq",
-    "id": "POST_235",
-    "revision_count": 0
-  },
-  {
-    "question": "Axis Bank increased its stake in Axis Max Life Insurance to what percentage in June 2026?",
-    "options": [
-      "A) 18.50%",
-      "B) 19.02%",
-      "C) 19.99%",
-      "D) 20.50%"
-    ],
-    "answer": "C) 19.99%",
-    "explanation": "Axis Bank raised its stake in Axis Max Life Insurance to 19.99% from an earlier 19.02%, with an additional investment of up to ₹380 crore. The shareholding includes Axis Bank, Axis Securities Ltd, and Axis Capital Ltd. Axis Bank (formerly UTI Bank) was founded on 3 Dec 1993; MD & CEO: Amitabh Chaudhry; Chairperson: P N Prasad. #11June2026",
-    "type": "mcq",
-    "id": "POST_236",
-    "revision_count": 0
-  },
-  {
-    "question": "Viyona Fintech India received certification as a Biller Operating Unit (BOU) under which payment system?",
-    "options": [
-      "A) Unified Payments Interface (UPI)",
-      "B) Bharat Bill Payment System (BBPS)",
-      "C) National Electronic Funds Transfer (NEFT)",
-      "D) Immediate Payment Service (IMPS)"
-    ],
-    "answer": "B) Bharat Bill Payment System (BBPS)",
-    "explanation": "Viyona Fintech India, an NPCI-certified Technology Service Provider, received BOU certification under BBPS operated by NPCI Bharat BillPay Limited. As a certified BOU, it can onboard billers onto Bharat BillPay. UPI, NEFT, and IMPS are separate payment systems not related to BOU certification. #11June2026",
-    "type": "mcq",
-    "id": "POST_237",
-    "revision_count": 0
-  },
-  {
-    "question": "Meta and Reliance Industries partnered to develop a 168 MW AI data centre at which location in India?",
-    "options": [
-      "A) Pune, Maharashtra",
-      "B) Jamnagar, Gujarat",
-      "C) Hyderabad, Telangana",
-      "D) Chennai, Tamil Nadu"
-    ],
-    "answer": "B) Jamnagar, Gujarat",
-    "explanation": "Meta and RIL partnered to develop a 168 MW AI-enabled data centre in Jamnagar, Gujarat — India's first Built-to-Suit (BTS) Data Centre for Meta, to be completed within two years. Llama (Large Language Model Meta AI) is Meta's AI model family. BTS means built specifically for one customer. #11June2026",
-    "type": "mcq",
-    "id": "POST_238",
-    "revision_count": 0
-  },
-  {
-    "question": "Which three foreign universities received Letters of Approval to establish campuses in India in June 2026?",
-    "options": [
-      "A) Oxford, Cambridge, MIT",
-      "B) Bristol, York, UNSW",
-      "C) Harvard, Stanford, Melbourne",
-      "D) Edinburgh, Manchester, Sydney"
-    ],
-    "answer": "B) Bristol, York, UNSW",
-    "explanation": "Ministry of Education issued LoAs to University of Bristol (UK), University of York (UK), and University of New South Wales — UNSW (Australia) in the presence of Union Education Minister Dharmendra Pradhan. This aligns with NEP 2020's recommendation to allow top-ranked foreign universities to set up campuses in India. #11June2026",
-    "type": "mcq",
-    "id": "POST_239",
-    "revision_count": 0
-  },
-  {
-    "question": "Major Prabhat Mishra of the Indian Army won which two awards at the US Army Command and General Staff College (CGSC)?",
-    "options": [
-      "A) Eisenhower Award and Patton Medal",
-      "B) Birrer-Brookes Award and General Douglas MacArthur Military Leadership Writing Award",
-      "C) Leavenworth Award and Marshall Medal",
-      "D) Pentagon Excellence Award and CGSC Gold Medal"
-    ],
-    "answer": "B) Birrer-Brookes Award and General Douglas MacArthur Military Leadership Writing Award",
-    "explanation": "Major Prabhat Mishra won the Birrer-Brookes Award (for Outstanding Master of Military Arts and Science Thesis) and the General Douglas MacArthur Military Leadership Writing Award (for excellence in military leadership writing) at CGSC, Fort Leavenworth, Kansas, USA. Other options are fictitious. #11June2026",
-    "type": "mcq",
-    "id": "POST_240",
-    "revision_count": 0
-  },
-  {
-    "question": "The first test flight of the 'Made in India' Airbus C295 military transport aircraft was conducted from the Final Assembly Line at which city?",
-    "options": [
-      "A) Bengaluru",
-      "B) Hyderabad",
-      "C) Vadodara",
-      "D) Pune"
-    ],
-    "answer": "C) Vadodara",
-    "explanation": "Tata Advanced Systems Limited (TASL) and Airbus completed the first test flight of the maiden Made-in-India C295 from the Final Assembly Line in Vadodara. Deal: Sept 2021 for 56 aircraft at ₹21,935 crore; first 16 from Spain, remaining 40 made in India by TASL for the IAF. #11June2026",
-    "type": "mcq",
-    "id": "POST_241",
-    "revision_count": 0
-  },
-  {
-    "question": "The Ministry of Defence signed a ₹449 crore contract with which company for procurement of GNSS Jammers for the Indian Navy?",
-    "options": [
-      "A) Bharat Electronics Limited, Bengaluru",
-      "B) Accord Software and Systems Pvt Ltd, Bengaluru",
-      "C) DRDO, New Delhi",
-      "D) L&T Defence, Mumbai"
-    ],
-    "answer": "B) Accord Software and Systems Pvt Ltd, Bengaluru",
-    "explanation": "MoD signed a ₹449 crore contract with Accord Software and Systems Pvt Ltd, Bengaluru, for 20 Enhanced Capability GNSS (Global Navigation Satellite System) Jammers for the Indian Navy. A satellite jammer is an electronic warfare system that disrupts/blocks enemy satellite navigation signals. BEL, DRDO, and L&T are plausible but incorrect here. #11June2026",
-    "type": "mcq",
-    "id": "POST_242",
-    "revision_count": 0
-  },
-  {
-    "question": "The 2nd edition of the Archery Premier League (APL) 2026 is scheduled to be held at which venue in Hyderabad?",
-    "options": [
-      "A) Gachibowli Indoor Stadium",
-      "B) People's Plaza, Necklace Road",
-      "C) HICC Convention Centre",
-      "D) Rajiv Gandhi International Stadium"
-    ],
-    "answer": "B) People's Plaza, Necklace Road",
-    "explanation": "The 2nd APL will be held at People's Plaza, Necklace Road, Hyderabad, Telangana from 8–18 October 2026. APL debuted in Delhi in 2025. Six franchise teams: Mighty Marathas, Rajputana Royals, Prithviraaj Yodhas, Kakatiya Knights, Chero Archers, Chola Chiefs. #11June2026",
-    "type": "mcq",
-    "id": "POST_243",
-    "revision_count": 0
-  },
-  {
     "question": "Tamil film director Bharathiraja, who passed away in June 2026, was popularly known by which title?",
     "options": [
       "A) Father of Tamil New Wave Cinema",
@@ -344,13 +92,6 @@
     "revision_count": 2
   },
   {
-    "id": "POST_56",
-    "title": "BRO Celebrates 37th Raising Day of Project UDAYAK at Doomdooma, Assam",
-    "content": "🏛️ Border Infrastructure and Defence Milestones\n\n👤 Who → Border Roads Organisation (BRO)\n\n📋 What → Celebrated the 37th Raising Day of Project UDAYAK at Doomdooma in Assam\n\n📍 Where → Doomdooma, Assam\n\n🎯 Purpose → Recognising Project UDAYAK's role in developing strategic road and bridge infrastructure in eastern Arunachal Pradesh\n\n📌 Important Facts\n▪️ Project UDAYAK was originally raised on 1 June 1990 as part of BRO's restructuring\n▪️ Focus: Infrastructure development in the far-eastern region of the country\n▪️ Responsible for strategic road and bridge infrastructure in eastern Arunachal Pradesh\n\n⚠️ Exam Angle → Raising year (1990), edition (37th), location (Doomdooma, Assam), operational area (eastern Arunachal Pradesh) are precise facts for SSC and defence exam segments\n\n#02June2026",
-    "type": "news",
-    "revision_count": 3
-  },
-  {
     "question": "Blue India 2026 international conference themed 'Blue Research – Blue Innovation – Blue Future' will be hosted by which institution in Kochi?",
     "options": [
       "A) Central Marine Fisheries Research Institute (CMFRI)",
@@ -363,13 +104,6 @@
     "type": "mcq",
     "id": "POST_87",
     "revision_count": 2
-  },
-  {
-    "id": "POST_57",
-    "title": "World Milk Day Observed on June 1",
-    "content": "🏛️ International UN Observances\n\n👤 Who → Food and Agriculture Organization (FAO) of the United Nations\n\n📋 What → World Milk Day 2026 observed globally on 1 June\n\n📍 Where → Observed globally\n\n🎯 Purpose → Recognising the importance of milk as a global food and supporting the dairy sector worldwide\n\n📌 Important Facts\n▪️ World Milk Day is observed every year on 1 June\n▪️ It was established by the Food and Agriculture Organization (FAO) of the United Nations in 2001\n\n⚠️ Exam Angle → Exact date (June 1), establishment year (2001), and the UN body responsible (FAO) are standard questions in Banking and State exam current affairs sections\n\n#02June2026",
-    "type": "news",
-    "revision_count": 3
   },
   {
     "question": "Assam Rifles, which signed a dairy supply MoU with NCDFI, is headquartered in which city?",
@@ -386,13 +120,6 @@
     "revision_count": 2
   },
   {
-    "id": "POST_58",
-    "title": "Veteran Singer Suman Kalyanpur Passes Away",
-    "content": "🏛️ National Obituary\n\n👤 Who → Suman Kalyanpur (Renowned veteran Bollywood playback singer)\n\n📋 What → Passed away recently\n\n📍 Where → India\n\n🎯 Purpose → Mourning the loss of one of Bollywood's most celebrated classic playback singers\n\n📌 Important Facts\n▪️ Known for iconic songs: 'Aajkal Tere Mere Pyaar Ke Charche', 'Na Na Karke Pyaar', 'Tumne Pukara Aur Hum Chale Aaye'\n▪️ Often compared to Lata Mangeshkar for her melodious voice and style\n\n⚠️ Exam Angle → Renowned artists and their iconic associated works are standard questions under national obituary categories in current affairs exams\n\n#02June2026",
-    "type": "news",
-    "revision_count": 3
-  },
-  {
     "question": "RudraM-II, successfully flight-tested by DRDO and IAF, is classified as which type of missile?",
     "options": [
       "A) Surface-to-Air Missile",
@@ -405,13 +132,6 @@
     "type": "mcq",
     "id": "POST_89",
     "revision_count": 2
-  },
-  {
-    "id": "POST_11",
-    "title": "VD Satheesan sworn in as Kerala Chief Minister",
-    "content": "🏛️ Congress Leader Takes Oath in Kerala\n\n👤 Who → VD Satheesan\n\n📋 What → Sworn in as the 13th Chief Minister of Kerala\n\n📍 Where → Kerala, India\n\n🎯 Purpose → Formation of new government after UDF return to power\n\n📌 Important Facts\n▪️ Administered by Governor Rajendra Vishwanath Arlekar\n▪️ UDF returned to power after 10 years\n\n⚠️ Exam Angle → 13th CM of Kerala and the name of the Governor are key for state exams\n\n#19May2026",
-    "type": "news",
-    "revision_count": 4
   },
   {
     "question": "Yogesh Patel, BJP MLA who passed away, represented which Gujarat assembly constituency since 2012?",
@@ -428,13 +148,6 @@
     "revision_count": 2
   },
   {
-    "id": "POST_40",
-    "title": "Brajesh Kumar Singh Appointed as MD and CEO of Canara Bank",
-    "content": "🏛️ Public Sector Banking Leadership Change\n\n👤 Who → Brajesh Kumar Singh\n\n📋 What → Appointed as the Managing Director (MD) and CEO of Canara Bank by the Government of India\n\n📍 Where → New Delhi\n\n🎯 Purpose → Leading one of India's largest public sector banks and driving its strategic operations\n\n📌 Important Facts\n▪️ He is currently serving as the Executive Director of Indian Bank\n▪️ His tenure is till 30 April 2029 (date of superannuation)\n▪️ He succeeds K. Satyanarayana Raju\n▪️ Canara Bank is headquartered in Bengaluru, Karnataka\n\n⚠️ Exam Angle → MD & CEO appointments to PSU banks, tenure dates, and predecessor names are high-frequency questions in IBPS PO, SBI PO, and RBI Grade B exams\n\n#02June2026",
-    "type": "news",
-    "revision_count": 4
-  },
-  {
     "question": "Telangana was carved out as India's 29th state under which legislative act?",
     "options": [
       "A) States Reorganisation Act, 1956",
@@ -447,13 +160,6 @@
     "type": "mcq",
     "id": "POST_91",
     "revision_count": 2
-  },
-  {
-    "id": "POST_41",
-    "title": "Vice Admiral Vineet McCarty Takes Charge as 20th Commander-in-Chief of Andaman and Nicobar Command",
-    "content": "🏛️ Strategic Military Command Transition\n\n👤 Who → Vice Admiral Vineet McCarty\n\n📋 What → Assumed charge as the 20th Commander-in-Chief of the Andaman and Nicobar Command (ANC)\n\n📍 Where → Sri Vijaya Puram (Port Blair)\n\n🎯 Purpose → Leading India's only Integrated Theatre Command for tri-service operations in the strategically critical Andaman Sea region\n\n📌 Important Facts\n▪️ He succeeded Vice Admiral Ajay Kochhar, who took over as the Vice Chief of the Naval Staff\n▪️ Andaman and Nicobar Command (ANC) was established in 2001\n▪️ Headquarters: Sri Vijaya Puram\n▪️ It is India's first and only Integrated Theatre Command where Army, Navy, and Air Force work under one commander\n\n⚠️ Exam Angle → Ordinal position (20th), ANC establishment year (2001), HQ location, and the unique 'Integrated Theatre Command' status are all exam-ready data points\n\n#02June2026",
-    "type": "news",
-    "revision_count": 4
   },
   {
     "question": "World Bicycle Day is observed on 3 June every year. Which international day is observed on 5 June, often listed alongside June observances?",
@@ -470,13 +176,6 @@
     "revision_count": 2
   },
   {
-    "id": "POST_42",
-    "title": "Defence Secretary Rajesh Kumar Singh Gets Additional Charge as DRDO Chairman",
-    "content": "🏛️ Defence Research Leadership\n\n👤 Who → Defence Secretary Rajesh Kumar Singh\n\n📋 What → Given the additional charge of Chairman, Defence Research and Development Organisation (DRDO)\n\n📍 Where → New Delhi\n\n🎯 Purpose → Ensuring continued leadership and oversight of India's premier defence research body\n\n📌 Important Facts\n▪️ The additional charge was given as the extended tenure of incumbent DRDO Chairman Samir V Kamat ends\n▪️ DRDO is under the Ministry of Defence\n▪️ DRDO was established in 1958 and is headquartered in New Delhi\n\n⚠️ Exam Angle → DRDO's parent ministry, establishment year, HQ, and leadership transition patterns are standard questions for CDS, UPSC, and SSC exams\n\n#02June2026",
-    "type": "news",
-    "revision_count": 4
-  },
-  {
     "question": "Which opposition MP was recently nominated by President Edgars Rinkevics as the next Prime Minister of Latvia?",
     "options": [
       "A) Krisjanis Karins",
@@ -488,13 +187,6 @@
     "explanation": "Latvian President Edgars Rinkevics nominated opposition MP Andris Kulbergs from the United List party as the next Prime Minister following constitutional authority. #17May2026",
     "type": "mcq",
     "id": "POST_19",
-    "revision_count": 3
-  },
-  {
-    "id": "POST_59",
-    "title": "UN General Assembly Elects Bangladesh's Rahman as Next President",
-    "content": "🏛️ UN General Assembly Presidential Election\n\n👤 Who → Bangladesh's Rahman\n\n📋 What → Elected as the next President of the UN General Assembly (81st session)\n\n📍 Where → United Nations Headquarters, New York City, USA\n\n🎯 Purpose → To preside over the 81st session of the UNGA representing the Asia-Pacific regional group\n\n📌 Important Facts\n▪️ UNGA presidency rotates among UN's five regional groups\n▪️ 81st session falls to the Asia-Pacific group\n▪️ Rahman will serve a one-year term starting 8 September\n▪️ Annalena Baerbock was the 80th President of UNGA\n▪️ UNGA formed in 1945; HQ: New York City, USA\n▪️ UN operates through six principal organs: UNGA, UNSC, ECOSOC, Secretariat, ICJ, Trusteeship Council\n\n⚠️ Exam Angle → Regional group rotation, session number (81st), and start date (8 September) are high-yield facts for international affairs sections\n\n#03June2026",
-    "type": "news",
     "revision_count": 3
   },
   {
@@ -510,76 +202,6 @@
     "type": "mcq",
     "id": "POST_20",
     "revision_count": 3
-  },
-  {
-    "id": "POST_60",
-    "title": "Lokhande Prashant Sitaram Appointed as New CBSE Chairperson",
-    "content": "🏛️ New CBSE Chief Appointed\n\n👤 Who → Lokhande Prashant Sitaram\n\n📋 What → Appointed as new Chairperson of the Central Board of Secondary Education (CBSE)\n\n📍 Where → New Delhi\n\n🎯 Purpose → To lead India's premier school education board overseeing national curriculum and examinations\n\n📌 Important Facts\n▪️ Appointment made in place of Rahul Singh\n▪️ Varun Bhardwaj appointed as new CBSE Secretary\n▪️ CBSE Formation: 1 July 1962\n▪️ CBSE Headquarters: Delhi\n\n⚠️ Exam Angle → Name of new CBSE Chairperson, predecessor (Rahul Singh), and CBSE formation date are frequently tested in SSC/Banking exams\n\n#03June2026",
-    "type": "news",
-    "revision_count": 3
-  },
-  {
-    "id": "POST_246",
-    "title": "Sanjay Lohiya Nominated to RBI Central Board and SBI Board",
-    "content": "🏛️ Sanjay Lohiya Nominated to RBI and SBI Boards\n\n👤 Who → Sanjay Lohiya, Secretary, Department of Financial Services (DFS), Ministry of Finance\n\n📋 What → Nominated as Director on the Central Board of the Reserve Bank of India (RBI) and the State Bank of India (SBI)\n\n📍 Where → New Delhi\n\n🎯 Purpose → To fill the vacancy arising from the superannuation of Nagaraju Maddirala\n\n📌 Important Facts\n▪️ Lohiya is Secretary of the Department of Financial Services (DFS) under the Ministry of Finance\n▪️ Replaces Nagaraju Maddirala who retired\n▪️ Central Government makes such nominations to key financial institutions\n\n⚠️ Exam Angle → DFS full form, the nominating authority (Central Government), and the replaced official (Nagaraju Maddirala) are likely exam questions\n\n#12June2026",
-    "type": "news",
-    "revision_count": 0
-  },
-  {
-    "id": "POST_247",
-    "title": "Shreyanka Patil Becomes Brand Ambassador of KLF Nirmal in Karnataka",
-    "content": "🏛️ Shreyanka Patil Named Brand Ambassador of KLF Nirmal\n\n👤 Who → Shreyanka Patil, Indian woman cricketer\n\n📋 What → Appointed as Brand Ambassador of KLF Nirmal, a leading coconut hair oil brand, for Karnataka\n\n📍 Where → Karnataka\n\n🎯 Purpose → Brand promotion of KLF Nirmal coconut hair oil in Karnataka\n\n📌 Important Facts\n▪️ KLF Nirmal is a leading coconut hair oil brand\n▪️ Shreyanka Patil is currently representing India in the ICC Women's T20 World Cup 2026\n▪️ ICC Women's T20 World Cup 2026 is being held in England and Wales\n\n⚠️ Exam Angle → Brand-ambassador appointments, host country of ICC Women's T20 WC 2026 (England and Wales) are exam-relevant facts\n\n#12June2026",
-    "type": "news",
-    "revision_count": 0
-  },
-  {
-    "id": "POST_248",
-    "title": "India to Remain Fastest-Growing Major Economy in FY 2026-27: World Bank",
-    "content": "🏛️ World Bank Projects India as Fastest-Growing Major Economy\n\n👤 Who → World Bank\n\n📋 What → Released Global Economic Prospects Report projecting India as the world's fastest-growing major economy in FY 2026-27\n\n📍 Where → Global (Report published by World Bank)\n\n🎯 Purpose → To assess global economic outlook and highlight India's strong growth trajectory\n\n📌 Important Facts\n▪️ India's projected GDP growth rate: 6.6% in FY 2026-27\n▪️ Growth expected to rebound further to 7.2% in FY 2027-28\n▪️ Report: Global Economic Prospects Report by the World Bank\n\n⚠️ Exam Angle → GDP growth figures (6.6% for FY26-27, 7.2% for FY27-28), report name, and publishing body (World Bank) are highly exam-relevant\n\n#12June2026",
-    "type": "news",
-    "revision_count": 0
-  },
-  {
-    "id": "POST_249",
-    "title": "India Ranked 127th in Global Peace Index 2026",
-    "content": "🏛️ India Ranks 127th in Global Peace Index 2026\n\n👤 Who → Institute for Economics and Peace (publisher)\n\n📋 What → Released the Global Peace Index (GPI) 2026 ranking India 127th out of 163 countries\n\n📍 Where → Global\n\n🎯 Purpose → To rank nations based on their level of peacefulness across 23 indicators\n\n📌 Important Facts\n▪️ GPI 2026 is the 20th edition of the index\n▪️ Covers 163 independent states and territories (99.7% of world population)\n▪️ Three pillars: Societal Safety & Security, Ongoing Domestic & International Conflict, Militarisation\n▪️ Most peaceful country: Iceland (19th consecutive year); followed by New Zealand, Switzerland, Slovenia, Ireland\n▪️ Least peaceful: Russia (163rd); India's score: 2.409\n▪️ In South Asia: Bhutan (Rank 16) tops, India is 5th in the region\n\n⚠️ Exam Angle → India's rank (127/163), edition number (20th), top country (Iceland), publisher (IEP), and India's South Asia rank (5th) are all exam-worthy\n\n#12June2026",
-    "type": "news",
-    "revision_count": 0
-  },
-  {
-    "id": "POST_250",
-    "title": "India and Nepal Launch Cross-Border Remittance Mechanism Linking UPI and NPI",
-    "content": "🏛️ India-Nepal P2P Cross-Border Remittance Mechanism Launched\n\n👤 Who → India and Nepal; facilitated by NPCI International Payments Limited (NIPL) and Nepal Clearing House Limited (NCHL)\n\n📋 What → Launched a Peer-to-Peer (P2P) Cross-Border Remittance Mechanism linking India's UPI with Nepal's NPI\n\n📍 Where → India and Nepal\n\n🎯 Purpose → To enable real-time money transfers between the two countries\n\n📌 Important Facts\n▪️ India's UPI (Unified Payments Interface) linked with Nepal's NPI (National Payments Interface)\n▪️ NPCI International Payments Limited (NIPL) and Nepal Clearing House Limited (NCHL) completed technical integration\n▪️ P2P = Peer-to-Peer (direct individual-to-individual transfers)\n▪️ UPI is now operational in 9 countries across 9 different nations\n\n⚠️ Exam Angle → Full forms of NIPL, NCHL, UPI, NPI; what P2P means; and the bilateral nature of the mechanism are key exam points\n\n#12June2026",
-    "type": "news",
-    "revision_count": 0
-  },
-  {
-    "id": "POST_251",
-    "title": "Canada Introduces Bill to Restrict Social Media Access for Children Under 16",
-    "content": "🏛️ Canada Moves to Ban Social Media for Under-16s\n\n👤 Who → Canada (Government)\n\n📋 What → Introduced legislation that could bar children under 16 from having social media accounts unless companies prove their platforms are safe\n\n📍 Where → Canada\n\n🎯 Purpose → To protect children from potential harms of social media platforms\n\n📌 Important Facts\n▪️ Companies must prove their platforms are safe for children to continue allowing under-16 accounts\n▪️ Canada joins Australia, Brazil, and Indonesia in imposing or proposing age-based social media restrictions\n\n⚠️ Exam Angle → Age threshold (under 16), countries with similar laws (Australia, Brazil, Indonesia), and the burden-of-proof shift to companies are exam-relevant details\n\n#12June2026",
-    "type": "news",
-    "revision_count": 0
-  },
-  {
-    "id": "POST_252",
-    "title": "India to Participate in 52nd G7 Summit in France",
-    "content": "🏛️ India to Attend 52nd G7 Summit in Evian, France\n\n👤 Who → Prime Minister Narendra Modi; invited by French President Emmanuel Macron\n\n📋 What → India will participate in the 52nd G7 Summit as a Partner Country\n\n📍 Where → Evian, France\n\n🎯 Purpose → To engage with G7 nations on global economic and geopolitical issues as a partner nation\n\n📌 Important Facts\n▪️ Summit dates: 15–17 June 2026\n▪️ This is India's 13th participation in G7 as a partner nation\n▪️ This is PM Modi's 7th consecutive participation in the G7 Summit\n▪️ India is invited as a Partner Country, not a G7 member\n\n⚠️ Exam Angle → Summit edition (52nd), location (Evian, France), dates (15–17 June 2026), India's participation count (13th), and PM Modi's consecutive count (7th) are all high-value exam facts\n\n#12June2026",
-    "type": "news",
-    "revision_count": 0
-  },
-  {
-    "id": "POST_253",
-    "title": "NLC India Signs MoU with CSIR-CECRI Karaikudi for Critical Mineral Studies",
-    "content": "🏛️ NLCIL Signs MoU with CSIR-CECRI for Rare Earth Elements Research\n\n👤 Who → NLC India Limited (NLCIL) and CSIR-Central Electrochemical Research Institute (CSIR-CECRI), Karaikudi\n\n📋 What → Signed a Memorandum of Understanding (MoU) to collaborate on extraction and recovery of Rare Earth Elements (REEs) and other critical minerals\n\n📍 Where → Karaikudi, Tamil Nadu\n\n🎯 Purpose → To develop indigenous technologies for beneficiation and extraction of strategic minerals from mining waste and secondary resources\n\n📌 Important Facts\n▪️ CSIR-CECRI is located in Karaikudi, Tamil Nadu\n▪️ Focus: Rare Earth Elements (REEs) and critical minerals\n▪️ Target: Develop indigenous technologies from mining waste and secondary resources\n▪️ NLCIL = NLC India Limited (formerly Neyveli Lignite Corporation)\n\n⚠️ Exam Angle → Full form of CSIR-CECRI, its location (Karaikudi), REE full form, and NLCIL's mandate are frequently asked in competitive exams\n\n#12June2026",
-    "type": "news",
-    "revision_count": 0
-  },
-  {
-    "id": "POST_254",
-    "title": "Gujarat to Develop Space Manufacturing Hub Near Ahmedabad",
-    "content": "🏛️ Gujarat to Set Up Space Manufacturing Hub Near Ahmedabad\n\n👤 Who → Gujarat Government and IN-SPACe (Indian National Space Promotion and Authorisation Centre)\n\n📋 What → Gujarat will develop a Space Manufacturing Hub near Ahmedabad\n\n📍 Where → Near Ahmedabad, Gujarat\n\n🎯 Purpose → To build a large-scale space manufacturing park under Gujarat's SpaceTech Policy\n\n📌 Important Facts\n▪️ IN-SPACe will provide technical support and contribute up to ₹100 crore for equipment\n▪️ Gujarat government will fund construction, operations, and development of the larger park\n▪️ Project is part of Gujarat SpaceTech Policy (2025–30)\n\n⚠️ Exam Angle → IN-SPACe's role, ₹100 crore contribution, Gujarat SpaceTech Policy (2025–30), and the location (near Ahmedabad) are important exam details\n\n#12June2026",
-    "type": "news",
-    "revision_count": 0
   },
   {
     "id": "POST_255",
@@ -3674,5 +3296,383 @@
     "content": "🏛️ Strategic Defence Procurement\n\n👤 Who → Government of India\n\n📋 What → Formally issued a Letter of Request (LoR) to France for the procurement of 114 Rafale fighter aircraft\n\n📍 Where → New Delhi\n\n🎯 Purpose → Modernising the Indian Air Force's combat fleet through a government-to-government (G2G) deal\n\n📌 Important Facts\n▪️ The deal is estimated at around ₹3.25 lakh crore\n▪️ Rafale is a 4.5 Generation Multi-Role Fighter Aircraft\n▪️ Developed and manufactured by Dassault Aviation, France\n▪️ India had earlier procured 36 Rafale jets under the previous agreement with France\n\n⚠️ Exam Angle → Quantity (114 jets), deal value (₹3.25 lakh crore), generation (4.5), manufacturer (Dassault Aviation), and procurement type (G2G/LoR) are all favourite questions in defence current affairs\n\n#02June2026",
     "type": "news",
     "revision_count": 4
+  },
+  {
+    "question": "BALTOPS 2026 is a major multinational naval exercise conducted in the Baltic Sea. Since which year has this exercise been held?",
+    "options": [
+      "A) 1949",
+      "B) 1961",
+      "C) 1971",
+      "D) 1991"
+    ],
+    "answer": "C) 1971",
+    "explanation": "BALTOPS (Baltic Operations) was started in 1971 and is led by the United States Navy. BALTOPS 2026 involved ~20 vessels, 15 countries, and ~6,000 military personnel. NATO was formed on 4 April 1949, has 32 members (32nd – Sweden), and Secretary-General is Mark Rutte. #05June2026",
+    "type": "mcq",
+    "id": "POST_148",
+    "revision_count": 2
+  },
+  {
+    "id": "POST_56",
+    "title": "BRO Celebrates 37th Raising Day of Project UDAYAK at Doomdooma, Assam",
+    "content": "🏛️ Border Infrastructure and Defence Milestones\n\n👤 Who → Border Roads Organisation (BRO)\n\n📋 What → Celebrated the 37th Raising Day of Project UDAYAK at Doomdooma in Assam\n\n📍 Where → Doomdooma, Assam\n\n🎯 Purpose → Recognising Project UDAYAK's role in developing strategic road and bridge infrastructure in eastern Arunachal Pradesh\n\n📌 Important Facts\n▪️ Project UDAYAK was originally raised on 1 June 1990 as part of BRO's restructuring\n▪️ Focus: Infrastructure development in the far-eastern region of the country\n▪️ Responsible for strategic road and bridge infrastructure in eastern Arunachal Pradesh\n\n⚠️ Exam Angle → Raising year (1990), edition (37th), location (Doomdooma, Assam), operational area (eastern Arunachal Pradesh) are precise facts for SSC and defence exam segments\n\n#02June2026",
+    "type": "news",
+    "revision_count": 4
+  },
+  {
+    "question": "What is the theme of World Environment Day 2026, observed on 5 June?",
+    "options": [
+      "A) Only One Earth",
+      "B) Ecosystem Restoration",
+      "C) Now For Climate",
+      "D) Beat Plastic Pollution"
+    ],
+    "answer": "C) Now For Climate",
+    "explanation": "World Environment Day 2026 theme is 'Now For Climate', emphasising urgent climate action as the world moves dangerously close to exceeding the 1.5°C global warming threshold. Host Country: Azerbaijan. Organised by: UNEP (United Nations Environment Programme). #05June2026",
+    "type": "mcq",
+    "id": "POST_149",
+    "revision_count": 2
+  },
+  {
+    "id": "POST_57",
+    "title": "World Milk Day Observed on June 1",
+    "content": "🏛️ International UN Observances\n\n👤 Who → Food and Agriculture Organization (FAO) of the United Nations\n\n📋 What → World Milk Day 2026 observed globally on 1 June\n\n📍 Where → Observed globally\n\n🎯 Purpose → Recognising the importance of milk as a global food and supporting the dairy sector worldwide\n\n📌 Important Facts\n▪️ World Milk Day is observed every year on 1 June\n▪️ It was established by the Food and Agriculture Organization (FAO) of the United Nations in 2001\n\n⚠️ Exam Angle → Exact date (June 1), establishment year (2001), and the UN body responsible (FAO) are standard questions in Banking and State exam current affairs sections\n\n#02June2026",
+    "type": "news",
+    "revision_count": 4
+  },
+  {
+    "question": "Which infrastructure project was inaugurated by PM Narendra Modi during his visit to Daman in June 2026?",
+    "options": [
+      "A) New terminal building of NAMO Airport",
+      "B) Daman International Cruise Terminal",
+      "C) Diu Greenfield Airport",
+      "D) NAMO Convention Centre"
+    ],
+    "answer": "A) New terminal building of NAMO Airport",
+    "explanation": "PM Modi inaugurated the new terminal building of NAMO Airport in Daman and also dedicated the NAMO Hospital to the nation. Dadra & Nagar Haveli and Daman & Diu merged into a single UT on Jan 26, 2020. Capital: Daman; Administrator: Praful Khoda Patel. Other options are fictitious. #11June2026",
+    "type": "mcq",
+    "id": "POST_228",
+    "revision_count": 1
+  },
+  {
+    "id": "POST_58",
+    "title": "Veteran Singer Suman Kalyanpur Passes Away",
+    "content": "🏛️ National Obituary\n\n👤 Who → Suman Kalyanpur (Renowned veteran Bollywood playback singer)\n\n📋 What → Passed away recently\n\n📍 Where → India\n\n🎯 Purpose → Mourning the loss of one of Bollywood's most celebrated classic playback singers\n\n📌 Important Facts\n▪️ Known for iconic songs: 'Aajkal Tere Mere Pyaar Ke Charche', 'Na Na Karke Pyaar', 'Tumne Pukara Aur Hum Chale Aaye'\n▪️ Often compared to Lata Mangeshkar for her melodious voice and style\n\n⚠️ Exam Angle → Renowned artists and their iconic associated works are standard questions under national obituary categories in current affairs exams\n\n#02June2026",
+    "type": "news",
+    "revision_count": 4
+  },
+  {
+    "question": "Dadra and Nagar Haveli and Daman and Diu were officially merged into a single Union Territory on which date?",
+    "options": [
+      "A) August 5, 2019",
+      "B) October 31, 2019",
+      "C) January 26, 2020",
+      "D) November 1, 2020"
+    ],
+    "answer": "C) January 26, 2020",
+    "explanation": "The two UTs were merged into a single Union Territory on January 26, 2020. Aug 5, 2019 relates to J&K reorganisation; Oct 31, 2019 is J&K/Ladakh UT formation day; Nov 1 is unrelated. Capital is Daman; Administrator is Praful Khoda Patel. #11June2026",
+    "type": "mcq",
+    "id": "POST_229",
+    "revision_count": 1
+  },
+  {
+    "id": "POST_11",
+    "title": "VD Satheesan sworn in as Kerala Chief Minister",
+    "content": "🏛️ Congress Leader Takes Oath in Kerala\n\n👤 Who → VD Satheesan\n\n📋 What → Sworn in as the 13th Chief Minister of Kerala\n\n📍 Where → Kerala, India\n\n🎯 Purpose → Formation of new government after UDF return to power\n\n📌 Important Facts\n▪️ Administered by Governor Rajendra Vishwanath Arlekar\n▪️ UDF returned to power after 10 years\n\n⚠️ Exam Angle → 13th CM of Kerala and the name of the Governor are key for state exams\n\n#19May2026",
+    "type": "news",
+    "revision_count": 5
+  },
+  {
+    "question": "The President of India approved the merger of REC Ltd with which organisation in June 2026?",
+    "options": [
+      "A) Rural Electrification Corporation",
+      "B) Power Grid Corporation of India",
+      "C) Power Finance Corporation",
+      "D) NTPC Limited"
+    ],
+    "answer": "C) Power Finance Corporation",
+    "explanation": "The President approved the merger of REC Ltd with Power Finance Corporation (PFC). PFC acquired 52.63% govt stake in REC in March 2019 for ₹14,500 crore. PFC is a Maharatna PSU under Ministry of Power, founded July 1986, HQ New Delhi, CMD: Parminder Chopra. PGCIL and NTPC are separate entities. #11June2026",
+    "type": "mcq",
+    "id": "POST_230",
+    "revision_count": 1
+  },
+  {
+    "id": "POST_40",
+    "title": "Brajesh Kumar Singh Appointed as MD and CEO of Canara Bank",
+    "content": "🏛️ Public Sector Banking Leadership Change\n\n👤 Who → Brajesh Kumar Singh\n\n📋 What → Appointed as the Managing Director (MD) and CEO of Canara Bank by the Government of India\n\n📍 Where → New Delhi\n\n🎯 Purpose → Leading one of India's largest public sector banks and driving its strategic operations\n\n📌 Important Facts\n▪️ He is currently serving as the Executive Director of Indian Bank\n▪️ His tenure is till 30 April 2029 (date of superannuation)\n▪️ He succeeds K. Satyanarayana Raju\n▪️ Canara Bank is headquartered in Bengaluru, Karnataka\n\n⚠️ Exam Angle → MD & CEO appointments to PSU banks, tenure dates, and predecessor names are high-frequency questions in IBPS PO, SBI PO, and RBI Grade B exams\n\n#02June2026",
+    "type": "news",
+    "revision_count": 5
+  },
+  {
+    "question": "Power Finance Corporation (PFC) was founded in which year and holds which Navratna/Maharatna status?",
+    "options": [
+      "A) 1976 — Navratna",
+      "B) 1986 — Maharatna",
+      "C) 1990 — Miniratna",
+      "D) 1982 — Maharatna"
+    ],
+    "answer": "B) 1986 — Maharatna",
+    "explanation": "PFC was founded in July 1986 and holds Maharatna status. It operates under the Ministry of Power with HQ in New Delhi. Chairman & MD is Parminder Chopra. Other year-status combinations are incorrect. #11June2026",
+    "type": "mcq",
+    "id": "POST_231",
+    "revision_count": 1
+  },
+  {
+    "id": "POST_41",
+    "title": "Vice Admiral Vineet McCarty Takes Charge as 20th Commander-in-Chief of Andaman and Nicobar Command",
+    "content": "🏛️ Strategic Military Command Transition\n\n👤 Who → Vice Admiral Vineet McCarty\n\n📋 What → Assumed charge as the 20th Commander-in-Chief of the Andaman and Nicobar Command (ANC)\n\n📍 Where → Sri Vijaya Puram (Port Blair)\n\n🎯 Purpose → Leading India's only Integrated Theatre Command for tri-service operations in the strategically critical Andaman Sea region\n\n📌 Important Facts\n▪️ He succeeded Vice Admiral Ajay Kochhar, who took over as the Vice Chief of the Naval Staff\n▪️ Andaman and Nicobar Command (ANC) was established in 2001\n▪️ Headquarters: Sri Vijaya Puram\n▪️ It is India's first and only Integrated Theatre Command where Army, Navy, and Air Force work under one commander\n\n⚠️ Exam Angle → Ordinal position (20th), ANC establishment year (2001), HQ location, and the unique 'Integrated Theatre Command' status are all exam-ready data points\n\n#02June2026",
+    "type": "news",
+    "revision_count": 5
+  },
+  {
+    "question": "Which Union Territory had two new Special Economic Zones notified by the Central Government in June 2026?",
+    "options": [
+      "A) Lakshadweep",
+      "B) Andaman and Nicobar Islands",
+      "C) Puducherry",
+      "D) Dadra and Nagar Haveli"
+    ],
+    "answer": "C) Puducherry",
+    "explanation": "The Central Government notified two new SEZs in Puducherry to promote industrial development, investment, exports and employment. The Multi-Sector SEZ developer is Pondicherry Industrial Promotion Development and Investment Corporation, located at Karasur Village, Villianur Taluk. CM: N Rangasamy; Lt. Governor: Kuniyil Kailashnathan. #11June2026",
+    "type": "mcq",
+    "id": "POST_232",
+    "revision_count": 1
+  },
+  {
+    "id": "POST_42",
+    "title": "Defence Secretary Rajesh Kumar Singh Gets Additional Charge as DRDO Chairman",
+    "content": "🏛️ Defence Research Leadership\n\n👤 Who → Defence Secretary Rajesh Kumar Singh\n\n📋 What → Given the additional charge of Chairman, Defence Research and Development Organisation (DRDO)\n\n📍 Where → New Delhi\n\n🎯 Purpose → Ensuring continued leadership and oversight of India's premier defence research body\n\n📌 Important Facts\n▪️ The additional charge was given as the extended tenure of incumbent DRDO Chairman Samir V Kamat ends\n▪️ DRDO is under the Ministry of Defence\n▪️ DRDO was established in 1958 and is headquartered in New Delhi\n\n⚠️ Exam Angle → DRDO's parent ministry, establishment year, HQ, and leadership transition patterns are standard questions for CDS, UPSC, and SSC exams\n\n#02June2026",
+    "type": "news",
+    "revision_count": 5
+  },
+  {
+    "question": "The SAPLING Dialogue 2026 was jointly organised by the Ministry of Food Processing Industries and which international body?",
+    "options": [
+      "A) Asian Development Bank",
+      "B) United Nations Development Programme",
+      "C) World Bank Group",
+      "D) International Monetary Fund"
+    ],
+    "answer": "C) World Bank Group",
+    "explanation": "SAPLING (South Asian Policy Leadership for Improved Nutrition and Growth) Dialogue 2026 was jointly organised by MoFPI and World Bank Group in Ahmedabad, Gujarat. Theme: 'Unlocking Value: Advancing Food Processing for Employment Generation and Sustainable Growth in South Asia'. Addressed by Chirag Paswan, Union Minister for Food Processing. #11June2026",
+    "type": "mcq",
+    "id": "POST_233",
+    "revision_count": 1
+  },
+  {
+    "id": "POST_59",
+    "title": "UN General Assembly Elects Bangladesh's Rahman as Next President",
+    "content": "🏛️ UN General Assembly Presidential Election\n\n👤 Who → Bangladesh's Rahman\n\n📋 What → Elected as the next President of the UN General Assembly (81st session)\n\n📍 Where → United Nations Headquarters, New York City, USA\n\n🎯 Purpose → To preside over the 81st session of the UNGA representing the Asia-Pacific regional group\n\n📌 Important Facts\n▪️ UNGA presidency rotates among UN's five regional groups\n▪️ 81st session falls to the Asia-Pacific group\n▪️ Rahman will serve a one-year term starting 8 September\n▪️ Annalena Baerbock was the 80th President of UNGA\n▪️ UNGA formed in 1945; HQ: New York City, USA\n▪️ UN operates through six principal organs: UNGA, UNSC, ECOSOC, Secretariat, ICJ, Trusteeship Council\n\n⚠️ Exam Angle → Regional group rotation, session number (81st), and start date (8 September) are high-yield facts for international affairs sections\n\n#03June2026",
+    "type": "news",
+    "revision_count": 4
+  },
+  {
+    "question": "Which minister led the Indian delegation at the 114th International Labour Conference held in Geneva in 2026?",
+    "options": [
+      "A) Mansukh Mandaviya",
+      "B) Shobha Karandlaje",
+      "C) Bhupender Yadav",
+      "D) Piyush Goyal"
+    ],
+    "answer": "B) Shobha Karandlaje",
+    "explanation": "Shobha Karandlaje, Union Minister of State for Labour & Employment and MSME, led India's delegation at the 114th ILC in Geneva, Switzerland. ILO was founded on 11 April 1919, HQ Geneva; DG: Gilbert Houngbo; won Nobel Peace Prize in 1969. ILC is called the 'international parliament of labor'. #11June2026",
+    "type": "mcq",
+    "id": "POST_234",
+    "revision_count": 1
+  },
+  {
+    "id": "POST_60",
+    "title": "Lokhande Prashant Sitaram Appointed as New CBSE Chairperson",
+    "content": "🏛️ New CBSE Chief Appointed\n\n👤 Who → Lokhande Prashant Sitaram\n\n📋 What → Appointed as new Chairperson of the Central Board of Secondary Education (CBSE)\n\n📍 Where → New Delhi\n\n🎯 Purpose → To lead India's premier school education board overseeing national curriculum and examinations\n\n📌 Important Facts\n▪️ Appointment made in place of Rahul Singh\n▪️ Varun Bhardwaj appointed as new CBSE Secretary\n▪️ CBSE Formation: 1 July 1962\n▪️ CBSE Headquarters: Delhi\n\n⚠️ Exam Angle → Name of new CBSE Chairperson, predecessor (Rahul Singh), and CBSE formation date are frequently tested in SSC/Banking exams\n\n#03June2026",
+    "type": "news",
+    "revision_count": 4
+  },
+  {
+    "question": "The International Labour Organization (ILO) was awarded the Nobel Peace Prize in which year?",
+    "options": [
+      "A) 1945",
+      "B) 1961",
+      "C) 1969",
+      "D) 1975"
+    ],
+    "answer": "C) 1969",
+    "explanation": "ILO won the Nobel Peace Prize in 1969. It was founded on 11 April 1919, HQ in Geneva, Switzerland, and is led by Director-General Gilbert Houngbo. The ILC (114th edition in 2026) is the annual supreme decision-making body of the ILO. #11June2026",
+    "type": "mcq",
+    "id": "POST_235",
+    "revision_count": 1
+  },
+  {
+    "id": "POST_246",
+    "title": "Sanjay Lohiya Nominated to RBI Central Board and SBI Board",
+    "content": "🏛️ Sanjay Lohiya Nominated to RBI and SBI Boards\n\n👤 Who → Sanjay Lohiya, Secretary, Department of Financial Services (DFS), Ministry of Finance\n\n📋 What → Nominated as Director on the Central Board of the Reserve Bank of India (RBI) and the State Bank of India (SBI)\n\n📍 Where → New Delhi\n\n🎯 Purpose → To fill the vacancy arising from the superannuation of Nagaraju Maddirala\n\n📌 Important Facts\n▪️ Lohiya is Secretary of the Department of Financial Services (DFS) under the Ministry of Finance\n▪️ Replaces Nagaraju Maddirala who retired\n▪️ Central Government makes such nominations to key financial institutions\n\n⚠️ Exam Angle → DFS full form, the nominating authority (Central Government), and the replaced official (Nagaraju Maddirala) are likely exam questions\n\n#12June2026",
+    "type": "news",
+    "revision_count": 1
+  },
+  {
+    "question": "Axis Bank increased its stake in Axis Max Life Insurance to what percentage in June 2026?",
+    "options": [
+      "A) 18.50%",
+      "B) 19.02%",
+      "C) 19.99%",
+      "D) 20.50%"
+    ],
+    "answer": "C) 19.99%",
+    "explanation": "Axis Bank raised its stake in Axis Max Life Insurance to 19.99% from an earlier 19.02%, with an additional investment of up to ₹380 crore. The shareholding includes Axis Bank, Axis Securities Ltd, and Axis Capital Ltd. Axis Bank (formerly UTI Bank) was founded on 3 Dec 1993; MD & CEO: Amitabh Chaudhry; Chairperson: P N Prasad. #11June2026",
+    "type": "mcq",
+    "id": "POST_236",
+    "revision_count": 1
+  },
+  {
+    "id": "POST_247",
+    "title": "Shreyanka Patil Becomes Brand Ambassador of KLF Nirmal in Karnataka",
+    "content": "🏛️ Shreyanka Patil Named Brand Ambassador of KLF Nirmal\n\n👤 Who → Shreyanka Patil, Indian woman cricketer\n\n📋 What → Appointed as Brand Ambassador of KLF Nirmal, a leading coconut hair oil brand, for Karnataka\n\n📍 Where → Karnataka\n\n🎯 Purpose → Brand promotion of KLF Nirmal coconut hair oil in Karnataka\n\n📌 Important Facts\n▪️ KLF Nirmal is a leading coconut hair oil brand\n▪️ Shreyanka Patil is currently representing India in the ICC Women's T20 World Cup 2026\n▪️ ICC Women's T20 World Cup 2026 is being held in England and Wales\n\n⚠️ Exam Angle → Brand-ambassador appointments, host country of ICC Women's T20 WC 2026 (England and Wales) are exam-relevant facts\n\n#12June2026",
+    "type": "news",
+    "revision_count": 1
+  },
+  {
+    "question": "Viyona Fintech India received certification as a Biller Operating Unit (BOU) under which payment system?",
+    "options": [
+      "A) Unified Payments Interface (UPI)",
+      "B) Bharat Bill Payment System (BBPS)",
+      "C) National Electronic Funds Transfer (NEFT)",
+      "D) Immediate Payment Service (IMPS)"
+    ],
+    "answer": "B) Bharat Bill Payment System (BBPS)",
+    "explanation": "Viyona Fintech India, an NPCI-certified Technology Service Provider, received BOU certification under BBPS operated by NPCI Bharat BillPay Limited. As a certified BOU, it can onboard billers onto Bharat BillPay. UPI, NEFT, and IMPS are separate payment systems not related to BOU certification. #11June2026",
+    "type": "mcq",
+    "id": "POST_237",
+    "revision_count": 1
+  },
+  {
+    "id": "POST_248",
+    "title": "India to Remain Fastest-Growing Major Economy in FY 2026-27: World Bank",
+    "content": "🏛️ World Bank Projects India as Fastest-Growing Major Economy\n\n👤 Who → World Bank\n\n📋 What → Released Global Economic Prospects Report projecting India as the world's fastest-growing major economy in FY 2026-27\n\n📍 Where → Global (Report published by World Bank)\n\n🎯 Purpose → To assess global economic outlook and highlight India's strong growth trajectory\n\n📌 Important Facts\n▪️ India's projected GDP growth rate: 6.6% in FY 2026-27\n▪️ Growth expected to rebound further to 7.2% in FY 2027-28\n▪️ Report: Global Economic Prospects Report by the World Bank\n\n⚠️ Exam Angle → GDP growth figures (6.6% for FY26-27, 7.2% for FY27-28), report name, and publishing body (World Bank) are highly exam-relevant\n\n#12June2026",
+    "type": "news",
+    "revision_count": 1
+  },
+  {
+    "question": "Meta and Reliance Industries partnered to develop a 168 MW AI data centre at which location in India?",
+    "options": [
+      "A) Pune, Maharashtra",
+      "B) Jamnagar, Gujarat",
+      "C) Hyderabad, Telangana",
+      "D) Chennai, Tamil Nadu"
+    ],
+    "answer": "B) Jamnagar, Gujarat",
+    "explanation": "Meta and RIL partnered to develop a 168 MW AI-enabled data centre in Jamnagar, Gujarat — India's first Built-to-Suit (BTS) Data Centre for Meta, to be completed within two years. Llama (Large Language Model Meta AI) is Meta's AI model family. BTS means built specifically for one customer. #11June2026",
+    "type": "mcq",
+    "id": "POST_238",
+    "revision_count": 1
+  },
+  {
+    "id": "POST_249",
+    "title": "India Ranked 127th in Global Peace Index 2026",
+    "content": "🏛️ India Ranks 127th in Global Peace Index 2026\n\n👤 Who → Institute for Economics and Peace (publisher)\n\n📋 What → Released the Global Peace Index (GPI) 2026 ranking India 127th out of 163 countries\n\n📍 Where → Global\n\n🎯 Purpose → To rank nations based on their level of peacefulness across 23 indicators\n\n📌 Important Facts\n▪️ GPI 2026 is the 20th edition of the index\n▪️ Covers 163 independent states and territories (99.7% of world population)\n▪️ Three pillars: Societal Safety & Security, Ongoing Domestic & International Conflict, Militarisation\n▪️ Most peaceful country: Iceland (19th consecutive year); followed by New Zealand, Switzerland, Slovenia, Ireland\n▪️ Least peaceful: Russia (163rd); India's score: 2.409\n▪️ In South Asia: Bhutan (Rank 16) tops, India is 5th in the region\n\n⚠️ Exam Angle → India's rank (127/163), edition number (20th), top country (Iceland), publisher (IEP), and India's South Asia rank (5th) are all exam-worthy\n\n#12June2026",
+    "type": "news",
+    "revision_count": 1
+  },
+  {
+    "question": "Which three foreign universities received Letters of Approval to establish campuses in India in June 2026?",
+    "options": [
+      "A) Oxford, Cambridge, MIT",
+      "B) Bristol, York, UNSW",
+      "C) Harvard, Stanford, Melbourne",
+      "D) Edinburgh, Manchester, Sydney"
+    ],
+    "answer": "B) Bristol, York, UNSW",
+    "explanation": "Ministry of Education issued LoAs to University of Bristol (UK), University of York (UK), and University of New South Wales — UNSW (Australia) in the presence of Union Education Minister Dharmendra Pradhan. This aligns with NEP 2020's recommendation to allow top-ranked foreign universities to set up campuses in India. #11June2026",
+    "type": "mcq",
+    "id": "POST_239",
+    "revision_count": 1
+  },
+  {
+    "id": "POST_250",
+    "title": "India and Nepal Launch Cross-Border Remittance Mechanism Linking UPI and NPI",
+    "content": "🏛️ India-Nepal P2P Cross-Border Remittance Mechanism Launched\n\n👤 Who → India and Nepal; facilitated by NPCI International Payments Limited (NIPL) and Nepal Clearing House Limited (NCHL)\n\n📋 What → Launched a Peer-to-Peer (P2P) Cross-Border Remittance Mechanism linking India's UPI with Nepal's NPI\n\n📍 Where → India and Nepal\n\n🎯 Purpose → To enable real-time money transfers between the two countries\n\n📌 Important Facts\n▪️ India's UPI (Unified Payments Interface) linked with Nepal's NPI (National Payments Interface)\n▪️ NPCI International Payments Limited (NIPL) and Nepal Clearing House Limited (NCHL) completed technical integration\n▪️ P2P = Peer-to-Peer (direct individual-to-individual transfers)\n▪️ UPI is now operational in 9 countries across 9 different nations\n\n⚠️ Exam Angle → Full forms of NIPL, NCHL, UPI, NPI; what P2P means; and the bilateral nature of the mechanism are key exam points\n\n#12June2026",
+    "type": "news",
+    "revision_count": 1
+  },
+  {
+    "question": "Major Prabhat Mishra of the Indian Army won which two awards at the US Army Command and General Staff College (CGSC)?",
+    "options": [
+      "A) Eisenhower Award and Patton Medal",
+      "B) Birrer-Brookes Award and General Douglas MacArthur Military Leadership Writing Award",
+      "C) Leavenworth Award and Marshall Medal",
+      "D) Pentagon Excellence Award and CGSC Gold Medal"
+    ],
+    "answer": "B) Birrer-Brookes Award and General Douglas MacArthur Military Leadership Writing Award",
+    "explanation": "Major Prabhat Mishra won the Birrer-Brookes Award (for Outstanding Master of Military Arts and Science Thesis) and the General Douglas MacArthur Military Leadership Writing Award (for excellence in military leadership writing) at CGSC, Fort Leavenworth, Kansas, USA. Other options are fictitious. #11June2026",
+    "type": "mcq",
+    "id": "POST_240",
+    "revision_count": 1
+  },
+  {
+    "id": "POST_251",
+    "title": "Canada Introduces Bill to Restrict Social Media Access for Children Under 16",
+    "content": "🏛️ Canada Moves to Ban Social Media for Under-16s\n\n👤 Who → Canada (Government)\n\n📋 What → Introduced legislation that could bar children under 16 from having social media accounts unless companies prove their platforms are safe\n\n📍 Where → Canada\n\n🎯 Purpose → To protect children from potential harms of social media platforms\n\n📌 Important Facts\n▪️ Companies must prove their platforms are safe for children to continue allowing under-16 accounts\n▪️ Canada joins Australia, Brazil, and Indonesia in imposing or proposing age-based social media restrictions\n\n⚠️ Exam Angle → Age threshold (under 16), countries with similar laws (Australia, Brazil, Indonesia), and the burden-of-proof shift to companies are exam-relevant details\n\n#12June2026",
+    "type": "news",
+    "revision_count": 1
+  },
+  {
+    "question": "The first test flight of the 'Made in India' Airbus C295 military transport aircraft was conducted from the Final Assembly Line at which city?",
+    "options": [
+      "A) Bengaluru",
+      "B) Hyderabad",
+      "C) Vadodara",
+      "D) Pune"
+    ],
+    "answer": "C) Vadodara",
+    "explanation": "Tata Advanced Systems Limited (TASL) and Airbus completed the first test flight of the maiden Made-in-India C295 from the Final Assembly Line in Vadodara. Deal: Sept 2021 for 56 aircraft at ₹21,935 crore; first 16 from Spain, remaining 40 made in India by TASL for the IAF. #11June2026",
+    "type": "mcq",
+    "id": "POST_241",
+    "revision_count": 1
+  },
+  {
+    "id": "POST_252",
+    "title": "India to Participate in 52nd G7 Summit in France",
+    "content": "🏛️ India to Attend 52nd G7 Summit in Evian, France\n\n👤 Who → Prime Minister Narendra Modi; invited by French President Emmanuel Macron\n\n📋 What → India will participate in the 52nd G7 Summit as a Partner Country\n\n📍 Where → Evian, France\n\n🎯 Purpose → To engage with G7 nations on global economic and geopolitical issues as a partner nation\n\n📌 Important Facts\n▪️ Summit dates: 15–17 June 2026\n▪️ This is India's 13th participation in G7 as a partner nation\n▪️ This is PM Modi's 7th consecutive participation in the G7 Summit\n▪️ India is invited as a Partner Country, not a G7 member\n\n⚠️ Exam Angle → Summit edition (52nd), location (Evian, France), dates (15–17 June 2026), India's participation count (13th), and PM Modi's consecutive count (7th) are all high-value exam facts\n\n#12June2026",
+    "type": "news",
+    "revision_count": 1
+  },
+  {
+    "question": "The Ministry of Defence signed a ₹449 crore contract with which company for procurement of GNSS Jammers for the Indian Navy?",
+    "options": [
+      "A) Bharat Electronics Limited, Bengaluru",
+      "B) Accord Software and Systems Pvt Ltd, Bengaluru",
+      "C) DRDO, New Delhi",
+      "D) L&T Defence, Mumbai"
+    ],
+    "answer": "B) Accord Software and Systems Pvt Ltd, Bengaluru",
+    "explanation": "MoD signed a ₹449 crore contract with Accord Software and Systems Pvt Ltd, Bengaluru, for 20 Enhanced Capability GNSS (Global Navigation Satellite System) Jammers for the Indian Navy. A satellite jammer is an electronic warfare system that disrupts/blocks enemy satellite navigation signals. BEL, DRDO, and L&T are plausible but incorrect here. #11June2026",
+    "type": "mcq",
+    "id": "POST_242",
+    "revision_count": 1
+  },
+  {
+    "id": "POST_253",
+    "title": "NLC India Signs MoU with CSIR-CECRI Karaikudi for Critical Mineral Studies",
+    "content": "🏛️ NLCIL Signs MoU with CSIR-CECRI for Rare Earth Elements Research\n\n👤 Who → NLC India Limited (NLCIL) and CSIR-Central Electrochemical Research Institute (CSIR-CECRI), Karaikudi\n\n📋 What → Signed a Memorandum of Understanding (MoU) to collaborate on extraction and recovery of Rare Earth Elements (REEs) and other critical minerals\n\n📍 Where → Karaikudi, Tamil Nadu\n\n🎯 Purpose → To develop indigenous technologies for beneficiation and extraction of strategic minerals from mining waste and secondary resources\n\n📌 Important Facts\n▪️ CSIR-CECRI is located in Karaikudi, Tamil Nadu\n▪️ Focus: Rare Earth Elements (REEs) and critical minerals\n▪️ Target: Develop indigenous technologies from mining waste and secondary resources\n▪️ NLCIL = NLC India Limited (formerly Neyveli Lignite Corporation)\n\n⚠️ Exam Angle → Full form of CSIR-CECRI, its location (Karaikudi), REE full form, and NLCIL's mandate are frequently asked in competitive exams\n\n#12June2026",
+    "type": "news",
+    "revision_count": 1
+  },
+  {
+    "question": "The 2nd edition of the Archery Premier League (APL) 2026 is scheduled to be held at which venue in Hyderabad?",
+    "options": [
+      "A) Gachibowli Indoor Stadium",
+      "B) People's Plaza, Necklace Road",
+      "C) HICC Convention Centre",
+      "D) Rajiv Gandhi International Stadium"
+    ],
+    "answer": "B) People's Plaza, Necklace Road",
+    "explanation": "The 2nd APL will be held at People's Plaza, Necklace Road, Hyderabad, Telangana from 8–18 October 2026. APL debuted in Delhi in 2025. Six franchise teams: Mighty Marathas, Rajputana Royals, Prithviraaj Yodhas, Kakatiya Knights, Chero Archers, Chola Chiefs. #11June2026",
+    "type": "mcq",
+    "id": "POST_243",
+    "revision_count": 1
+  },
+  {
+    "id": "POST_254",
+    "title": "Gujarat to Develop Space Manufacturing Hub Near Ahmedabad",
+    "content": "🏛️ Gujarat to Set Up Space Manufacturing Hub Near Ahmedabad\n\n👤 Who → Gujarat Government and IN-SPACe (Indian National Space Promotion and Authorisation Centre)\n\n📋 What → Gujarat will develop a Space Manufacturing Hub near Ahmedabad\n\n📍 Where → Near Ahmedabad, Gujarat\n\n🎯 Purpose → To build a large-scale space manufacturing park under Gujarat's SpaceTech Policy\n\n📌 Important Facts\n▪️ IN-SPACe will provide technical support and contribute up to ₹100 crore for equipment\n▪️ Gujarat government will fund construction, operations, and development of the larger park\n▪️ Project is part of Gujarat SpaceTech Policy (2025–30)\n\n⚠️ Exam Angle → IN-SPACe's role, ₹100 crore contribution, Gujarat SpaceTech Policy (2025–30), and the location (near Ahmedabad) are important exam details\n\n#12June2026",
+    "type": "news",
+    "revision_count": 1
   }
 ]
