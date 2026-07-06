@@ -1,257 +1,5 @@
 [
   {
-    "question": "Which of the following sentences has CORRECT demonstrative-noun agreement?",
-    "options": [
-      "A) This complex questions are difficult to solve.",
-      "B) These complex question is difficult to solve.",
-      "C) These complex questions are difficult to solve.",
-      "D) This complex questions is difficult to solve."
-    ],
-    "answer": "C) These complex questions are difficult to solve.",
-    "explanation": "'Questions' is plural, so the demonstrative must be 'These' (plural), and the verb must be 'are'. Options A and D use 'This' (singular) with the plural noun 'questions' — incorrect agreement. Option B uses 'These' correctly but pairs it with singular 'question' — this changes the noun's identity, which violates the meaning-preservation rule. The adjective 'complex' does not affect the agreement; only the noun does.",
-    "type": "mcq",
-    "id": "POST_181",
-    "revision_count": 2
-  },
-  {
-    "question": "A student wants to correct the sentence: 'This difficult problems need attention.' What is the best correction according to the meaning-preservation rule?",
-    "options": [
-      "A) This difficult problem needs attention.",
-      "B) These difficult problems need attention.",
-      "C) That difficult problems need attention.",
-      "D) This difficult problem need attention."
-    ],
-    "answer": "B) These difficult problems need attention.",
-    "explanation": "The meaning-preservation rule states: do not change the noun's identity — correct the determiner to match the noun. 'Problems' is plural and nearby, so use 'These'. Option A changes 'problems' to 'problem' — this alters the noun's identity. Option C uses 'That' (singular + far), which disagrees with plural 'problems'. Option D uses 'This' (singular) with plural 'problems' — incorrect agreement.",
-    "type": "mcq",
-    "id": "POST_182",
-    "revision_count": 2
-  },
-  {
-    "question": "Which of the following sentences is INCORRECT in its use of 'kind/kinds'?",
-    "options": [
-      "A) This kind of question is tricky.",
-      "B) These kinds of questions are tricky.",
-      "C) That kind of mistake is common.",
-      "D) These kind of mistakes are common."
-    ],
-    "answer": "D) These kind of mistakes are common.",
-    "explanation": "'These' is plural, so it must pair with 'kinds' (plural form), not 'kind' (singular). The correct form is 'These kinds of mistakes'. Option A: 'This kind' — singular + singular ✓. Option B: 'These kinds' — plural + plural ✓. Option C: 'That kind' — singular + singular ✓. Option D is the classic exam trap: mixing plural demonstrative 'These' with singular 'kind'.",
-    "type": "mcq",
-    "id": "POST_183",
-    "revision_count": 2
-  },
-  {
-    "question": "Identify the grammatically correct sentence based on the comparison rule for pronouns.",
-    "options": [
-      "A) The salary of a manager is higher than a clerk.",
-      "B) The salary of a manager is higher than that of a clerk.",
-      "C) The salary of a manager is higher than those of a clerk.",
-      "D) The salary of a manager is higher than which of a clerk."
-    ],
-    "answer": "B) The salary of a manager is higher than that of a clerk.",
-    "explanation": "In comparisons, the same type of thing must be compared on both sides of 'than'. Here, 'salary' is compared with 'salary' — 'that' replaces the repeated noun 'salary' (singular). Option A wrongly compares 'salary' with 'a clerk' (a person). Option C uses 'those' (plural replacement), but 'salary' is singular — incorrect. Option D uses 'which' — not a valid replacement noun in this construction.",
-    "type": "mcq",
-    "id": "POST_184",
-    "revision_count": 2
-  },
-  {
-    "question": "The new governor tried hard to ______ the striking workers by announcing a wage hike, but the union remained unsatisfied.",
-    "options": [
-      "A) Antagonize",
-      "B) Propitiate",
-      "C) Ostracize",
-      "D) Revile"
-    ],
-    "answer": "B) Propitiate",
-    "explanation": "Propitiate means to appease or win favour from someone who is angry — fits the context of calming striking workers. A) Antagonize means to provoke — opposite meaning. C) Ostracize means to exclude — unrelated context. D) Revile means to abuse verbally — contradicts the positive intent in the sentence. Key rule: Propitiate ≈ Placate ≈ Mollify — all mean to calm an offended party.",
-    "type": "mcq",
-    "id": "POST_185",
-    "revision_count": 2
-  },
-  {
-    "question": "Which of the following is the most appropriate ANTONYM of 'Propitiate'?",
-    "options": [
-      "A) Pacify",
-      "B) Mollify",
-      "C) Incense",
-      "D) Conciliate"
-    ],
-    "answer": "C) Incense",
-    "explanation": "Propitiate means to appease, so its antonym must mean to anger or provoke. Incense means to make extremely angry — correct antonym. A) Pacify, B) Mollify, D) Conciliate are all synonyms of Propitiate, not antonyms. Trap: All four options sound related to emotion, making this a high-difficulty distractor set.",
-    "type": "mcq",
-    "id": "POST_186",
-    "revision_count": 2
-  },
-  {
-    "question": "The editorial highlighted the growing ______ between the aspirations of young citizens and the reality of institutional failure in India.",
-    "options": [
-      "A) Synthesis",
-      "B) Convergence",
-      "C) Dichotomy",
-      "D) Amalgamation"
-    ],
-    "answer": "C) Dichotomy",
-    "explanation": "Dichotomy means a division into two opposing parts — perfectly fits the contrast between aspiration and reality. A) Synthesis means combining elements — opposite idea. B) Convergence means coming together — wrong direction. D) Amalgamation means merger — also contradicts the sense of division. Rule: Dichotomy always implies sharp contrast/opposition between two things.",
-    "type": "mcq",
-    "id": "POST_187",
-    "revision_count": 2
-  },
-  {
-    "question": "Which pair correctly represents a SYNONYM and ANTONYM of 'Dichotomy' respectively?",
-    "options": [
-      "A) Polarity — Schism",
-      "B) Bifurcation — Unity",
-      "C) Harmony — Duality",
-      "D) Convergence — Segregation"
-    ],
-    "answer": "B) Bifurcation — Unity",
-    "explanation": "Bifurcation (splitting into two) is a synonym of Dichotomy. Unity (oneness) is a clear antonym. A) Polarity and Schism are both synonyms — no antonym given. C) Harmony is an antonym but Duality is a synonym — reversed. D) Convergence is an antonym and Segregation is a synonym — both reversed. Rule: Antonyms of Dichotomy include Unity, Harmony, Integration, Synthesis.",
-    "type": "mcq",
-    "id": "POST_188",
-    "revision_count": 2
-  },
-  {
-    "question": "The politician's speech was full of ______ — it sounded logical on the surface but was built entirely on false premises.",
-    "options": [
-      "A) Candour",
-      "B) Probity",
-      "C) Sophistry",
-      "D) Rectitude"
-    ],
-    "answer": "C) Sophistry",
-    "explanation": "Sophistry means deceptive but clever reasoning — matches 'sounded logical but built on false premises'. A) Candour means frankness/honesty — opposite meaning. B) Probity means moral integrity — antonym of sophistry. D) Rectitude means moral correctness — also an antonym. Trap: All wrong options are antonyms of Sophistry, testing whether students confuse tone.",
-    "type": "mcq",
-    "id": "POST_189",
-    "revision_count": 2
-  },
-  {
-    "question": "Which of the following is NOT a synonym of 'Sophistry'?",
-    "options": [
-      "A) Casuistry",
-      "B) Chicanery",
-      "C) Veracity",
-      "D) Speciousness"
-    ],
-    "answer": "C) Veracity",
-    "explanation": "Veracity means truthfulness — it is an ANTONYM of Sophistry, not a synonym. A) Casuistry = clever but questionable reasoning → synonym. B) Chicanery = trickery/deception → synonym. D) Speciousness = appearing valid but actually false → synonym. Rule: Sophistry, Chicanery, Casuistry all relate to clever deception — Veracity, Candour, Probity are their antonyms.",
-    "type": "mcq",
-    "id": "POST_190",
-    "revision_count": 2
-  },
-  {
-    "question": "After raising concerns about the management's unethical practices, the whistleblower was ______ by her colleagues and denied access to team meetings.",
-    "options": [
-      "A) Satiated",
-      "B) Ostracized",
-      "C) Rekindled",
-      "D) Propitiated"
-    ],
-    "answer": "B) Ostracized",
-    "explanation": "Ostracize means to exclude someone from a group — matches the scenario of being denied access and shunned by colleagues. A) Satiated means fully satisfied — wrong context. C) Rekindled means to revive something — unrelated. D) Propitiated means appeased — opposite action to what happened. Key idiom: 'Give someone the cold shoulder' = to ostracize informally.",
-    "type": "mcq",
-    "id": "POST_191",
-    "revision_count": 2
-  },
-  {
-    "question": "Choose the word most OPPOSITE in meaning to 'Ostracize'.",
-    "options": [
-      "A) Blackball",
-      "B) Marginalize",
-      "C) Assimilate",
-      "D) Shun"
-    ],
-    "answer": "C) Assimilate",
-    "explanation": "Assimilate means to absorb and integrate into a group — the direct opposite of ostracize. A) Blackball = to exclude by voting against → synonym. B) Marginalize = to push to the margins/exclude → synonym. D) Shun = to avoid deliberately → synonym. Trap: Three options are synonyms, only one is the antonym — a classic SSC CGL format.",
-    "type": "mcq",
-    "id": "POST_192",
-    "revision_count": 2
-  },
-  {
-    "question": "Despite eating a five-course meal, the greedy aristocrat's appetite could not be ______; he demanded more courses to be served.",
-    "options": [
-      "A) Depleted",
-      "B) Satiated",
-      "C) Ostracized",
-      "D) Stifled"
-    ],
-    "answer": "B) Satiated",
-    "explanation": "Satiate means to satisfy fully or fill to excess — suits the context of an appetite that cannot be fully satisfied. A) Depleted means reduced/exhausted — wrong context (depletes a resource, not an appetite). C) Ostracized = excluded from group — unrelated. D) Stifled = suppressed — wrong meaning. Rule: Satiate implies filling beyond satisfaction; stronger than 'satisfy'.",
-    "type": "mcq",
-    "id": "POST_193",
-    "revision_count": 2
-  },
-  {
-    "question": "Which of the following sentences uses 'Satiate' INCORRECTLY?",
-    "options": [
-      "A) The lavish feast satiated even the hungriest guest.",
-      "B) No amount of wealth could satiate his greed.",
-      "C) She satiated her curiosity by reading extensively.",
-      "D) The drought satiated the farmers with excessive rainfall."
-    ],
-    "answer": "D) The drought satiated the farmers with excessive rainfall.",
-    "explanation": "A drought means scarcity of water — it cannot satiate (satisfy/fill) with rainfall; this is logically contradictory. Droughts deprive, not satiate. A), B), C) all use 'satiate' correctly — filling/satisfying hunger, greed, and curiosity respectively. Rule: Satiate requires a context of excess/fullness, not deprivation.",
-    "type": "mcq",
-    "id": "POST_194",
-    "revision_count": 2
-  },
-  {
-    "question": "A ______ of low-quality products in the market has severely affected the profit margins of domestic manufacturers.",
-    "options": [
-      "A) Dearth",
-      "B) Scarcity",
-      "C) Paucity",
-      "D) Glut"
-    ],
-    "answer": "D) Glut",
-    "explanation": "Glut means excessive oversupply — fits 'low-quality products flooding the market'. A) Dearth = severe shortage → opposite meaning. B) Scarcity = lack of something → opposite meaning. C) Paucity = smallness of number/amount → opposite. Trap: All three wrong options are antonyms of Glut, testing knowledge of the word's precise meaning.",
-    "type": "mcq",
-    "id": "POST_195",
-    "revision_count": 2
-  },
-  {
-    "question": "Which of the following is the most accurate SYNONYM of 'Glut'?",
-    "options": [
-      "A) Paucity",
-      "B) Surfeit",
-      "C) Famine",
-      "D) Drought"
-    ],
-    "answer": "B) Surfeit",
-    "explanation": "Surfeit means an excessive amount — a direct synonym of Glut. A) Paucity = very small amount → antonym. C) Famine = extreme scarcity of food → antonym. D) Drought = prolonged shortage of water → antonym. Rule: Glut/Surfeit/Plethora/Surplus = excess; Dearth/Paucity/Scarcity/Famine = shortage.",
-    "type": "mcq",
-    "id": "POST_196",
-    "revision_count": 2
-  },
-  {
-    "question": "The peace agreement between the two nations helped ______ the old friendship that had been destroyed by years of conflict.",
-    "options": [
-      "A) Extinguish",
-      "B) Stifle",
-      "C) Rekindle",
-      "D) Quell"
-    ],
-    "answer": "C) Rekindle",
-    "explanation": "Rekindle means to revive or renew something that had faded — suits the revival of friendship after conflict. A) Extinguish = to put out/end → antonym of rekindle. B) Stifle = to suppress → antonym. D) Quell = to put down/suppress → also an antonym. Key: Rekindle, Revive, Resuscitate, Reignite all mean to bring back to life — their antonyms include Extinguish, Suppress, Quell.",
-    "type": "mcq",
-    "id": "POST_197",
-    "revision_count": 2
-  },
-  {
-    "question": "Choose the ANTONYM of 'Rekindle' from the options below.",
-    "options": [
-      "A) Revitalize",
-      "B) Resuscitate",
-      "C) Reawaken",
-      "D) Suppress"
-    ],
-    "answer": "D) Suppress",
-    "explanation": "Suppress means to put down or end something — the opposite of rekindling/reviving. A) Revitalize = to give new energy → synonym of Rekindle. B) Resuscitate = to bring back to life → synonym. C) Reawaken = to awaken again → synonym. Trap: Three options are synonyms and only one is the antonym — a standard IBPS PO difficulty format.",
-    "type": "mcq",
-    "id": "POST_198",
-    "revision_count": 2
-  },
-  {
     "question": "The tabloid continued to ______ the celebrity, publishing fabricated stories and using abusive language in every article.",
     "options": [
       "A) Extol",
@@ -574,13 +322,6 @@
     "revision_count": 3
   },
   {
-    "id": "POST_36",
-    "title": "Word: Hubris",
-    "content": "📖 Word → Hubris\n\n🔤 Pronunciation → HYOO-bris\n\n📋 Meaning → Excessive pride, arrogance, or overconfidence\n\n📋 Hindi Meaning → घमंड\n\n📋 Part of Speech → Noun\n\n🔁 Synonyms → Arrogance, Overweeningness, Conceit, Haughtiness, Vanity, Narcissism, Egotism, Swagger, Pompousness\n\n🔄 Antonyms → Humility, Modesty, Self-effacement, Meekness\n\n📌 Forms / Idioms → Pride goes before a fall | Get too big for one's boots\n\n✅ Usage in Sentence\n▪️ His political downfall was widely attributed to unchecked hubris (1) / humility (2).\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 04-06-2026 | #chapter: The Hindu Editorial Analysis | #topic: Hubris",
-    "type": "news",
-    "revision_count": 5
-  },
-  {
     "question": "He raised ____ hand to volunteer for the task. (A human has two hands)",
     "options": [
       "A) every",
@@ -593,13 +334,6 @@
     "type": "mcq",
     "id": "POST_127",
     "revision_count": 3
-  },
-  {
-    "id": "POST_37",
-    "title": "Word: Tender — Multiple Meanings",
-    "content": "📖 Word → Tender\n\n🔤 Pronunciation → Not mentioned in notes.\n\n📋 Meaning 1 (Adjective) → gentle, kind, or full of warmth | Hindi: कोमल / स्नेहपूर्ण\n✅ The teacher gave a tender smile to the nervous student.\n\n📋 Meaning 2 (Adjective) → painful or sensitive when touched | Hindi: दर्दयुक्त / संवेदनशील\n✅ His ankle felt tender after the long football match.\n\n📋 Meaning 3 (Noun) → an official offer or bid for a project or contract | Hindi: निविदा / ठेके का प्रस्ताव\n✅ The company submitted a tender for the airport renovation project.\n\n📋 Meaning 4 (Noun) → money that is legally accepted for payment | Hindi: वैध मुद्रा\n✅ The old coins are no longer accepted as legal tender.\n\n🔁 Synonyms → Not mentioned in notes.\n\n🔄 Antonyms → Not mentioned in notes.\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 04-06-2026 | #chapter: The Hindu Editorial Analysis | #topic: Tender — Multiple Meanings",
-    "type": "news",
-    "revision_count": 5
   },
   {
     "question": "Consider the sentence: 'Every pole densely covered with snow is home to polar bears.' What correction is needed?",
@@ -616,13 +350,6 @@
     "revision_count": 3
   },
   {
-    "id": "POST_38",
-    "title": "Phrasal Verbs: PATCH",
-    "content": "📖 Word → Phrasal Verbs with PATCH\n\n📌 Patch up → To repair a relationship after a quarrel | Hindi: सुलह करना / रिश्ता सुधारना\n✅ The two friends finally patched up after a long misunderstanding.\n\n📌 Patch together → To make something quickly using whatever is available | Hindi: जैसे-तैसे जोड़कर तैयार करना\n✅ The team patched together a temporary plan before the final meeting.\n\n📌 Patch over → To hide or cover a problem without solving it properly | Hindi: समस्या को ऊपर-ऊपर से दबाना\n✅ The manager tried to patch over the dispute instead of addressing it honestly.\n\n📌 Patch through → To connect someone by phone or communication line | Hindi: फोन/कॉल से जोड़ना\n✅ The receptionist patched me through to the senior officer immediately.\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 04-06-2026 | #chapter: The Hindu Editorial Analysis | #topic: Phrasal Verbs with PATCH",
-    "type": "news",
-    "revision_count": 5
-  },
-  {
     "question": "Which sentence correctly distinguishes the usage of 'Each' and 'Every'?",
     "options": [
       "A) Every student in this batch has cleared the exam. (batch of 3 known students)",
@@ -635,13 +362,6 @@
     "type": "mcq",
     "id": "POST_129",
     "revision_count": 3
-  },
-  {
-    "id": "POST_39",
-    "title": "One-Word Substitutions",
-    "content": "📖 Word → One-Word Substitutions\n\n📌 Fatalist → One who believes in fate | Hindi: भाग्यवादी\n✅ The fatalist accepted every difficulty as destiny.\n\n📌 Cannibal → A person who eats human flesh | Hindi: नरभक्षी\n✅ The tribe was wrongly described as cannibal by outsiders.\n\n📌 Recluse → One who lives alone and avoids society | Hindi: एकांतवासी\n✅ The old recluse rarely met anyone in the village.\n\n📌 Pessimist → A person who looks at the dark side of things | Hindi: निराशावादी\n✅ The pessimist saw failure even in a good opportunity.\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 04-06-2026 | #chapter: The Hindu Editorial Analysis | #topic: One-Word Substitutions",
-    "type": "news",
-    "revision_count": 5
   },
   {
     "question": "____ side of the coin has a different design engraved on it.",
@@ -658,13 +378,6 @@
     "revision_count": 3
   },
   {
-    "id": "POST_40",
-    "title": "UN General Assembly Elects Bangladesh's Rahman as Next President",
-    "content": "🏛️ UN General Assembly Presidential Election\n\n👤 Who → Bangladesh's Rahman\n\n📋 What → Elected as the next President of the UN General Assembly (81st session)\n\n📍 Where → United Nations Headquarters, New York City, USA\n\n🎯 Purpose → To preside over the 81st session of the UNGA representing the Asia-Pacific regional group\n\n📌 Important Facts\n▪️ UNGA presidency rotates among UN's five regional groups\n▪️ 81st session falls to the Asia-Pacific group\n▪️ Rahman will serve a one-year term starting 8 September\n▪️ Annalena Baerbock was the 80th President of UNGA\n▪️ UNGA formed in 1945; HQ: New York City, USA\n▪️ UN operates through six principal organs: UNGA, UNSC, ECOSOC, Secretariat, ICJ, Trusteeship Council\n\n⚠️ Exam Angle → Regional group rotation, session number (81st), and start date (8 September) are high-yield facts for international affairs sections\n\n#03June2026",
-    "type": "news",
-    "revision_count": 5
-  },
-  {
     "question": "Which of the following is an example of INCORRECT usage of Each/Every?",
     "options": [
       "A) Each of the five finalists was given a trophy.",
@@ -677,13 +390,6 @@
     "type": "mcq",
     "id": "POST_131",
     "revision_count": 3
-  },
-  {
-    "id": "POST_41",
-    "title": "Lokhande Prashant Sitaram Appointed as New CBSE Chairperson",
-    "content": "🏛️ New CBSE Chief Appointed\n\n👤 Who → Lokhande Prashant Sitaram\n\n📋 What → Appointed as new Chairperson of the Central Board of Secondary Education (CBSE)\n\n📍 Where → New Delhi\n\n🎯 Purpose → To lead India's premier school education board overseeing national curriculum and examinations\n\n📌 Important Facts\n▪️ Appointment made in place of Rahul Singh\n▪️ Varun Bhardwaj appointed as new CBSE Secretary\n▪️ CBSE Formation: 1 July 1962\n▪️ CBSE Headquarters: Delhi\n\n⚠️ Exam Angle → Name of new CBSE Chairperson, predecessor (Rahul Singh), and CBSE formation date are frequently tested in SSC/Banking exams\n\n#03June2026",
-    "type": "news",
-    "revision_count": 5
   },
   {
     "question": "I do not want to go ____ near that abandoned building at night.",
@@ -700,13 +406,6 @@
     "revision_count": 3
   },
   {
-    "id": "POST_42",
-    "title": "Government Forms Panel to Probe CBSE On-Screen Marking System Procurement",
-    "content": "🏛️ One-Member Inquiry Committee on CBSE OSM\n\n👤 Who → S. Radha Chauhan (Chairperson, Capacity Building Commission)\n\n📋 What → Government constituted a one-member inquiry committee to investigate procurement of services for CBSE's On-Screen Marking (OSM) system\n\n📍 Where → New Delhi\n\n🎯 Purpose → To probe irregularities related to procurement of services for the OSM system amid ongoing controversy\n\n📌 Important Facts\n▪️ Committee headed by S. Radha Chauhan, Chairperson of Capacity Building Commission\n▪️ OSM (On-Screen Marking) is used by CBSE for answer sheet evaluation\n▪️ Single-member committee structure chosen for focused investigation\n\n⚠️ Exam Angle → Name of inquiry head (S. Radha Chauhan), her designation (Capacity Building Commission Chairperson), and the subject of probe (OSM procurement) are exam-relevant details\n\n#03June2026",
-    "type": "news",
-    "revision_count": 5
-  },
-  {
     "question": "He completed the entire project ____ any external assistance.",
     "options": [
       "A) with some",
@@ -719,13 +418,6 @@
     "type": "mcq",
     "id": "POST_136",
     "revision_count": 3
-  },
-  {
-    "id": "POST_43",
-    "title": "Government to Replace WPI with Producer Price Index Over Five Years",
-    "content": "🏛️ India's Inflation Measurement Reform — WPI to PPI Transition\n\n👤 Who → Department for Promotion of Industry and Internal Trade (DPIIT)\n\n📋 What → India begins a five-year transition from Wholesale Price Index (WPI) to Producer Price Index (PPI)\n\n📍 Where → India (national policy)\n\n🎯 Purpose → To modernise India's inflation measurement framework with a more comprehensive producer-level price index\n\n📌 Important Facts\n▪️ Revised WPI series with base year 2022-23 to be released on 15 June 2026 (replacing 2011-12 base)\n▪️ Revised WPI basket expands from 697 to 957 commodities (adding solar energy, wind energy, nuclear electricity)\n▪️ New indices introduced: Output PPI, Trial Input PPI, Service PPI (7 sectors: banking, insurance, pension fund management, securities transactions, railways, air passenger transport, telecommunications)\n▪️ WPI and PPI published simultaneously for 5 years; after that WPI discontinued, PPI becomes primary\n▪️ PPI captures prices at producer level (farm-gate/factory-gate); includes goods AND services\n▪️ Output PPI covers 123 product categories (~1,500 items initially)\n\n⚠️ Exam Angle → Base year change (2011-12 to 2022-23), commodity count (697 to 957), revised WPI launch date (15 June 2026), and WPI vs PPI distinction are high-probability MCQ topics\n\n#03June2026",
-    "type": "news",
-    "revision_count": 5
   },
   {
     "question": "Identify the error in the sentence: 'She left the house without saying something to anyone.'",
@@ -742,13 +434,6 @@
     "revision_count": 3
   },
   {
-    "id": "POST_44",
-    "title": "Indian Overseas Bank Receives IFSCA Licence for GIFT City Branch",
-    "content": "🏛️ IOB Gets IFSCA Licence for GIFT City\n\n👤 Who → Indian Overseas Bank (IOB)\n\n📋 What → Received a licence from the International Financial Services Centres Authority (IFSCA) to establish its branch at GIFT City, Gujarat\n\n📍 Where → GIFT City, Gandhinagar, Gujarat\n\n🎯 Purpose → To expand banking operations in India's international financial hub\n\n📌 Important Facts\n▪️ IFSCA is the unified regulator for all financial services activities in India's IFSCs\n▪️ IFSCA Formed: 27 April 2020\n▪️ IFSCA Headquarters: GIFT City, Gandhinagar, Gujarat\n\n⚠️ Exam Angle → IFSCA formation date (27 April 2020), HQ (GIFT City), and its regulatory role over IFSCs are frequently tested; IOB's GIFT City expansion adds current affairs relevance\n\n#03June2026",
-    "type": "news",
-    "revision_count": 5
-  },
-  {
     "question": "Could you pass me ____ salt, please?",
     "options": [
       "A) any",
@@ -761,13 +446,6 @@
     "type": "mcq",
     "id": "POST_138",
     "revision_count": 3
-  },
-  {
-    "id": "POST_45",
-    "title": "BharatPe Launches BharatPe Flex, a Credit-on-UPI Solution Powered by YES BANK",
-    "content": "🏛️ BharatPe Flex — Credit-on-UPI Launch\n\n👤 Who → BharatPe in partnership with YES BANK\n\n📋 What → Launched 'BharatPe Flex', a Credit-on-UPI solution enabling UPI payments via pre-approved credit lines\n\n📍 Where → India\n\n🎯 Purpose → To allow users to make UPI payments using a pre-approved credit line instead of directly from their bank account\n\n📌 Important Facts\n▪️ Credit-on-UPI: customers use a pre-approved bank credit line for UPI payments instead of savings account balance\n▪️ Partnership between BharatPe and YES BANK powers the solution\n▪️ Users can pay at UPI merchant outlets without using their own bank balance\n\n⚠️ Exam Angle → Concept of Credit-on-UPI, BharatPe's banking partner (YES BANK), and the product name 'BharatPe Flex' are likely fintech/banking awareness MCQ topics\n\n#03June2026",
-    "type": "news",
-    "revision_count": 5
   },
   {
     "question": "Which sentence uses 'some' or 'any' INCORRECTLY?",
@@ -784,13 +462,6 @@
     "revision_count": 3
   },
   {
-    "id": "POST_46",
-    "title": "UPI Goes Live in Cambodia for Indian Tourists at Merchant Outlets",
-    "content": "🏛️ UPI Acceptance in Cambodia via KHQR\n\n👤 Who → NPCI International Payments Limited (NIPL) and ACLEDA Bank Plc.\n\n📋 What → Indian travellers can now make QR-based UPI payments across Cambodia by scanning Bakong's KHQR codes\n\n📍 Where → Cambodia\n\n🎯 Purpose → To enable seamless cross-border digital payments for Indian tourists at Cambodian merchant outlets\n\n📌 Important Facts\n▪️ Partnership between NIPL (international arm of NPCI) and ACLEDA Bank Plc. enabled this\n▪️ UPI acceptance via KHQR — Cambodia's national QR code system (Bakong's KHQR)\n▪️ Indian tourists use UPI-enabled apps to scan KHQR codes\n\n⚠️ Exam Angle → KHQR as Cambodia's national QR code system, NIPL's role as NPCI's international arm, and UPI's global expansion are high-value topics for banking/SSC awareness\n\n#03June2026",
-    "type": "news",
-    "revision_count": 5
-  },
-  {
     "question": "Which of the following correctly distinguishes a genuine question from a request?",
     "options": [
       "A) Is there any sugar? — Genuine Question / Would you like any sugar? — Offer",
@@ -803,13 +474,6 @@
     "type": "mcq",
     "id": "POST_140",
     "revision_count": 3
-  },
-  {
-    "id": "POST_47",
-    "title": "WAVES OTT Crosses One Crore Registered Users",
-    "content": "🏛️ Prasar Bharati's WAVES OTT Milestone\n\n👤 Who → Prasar Bharati\n\n📋 What → WAVES (World Audio Visual Entertainment Services) OTT platform crossed one crore registered users\n\n📍 Where → India\n\n🎯 Purpose → To provide a public sector OTT platform for audio-visual entertainment to Indian audiences\n\n📌 Important Facts\n▪️ Milestone achieved in less than two years since launch in November 2024\n▪️ WAVES OTT target: 2 Crore registered users by March 2027\n▪️ Prasar Bharati Formed: 23 November 1997; HQ: New Delhi\n▪️ Under Ministry of Information and Broadcasting\n\n⚠️ Exam Angle → Full form of WAVES, parent body (Prasar Bharati), launch month (November 2024), milestone (1 crore), and target (2 crore by March 2027) are all high-yield data points\n\n#03June2026",
-    "type": "news",
-    "revision_count": 5
   },
   {
     "question": "Though she recognized ____ of the guests at the event, she could not recall ____ of their names.",
@@ -826,13 +490,6 @@
     "revision_count": 3
   },
   {
-    "id": "POST_48",
-    "title": "Gujarat's Hastkala Setu Yojana Crosses ₹102 Crore Sales Milestone",
-    "content": "🏛️ Hastkala Setu Yojana (HSY) Sales Achievement\n\n👤 Who → Government of Gujarat\n\n📋 What → HSY achieved cumulative sales of over ₹102.08 crore since its launch\n\n📍 Where → Gujarat\n\n🎯 Purpose → To strengthen traditional arts and crafts, improve market access for artisans, and promote entrepreneurship\n\n📌 Important Facts\n▪️ HSY = Hastkala Setu Yojana (Gujarat)\n▪️ Sales milestone: ₹102.08 crore (cumulative)\n▪️ Gujarat Formation: 1 May 1960; Capital: Gandhinagar\n▪️ Chief Minister: Bhupendrabhai Patel; Governor: Acharya Devvrat\n▪️ National Parks: Gir, Marine (Gulf of Kutch), Velavadar Blackbuck, Vansda\n\n⚠️ Exam Angle → Scheme name (HSY), its objective (artisan empowerment), sales figure (₹102 crore), and Gujarat static facts are relevant for state-level and general awareness sections\n\n#03June2026",
-    "type": "news",
-    "revision_count": 5
-  },
-  {
     "question": "I attempted ____ of the questions in the exam but could not solve ____ of them.",
     "options": [
       "A) most — any",
@@ -845,13 +502,6 @@
     "type": "mcq",
     "id": "POST_142",
     "revision_count": 3
-  },
-  {
-    "id": "POST_49",
-    "title": "Blue India 2026 International Conference and Expo to be Held in Kerala",
-    "content": "🏛️ Blue India 2026 — International Maritime & Ocean Conference\n\n👤 Who → Kerala University of Fisheries and Ocean Studies (KUFOS)\n\n📋 What → Will host the international conference and expo 'Blue India 2026'\n\n📍 Where → Panangad Campus, Kochi, Kerala\n\n🎯 Purpose → To promote blue economy research, ocean innovation, and sustainable marine development\n\n📌 Important Facts\n▪️ Theme: \"Blue Research – Blue Innovation – Blue Future\"\n▪️ Hosted by KUFOS at its Panangad campus in Kochi\n\n⚠️ Exam Angle → Host institution (KUFOS), venue (Kochi, Kerala), and theme of Blue India 2026 are standard questions in environment and economy awareness sections\n\n#03June2026",
-    "type": "news",
-    "revision_count": 5
   },
   {
     "question": "Identify the CORRECT sentence in terms of quantitative logical consistency.",
@@ -868,13 +518,6 @@
     "revision_count": 3
   },
   {
-    "id": "POST_50",
-    "title": "NCDFI and Assam Rifles Sign Agreement to Expand Dairy Supply in North-East",
-    "content": "🏛️ NCDFI–Assam Rifles MoU for Dairy Supply\n\n👤 Who → National Cooperative Dairy Federation of India (NCDFI) and Assam Rifles\n\n📋 What → Signed an agreement to expand supply of milk and dairy products to military establishments across the North-Eastern region\n\n📍 Where → North-East India\n\n🎯 Purpose → To ensure adequate and regular dairy supply to military establishments in the North-Eastern region\n\n📌 Important Facts\n▪️ Assam Rifles is a paramilitary force of India\n▪️ Assam Rifles Formation: 1835 (oldest paramilitary force)\n▪️ Assam Rifles HQ: Shillong, Meghalaya\n\n⚠️ Exam Angle → Assam Rifles formation year (1835), HQ (Shillong, Meghalaya), its paramilitary status, and NCDFI's dairy supply role are exam-relevant facts\n\n#03June2026",
-    "type": "news",
-    "revision_count": 5
-  },
-  {
     "question": "Which word correctly fills the blank? 'Hardly had she spoken ____ words before the audience fell silent.'",
     "options": [
       "A) some",
@@ -887,13 +530,6 @@
     "type": "mcq",
     "id": "POST_144",
     "revision_count": 3
-  },
-  {
-    "id": "POST_51",
-    "title": "India Successfully Flight-Tests Indigenous RudraM-II Air-to-Surface Missile",
-    "content": "🏛️ RudraM-II Missile Successful Flight Test\n\n👤 Who → Defence Research and Development Organisation (DRDO) and Indian Air Force (IAF)\n\n📋 What → Successfully conducted flight tests of the indigenously developed RudraM-II Air-to-Surface Missile from an airborne platform\n\n📍 Where → India (airborne platform)\n\n🎯 Purpose → To enhance India's indigenous air-to-surface precision strike capability and Atmanirbhar Bharat in defence\n\n📌 Important Facts\n▪️ RudraM-II is indigenously developed by DRDO\n▪️ Type: Air-to-Surface Missile; launched from airborne platform\n▪️ Joint achievement of DRDO and IAF\n\n⚠️ Exam Angle → Missile name (RudraM-II), type (Air-to-Surface), developing agencies (DRDO + IAF), and launch mode (airborne platform) are key exam points for defence section\n\n#03June2026",
-    "type": "news",
-    "revision_count": 5
   },
   {
     "question": "Which of the following sentences contains an error related to the Discuss / Explain / Describe trap?",
@@ -910,13 +546,6 @@
     "revision_count": 5
   },
   {
-    "id": "POST_52",
-    "title": "Former Gujarat Minister and BJP MLA Yogesh Patel Passes Away",
-    "content": "🏛️ Demise of BJP MLA Yogesh Patel\n\n👤 Who → Yogesh Patel, BJP MLA from Manjalpur, Gujarat\n\n📋 What → Passed away\n\n📍 Where → Gujarat\n\n🎯 Purpose → (Obituary)\n\n📌 Important Facts\n▪️ Represented Manjalpur Assembly constituency since 2012\n▪️ Re-elected in 2017 and 2022\n▪️ Served as Minister for Narmada Development and Housing under former CM Vijay Rupani\n\n⚠️ Exam Angle → His constituency (Manjalpur), ministerial portfolios (Narmada Development & Housing), and former CM under whom he served (Vijay Rupani) are relevant for Gujarat state exam questions\n\n#03June2026",
-    "type": "news",
-    "revision_count": 5
-  },
-  {
     "question": "One and a half meters of cloth ______ required for the dress.",
     "options": [
       "A) are",
@@ -929,13 +558,6 @@
     "type": "mcq",
     "id": "POST_105",
     "revision_count": 4
-  },
-  {
-    "id": "POST_53",
-    "title": "Telangana Celebrates 11th State Formation Day",
-    "content": "🏛️ Telangana's 11th Formation Day\n\n👤 Who → State of Telangana\n\n📋 What → Celebrated its 11th State Formation Day on 2 June 2026\n\n📍 Where → Telangana\n\n🎯 Purpose → To commemorate the formation of Telangana as India's 29th state\n\n📌 Important Facts\n▪️ Telangana became India's 29th State\n▪️ Formed after bifurcation of Andhra Pradesh under the Andhra Pradesh Reorganisation Act, 2014\n▪️ Formation Day: 2 June (every year)\n\n⚠️ Exam Angle → State number (29th), enabling legislation (AP Reorganisation Act 2014), formation date (2 June), and this year's edition (11th) are repeatedly asked in SSC/state exams\n\n#03June2026",
-    "type": "news",
-    "revision_count": 5
   },
   {
     "question": "Which of the following sentences is grammatically correct?",
@@ -2341,6 +1963,384 @@
     "id": "POST_35",
     "title": "Word: Punitive",
     "content": "📖 Word → Punitive\n\n🔤 Pronunciation → PYOO-ni-tiv\n\n📋 Meaning → Intended to punish or impose penalties\n\n📋 Hindi Meaning → दंडात्मक\n\n📋 Part of Speech → Adjective\n\n🔁 Synonyms → Penal, Retributive, Disciplinary, Corrective\n\n🔄 Antonyms → Lenient, Merciful, Clement, Forgiving\n\n📌 Forms / Idioms → Throw the book at | Bring to justice\n\n✅ Usage in Sentence\n▪️ Owing to humanitarian concerns, the judge adopted a punitive (1) / lenient (2) stance.\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 04-06-2026 | #chapter: The Hindu Editorial Analysis | #topic: Punitive",
+    "type": "news",
+    "revision_count": 6
+  },
+  {
+    "question": "Which of the following sentences has CORRECT demonstrative-noun agreement?",
+    "options": [
+      "A) This complex questions are difficult to solve.",
+      "B) These complex question is difficult to solve.",
+      "C) These complex questions are difficult to solve.",
+      "D) This complex questions is difficult to solve."
+    ],
+    "answer": "C) These complex questions are difficult to solve.",
+    "explanation": "'Questions' is plural, so the demonstrative must be 'These' (plural), and the verb must be 'are'. Options A and D use 'This' (singular) with the plural noun 'questions' — incorrect agreement. Option B uses 'These' correctly but pairs it with singular 'question' — this changes the noun's identity, which violates the meaning-preservation rule. The adjective 'complex' does not affect the agreement; only the noun does.",
+    "type": "mcq",
+    "id": "POST_181",
+    "revision_count": 3
+  },
+  {
+    "id": "POST_36",
+    "title": "Word: Hubris",
+    "content": "📖 Word → Hubris\n\n🔤 Pronunciation → HYOO-bris\n\n📋 Meaning → Excessive pride, arrogance, or overconfidence\n\n📋 Hindi Meaning → घमंड\n\n📋 Part of Speech → Noun\n\n🔁 Synonyms → Arrogance, Overweeningness, Conceit, Haughtiness, Vanity, Narcissism, Egotism, Swagger, Pompousness\n\n🔄 Antonyms → Humility, Modesty, Self-effacement, Meekness\n\n📌 Forms / Idioms → Pride goes before a fall | Get too big for one's boots\n\n✅ Usage in Sentence\n▪️ His political downfall was widely attributed to unchecked hubris (1) / humility (2).\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 04-06-2026 | #chapter: The Hindu Editorial Analysis | #topic: Hubris",
+    "type": "news",
+    "revision_count": 6
+  },
+  {
+    "question": "A student wants to correct the sentence: 'This difficult problems need attention.' What is the best correction according to the meaning-preservation rule?",
+    "options": [
+      "A) This difficult problem needs attention.",
+      "B) These difficult problems need attention.",
+      "C) That difficult problems need attention.",
+      "D) This difficult problem need attention."
+    ],
+    "answer": "B) These difficult problems need attention.",
+    "explanation": "The meaning-preservation rule states: do not change the noun's identity — correct the determiner to match the noun. 'Problems' is plural and nearby, so use 'These'. Option A changes 'problems' to 'problem' — this alters the noun's identity. Option C uses 'That' (singular + far), which disagrees with plural 'problems'. Option D uses 'This' (singular) with plural 'problems' — incorrect agreement.",
+    "type": "mcq",
+    "id": "POST_182",
+    "revision_count": 3
+  },
+  {
+    "id": "POST_37",
+    "title": "Word: Tender — Multiple Meanings",
+    "content": "📖 Word → Tender\n\n🔤 Pronunciation → Not mentioned in notes.\n\n📋 Meaning 1 (Adjective) → gentle, kind, or full of warmth | Hindi: कोमल / स्नेहपूर्ण\n✅ The teacher gave a tender smile to the nervous student.\n\n📋 Meaning 2 (Adjective) → painful or sensitive when touched | Hindi: दर्दयुक्त / संवेदनशील\n✅ His ankle felt tender after the long football match.\n\n📋 Meaning 3 (Noun) → an official offer or bid for a project or contract | Hindi: निविदा / ठेके का प्रस्ताव\n✅ The company submitted a tender for the airport renovation project.\n\n📋 Meaning 4 (Noun) → money that is legally accepted for payment | Hindi: वैध मुद्रा\n✅ The old coins are no longer accepted as legal tender.\n\n🔁 Synonyms → Not mentioned in notes.\n\n🔄 Antonyms → Not mentioned in notes.\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 04-06-2026 | #chapter: The Hindu Editorial Analysis | #topic: Tender — Multiple Meanings",
+    "type": "news",
+    "revision_count": 6
+  },
+  {
+    "question": "Which of the following sentences is INCORRECT in its use of 'kind/kinds'?",
+    "options": [
+      "A) This kind of question is tricky.",
+      "B) These kinds of questions are tricky.",
+      "C) That kind of mistake is common.",
+      "D) These kind of mistakes are common."
+    ],
+    "answer": "D) These kind of mistakes are common.",
+    "explanation": "'These' is plural, so it must pair with 'kinds' (plural form), not 'kind' (singular). The correct form is 'These kinds of mistakes'. Option A: 'This kind' — singular + singular ✓. Option B: 'These kinds' — plural + plural ✓. Option C: 'That kind' — singular + singular ✓. Option D is the classic exam trap: mixing plural demonstrative 'These' with singular 'kind'.",
+    "type": "mcq",
+    "id": "POST_183",
+    "revision_count": 3
+  },
+  {
+    "id": "POST_38",
+    "title": "Phrasal Verbs: PATCH",
+    "content": "📖 Word → Phrasal Verbs with PATCH\n\n📌 Patch up → To repair a relationship after a quarrel | Hindi: सुलह करना / रिश्ता सुधारना\n✅ The two friends finally patched up after a long misunderstanding.\n\n📌 Patch together → To make something quickly using whatever is available | Hindi: जैसे-तैसे जोड़कर तैयार करना\n✅ The team patched together a temporary plan before the final meeting.\n\n📌 Patch over → To hide or cover a problem without solving it properly | Hindi: समस्या को ऊपर-ऊपर से दबाना\n✅ The manager tried to patch over the dispute instead of addressing it honestly.\n\n📌 Patch through → To connect someone by phone or communication line | Hindi: फोन/कॉल से जोड़ना\n✅ The receptionist patched me through to the senior officer immediately.\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 04-06-2026 | #chapter: The Hindu Editorial Analysis | #topic: Phrasal Verbs with PATCH",
+    "type": "news",
+    "revision_count": 6
+  },
+  {
+    "question": "Identify the grammatically correct sentence based on the comparison rule for pronouns.",
+    "options": [
+      "A) The salary of a manager is higher than a clerk.",
+      "B) The salary of a manager is higher than that of a clerk.",
+      "C) The salary of a manager is higher than those of a clerk.",
+      "D) The salary of a manager is higher than which of a clerk."
+    ],
+    "answer": "B) The salary of a manager is higher than that of a clerk.",
+    "explanation": "In comparisons, the same type of thing must be compared on both sides of 'than'. Here, 'salary' is compared with 'salary' — 'that' replaces the repeated noun 'salary' (singular). Option A wrongly compares 'salary' with 'a clerk' (a person). Option C uses 'those' (plural replacement), but 'salary' is singular — incorrect. Option D uses 'which' — not a valid replacement noun in this construction.",
+    "type": "mcq",
+    "id": "POST_184",
+    "revision_count": 3
+  },
+  {
+    "id": "POST_39",
+    "title": "One-Word Substitutions",
+    "content": "📖 Word → One-Word Substitutions\n\n📌 Fatalist → One who believes in fate | Hindi: भाग्यवादी\n✅ The fatalist accepted every difficulty as destiny.\n\n📌 Cannibal → A person who eats human flesh | Hindi: नरभक्षी\n✅ The tribe was wrongly described as cannibal by outsiders.\n\n📌 Recluse → One who lives alone and avoids society | Hindi: एकांतवासी\n✅ The old recluse rarely met anyone in the village.\n\n📌 Pessimist → A person who looks at the dark side of things | Hindi: निराशावादी\n✅ The pessimist saw failure even in a good opportunity.\n\n🧠 Memory Trick → Not mentioned in notes.\n\n✏️ Exam Angle → Not mentioned in notes.\n\n#date: 04-06-2026 | #chapter: The Hindu Editorial Analysis | #topic: One-Word Substitutions",
+    "type": "news",
+    "revision_count": 6
+  },
+  {
+    "question": "The new governor tried hard to ______ the striking workers by announcing a wage hike, but the union remained unsatisfied.",
+    "options": [
+      "A) Antagonize",
+      "B) Propitiate",
+      "C) Ostracize",
+      "D) Revile"
+    ],
+    "answer": "B) Propitiate",
+    "explanation": "Propitiate means to appease or win favour from someone who is angry — fits the context of calming striking workers. A) Antagonize means to provoke — opposite meaning. C) Ostracize means to exclude — unrelated context. D) Revile means to abuse verbally — contradicts the positive intent in the sentence. Key rule: Propitiate ≈ Placate ≈ Mollify — all mean to calm an offended party.",
+    "type": "mcq",
+    "id": "POST_185",
+    "revision_count": 3
+  },
+  {
+    "id": "POST_40",
+    "title": "UN General Assembly Elects Bangladesh's Rahman as Next President",
+    "content": "🏛️ UN General Assembly Presidential Election\n\n👤 Who → Bangladesh's Rahman\n\n📋 What → Elected as the next President of the UN General Assembly (81st session)\n\n📍 Where → United Nations Headquarters, New York City, USA\n\n🎯 Purpose → To preside over the 81st session of the UNGA representing the Asia-Pacific regional group\n\n📌 Important Facts\n▪️ UNGA presidency rotates among UN's five regional groups\n▪️ 81st session falls to the Asia-Pacific group\n▪️ Rahman will serve a one-year term starting 8 September\n▪️ Annalena Baerbock was the 80th President of UNGA\n▪️ UNGA formed in 1945; HQ: New York City, USA\n▪️ UN operates through six principal organs: UNGA, UNSC, ECOSOC, Secretariat, ICJ, Trusteeship Council\n\n⚠️ Exam Angle → Regional group rotation, session number (81st), and start date (8 September) are high-yield facts for international affairs sections\n\n#03June2026",
+    "type": "news",
+    "revision_count": 6
+  },
+  {
+    "question": "Which of the following is the most appropriate ANTONYM of 'Propitiate'?",
+    "options": [
+      "A) Pacify",
+      "B) Mollify",
+      "C) Incense",
+      "D) Conciliate"
+    ],
+    "answer": "C) Incense",
+    "explanation": "Propitiate means to appease, so its antonym must mean to anger or provoke. Incense means to make extremely angry — correct antonym. A) Pacify, B) Mollify, D) Conciliate are all synonyms of Propitiate, not antonyms. Trap: All four options sound related to emotion, making this a high-difficulty distractor set.",
+    "type": "mcq",
+    "id": "POST_186",
+    "revision_count": 3
+  },
+  {
+    "id": "POST_41",
+    "title": "Lokhande Prashant Sitaram Appointed as New CBSE Chairperson",
+    "content": "🏛️ New CBSE Chief Appointed\n\n👤 Who → Lokhande Prashant Sitaram\n\n📋 What → Appointed as new Chairperson of the Central Board of Secondary Education (CBSE)\n\n📍 Where → New Delhi\n\n🎯 Purpose → To lead India's premier school education board overseeing national curriculum and examinations\n\n📌 Important Facts\n▪️ Appointment made in place of Rahul Singh\n▪️ Varun Bhardwaj appointed as new CBSE Secretary\n▪️ CBSE Formation: 1 July 1962\n▪️ CBSE Headquarters: Delhi\n\n⚠️ Exam Angle → Name of new CBSE Chairperson, predecessor (Rahul Singh), and CBSE formation date are frequently tested in SSC/Banking exams\n\n#03June2026",
+    "type": "news",
+    "revision_count": 6
+  },
+  {
+    "question": "The editorial highlighted the growing ______ between the aspirations of young citizens and the reality of institutional failure in India.",
+    "options": [
+      "A) Synthesis",
+      "B) Convergence",
+      "C) Dichotomy",
+      "D) Amalgamation"
+    ],
+    "answer": "C) Dichotomy",
+    "explanation": "Dichotomy means a division into two opposing parts — perfectly fits the contrast between aspiration and reality. A) Synthesis means combining elements — opposite idea. B) Convergence means coming together — wrong direction. D) Amalgamation means merger — also contradicts the sense of division. Rule: Dichotomy always implies sharp contrast/opposition between two things.",
+    "type": "mcq",
+    "id": "POST_187",
+    "revision_count": 3
+  },
+  {
+    "id": "POST_42",
+    "title": "Government Forms Panel to Probe CBSE On-Screen Marking System Procurement",
+    "content": "🏛️ One-Member Inquiry Committee on CBSE OSM\n\n👤 Who → S. Radha Chauhan (Chairperson, Capacity Building Commission)\n\n📋 What → Government constituted a one-member inquiry committee to investigate procurement of services for CBSE's On-Screen Marking (OSM) system\n\n📍 Where → New Delhi\n\n🎯 Purpose → To probe irregularities related to procurement of services for the OSM system amid ongoing controversy\n\n📌 Important Facts\n▪️ Committee headed by S. Radha Chauhan, Chairperson of Capacity Building Commission\n▪️ OSM (On-Screen Marking) is used by CBSE for answer sheet evaluation\n▪️ Single-member committee structure chosen for focused investigation\n\n⚠️ Exam Angle → Name of inquiry head (S. Radha Chauhan), her designation (Capacity Building Commission Chairperson), and the subject of probe (OSM procurement) are exam-relevant details\n\n#03June2026",
+    "type": "news",
+    "revision_count": 6
+  },
+  {
+    "question": "Which pair correctly represents a SYNONYM and ANTONYM of 'Dichotomy' respectively?",
+    "options": [
+      "A) Polarity — Schism",
+      "B) Bifurcation — Unity",
+      "C) Harmony — Duality",
+      "D) Convergence — Segregation"
+    ],
+    "answer": "B) Bifurcation — Unity",
+    "explanation": "Bifurcation (splitting into two) is a synonym of Dichotomy. Unity (oneness) is a clear antonym. A) Polarity and Schism are both synonyms — no antonym given. C) Harmony is an antonym but Duality is a synonym — reversed. D) Convergence is an antonym and Segregation is a synonym — both reversed. Rule: Antonyms of Dichotomy include Unity, Harmony, Integration, Synthesis.",
+    "type": "mcq",
+    "id": "POST_188",
+    "revision_count": 3
+  },
+  {
+    "id": "POST_43",
+    "title": "Government to Replace WPI with Producer Price Index Over Five Years",
+    "content": "🏛️ India's Inflation Measurement Reform — WPI to PPI Transition\n\n👤 Who → Department for Promotion of Industry and Internal Trade (DPIIT)\n\n📋 What → India begins a five-year transition from Wholesale Price Index (WPI) to Producer Price Index (PPI)\n\n📍 Where → India (national policy)\n\n🎯 Purpose → To modernise India's inflation measurement framework with a more comprehensive producer-level price index\n\n📌 Important Facts\n▪️ Revised WPI series with base year 2022-23 to be released on 15 June 2026 (replacing 2011-12 base)\n▪️ Revised WPI basket expands from 697 to 957 commodities (adding solar energy, wind energy, nuclear electricity)\n▪️ New indices introduced: Output PPI, Trial Input PPI, Service PPI (7 sectors: banking, insurance, pension fund management, securities transactions, railways, air passenger transport, telecommunications)\n▪️ WPI and PPI published simultaneously for 5 years; after that WPI discontinued, PPI becomes primary\n▪️ PPI captures prices at producer level (farm-gate/factory-gate); includes goods AND services\n▪️ Output PPI covers 123 product categories (~1,500 items initially)\n\n⚠️ Exam Angle → Base year change (2011-12 to 2022-23), commodity count (697 to 957), revised WPI launch date (15 June 2026), and WPI vs PPI distinction are high-probability MCQ topics\n\n#03June2026",
+    "type": "news",
+    "revision_count": 6
+  },
+  {
+    "question": "The politician's speech was full of ______ — it sounded logical on the surface but was built entirely on false premises.",
+    "options": [
+      "A) Candour",
+      "B) Probity",
+      "C) Sophistry",
+      "D) Rectitude"
+    ],
+    "answer": "C) Sophistry",
+    "explanation": "Sophistry means deceptive but clever reasoning — matches 'sounded logical but built on false premises'. A) Candour means frankness/honesty — opposite meaning. B) Probity means moral integrity — antonym of sophistry. D) Rectitude means moral correctness — also an antonym. Trap: All wrong options are antonyms of Sophistry, testing whether students confuse tone.",
+    "type": "mcq",
+    "id": "POST_189",
+    "revision_count": 3
+  },
+  {
+    "id": "POST_44",
+    "title": "Indian Overseas Bank Receives IFSCA Licence for GIFT City Branch",
+    "content": "🏛️ IOB Gets IFSCA Licence for GIFT City\n\n👤 Who → Indian Overseas Bank (IOB)\n\n📋 What → Received a licence from the International Financial Services Centres Authority (IFSCA) to establish its branch at GIFT City, Gujarat\n\n📍 Where → GIFT City, Gandhinagar, Gujarat\n\n🎯 Purpose → To expand banking operations in India's international financial hub\n\n📌 Important Facts\n▪️ IFSCA is the unified regulator for all financial services activities in India's IFSCs\n▪️ IFSCA Formed: 27 April 2020\n▪️ IFSCA Headquarters: GIFT City, Gandhinagar, Gujarat\n\n⚠️ Exam Angle → IFSCA formation date (27 April 2020), HQ (GIFT City), and its regulatory role over IFSCs are frequently tested; IOB's GIFT City expansion adds current affairs relevance\n\n#03June2026",
+    "type": "news",
+    "revision_count": 6
+  },
+  {
+    "question": "Which of the following is NOT a synonym of 'Sophistry'?",
+    "options": [
+      "A) Casuistry",
+      "B) Chicanery",
+      "C) Veracity",
+      "D) Speciousness"
+    ],
+    "answer": "C) Veracity",
+    "explanation": "Veracity means truthfulness — it is an ANTONYM of Sophistry, not a synonym. A) Casuistry = clever but questionable reasoning → synonym. B) Chicanery = trickery/deception → synonym. D) Speciousness = appearing valid but actually false → synonym. Rule: Sophistry, Chicanery, Casuistry all relate to clever deception — Veracity, Candour, Probity are their antonyms.",
+    "type": "mcq",
+    "id": "POST_190",
+    "revision_count": 3
+  },
+  {
+    "id": "POST_45",
+    "title": "BharatPe Launches BharatPe Flex, a Credit-on-UPI Solution Powered by YES BANK",
+    "content": "🏛️ BharatPe Flex — Credit-on-UPI Launch\n\n👤 Who → BharatPe in partnership with YES BANK\n\n📋 What → Launched 'BharatPe Flex', a Credit-on-UPI solution enabling UPI payments via pre-approved credit lines\n\n📍 Where → India\n\n🎯 Purpose → To allow users to make UPI payments using a pre-approved credit line instead of directly from their bank account\n\n📌 Important Facts\n▪️ Credit-on-UPI: customers use a pre-approved bank credit line for UPI payments instead of savings account balance\n▪️ Partnership between BharatPe and YES BANK powers the solution\n▪️ Users can pay at UPI merchant outlets without using their own bank balance\n\n⚠️ Exam Angle → Concept of Credit-on-UPI, BharatPe's banking partner (YES BANK), and the product name 'BharatPe Flex' are likely fintech/banking awareness MCQ topics\n\n#03June2026",
+    "type": "news",
+    "revision_count": 6
+  },
+  {
+    "question": "After raising concerns about the management's unethical practices, the whistleblower was ______ by her colleagues and denied access to team meetings.",
+    "options": [
+      "A) Satiated",
+      "B) Ostracized",
+      "C) Rekindled",
+      "D) Propitiated"
+    ],
+    "answer": "B) Ostracized",
+    "explanation": "Ostracize means to exclude someone from a group — matches the scenario of being denied access and shunned by colleagues. A) Satiated means fully satisfied — wrong context. C) Rekindled means to revive something — unrelated. D) Propitiated means appeased — opposite action to what happened. Key idiom: 'Give someone the cold shoulder' = to ostracize informally.",
+    "type": "mcq",
+    "id": "POST_191",
+    "revision_count": 3
+  },
+  {
+    "id": "POST_46",
+    "title": "UPI Goes Live in Cambodia for Indian Tourists at Merchant Outlets",
+    "content": "🏛️ UPI Acceptance in Cambodia via KHQR\n\n👤 Who → NPCI International Payments Limited (NIPL) and ACLEDA Bank Plc.\n\n📋 What → Indian travellers can now make QR-based UPI payments across Cambodia by scanning Bakong's KHQR codes\n\n📍 Where → Cambodia\n\n🎯 Purpose → To enable seamless cross-border digital payments for Indian tourists at Cambodian merchant outlets\n\n📌 Important Facts\n▪️ Partnership between NIPL (international arm of NPCI) and ACLEDA Bank Plc. enabled this\n▪️ UPI acceptance via KHQR — Cambodia's national QR code system (Bakong's KHQR)\n▪️ Indian tourists use UPI-enabled apps to scan KHQR codes\n\n⚠️ Exam Angle → KHQR as Cambodia's national QR code system, NIPL's role as NPCI's international arm, and UPI's global expansion are high-value topics for banking/SSC awareness\n\n#03June2026",
+    "type": "news",
+    "revision_count": 6
+  },
+  {
+    "question": "Choose the word most OPPOSITE in meaning to 'Ostracize'.",
+    "options": [
+      "A) Blackball",
+      "B) Marginalize",
+      "C) Assimilate",
+      "D) Shun"
+    ],
+    "answer": "C) Assimilate",
+    "explanation": "Assimilate means to absorb and integrate into a group — the direct opposite of ostracize. A) Blackball = to exclude by voting against → synonym. B) Marginalize = to push to the margins/exclude → synonym. D) Shun = to avoid deliberately → synonym. Trap: Three options are synonyms, only one is the antonym — a classic SSC CGL format.",
+    "type": "mcq",
+    "id": "POST_192",
+    "revision_count": 3
+  },
+  {
+    "id": "POST_47",
+    "title": "WAVES OTT Crosses One Crore Registered Users",
+    "content": "🏛️ Prasar Bharati's WAVES OTT Milestone\n\n👤 Who → Prasar Bharati\n\n📋 What → WAVES (World Audio Visual Entertainment Services) OTT platform crossed one crore registered users\n\n📍 Where → India\n\n🎯 Purpose → To provide a public sector OTT platform for audio-visual entertainment to Indian audiences\n\n📌 Important Facts\n▪️ Milestone achieved in less than two years since launch in November 2024\n▪️ WAVES OTT target: 2 Crore registered users by March 2027\n▪️ Prasar Bharati Formed: 23 November 1997; HQ: New Delhi\n▪️ Under Ministry of Information and Broadcasting\n\n⚠️ Exam Angle → Full form of WAVES, parent body (Prasar Bharati), launch month (November 2024), milestone (1 crore), and target (2 crore by March 2027) are all high-yield data points\n\n#03June2026",
+    "type": "news",
+    "revision_count": 6
+  },
+  {
+    "question": "Despite eating a five-course meal, the greedy aristocrat's appetite could not be ______; he demanded more courses to be served.",
+    "options": [
+      "A) Depleted",
+      "B) Satiated",
+      "C) Ostracized",
+      "D) Stifled"
+    ],
+    "answer": "B) Satiated",
+    "explanation": "Satiate means to satisfy fully or fill to excess — suits the context of an appetite that cannot be fully satisfied. A) Depleted means reduced/exhausted — wrong context (depletes a resource, not an appetite). C) Ostracized = excluded from group — unrelated. D) Stifled = suppressed — wrong meaning. Rule: Satiate implies filling beyond satisfaction; stronger than 'satisfy'.",
+    "type": "mcq",
+    "id": "POST_193",
+    "revision_count": 3
+  },
+  {
+    "id": "POST_48",
+    "title": "Gujarat's Hastkala Setu Yojana Crosses ₹102 Crore Sales Milestone",
+    "content": "🏛️ Hastkala Setu Yojana (HSY) Sales Achievement\n\n👤 Who → Government of Gujarat\n\n📋 What → HSY achieved cumulative sales of over ₹102.08 crore since its launch\n\n📍 Where → Gujarat\n\n🎯 Purpose → To strengthen traditional arts and crafts, improve market access for artisans, and promote entrepreneurship\n\n📌 Important Facts\n▪️ HSY = Hastkala Setu Yojana (Gujarat)\n▪️ Sales milestone: ₹102.08 crore (cumulative)\n▪️ Gujarat Formation: 1 May 1960; Capital: Gandhinagar\n▪️ Chief Minister: Bhupendrabhai Patel; Governor: Acharya Devvrat\n▪️ National Parks: Gir, Marine (Gulf of Kutch), Velavadar Blackbuck, Vansda\n\n⚠️ Exam Angle → Scheme name (HSY), its objective (artisan empowerment), sales figure (₹102 crore), and Gujarat static facts are relevant for state-level and general awareness sections\n\n#03June2026",
+    "type": "news",
+    "revision_count": 6
+  },
+  {
+    "question": "Which of the following sentences uses 'Satiate' INCORRECTLY?",
+    "options": [
+      "A) The lavish feast satiated even the hungriest guest.",
+      "B) No amount of wealth could satiate his greed.",
+      "C) She satiated her curiosity by reading extensively.",
+      "D) The drought satiated the farmers with excessive rainfall."
+    ],
+    "answer": "D) The drought satiated the farmers with excessive rainfall.",
+    "explanation": "A drought means scarcity of water — it cannot satiate (satisfy/fill) with rainfall; this is logically contradictory. Droughts deprive, not satiate. A), B), C) all use 'satiate' correctly — filling/satisfying hunger, greed, and curiosity respectively. Rule: Satiate requires a context of excess/fullness, not deprivation.",
+    "type": "mcq",
+    "id": "POST_194",
+    "revision_count": 3
+  },
+  {
+    "id": "POST_49",
+    "title": "Blue India 2026 International Conference and Expo to be Held in Kerala",
+    "content": "🏛️ Blue India 2026 — International Maritime & Ocean Conference\n\n👤 Who → Kerala University of Fisheries and Ocean Studies (KUFOS)\n\n📋 What → Will host the international conference and expo 'Blue India 2026'\n\n📍 Where → Panangad Campus, Kochi, Kerala\n\n🎯 Purpose → To promote blue economy research, ocean innovation, and sustainable marine development\n\n📌 Important Facts\n▪️ Theme: \"Blue Research – Blue Innovation – Blue Future\"\n▪️ Hosted by KUFOS at its Panangad campus in Kochi\n\n⚠️ Exam Angle → Host institution (KUFOS), venue (Kochi, Kerala), and theme of Blue India 2026 are standard questions in environment and economy awareness sections\n\n#03June2026",
+    "type": "news",
+    "revision_count": 6
+  },
+  {
+    "question": "A ______ of low-quality products in the market has severely affected the profit margins of domestic manufacturers.",
+    "options": [
+      "A) Dearth",
+      "B) Scarcity",
+      "C) Paucity",
+      "D) Glut"
+    ],
+    "answer": "D) Glut",
+    "explanation": "Glut means excessive oversupply — fits 'low-quality products flooding the market'. A) Dearth = severe shortage → opposite meaning. B) Scarcity = lack of something → opposite meaning. C) Paucity = smallness of number/amount → opposite. Trap: All three wrong options are antonyms of Glut, testing knowledge of the word's precise meaning.",
+    "type": "mcq",
+    "id": "POST_195",
+    "revision_count": 3
+  },
+  {
+    "id": "POST_50",
+    "title": "NCDFI and Assam Rifles Sign Agreement to Expand Dairy Supply in North-East",
+    "content": "🏛️ NCDFI–Assam Rifles MoU for Dairy Supply\n\n👤 Who → National Cooperative Dairy Federation of India (NCDFI) and Assam Rifles\n\n📋 What → Signed an agreement to expand supply of milk and dairy products to military establishments across the North-Eastern region\n\n📍 Where → North-East India\n\n🎯 Purpose → To ensure adequate and regular dairy supply to military establishments in the North-Eastern region\n\n📌 Important Facts\n▪️ Assam Rifles is a paramilitary force of India\n▪️ Assam Rifles Formation: 1835 (oldest paramilitary force)\n▪️ Assam Rifles HQ: Shillong, Meghalaya\n\n⚠️ Exam Angle → Assam Rifles formation year (1835), HQ (Shillong, Meghalaya), its paramilitary status, and NCDFI's dairy supply role are exam-relevant facts\n\n#03June2026",
+    "type": "news",
+    "revision_count": 6
+  },
+  {
+    "question": "Which of the following is the most accurate SYNONYM of 'Glut'?",
+    "options": [
+      "A) Paucity",
+      "B) Surfeit",
+      "C) Famine",
+      "D) Drought"
+    ],
+    "answer": "B) Surfeit",
+    "explanation": "Surfeit means an excessive amount — a direct synonym of Glut. A) Paucity = very small amount → antonym. C) Famine = extreme scarcity of food → antonym. D) Drought = prolonged shortage of water → antonym. Rule: Glut/Surfeit/Plethora/Surplus = excess; Dearth/Paucity/Scarcity/Famine = shortage.",
+    "type": "mcq",
+    "id": "POST_196",
+    "revision_count": 3
+  },
+  {
+    "id": "POST_51",
+    "title": "India Successfully Flight-Tests Indigenous RudraM-II Air-to-Surface Missile",
+    "content": "🏛️ RudraM-II Missile Successful Flight Test\n\n👤 Who → Defence Research and Development Organisation (DRDO) and Indian Air Force (IAF)\n\n📋 What → Successfully conducted flight tests of the indigenously developed RudraM-II Air-to-Surface Missile from an airborne platform\n\n📍 Where → India (airborne platform)\n\n🎯 Purpose → To enhance India's indigenous air-to-surface precision strike capability and Atmanirbhar Bharat in defence\n\n📌 Important Facts\n▪️ RudraM-II is indigenously developed by DRDO\n▪️ Type: Air-to-Surface Missile; launched from airborne platform\n▪️ Joint achievement of DRDO and IAF\n\n⚠️ Exam Angle → Missile name (RudraM-II), type (Air-to-Surface), developing agencies (DRDO + IAF), and launch mode (airborne platform) are key exam points for defence section\n\n#03June2026",
+    "type": "news",
+    "revision_count": 6
+  },
+  {
+    "question": "The peace agreement between the two nations helped ______ the old friendship that had been destroyed by years of conflict.",
+    "options": [
+      "A) Extinguish",
+      "B) Stifle",
+      "C) Rekindle",
+      "D) Quell"
+    ],
+    "answer": "C) Rekindle",
+    "explanation": "Rekindle means to revive or renew something that had faded — suits the revival of friendship after conflict. A) Extinguish = to put out/end → antonym of rekindle. B) Stifle = to suppress → antonym. D) Quell = to put down/suppress → also an antonym. Key: Rekindle, Revive, Resuscitate, Reignite all mean to bring back to life — their antonyms include Extinguish, Suppress, Quell.",
+    "type": "mcq",
+    "id": "POST_197",
+    "revision_count": 3
+  },
+  {
+    "id": "POST_52",
+    "title": "Former Gujarat Minister and BJP MLA Yogesh Patel Passes Away",
+    "content": "🏛️ Demise of BJP MLA Yogesh Patel\n\n👤 Who → Yogesh Patel, BJP MLA from Manjalpur, Gujarat\n\n📋 What → Passed away\n\n📍 Where → Gujarat\n\n🎯 Purpose → (Obituary)\n\n📌 Important Facts\n▪️ Represented Manjalpur Assembly constituency since 2012\n▪️ Re-elected in 2017 and 2022\n▪️ Served as Minister for Narmada Development and Housing under former CM Vijay Rupani\n\n⚠️ Exam Angle → His constituency (Manjalpur), ministerial portfolios (Narmada Development & Housing), and former CM under whom he served (Vijay Rupani) are relevant for Gujarat state exam questions\n\n#03June2026",
+    "type": "news",
+    "revision_count": 6
+  },
+  {
+    "question": "Choose the ANTONYM of 'Rekindle' from the options below.",
+    "options": [
+      "A) Revitalize",
+      "B) Resuscitate",
+      "C) Reawaken",
+      "D) Suppress"
+    ],
+    "answer": "D) Suppress",
+    "explanation": "Suppress means to put down or end something — the opposite of rekindling/reviving. A) Revitalize = to give new energy → synonym of Rekindle. B) Resuscitate = to bring back to life → synonym. C) Reawaken = to awaken again → synonym. Trap: Three options are synonyms and only one is the antonym — a standard IBPS PO difficulty format.",
+    "type": "mcq",
+    "id": "POST_198",
+    "revision_count": 3
+  },
+  {
+    "id": "POST_53",
+    "title": "Telangana Celebrates 11th State Formation Day",
+    "content": "🏛️ Telangana's 11th Formation Day\n\n👤 Who → State of Telangana\n\n📋 What → Celebrated its 11th State Formation Day on 2 June 2026\n\n📍 Where → Telangana\n\n🎯 Purpose → To commemorate the formation of Telangana as India's 29th state\n\n📌 Important Facts\n▪️ Telangana became India's 29th State\n▪️ Formed after bifurcation of Andhra Pradesh under the Andhra Pradesh Reorganisation Act, 2014\n▪️ Formation Day: 2 June (every year)\n\n⚠️ Exam Angle → State number (29th), enabling legislation (AP Reorganisation Act 2014), formation date (2 June), and this year's edition (11th) are repeatedly asked in SSC/state exams\n\n#03June2026",
     "type": "news",
     "revision_count": 6
   }
