@@ -1,47 +1,5 @@
 [
   {
-    "question": "Veteran actor Mushtaq Khan, who recently passed away, was known for character and supporting roles across how many films in his career?",
-    "options": [
-      "A) More than 200 films",
-      "B) More than 300 films",
-      "C) More than 500 films",
-      "D) More than 700 films"
-    ],
-    "answer": "C) More than 500 films",
-    "explanation": "Mushtaq Khan was recognised for character and supporting roles in more than 500 films across Hindi cinema. The other options understate or overstate his filmography count and serve as close numerical distractors typical of personality-based current affairs questions. #25September2026",
-    "type": "mcq",
-    "id": "POST_20",
-    "revision_count": 2
-  },
-  {
-    "id": "POST_1",
-    "title": "Shaunae Miller-Uibo Named International Ambassador for Delhi Half Marathon",
-    "content": "🏛️ Two-Time Olympic Champion to Front 2026 Vedanta Delhi Half Marathon\n\n👤 Who → Shaunae Miller-Uibo (Bahamas)\n\n📋 What → Announced as International Event Ambassador for the 2026 Vedanta Delhi Half Marathon\n\n📍 Where → Race to be held at Jawaharlal Nehru Stadium, New Delhi on October 18\n\n🎯 Purpose → Boost the marathon's international profile and elite appeal\n\n📌 Important Facts\n▪️ Won gold in women's 400m at 2016 Rio Olympics and 2020 Tokyo Olympics\n▪️ She is from the Bahamas\n\n⚠️ Exam Angle → Olympic medal years (2016, 2020) and event date (October 18) are common one-liners\n\n#25September2026",
-    "type": "news",
-    "revision_count": 3
-  },
-  {
-    "question": "In which two editions of the Olympic Games did Shaunae Miller-Uibo, recently named international ambassador for the 2026 Vedanta Delhi Half Marathon, win gold in the women's 400m?",
-    "options": [
-      "A) 2012 London & 2016 Rio",
-      "B) 2016 Rio & 2020 Tokyo",
-      "C) 2008 Beijing & 2012 London",
-      "D) 2020 Tokyo & 2024 Paris"
-    ],
-    "answer": "B) 2016 Rio & 2020 Tokyo",
-    "explanation": "Miller-Uibo, a two-time Olympic champion from the Bahamas, won women's 400m gold at both the 2016 Rio and 2020 Tokyo Olympics. She has been announced international event ambassador for the 2026 Vedanta Delhi Half Marathon (Oct 18, Jawaharlal Nehru Stadium). Options A, C and D mix in editions where she didn't win 400m gold, making them incorrect distractors. #25September2026",
-    "type": "mcq",
-    "id": "POST_11",
-    "revision_count": 3
-  },
-  {
-    "id": "POST_2",
-    "title": "Pradhan Mantri Kisan Maandhan Yojana Completes 7 Years",
-    "content": "🏛️ PM-KMY Marks 7 Years of Social Security for Farmers\n\n👤 Who → Ministry of Agriculture & Farmers Welfare / Small and Marginal Farmers (SMFs)\n\n📋 What → Pradhan Mantri Kisan Maandhan Yojana (PM-KMY) completed 7 years\n\n📍 Where → Pan-India, launched 12 September 2019\n\n🎯 Purpose → Provide old-age social security (pension) to Small and Marginal Farmers\n\n📌 Important Facts\n▪️ Type: Central Sector, voluntary and contributory pension scheme\n▪️ Eligible age: 18–40 years; landholding up to 2 hectares\n▪️ Monthly contribution: ₹55–₹200; assured pension: minimum ₹3,000/month after 60 years\n▪️ Family pension: 50% of subscriber's pension (₹1,500/month)\n▪️ Pension Fund Manager: Life Insurance Corporation of India (LIC)\n▪️ Total enrolment: 24,96,252 farmers (as of 08 Feb 2026)\n\n⚠️ Exam Angle → Launch date (12 Sept 2019), contribution slab, and Pension Fund Manager (LIC) are frequently tested\n\n#25September2026",
-    "type": "news",
-    "revision_count": 3
-  },
-  {
     "question": "Which institution has been designated the Pension Fund Manager for the Pradhan Mantri Kisan Maandhan Yojana (PM-KMY), which completed 7 years in September 2026?",
     "options": [
       "A) State Bank of India",
@@ -53,14 +11,7 @@
     "explanation": "PM-KMY, launched 12 Sept 2019 for Small and Marginal Farmers (18-40 years, up to 2 hectares land), assures a minimum pension of ₹3,000/month, managed by LIC. SBI is a bank, not a pension fund manager here; ESIC covers organised-sector workers; NPS Trust manages the National Pension System, a separate scheme. #25September2026",
     "type": "mcq",
     "id": "POST_12",
-    "revision_count": 3
-  },
-  {
-    "id": "POST_3",
-    "title": "Namo Bharat Showcased at InnoTrans 2026 in Berlin",
-    "content": "🏛️ India's First RRTS Goes Global at InnoTrans 2026\n\n👤 Who → National Capital Region Transport Corporation (NCRTC)\n\n📋 What → Showcased Namo Bharat, India's first Regional Rapid Transit System (RRTS), at InnoTrans 2026\n\n📍 Where → Berlin, Germany (organised by Messe Berlin, held every two years)\n\n🎯 Purpose → Provide high-speed, high-frequency regional rail connectivity in the NCR\n\n📌 Important Facts\n▪️ First corridor: Delhi–Ghaziabad–Meerut Namo Bharat Corridor (~82 km)\n▪️ Route: Sarai Kale Khan, Delhi → Modipuram, Meerut; fully operational since 22 February 2026\n▪️ NCRTC incorporated on 21 August 2013; joint venture of Centre with Delhi, UP, Haryana and Rajasthan; HQ New Delhi\n\n⚠️ Exam Angle → NCRTC incorporation date, corridor length (82 km), and 'first RRTS in India' tag are high-probability MCQ points\n\n#25September2026",
-    "type": "news",
-    "revision_count": 3
+    "revision_count": 4
   },
   {
     "question": "In which year was the National Capital Region Transport Corporation (NCRTC), which showcased India's first RRTS 'Namo Bharat' at InnoTrans 2026 Berlin, incorporated?",
@@ -74,14 +25,336 @@
     "explanation": "NCRTC was incorporated on 21 August 2013 as a joint venture of the Centre with Delhi, UP, Haryana and Rajasthan; it implements Namo Bharat, India's first Regional Rapid Transit System, on the 82 km Delhi-Ghaziabad-Meerut corridor. 2011 is SECI's incorporation year (a common distractor); 2015 and 2019 don't match any related entity here. #25September2026",
     "type": "mcq",
     "id": "POST_13",
-    "revision_count": 3
+    "revision_count": 4
   },
   {
     "id": "POST_4",
     "title": "SECI Celebrates 15th Foundation Day",
     "content": "🏛️ Solar Energy Corporation of India Marks 15 Years\n\n👤 Who → Solar Energy Corporation of India Limited (SECI)\n\n📋 What → Celebrated its 15th Foundation Day\n\n📍 Where → India (Headquarters: New Delhi)\n\n🎯 Purpose → Mark 15 years as the dedicated implementing agency for the National Solar Mission\n\n📌 Important Facts\n▪️ Incorporated on 20 September 2011\n▪️ Navratna Central Public Sector Enterprise (CPSE) under Ministry of New and Renewable Energy (MNRE)\n\n⚠️ Exam Angle → SECI's incorporation year (2011) and its parent ministry are commonly asked\n\n#25September2026",
     "type": "news",
-    "revision_count": 3
+    "revision_count": 4
+  },
+  {
+    "id": "POST_21",
+    "title": "Make in India Completes 12 Years",
+    "content": "🏛️ Flagship Manufacturing Initiative Turns 12\n\n👤 Who → Government of India / Department for Promotion of Industry and Internal Trade (DPIIT)\n\n📋 What → Make in India initiative completed 12 years on 25 September 2026\n\n📍 Where → Pan-India (launched 25 September 2014)\n\n🎯 Purpose → Make India a global hub for manufacturing, design and innovation\n\n📌 Important Facts\n▪️ Expanded as Make in India 2.0: 27 sectors (15 manufacturing + 12 service sectors)\n▪️ Manufacturing GVA (constant prices) CAGR of 10.88% between 2022-23 and 2025-26\n▪️ Administrative Department: DPIIT under Ministry of Commerce & Industry\n▪️ Guiding approach: Minimum Government, Maximum Governance\n\n⚠️ Exam Angle → Launch date (25 Sept 2014), sector split (15+12) and administering department (DPIIT) are frequent questions\n\n#26September2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_22",
+    "title": "Bankers' Books Evidence Act, 2026 to Come into Force from 1 October",
+    "content": "🏛️ New Law Modernises Use of Banking Records as Court Evidence\n\n👤 Who → Ministry of Finance\n\n📋 What → Fixed 1 October 2026 as the implementation date for the Bankers' Books Evidence Act, 2026\n\n📍 Where → India (courts and banks nationwide)\n\n🎯 Purpose → Modernise the legal framework for use of banking records as evidence in courts\n\n📌 Important Facts\n▪️ Replaces the Bankers' Books Evidence Act, 1891\n▪️ Introduces the concept of 'special cause'\n▪️ Where a bank is not a party to proceedings, a court can summon a bank officer or require production of bankers' books only after recording a special cause in writing\n▪️ Special cause may include doubtful accuracy/authenticity of an entry, disrupted record-keeping, or the bank's non-compliance with a legal order\n\n⚠️ Exam Angle → Act replaced (1891), effective date (1 Oct 2026) and 'special cause' provision are key banking-awareness points\n\n#26September2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_23",
+    "title": "Nirmala Sitharaman Launches IIT-Madras Unicorn Venture Fund",
+    "content": "🏛️ New Fund to Back Early-Stage Startups\n\n👤 Who → Union Finance Minister Nirmala Sitharaman, IIT Madras and Unicorn India Ventures\n\n📋 What → Launched the IIT-Madras Unicorn Venture Fund and released the book 'Cashless Nation: How UPI Changed the Nation'\n\n📍 Where → IIT Madras Alumni Meet – Sangam, Bengaluru\n\n🎯 Purpose → Support early-stage startups with funding\n\n📌 Important Facts\n▪️ Fund launched by IIT Madras in partnership with Unicorn India Ventures\n▪️ Will provide ₹5 to ₹20 crore to early-stage startups\n▪️ Has received SEBI approval\n▪️ Book authors: Dr. Santhan Paul and B. Sambamurthy\n\n⚠️ Exam Angle → Fund size per startup (₹5-20 crore), SEBI approval and book-author pairs are likely static-linked questions\n\n#26September2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_24",
+    "title": "APEDA Facilitates First Export of GI-Tagged Gulbarga Tur Dal to Maldives",
+    "content": "🏛️ GI-Tagged Pulse Reaches Maldives\n\n👤 Who → Agricultural and Processed Food Products Export Development Authority (APEDA)\n\n📋 What → Facilitated flag-off of a 1 metric tonne consignment of GI-tagged Gulbarga Tur Dal\n\n📍 Where → From Karnataka to the Maldives\n\n🎯 Purpose → Boost agri-exports and global visibility of GI-tagged products\n\n📌 Important Facts\n▪️ Consignment size: 1 metric tonne\n▪️ Product: Gulbarga Tur Dal (GI-tagged), Karnataka\n▪️ Destination: Maldives (first export of this product)\n\n⚠️ Exam Angle → GI-tagged product + state (Gulbarga, Karnataka) + promoting agency (APEDA) is a classic matching question\n\n#26September2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_25",
+    "title": "CJI Surya Kant Inaugurates Country's First Victims Rights Centre in Patna",
+    "content": "🏛️ India's First Victims Rights Centre Opens in Bihar\n\n👤 Who → Chief Justice of India Justice Surya Kant\n\n📋 What → Inaugurated the country's first Victims Rights Centre\n\n📍 Where → Bihar State Legal Services Authority campus, Patna, Bihar\n\n🎯 Purpose → Help crime victims access their legal rights at different stages of a case\n\n📌 Important Facts\n▪️ Designed as a victim-centric case management system\n▪️ Located at the Bihar State Legal Services Authority campus\n\n⚠️ Exam Angle → 'First in India' tag, location (Patna) and inaugurating dignitary (CJI Surya Kant) are high-probability points\n\n#26September2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_26",
+    "title": "S. Jaishankar Addresses 81st United Nations General Assembly",
+    "content": "🏛️ India's Statement at UNGA High-Level Session\n\n👤 Who → External Affairs Minister Dr. S. Jaishankar\n\n📋 What → Addressed the High-Level Session of the 81st United Nations General Assembly (UNGA)\n\n📍 Where → New York, USA\n\n🎯 Purpose → Present India's position on global issues at the UN's main deliberative forum\n\n📌 Important Facts\n▪️ 81st session theme: 'Restoring trust, managing transformation: A United Nations that delivers for all'\n▪️ UNGA has all 193 UN Member States; each country has one vote\n▪️ Established 1945; Headquarters: New York, USA\n▪️ President of the 81st session: Dr. Khalilur Rahman of Bangladesh\n\n⚠️ Exam Angle → Session number (81st), President (Khalilur Rahman, Bangladesh) and UNGA membership (193) are commonly asked\n\n#26September2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_27",
+    "title": "India Hosts APNIC 62 in Mumbai After 14 Years",
+    "content": "🏛️ Asia Pacific Internet Community Meets in India\n\n👤 Who → National Internet Exchange of India (NIXI) and Internet Service Providers Association of India (ISPAI)\n\n📋 What → Hosted the 62nd APNIC Conference (APNIC 62); NIXI signed an MoU with Asia Pacific Network Information Centre (APNIC)\n\n📍 Where → Mumbai, India\n\n🎯 Purpose → Strengthen cooperation in Internet development, technical capacity building and community outreach\n\n📌 Important Facts\n▪️ APNIC conference returned to India after 14 years\n▪️ NIXI: not-for-profit (Section 8) company, founded 19 June 2003, under MeitY\n▪️ NIXI manages the country-code top-level domains .IN and .Bharat\n\n⚠️ Exam Angle → NIXI's founding date, parent ministry (MeitY) and domains managed (.IN, .Bharat) are prime static-GK points\n\n#26September2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_28",
+    "title": "India and Netherlands Sign Two MoUs to Advance Kalpasar Water Project",
+    "content": "🏛️ Indo-Dutch Water Partnership Deepens\n\n👤 Who → India (Union Jal Shakti Minister C. R. Paatil) and Netherlands\n\n📋 What → Signed two tripartite MoUs among Central Water Commission (CWC), Kalpasar Department (Government of Gujarat) and Dutch institutions Deltares and TU Delft\n\n📍 Where → New Delhi, on the sidelines of the 9th India International Water Week 2026\n\n🎯 Purpose → Advance technical cooperation for the Kalpasar Project in Gujarat\n\n📌 Important Facts\n▪️ Kalpasar = Gulf of Khambhat Development Project, a multipurpose water conservation and infrastructure project\n▪️ Proposes a massive dam across the Gulf of Khambhat\n▪️ Freshwater reservoir from runoff of Sabarmati, Mahi and Dhadhar rivers, supplemented by Narmada water\n\n⚠️ Exam Angle → Full form/location of Kalpasar and the rivers involved are typical geography-linked questions\n\n#26September2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_29",
+    "title": "Cochin Shipyard & Synergy Marine Sign MoU to Build Ships in India",
+    "content": "🏛️ Indo-Singapore Shipbuilding Tie-Up\n\n👤 Who → Cochin Shipyard Limited (CSL) and Singapore-based Synergy Marine Group\n\n📋 What → Signed an MoU to jointly pursue shipbuilding, ship repair and conversion projects in India\n\n📍 Where → India (CSL headquartered in Kochi, Kerala)\n\n🎯 Purpose → Boost shipbuilding, ship repair and conversion capacity in India\n\n📌 Important Facts\n▪️ CSL is a Miniratna Category-I CPSE\n▪️ Under the Ministry of Ports, Shipping and Waterways\n▪️ Established in 1972; Headquarters: Kochi, Kerala\n\n⚠️ Exam Angle → CSL's status (Miniratna Category-I), ministry, founding year (1972) and HQ (Kochi) are frequently tested\n\n#26September2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_30",
+    "title": "INS Sudarshini Reaches Alexandria During Lokayan 26 Expedition",
+    "content": "🏛️ Indian Navy Sail Training Ship Visits Egypt\n\n👤 Who → Indian Navy's sail training ship INS Sudarshini\n\n📋 What → Arrived at Alexandria as part of the ongoing Lokayan 26 transoceanic expedition (second visit to Alexandria in the deployment)\n\n📍 Where → Alexandria, Egypt\n\n🎯 Purpose → Promote maritime outreach and international naval cooperation through a transoceanic voyage\n\n📌 Important Facts\n▪️ 10-month expedition began from Kochi on 20 January 2026\n▪️ To cover about 22,000 nautical miles, visiting 18 ports in 13 countries\n▪️ Completed first Atlantic crossing, reaching Antigua after a 19-day voyage from Cape Verde\n▪️ Crossed 10,000 nautical miles milestone since leaving Kochi\n\n⚠️ Exam Angle → Ship type (three-masted barque), expedition name (Lokayan 26) and numerical data (22,000 nm, 18 ports, 13 countries) are likely MCQ facts\n\n#26September2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_31",
+    "title": "Suruchi Singh-Kamaljeet Win India's First Shooting Gold at Asian Games 2026",
+    "content": "🏛️ Historic Gold in 10m Air Pistol Mixed Team\n\n👤 Who → Suruchi Singh and Kamaljeet (India)\n\n📋 What → Won the 10m Air Pistol Mixed Team title, India's first shooting gold at Asian Games 2026\n\n📍 Where → Aichi-Nagoya Asian Games 2026, Japan\n\n🎯 Purpose → Secure India's first shooting gold of the Games\n\n📌 Important Facts\n▪️ Scored an Asian record 484.6 in the final\n▪️ India's first-ever Asian Games gold in the 10m Air Pistol Mixed Team event\n▪️ South Korea took silver (478.0); Iran took bronze (415.8)\n\n⚠️ Exam Angle → Winning score (484.6, Asian record) and 'first-ever gold in the event' fact are common sports questions\n\n#26September2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_32",
+    "title": "Indian Women's Kabaddi Team Wins Gold at Asian Games 2026",
+    "content": "🏛️ India Clinches Women's Kabaddi Gold\n\n👤 Who → Indian women's kabaddi team (captain Pushpa Rana)\n\n📋 What → Won gold by defeating Iran 37–34 in the final\n\n📍 Where → Tokai Citizen Gymnasium, Aichi-Nagoya, Japan\n\n🎯 Purpose → Win the women's kabaddi title at Asian Games 2026\n\n📌 Important Facts\n▪️ India's 4th women's kabaddi gold in five Asian Games editions since the event was introduced in 2010\n▪️ Only edition India did not win: Jakarta 2018, when Iran won the final\n\n⚠️ Exam Angle → Final score (37–34), captain's name and the 2018 exception are typical sports-based questions\n\n#26September2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_33",
+    "title": "Indian Men's Kabaddi Team Clinches Gold at Asian Games 2026",
+    "content": "🏛️ India's Men Win Kabaddi Gold\n\n👤 Who → Indian men's kabaddi team (captain Sunil Kumar)\n\n📋 What → Won gold by defeating Iran 40–34 in the final\n\n📍 Where → Aichi-Nagoya Asian Games 2026, Japan\n\n🎯 Purpose → Win the men's kabaddi title at Asian Games 2026\n\n📌 Important Facts\n▪️ This gold is India's 10th overall Asian Games medal in men's kabaddi\n▪️ Runner-up: Iran\n\n⚠️ Exam Angle → Captain (Sunil Kumar), final score (40–34) and medal tally (10th) are recall-type questions\n\n#26September2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_34",
+    "title": "Seema Kumari Wins Bronze in Women's 10,000m at Asian Games 2026",
+    "content": "🏛️ India's First 10,000m Medal in 16 Years\n\n👤 Who → Seema Kumari (India)\n\n📋 What → Won bronze in the women's 10,000 metres in 32:50.05\n\n📍 Where → Aichi-Nagoya Asian Games 2026, Japan\n\n🎯 Purpose → Return India to the podium in women's 10,000m\n\n📌 Important Facts\n▪️ Timing: 32 minutes 50.05 seconds\n▪️ India's first Asian Games medal in women's 10,000m in 16 years\n\n⚠️ Exam Angle → Event, medal colour and the '16 years' gap are likely question angles\n\n#26September2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_35",
+    "title": "International Day for the Total Elimination of Nuclear Weapons Observed on 26 September",
+    "content": "🏛️ UN Day Promotes a Nuclear-Weapon-Free World\n\n👤 Who → United Nations / International community\n\n📋 What → International Day for the Total Elimination of Nuclear Weapons observed\n\n📍 Where → Worldwide\n\n🎯 Purpose → Promote the goal of a nuclear-weapon-free world\n\n📌 Important Facts\n▪️ Observed every year on 26 September\n▪️ New START Treaty between the US and Russia expired on 5 February 2026 without a successor arrangement\n▪️ For the first time since the 1970s, no agreed limits constrain the strategic nuclear arsenals of the US and Russia\n\n⚠️ Exam Angle → Date of observance (26 September) and the New START expiry (5 Feb 2026) are important for IR/Days sections\n\n#26September2026",
+    "type": "news",
+    "revision_count": 0
+  },
+  {
+    "question": "Make in India, which completed 12 years on 25 September 2026, was expanded as Make in India 2.0 focusing on how many sectors in total?",
+    "options": [
+      "A) 25 sectors",
+      "B) 27 sectors",
+      "C) 30 sectors",
+      "D) 21 sectors"
+    ],
+    "answer": "B) 27 sectors",
+    "explanation": "Make in India 2.0 covers 27 sectors: 15 manufacturing and 12 service sectors. The initiative was launched on 25 September 2014 and is administered by DPIIT under the Ministry of Commerce & Industry; its guiding approach is 'Minimum Government, Maximum Governance'. The other totals do not match the 15 + 12 split. #26September2026",
+    "type": "mcq",
+    "id": "POST_36",
+    "revision_count": 0
+  },
+  {
+    "question": "The Bankers' Books Evidence Act, 2026, which comes into force on 1 October 2026, replaces an earlier Act enacted in which year?",
+    "options": [
+      "A) 1872",
+      "B) 1891",
+      "C) 1934",
+      "D) 1949"
+    ],
+    "answer": "B) 1891",
+    "explanation": "The 2026 Act replaces the Bankers' Books Evidence Act, 1891, and introduces the 'special cause' concept: a court can summon a bank officer or call for bankers' books (where the bank is not a party) only after recording a special cause in writing. 1872 is the Indian Evidence Act, 1934 the RBI Act and 1949 the Banking Regulation Act (as commonly linked banking statutes). #26September2026",
+    "type": "mcq",
+    "id": "POST_37",
+    "revision_count": 0
+  },
+  {
+    "question": "The IIT-Madras Unicorn Venture Fund, launched by the Union Finance Minister at the IIT Madras Alumni Meet 'Sangam' in Bengaluru, will provide funding to early-stage startups in which range?",
+    "options": [
+      "A) ₹1 to ₹5 crore",
+      "B) ₹5 to ₹20 crore",
+      "C) ₹20 to ₹50 crore",
+      "D) ₹50 to ₹100 crore"
+    ],
+    "answer": "B) ₹5 to ₹20 crore",
+    "explanation": "The fund provides ₹5 to ₹20 crore to early-stage startups, is backed by IIT Madras in partnership with Unicorn India Ventures, and has SEBI approval. At the event, the book 'Cashless Nation: How UPI Changed the Nation' by Dr. Santhan Paul and B. Sambamurthy was also released. The other ranges either understate or overstate the ticket size. #26September2026",
+    "type": "mcq",
+    "id": "POST_38",
+    "revision_count": 0
+  },
+  {
+    "question": "APEDA, which facilitated the first export of a 1 metric tonne consignment of GI-tagged Gulbarga Tur Dal from Karnataka to the Maldives, functions under which Ministry?",
+    "options": [
+      "A) Ministry of Agriculture and Farmers Welfare",
+      "B) Ministry of Commerce and Industry",
+      "C) Ministry of Food Processing Industries",
+      "D) Ministry of Consumer Affairs"
+    ],
+    "answer": "B) Ministry of Commerce and Industry",
+    "explanation": "APEDA (Agricultural and Processed Food Products Export Development Authority) is under the Ministry of Commerce and Industry and promotes export of agri and processed food products. The other ministries deal with farming, food-processing industry and consumer welfare respectively, but do not administer APEDA. #26September2026",
+    "type": "mcq",
+    "id": "POST_39",
+    "revision_count": 0
+  },
+  {
+    "question": "India's first Victims Rights Centre, inaugurated by Chief Justice of India Justice Surya Kant, has been set up on the campus of the legal services authority of which state?",
+    "options": [
+      "A) Uttar Pradesh",
+      "B) Jharkhand",
+      "C) Bihar",
+      "D) West Bengal"
+    ],
+    "answer": "C) Bihar",
+    "explanation": "The centre is located at the Bihar State Legal Services Authority campus in Patna. It is designed as a victim-centric case management system helping crime victims access their legal rights at different stages of a case. The other states are neighbouring states of Bihar and act as plausible distractors. #26September2026",
+    "type": "mcq",
+    "id": "POST_40",
+    "revision_count": 0
+  },
+  {
+    "question": "Who is the President of the 81st session of the United Nations General Assembly, whose High-Level Session was addressed by External Affairs Minister S. Jaishankar?",
+    "options": [
+      "A) Dr. Khalilur Rahman",
+      "B) Annalena Baerbock",
+      "C) Philemon Yang",
+      "D) Dennis Francis"
+    ],
+    "answer": "A) Dr. Khalilur Rahman",
+    "explanation": "Dr. Khalilur Rahman of Bangladesh presides over the 81st UNGA session, themed 'Restoring trust, managing transformation: A United Nations that delivers for all'. UNGA has all 193 member states with one vote each and is headquartered in New York. Baerbock, Yang and Francis are recent former Presidents of the Assembly. #26September2026",
+    "type": "mcq",
+    "id": "POST_41",
+    "revision_count": 0
+  },
+  {
+    "question": "The 62nd APNIC Conference, marking the return of the event to India after 14 years, was hosted in Mumbai by which organisation?",
+    "options": [
+      "A) Internet Service Providers Association of India",
+      "B) National Internet Exchange of India",
+      "C) CERT-In",
+      "D) BSNL"
+    ],
+    "answer": "B) National Internet Exchange of India",
+    "explanation": "NIXI hosted APNIC 62, while ISPAI acted as co-host (so it is not the primary host). NIXI is a not-for-profit Section 8 company founded on 19 June 2003 under MeitY and manages the .IN and .Bharat domains. CERT-In handles cyber incident response and BSNL is a telecom PSU, neither hosted the event. #26September2026",
+    "type": "mcq",
+    "id": "POST_42",
+    "revision_count": 0
+  },
+  {
+    "question": "The Kalpasar Project, on which India and the Netherlands signed two MoUs during the 9th India International Water Week 2026, proposes construction of a dam across which water body?",
+    "options": [
+      "A) Gulf of Kutch",
+      "B) Gulf of Khambhat",
+      "C) Gulf of Mannar",
+      "D) Palk Bay"
+    ],
+    "answer": "B) Gulf of Khambhat",
+    "explanation": "Kalpasar stands for Gulf of Khambhat Development Project in Gujarat. It plans a freshwater reservoir using runoff of the Sabarmati, Mahi and Dhadhar rivers, supplemented by Narmada water. The tripartite MoUs involve CWC, Gujarat's Kalpasar Department, and Deltares and TU Delft. Kutch, Mannar and Palk Bay are other coastal water bodies, not the project site. #26September2026",
+    "type": "mcq",
+    "id": "POST_43",
+    "revision_count": 0
+  },
+  {
+    "question": "Cochin Shipyard Limited, which signed an MoU with Singapore-based Synergy Marine Group for shipbuilding and ship repair in India, holds which status among Central Public Sector Enterprises?",
+    "options": [
+      "A) Maharatna",
+      "B) Navratna",
+      "C) Miniratna Category-I",
+      "D) Miniratna Category-II"
+    ],
+    "answer": "C) Miniratna Category-I",
+    "explanation": "CSL is a Miniratna Category-I CPSE under the Ministry of Ports, Shipping and Waterways, established in 1972 and headquartered in Kochi, Kerala. Maharatna and Navratna are higher categories not held by CSL, while Category-II is a lower Miniratna grade. #26September2026",
+    "type": "mcq",
+    "id": "POST_44",
+    "revision_count": 0
+  },
+  {
+    "question": "INS Sudarshini's Lokayan 26 transoceanic expedition, which began from Kochi on 20 January 2026, is scheduled to cover about 22,000 nautical miles across how many ports and countries?",
+    "options": [
+      "A) 18 ports in 13 countries",
+      "B) 13 ports in 18 countries",
+      "C) 22 ports in 15 countries",
+      "D) 15 ports in 10 countries"
+    ],
+    "answer": "A) 18 ports in 13 countries",
+    "explanation": "The 10-month expedition will visit 18 ports in 13 countries; the swapped figures in option B are a common trap. During the voyage the sail training ship reached Alexandria (second visit), crossed the Atlantic to Antigua after 19 days from Cape Verde, and passed 10,000 nautical miles. #26September2026",
+    "type": "mcq",
+    "id": "POST_45",
+    "revision_count": 0
+  },
+  {
+    "question": "Suruchi Singh and Kamaljeet won India's first shooting gold at the Asian Games 2026 in the 10m Air Pistol Mixed Team event with an Asian record score of?",
+    "options": [
+      "A) 478.0",
+      "B) 484.6",
+      "C) 415.8",
+      "D) 492.4"
+    ],
+    "answer": "B) 484.6",
+    "explanation": "The Indian pair shot an Asian record 484.6 in the final, also India's first-ever Asian Games gold in this event. South Korea took silver with 478.0 and Iran bronze with 415.8, so options A and C are other teams' scores; 492.4 is not linked to the result. #26September2026",
+    "type": "mcq",
+    "id": "POST_46",
+    "revision_count": 0
+  },
+  {
+    "question": "India's women's kabaddi team beat Iran 37–34 to win gold at Asian Games 2026, its fourth gold in five editions since 2010. In which edition did India fail to win gold?",
+    "options": [
+      "A) Guangzhou 2010",
+      "B) Incheon 2014",
+      "C) Jakarta 2018",
+      "D) Hangzhou 2022"
+    ],
+    "answer": "C) Jakarta 2018",
+    "explanation": "India lost to Iran in the final at Jakarta 2018, the only edition it has not won since the women's event began in 2010. The 2026 final was played at Tokai Citizen Gymnasium, Aichi-Nagoya, under captain Pushpa Rana. The other editions were Indian gold-winning campaigns. #26September2026",
+    "type": "mcq",
+    "id": "POST_47",
+    "revision_count": 0
+  },
+  {
+    "question": "India's men's kabaddi team, led by captain Sunil Kumar, beat Iran 40–34 to win gold at Asian Games 2026. This gold is India's how manieth overall Asian Games medal in men's kabaddi?",
+    "options": [
+      "A) 8th",
+      "B) 9th",
+      "C) 10th",
+      "D) 12th"
+    ],
+    "answer": "C) 10th",
+    "explanation": "The gold is India's 10th overall Asian Games medal in men's kabaddi, won at the Aichi-Nagoya Asian Games 2026 in Japan with a 40–34 win over Iran in the final. The neighbouring numbers are plausible distractors for aspirants who do not track the exact tally. #26September2026",
+    "type": "mcq",
+    "id": "POST_48",
+    "revision_count": 0
+  },
+  {
+    "question": "Seema Kumari's bronze in the women's 10,000 metres at Asian Games 2026 (timing 32:50.05) is India's first medal in this event in how many years?",
+    "options": [
+      "A) 8 years",
+      "B) 12 years",
+      "C) 16 years",
+      "D) 20 years"
+    ],
+    "answer": "C) 16 years",
+    "explanation": "Seema Kumari finished third in 32 minutes 50.05 seconds at the Aichi-Nagoya Asian Games in Japan, ending a 16-year wait for an Asian Games medal in women's 10,000m for India. The other gaps do not match the reported drought. #26September2026",
+    "type": "mcq",
+    "id": "POST_49",
+    "revision_count": 0
+  },
+  {
+    "question": "On which date is the International Day for the Total Elimination of Nuclear Weapons observed every year?",
+    "options": [
+      "A) 6 August",
+      "B) 26 September",
+      "C) 29 August",
+      "D) 24 October"
+    ],
+    "answer": "B) 26 September",
+    "explanation": "The UN-linked day is observed on 26 September to promote a nuclear-weapon-free world. Context: the US–Russia New START Treaty expired on 5 February 2026 without a successor, leaving no agreed limits on their strategic arsenals for the first time since the 1970s. 29 August is the International Day against Nuclear Tests, 6 August is Hiroshima Day and 24 October is United Nations Day. #26September2026",
+    "type": "mcq",
+    "id": "POST_50",
+    "revision_count": 0
+  },
+  {
+    "id": "POST_5",
+    "title": "INS Trishul Reaches France for Exercise VARUNA 2026",
+    "content": "🏛️ Indian Navy Joins French Navy for 24th Exercise VARUNA\n\n👤 Who → Indian Navy (INS Trishul) and French Navy\n\n📋 What → INS Trishul arrived to participate in the 24th edition of Exercise VARUNA\n\n📍 Where → Toulon, France\n\n🎯 Purpose → Strengthen bilateral maritime cooperation between India and France\n\n📌 Important Facts\n▪️ Exercise VARUNA is a bilateral maritime exercise between the Indian Navy and French Navy\n▪️ This is the 24th edition of the exercise\n\n⚠️ Exam Angle → Edition number (24th) and bilateral partner country (France) are key recall points\n\n#25September2026",
+    "type": "news",
+    "revision_count": 4
   },
   {
     "question": "Solar Energy Corporation of India Limited (SECI), which recently celebrated its 15th Foundation Day, was incorporated in which year as the implementing agency for the National Solar Mission?",
@@ -95,14 +368,14 @@
     "explanation": "SECI was incorporated on 20 September 2011 and is a Navratna CPSE under the Ministry of New and Renewable Energy, headquartered in New Delhi. 2013 is NCRTC's incorporation year (a related distractor from the same news cycle); 2009 and 2015 don't correspond to SECI's founding. #25September2026",
     "type": "mcq",
     "id": "POST_14",
-    "revision_count": 3
+    "revision_count": 4
   },
   {
-    "id": "POST_5",
-    "title": "INS Trishul Reaches France for Exercise VARUNA 2026",
-    "content": "🏛️ Indian Navy Joins French Navy for 24th Exercise VARUNA\n\n👤 Who → Indian Navy (INS Trishul) and French Navy\n\n📋 What → INS Trishul arrived to participate in the 24th edition of Exercise VARUNA\n\n📍 Where → Toulon, France\n\n🎯 Purpose → Strengthen bilateral maritime cooperation between India and France\n\n📌 Important Facts\n▪️ Exercise VARUNA is a bilateral maritime exercise between the Indian Navy and French Navy\n▪️ This is the 24th edition of the exercise\n\n⚠️ Exam Angle → Edition number (24th) and bilateral partner country (France) are key recall points\n\n#25September2026",
+    "id": "POST_6",
+    "title": "Minerva Public School Wins 65th Subroto Cup U-17 Boys Title",
+    "content": "🏛️ MPS Mohali Clinches Junior Boys Title at 65th Subroto Cup\n\n👤 Who → Minerva Public School (MPS) CISCE, Mohali\n\n📋 What → Won the Junior Boys (U-17) title at the 65th Subroto Cup International Football Tournament 2026, defeating MIC EMHSS, Kerala\n\n📍 Where → Dr. B.R. Ambedkar Stadium, New Delhi\n\n🎯 Purpose → Promote grassroots and youth football talent in India\n\n📌 Important Facts\n▪️ Trophy presented by Air Chief Marshal A.P. Singh, Chief of the Air Staff\n▪️ Junior Girls (U-17): Saint Patrick's High School, Gumla, Jharkhand\n▪️ Sub-Junior Boys (U-15): Manik Para Vivekanand Vidyapeeth, Jhargram, West Bengal\n\n⚠️ Exam Angle → Tournament edition (65th) and category-wise winners are likely sports-current-affairs questions\n\n#25September2026",
     "type": "news",
-    "revision_count": 3
+    "revision_count": 4
   },
   {
     "question": "INS Trishul recently reached Toulon, France to take part in which edition of Exercise VARUNA, the bilateral maritime exercise between the Indian and French Navies?",
@@ -116,14 +389,14 @@
     "explanation": "INS Trishul's participation at Toulon marks the 24th edition of Exercise VARUNA, a long-running bilateral naval exercise between India and France. The nearby edition numbers (22nd, 23rd, 25th) are plausible distractors for aspirants who don't track the exact count. #25September2026",
     "type": "mcq",
     "id": "POST_15",
-    "revision_count": 3
+    "revision_count": 4
   },
   {
-    "id": "POST_6",
-    "title": "Minerva Public School Wins 65th Subroto Cup U-17 Boys Title",
-    "content": "🏛️ MPS Mohali Clinches Junior Boys Title at 65th Subroto Cup\n\n👤 Who → Minerva Public School (MPS) CISCE, Mohali\n\n📋 What → Won the Junior Boys (U-17) title at the 65th Subroto Cup International Football Tournament 2026, defeating MIC EMHSS, Kerala\n\n📍 Where → Dr. B.R. Ambedkar Stadium, New Delhi\n\n🎯 Purpose → Promote grassroots and youth football talent in India\n\n📌 Important Facts\n▪️ Trophy presented by Air Chief Marshal A.P. Singh, Chief of the Air Staff\n▪️ Junior Girls (U-17): Saint Patrick's High School, Gumla, Jharkhand\n▪️ Sub-Junior Boys (U-15): Manik Para Vivekanand Vidyapeeth, Jhargram, West Bengal\n\n⚠️ Exam Angle → Tournament edition (65th) and category-wise winners are likely sports-current-affairs questions\n\n#25September2026",
+    "id": "POST_7",
+    "title": "Pune to Host 2032 UCI Road World Championships",
+    "content": "🏛️ India to Host Cycling's Flagship Event for the First Time\n\n👤 Who → Pune, Maharashtra / Union Cycliste Internationale (UCI)\n\n📋 What → Approved to host the 2032 UCI Road World Championships\n\n📍 Where → Approval granted at the UCI Congress in Montreal, Canada\n\n🎯 Purpose → Mark India's first-ever hosting of cycling's flagship road world championship\n\n📌 Important Facts\n▪️ International Cycling Union (UCI) formed on 14 April 1900\n▪️ UCI Headquarters: Aigle, Switzerland\n\n⚠️ Exam Angle → UCI's formation year, HQ location, and 'India's first hosting' fact are key MCQ triggers\n\n#25September2026",
     "type": "news",
-    "revision_count": 3
+    "revision_count": 4
   },
   {
     "question": "Which school won the Junior Boys (U-17) title at the 65th Subroto Cup International Football Tournament 2026, held at Dr. B.R. Ambedkar Stadium, New Delhi?",
@@ -137,14 +410,14 @@
     "explanation": "MPS Mohali defeated MIC EMHSS, Kerala to win the Junior Boys (U-17) title, with the trophy presented by Air Chief Marshal A.P. Singh. Saint Patrick's High School, Gumla won the Junior Girls (U-17) category, and Manik Para Vivekanand Vidyapeeth won Sub-Junior Boys (U-15) — both are winners of other categories, not this one. #25September2026",
     "type": "mcq",
     "id": "POST_16",
-    "revision_count": 3
+    "revision_count": 4
   },
   {
-    "id": "POST_7",
-    "title": "Pune to Host 2032 UCI Road World Championships",
-    "content": "🏛️ India to Host Cycling's Flagship Event for the First Time\n\n👤 Who → Pune, Maharashtra / Union Cycliste Internationale (UCI)\n\n📋 What → Approved to host the 2032 UCI Road World Championships\n\n📍 Where → Approval granted at the UCI Congress in Montreal, Canada\n\n🎯 Purpose → Mark India's first-ever hosting of cycling's flagship road world championship\n\n📌 Important Facts\n▪️ International Cycling Union (UCI) formed on 14 April 1900\n▪️ UCI Headquarters: Aigle, Switzerland\n\n⚠️ Exam Angle → UCI's formation year, HQ location, and 'India's first hosting' fact are key MCQ triggers\n\n#25September2026",
+    "id": "POST_8",
+    "title": "Vice-President C. P. Radhakrishnan Releases Book 'Vishwasanchar Hindutva Ka'",
+    "content": "🏛️ VP Releases New Ideological Publication\n\n👤 Who → Vice-President C. P. Radhakrishnan\n\n📋 What → Released the book 'Vishwasanchar Hindutva Ka', published by Saptahik Vivek\n\n📍 Where → India\n\n🎯 Purpose → Promote ideological literature circulated through Saptahik Vivek\n\n📌 Important Facts\n▪️ Saptahik Vivek is a Marathi weekly publication based in Maharashtra\n▪️ It was established in 1948\n\n⚠️ Exam Angle → Founding year of Saptahik Vivek (1948) is a likely static-GK linked question\n\n#25September2026",
     "type": "news",
-    "revision_count": 3
+    "revision_count": 4
   },
   {
     "question": "Pune, Maharashtra has been approved to host the 2032 Road World Championships by the Union Cycliste Internationale (UCI), whose headquarters is located in which city?",
@@ -158,14 +431,14 @@
     "explanation": "UCI, formed on 14 April 1900, is headquartered in Aigle, Switzerland. Pune's 2032 hosting, approved at the UCI Congress in Montreal, marks India's first-ever hosting of cycling's flagship road world championship. Geneva, Lausanne and Zurich are other well-known Swiss cities often confused with Aigle as sports-body headquarters. #25September2026",
     "type": "mcq",
     "id": "POST_17",
-    "revision_count": 3
+    "revision_count": 4
   },
   {
-    "id": "POST_8",
-    "title": "Vice-President C. P. Radhakrishnan Releases Book 'Vishwasanchar Hindutva Ka'",
-    "content": "🏛️ VP Releases New Ideological Publication\n\n👤 Who → Vice-President C. P. Radhakrishnan\n\n📋 What → Released the book 'Vishwasanchar Hindutva Ka', published by Saptahik Vivek\n\n📍 Where → India\n\n🎯 Purpose → Promote ideological literature circulated through Saptahik Vivek\n\n📌 Important Facts\n▪️ Saptahik Vivek is a Marathi weekly publication based in Maharashtra\n▪️ It was established in 1948\n\n⚠️ Exam Angle → Founding year of Saptahik Vivek (1948) is a likely static-GK linked question\n\n#25September2026",
+    "id": "POST_9",
+    "title": "Antyodaya Diwas Observed on 25 September",
+    "content": "🏛️ India Marks Antyodaya Diwas\n\n👤 Who → Pandit Deendayal Upadhyaya (philosopher, thinker, political leader)\n\n📋 What → Antyodaya Diwas observed across India\n\n📍 Where → Pan-India\n\n🎯 Purpose → Commemorate the birth anniversary of Pandit Deendayal Upadhyaya\n\n📌 Important Facts\n▪️ Observed annually on 25 September\n▪️ Marks the birth anniversary of the ideologue behind 'Antyodaya' (upliftment of the last person)\n\n⚠️ Exam Angle → Date (25 September) and the associated personality are frequently tested static facts\n\n#25September2026",
     "type": "news",
-    "revision_count": 3
+    "revision_count": 4
   },
   {
     "question": "Vice-President C. P. Radhakrishnan released the book 'Vishwasanchar Hindutva Ka', published by Saptahik Vivek — a Marathi weekly established in which year?",
@@ -179,14 +452,14 @@
     "explanation": "Saptahik Vivek, a Marathi weekly publication based in Maharashtra, was established in 1948; the Vice-President released its published book 'Vishwasanchar Hindutva Ka'. The other years are plausible but incorrect distractors close to India's post-independence publishing era. #25September2026",
     "type": "mcq",
     "id": "POST_18",
-    "revision_count": 3
+    "revision_count": 4
   },
   {
-    "id": "POST_9",
-    "title": "Antyodaya Diwas Observed on 25 September",
-    "content": "🏛️ India Marks Antyodaya Diwas\n\n👤 Who → Pandit Deendayal Upadhyaya (philosopher, thinker, political leader)\n\n📋 What → Antyodaya Diwas observed across India\n\n📍 Where → Pan-India\n\n🎯 Purpose → Commemorate the birth anniversary of Pandit Deendayal Upadhyaya\n\n📌 Important Facts\n▪️ Observed annually on 25 September\n▪️ Marks the birth anniversary of the ideologue behind 'Antyodaya' (upliftment of the last person)\n\n⚠️ Exam Angle → Date (25 September) and the associated personality are frequently tested static facts\n\n#25September2026",
+    "id": "POST_10",
+    "title": "Veteran Actor Mushtaq Khan Passes Away",
+    "content": "🏛️ Hindi Cinema Loses a Versatile Character Actor\n\n👤 Who → Mushtaq Khan, veteran actor\n\n📋 What → Passed away\n\n📍 Where → India\n\n🎯 Purpose → N/A (obituary/tribute)\n\n📌 Important Facts\n▪️ Known for character and supporting roles in more than 500 films\n▪️ Widely recognised across Hindi cinema for his versatility\n\n⚠️ Exam Angle → Notable personality obituaries occasionally appear in current affairs sections\n\n#25September2026",
     "type": "news",
-    "revision_count": 3
+    "revision_count": 4
   },
   {
     "question": "Antyodaya Diwas, observed every year on 25 September, marks the birth anniversary of which leader?",
@@ -200,13 +473,55 @@
     "explanation": "Antyodaya Diwas is observed annually on 25 September to mark the birth anniversary of philosopher, thinker and political leader Pandit Deendayal Upadhyaya. Mookerjee, Lohia and Narayan are other prominent Indian political thinkers commonly confused with him in current-affairs MCQs but are not linked to this observance. #25September2026",
     "type": "mcq",
     "id": "POST_19",
-    "revision_count": 3
+    "revision_count": 4
   },
   {
-    "id": "POST_10",
-    "title": "Veteran Actor Mushtaq Khan Passes Away",
-    "content": "🏛️ Hindi Cinema Loses a Versatile Character Actor\n\n👤 Who → Mushtaq Khan, veteran actor\n\n📋 What → Passed away\n\n📍 Where → India\n\n🎯 Purpose → N/A (obituary/tribute)\n\n📌 Important Facts\n▪️ Known for character and supporting roles in more than 500 films\n▪️ Widely recognised across Hindi cinema for his versatility\n\n⚠️ Exam Angle → Notable personality obituaries occasionally appear in current affairs sections\n\n#25September2026",
+    "id": "POST_1",
+    "title": "Shaunae Miller-Uibo Named International Ambassador for Delhi Half Marathon",
+    "content": "🏛️ Two-Time Olympic Champion to Front 2026 Vedanta Delhi Half Marathon\n\n👤 Who → Shaunae Miller-Uibo (Bahamas)\n\n📋 What → Announced as International Event Ambassador for the 2026 Vedanta Delhi Half Marathon\n\n📍 Where → Race to be held at Jawaharlal Nehru Stadium, New Delhi on October 18\n\n🎯 Purpose → Boost the marathon's international profile and elite appeal\n\n📌 Important Facts\n▪️ Won gold in women's 400m at 2016 Rio Olympics and 2020 Tokyo Olympics\n▪️ She is from the Bahamas\n\n⚠️ Exam Angle → Olympic medal years (2016, 2020) and event date (October 18) are common one-liners\n\n#25September2026",
     "type": "news",
-    "revision_count": 3
+    "revision_count": 5
+  },
+  {
+    "question": "Veteran actor Mushtaq Khan, who recently passed away, was known for character and supporting roles across how many films in his career?",
+    "options": [
+      "A) More than 200 films",
+      "B) More than 300 films",
+      "C) More than 500 films",
+      "D) More than 700 films"
+    ],
+    "answer": "C) More than 500 films",
+    "explanation": "Mushtaq Khan was recognised for character and supporting roles in more than 500 films across Hindi cinema. The other options understate or overstate his filmography count and serve as close numerical distractors typical of personality-based current affairs questions. #25September2026",
+    "type": "mcq",
+    "id": "POST_20",
+    "revision_count": 4
+  },
+  {
+    "id": "POST_2",
+    "title": "Pradhan Mantri Kisan Maandhan Yojana Completes 7 Years",
+    "content": "🏛️ PM-KMY Marks 7 Years of Social Security for Farmers\n\n👤 Who → Ministry of Agriculture & Farmers Welfare / Small and Marginal Farmers (SMFs)\n\n📋 What → Pradhan Mantri Kisan Maandhan Yojana (PM-KMY) completed 7 years\n\n📍 Where → Pan-India, launched 12 September 2019\n\n🎯 Purpose → Provide old-age social security (pension) to Small and Marginal Farmers\n\n📌 Important Facts\n▪️ Type: Central Sector, voluntary and contributory pension scheme\n▪️ Eligible age: 18–40 years; landholding up to 2 hectares\n▪️ Monthly contribution: ₹55–₹200; assured pension: minimum ₹3,000/month after 60 years\n▪️ Family pension: 50% of subscriber's pension (₹1,500/month)\n▪️ Pension Fund Manager: Life Insurance Corporation of India (LIC)\n▪️ Total enrolment: 24,96,252 farmers (as of 08 Feb 2026)\n\n⚠️ Exam Angle → Launch date (12 Sept 2019), contribution slab, and Pension Fund Manager (LIC) are frequently tested\n\n#25September2026",
+    "type": "news",
+    "revision_count": 5
+  },
+  {
+    "question": "In which two editions of the Olympic Games did Shaunae Miller-Uibo, recently named international ambassador for the 2026 Vedanta Delhi Half Marathon, win gold in the women's 400m?",
+    "options": [
+      "A) 2012 London & 2016 Rio",
+      "B) 2016 Rio & 2020 Tokyo",
+      "C) 2008 Beijing & 2012 London",
+      "D) 2020 Tokyo & 2024 Paris"
+    ],
+    "answer": "B) 2016 Rio & 2020 Tokyo",
+    "explanation": "Miller-Uibo, a two-time Olympic champion from the Bahamas, won women's 400m gold at both the 2016 Rio and 2020 Tokyo Olympics. She has been announced international event ambassador for the 2026 Vedanta Delhi Half Marathon (Oct 18, Jawaharlal Nehru Stadium). Options A, C and D mix in editions where she didn't win 400m gold, making them incorrect distractors. #25September2026",
+    "type": "mcq",
+    "id": "POST_11",
+    "revision_count": 5
+  },
+  {
+    "id": "POST_3",
+    "title": "Namo Bharat Showcased at InnoTrans 2026 in Berlin",
+    "content": "🏛️ India's First RRTS Goes Global at InnoTrans 2026\n\n👤 Who → National Capital Region Transport Corporation (NCRTC)\n\n📋 What → Showcased Namo Bharat, India's first Regional Rapid Transit System (RRTS), at InnoTrans 2026\n\n📍 Where → Berlin, Germany (organised by Messe Berlin, held every two years)\n\n🎯 Purpose → Provide high-speed, high-frequency regional rail connectivity in the NCR\n\n📌 Important Facts\n▪️ First corridor: Delhi–Ghaziabad–Meerut Namo Bharat Corridor (~82 km)\n▪️ Route: Sarai Kale Khan, Delhi → Modipuram, Meerut; fully operational since 22 February 2026\n▪️ NCRTC incorporated on 21 August 2013; joint venture of Centre with Delhi, UP, Haryana and Rajasthan; HQ New Delhi\n\n⚠️ Exam Angle → NCRTC incorporation date, corridor length (82 km), and 'first RRTS in India' tag are high-probability MCQ points\n\n#25September2026",
+    "type": "news",
+    "revision_count": 5
   }
 ]
